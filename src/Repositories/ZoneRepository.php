@@ -34,19 +34,34 @@ class ZoneRepository
             return;
         }
 
-        $filePath = $this->dataPath . '/zones/' . $this->locale . '.php';
+        $filePaths = [
+            $this->dataPath . '/zones/' . $this->locale->getFallbackLanguage() . '.php',
+        ];
 
-        if (! file_exists($filePath)) {
-            throw new MissingResourceException("Could not load zones for locale '{$this->locale->getFallbackLanguage()}': {$filePath}");
+        if ($this->locale->getFallbackLanguage() !== (string)$this->locale) {
+            $filePaths[] = $this->dataPath . '/zones/' . $this->locale . '.php';
         }
 
-        $data = require($filePath);
+        $countries = [];
 
-        if (! is_array($data)) {
-            throw new \Exception("Invalid data found in {$filePath}");
+        foreach ($filePaths as $filePath) {
+            if (! file_exists($filePath)) {
+                continue;
+            }
+
+            $data = require($filePath);
+
+            if (! is_array($data)) {
+                throw new \Exception("Invalid data found in {$filePath}");
+            }
+
+            $countries = array_merge(
+                $countries,
+                $data['countries'] ?? [],
+            );
         }
 
-        $this->countries = $data['countries'] ?? [];
+        $this->countries = $countries;
     }
 
     public function setLocale(string $locale): void

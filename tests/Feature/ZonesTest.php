@@ -12,7 +12,7 @@ class ZonesTest extends TestCase
     {
         parent::setUp();
 
-        Zones::setLocale('en');
+        Zones::setLocale('en_GB');
     }
 
     public function testCannotSetInvalidLocaleWithDirectoryTraversal(): void
