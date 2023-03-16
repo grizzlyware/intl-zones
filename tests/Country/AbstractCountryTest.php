@@ -8,6 +8,7 @@ use Grizzlyware\Intl\Zones\Zones;
 abstract class AbstractCountryTest extends TestCase
 {
     abstract protected function getAlpha2CountryCode(): string;
+
     abstract protected function getExpectedTotalZones(): int;
 
     public function testTotalZonesIsCorrect(): void
