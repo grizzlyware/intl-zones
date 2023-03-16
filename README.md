@@ -30,6 +30,9 @@ foreach ($zones as $zone) {
         echo "No code available" . PHP_EOL;
     }
 }
+
+// Setting the locale (right now, only en is supported, and the default).
+Zones::setLocale('en');
 ```
 
 ## Testing
