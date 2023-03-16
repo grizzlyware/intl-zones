@@ -12,8 +12,7 @@ class Generator
     public function __construct(
         private string $zonesPath,
         private string $outputFile,
-    )
-    {
+    ) {
         //
     }
 
@@ -36,7 +35,7 @@ class Generator
         $countries = [];
 
         foreach ($this->loadData() as $zone) {
-            if (!isset($countries[$zone['country']])) {
+            if (! isset($countries[$zone['country']])) {
                 $countries[$zone['country']] = [
                     'zones' => [],
                 ];
