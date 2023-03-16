@@ -1,6 +1,6 @@
 <?php
 
-namespace Grizzlyware\Zones;
+namespace Grizzlyware\Intl\Zones;
 
 class ZonesClass
 {

@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Grizzlyware\\Zones\\": "src"
+            "Grizzlyware\\Intl\\Zones\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Grizzlyware\\Zones\\Tests\\": "tests"
+            "Grizzlyware\\Intl\\Zones\\Tests\\": "tests"
         }
     },
     "scripts": {

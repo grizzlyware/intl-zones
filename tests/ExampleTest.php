@@ -1,6 +1,6 @@
 <?php
 
-namespace Grizzlyware\Zones\Tests;
+namespace Grizzlyware\Intl\Zones\Tests;
 
 use PHPUnit\Framework\TestCase;
 
