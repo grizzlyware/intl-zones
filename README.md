@@ -17,8 +17,19 @@ composer require grizzlyware/intl-zones
 ## Usage
 
 ```php
-$skeleton = new Grizzlyware\Zones();
-echo $skeleton->echoPhrase('Hello, Grizzlyware!');
+use Grizzlyware\Intl\Zones\Zones;
+
+$zones = Zones::forAlpha2Code('GB');
+
+foreach ($zones as $zone) {
+    echo "The name is: {$zone->name}" . PHP_EOL;
+    
+    if (null !== $zone->code) {
+        echo "The code is: {$zone->code}" . PHP_EOL;
+    } else {
+        echo "No code available" . PHP_EOL;
+    }
+}
 ```
 
 ## Testing
@@ -26,6 +37,10 @@ echo $skeleton->echoPhrase('Hello, Grizzlyware!');
 ```bash
 composer test
 ```
+
+## Contributing
+
+Please open a PR with the additional zones and supported countries. Tests should be added where appropriate.
 
 ## Changelog
 
