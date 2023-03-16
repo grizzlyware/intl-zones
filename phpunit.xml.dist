@@ -22,6 +22,9 @@
         <testsuite name="Feature tests">
             <directory>tests/Feature</directory>
         </testsuite>
+        <testsuite name="Country tests">
+            <directory>tests/Country</directory>
+        </testsuite>
     </testsuites>
     <coverage>
         <include>

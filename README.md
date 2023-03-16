@@ -35,6 +35,10 @@ foreach ($zones as $zone) {
 Zones::setLocale('en');
 ```
 
+## Disclaimer
+
+The data in this package is not guaranteed to be accurate or complete.
+
 ## Testing
 
 ```bash

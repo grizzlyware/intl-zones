@@ -38,7 +38,7 @@ class ZonesTest extends TestCase
         $foundZone = false;
 
         foreach ($zones as $zone) {
-            if ($zone->name === 'Cornwall') {
+            if ($zone->name === 'Cornwall and Isles of Scilly') {
                 $foundZone = true;
             }
         }
@@ -135,7 +135,7 @@ class ZonesTest extends TestCase
         $foundZone = false;
 
         foreach ($zones as $zone) {
-            if ($zone->name === 'Cornwall') {
+            if ($zone->name === 'Cornwall and Isles of Scilly') {
                 $foundZone = true;
             }
         }
