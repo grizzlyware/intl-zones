@@ -2,6 +2,7 @@
 
 namespace Grizzlyware\Intl\Zones\Repositories;
 
+use Grizzlyware\Intl\Zones\Entities\Locale;
 use Grizzlyware\Intl\Zones\Entities\Zone;
 use Grizzlyware\Intl\Zones\Exceptions\MissingResourceException;
 
@@ -10,7 +11,7 @@ use Grizzlyware\Intl\Zones\Exceptions\MissingResourceException;
  */
 class ZoneRepository
 {
-    private string $locale;
+    private Locale $locale;
     private array $countries;
     private string $dataPath;
 
@@ -36,7 +37,7 @@ class ZoneRepository
         $filePath = $this->dataPath . '/zones/' . $this->locale . '.php';
 
         if (! file_exists($filePath)) {
-            throw new MissingResourceException("Could not load zones for locale '{$this->locale}': {$filePath}");
+            throw new MissingResourceException("Could not load zones for locale '{$this->locale->getFallbackLanguage()}': {$filePath}");
         }
 
         $data = require($filePath);
@@ -50,12 +51,8 @@ class ZoneRepository
 
     public function setLocale(string $locale): void
     {
-        if (! preg_match('/^[a-z_]{2,5}$/i', $locale)) {
-            throw new \InvalidArgumentException("\$locale is invalid");
-        }
-
+        $this->locale = new Locale($locale);
         unset($this->countries);
-        $this->locale = $locale;
     }
 
     /**

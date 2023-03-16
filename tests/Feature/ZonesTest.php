@@ -8,18 +8,33 @@ use Grizzlyware\Intl\Zones\Zones;
 
 class ZonesTest extends TestCase
 {
+    protected function setUp(): void
+    {
+        parent::setUp();
+
+        Zones::setLocale('en');
+    }
+
     public function testCannotSetInvalidLocaleWithDirectoryTraversal(): void
     {
         $this->expectException(\InvalidArgumentException::class);
-        $this->expectExceptionMessage("\$locale is invalid");
+        $this->expectExceptionMessage("\Locale is invalid");
 
         Zones::setLocale('../en');
+    }
+
+    /**
+     * @doesNotPerformAssertions
+     */
+    public function testCanSetLocaleWithRegion(): void
+    {
+        Zones::setLocale('en_GB');
     }
 
     public function testCannotSetShortInvalidLocale(): void
     {
         $this->expectException(\InvalidArgumentException::class);
-        $this->expectExceptionMessage("\$locale is invalid");
+        $this->expectExceptionMessage("\Locale is invalid");
 
         Zones::setLocale('e');
     }
