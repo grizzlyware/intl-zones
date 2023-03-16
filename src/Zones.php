@@ -2,7 +2,6 @@
 
 namespace Grizzlyware\Intl\Zones;
 
-use Grizzlyware\Intl\Zones\Collections\ZoneCollection;
 use Grizzlyware\Intl\Zones\Entities\Zone;
 use Grizzlyware\Intl\Zones\Exceptions\MissingResourceException;
 use Grizzlyware\Intl\Zones\Repositories\ZoneRepository;
