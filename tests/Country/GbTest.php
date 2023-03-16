@@ -13,4 +13,9 @@ class GbTest extends AbstractCountryTest
     {
         return 88;
     }
+
+    protected function shouldHaveZoneCodes(): bool
+    {
+        return false;
+    }
 }

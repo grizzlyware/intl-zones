@@ -13,4 +13,9 @@ class UsTest extends AbstractCountryTest
     {
         return 51;
     }
+
+    protected function shouldHaveZoneCodes(): bool
+    {
+        return true;
+    }
 }
