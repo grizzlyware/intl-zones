@@ -39,6 +39,14 @@ Zones::setLocale('en');
 
 The data in this package is not guaranteed to be accurate or complete.
 
+## Generating new data
+
+There is a generator script here: `bin/generate` 
+
+Running this script will pull in data from Stefan Gabos' [World Countries](https://github.com/stefangabos/world_countries) repository, which itself pulls data from Wikipedia.
+
+Overrides are defined in `resources/overrides/zones/en.php` - This was created to cater for the United Kingdom, which doesn't have its counties listed in the repository above.
+
 ## Testing
 
 ```bash
@@ -47,7 +55,11 @@ composer test
 
 ## Contributing
 
-Please open a PR with the additional zones and supported countries. Tests should be added where appropriate.
+Please open a PR with the additional zones and supported countries to override data.
+
+If the data should be re-generated, please fork the repository, run the generator and open a PR.
+
+Tests should be added where appropriate.
 
 ## Changelog
 

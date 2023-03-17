@@ -1,0 +1,15 @@
+#!/usr/bin/php
+<?php
+
+require __DIR__ . '/../vendor/autoload.php';
+
+$generator = new \Grizzlyware\Intl\Zones\Generator\Generator(
+    "https://raw.githubusercontent.com/stefangabos/world_countries/master/data/subdivisions/subdivisions.json",
+    __DIR__ . '/../resources/data/zones/en.php'
+);
+
+$generator->setOverrides(
+    require __DIR__ . '/../resources/overrides/zones/en.php',
+);
+
+$generator->generate();
