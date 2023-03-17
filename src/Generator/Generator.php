@@ -2,6 +2,9 @@
 
 namespace Grizzlyware\Intl\Zones\Generator;
 
+/**
+ * @internal
+ */
 class Generator
 {
     /**
