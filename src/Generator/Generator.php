@@ -41,9 +41,9 @@ class Generator
                 ];
             }
 
-            $code = explode('-', $zone['code'])[1] ?? null;
+            $code = explode('-', $zone['code'], 2)[1] ?? null;
 
-            if (strtoupper($code) == "XX") {
+            if (preg_match('/^XX-\d+$/', $code)) {
                 $code = null;
             }
 
@@ -66,7 +66,27 @@ class Generator
         $output = array_merge_recursive($output, ...$this->overrides);
 
         foreach ($output['countries'] as $countryCode => $country) {
-            // TODO remove duplicate codes
+            $codes = [];
+
+            foreach ($country['zones'] as $zone) {
+                if (is_string($zone) || !isset($zone['code']) || null === $zone['code']) {
+                    continue;
+                }
+
+                $codes[] = $zone['code'];
+            }
+
+            if (count(array_unique($codes)) === count($country['zones'])) {
+                continue;
+            }
+
+            foreach ($country['zones'] as $zoneKey => $zone) {
+                if (is_string($output['countries'][$countryCode]['zones'][$zoneKey])) {
+                    continue;
+                }
+
+                $output['countries'][$countryCode]['zones'][$zoneKey]['code'] = null;
+            }
         }
 
         $output = var_export($output, true);
