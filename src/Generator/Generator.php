@@ -69,7 +69,7 @@ class Generator
             $codes = [];
 
             foreach ($country['zones'] as $zone) {
-                if (is_string($zone) || !isset($zone['code']) || null === $zone['code']) {
+                if (is_string($zone) || ! isset($zone['code']) || null === $zone['code']) {
                     continue;
                 }
 
