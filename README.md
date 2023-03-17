@@ -76,3 +76,5 @@ Please do not publicly disclose any vulnerabilities - Report any vulnerabilities
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+See [World Countries Repo](https://github.com/stefangabos/world_countries) for license of the source of the generated data.
