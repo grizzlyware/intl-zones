@@ -45,7 +45,7 @@ return array (
         6 => 
         array (
           'code' => '06',
-          'name' => 'Sant Julià de Lòria',
+          'name' => 'Sant Julia de Loria',
         ),
       ),
     ),
@@ -56,12 +56,12 @@ return array (
         0 => 
         array (
           'code' => 'AJ',
-          'name' => '‘Ajmān',
+          'name' => '\'Ajman',
         ),
         1 => 
         array (
           'code' => 'AZ',
-          'name' => 'Abū Z̧aby',
+          'name' => 'Abu Zaby',
         ),
         2 => 
         array (
@@ -71,7 +71,7 @@ return array (
         3 => 
         array (
           'code' => 'SH',
-          'name' => 'Ash Shāriqah',
+          'name' => 'Ash Shariqah',
         ),
         4 => 
         array (
@@ -81,7 +81,7 @@ return array (
         5 => 
         array (
           'code' => 'RK',
-          'name' => 'Ra’s al Khaymah',
+          'name' => 'Ra\'s al Khaymah',
         ),
         6 => 
         array (
@@ -97,17 +97,17 @@ return array (
         0 => 
         array (
           'code' => 'BDS',
-          'name' => 'Badakhshān',
+          'name' => 'Badakhshan',
         ),
         1 => 
         array (
           'code' => 'BDG',
-          'name' => 'Bādghīs',
+          'name' => 'Badghis',
         ),
         2 => 
         array (
           'code' => 'BGL',
-          'name' => 'Baghlān',
+          'name' => 'Baghlan',
         ),
         3 => 
         array (
@@ -117,32 +117,32 @@ return array (
         4 => 
         array (
           'code' => 'BAM',
-          'name' => 'Bāmyān',
+          'name' => 'Bamyan',
         ),
         5 => 
         array (
           'code' => 'DAY',
-          'name' => 'Dāykundī',
+          'name' => 'Daykundi',
         ),
         6 => 
         array (
           'code' => 'FRA',
-          'name' => 'Farāh',
+          'name' => 'Farah',
         ),
         7 => 
         array (
           'code' => 'FYB',
-          'name' => 'Fāryāb',
+          'name' => 'Faryab',
         ),
         8 => 
         array (
           'code' => 'GHA',
-          'name' => 'Ghaznī',
+          'name' => 'Ghazni',
         ),
         9 => 
         array (
           'code' => 'GHO',
-          'name' => 'Ghōr',
+          'name' => 'Ghor',
         ),
         10 => 
         array (
@@ -152,117 +152,82 @@ return array (
         11 => 
         array (
           'code' => 'HER',
-          'name' => 'Herāt',
+          'name' => 'Herat',
         ),
         12 => 
         array (
           'code' => 'JOW',
-          'name' => 'Jowzjān',
+          'name' => 'Jowzjan',
         ),
         13 => 
         array (
           'code' => 'KAB',
-          'name' => 'Kābul',
+          'name' => 'Kabul',
         ),
         14 => 
         array (
           'code' => 'KAN',
-          'name' => 'Kandahār',
+          'name' => 'Kandahar',
         ),
         15 => 
         array (
           'code' => 'KAP',
-          'name' => 'Kāpīsā',
+          'name' => 'Kapisa',
         ),
         16 => 
         array (
           'code' => 'KHO',
-          'name' => 'Khōst',
+          'name' => 'Khost',
         ),
         17 => 
-        array (
-          'code' => 'KNR',
-          'name' => 'Kunaṟ',
-        ),
-        18 => 
         array (
           'code' => 'KDZ',
           'name' => 'Kunduz',
         ),
-        19 => 
+        18 => 
         array (
           'code' => 'LAG',
-          'name' => 'Laghmān',
+          'name' => 'Laghman',
+        ),
+        19 => 
+        array (
+          'code' => 'LOG',
+          'name' => 'Logar',
         ),
         20 => 
         array (
-          'code' => 'LOG',
-          'name' => 'Lōgar',
+          'code' => 'NAN',
+          'name' => 'Nangarhar',
         ),
         21 => 
         array (
-          'code' => 'NAN',
-          'name' => 'Nangarhār',
+          'code' => 'NIM',
+          'name' => 'Nimroz',
         ),
         22 => 
         array (
-          'code' => 'NIM',
-          'name' => 'Nīmrōz',
+          'code' => 'PIA',
+          'name' => 'Paktiya',
         ),
         23 => 
         array (
-          'code' => 'NUR',
-          'name' => 'Nūristān',
+          'code' => 'PAR',
+          'name' => 'Parwan',
         ),
         24 => 
-        array (
-          'code' => 'PKA',
-          'name' => 'Paktīkā',
-        ),
-        25 => 
-        array (
-          'code' => 'PIA',
-          'name' => 'Paktiyā',
-        ),
-        26 => 
-        array (
-          'code' => 'PAN',
-          'name' => 'Panjshayr',
-        ),
-        27 => 
-        array (
-          'code' => 'PAR',
-          'name' => 'Parwān',
-        ),
-        28 => 
-        array (
-          'code' => 'SAM',
-          'name' => 'Samangān',
-        ),
-        29 => 
         array (
           'code' => 'SAR',
           'name' => 'Sar-e Pul',
         ),
-        30 => 
+        25 => 
         array (
           'code' => 'TAK',
-          'name' => 'Takhār',
+          'name' => 'Takhar',
         ),
-        31 => 
+        26 => 
         array (
           'code' => 'URU',
-          'name' => 'Uruzgān',
-        ),
-        32 => 
-        array (
-          'code' => 'WAR',
-          'name' => 'Wardak',
-        ),
-        33 => 
-        array (
-          'code' => 'ZAB',
-          'name' => 'Zābul',
+          'name' => 'Uruzgan',
         ),
       ),
     ),
@@ -272,18 +237,18 @@ return array (
       array (
         0 => 
         array (
-          'code' => '03',
-          'name' => 'Saint George',
+          'code' => '11',
+          'name' => 'Redonda',
         ),
         1 => 
         array (
-          'code' => '04',
-          'name' => 'Saint John',
+          'code' => '03',
+          'name' => 'Saint George',
         ),
         2 => 
         array (
-          'code' => '05',
-          'name' => 'Saint Mary',
+          'code' => '04',
+          'name' => 'Saint John',
         ),
         3 => 
         array (
@@ -300,15 +265,16 @@ return array (
           'code' => '08',
           'name' => 'Saint Philip',
         ),
-        6 => 
+      ),
+    ),
+    'AI' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
         array (
-          'code' => '10',
-          'name' => 'Barbuda',
-        ),
-        7 => 
-        array (
-          'code' => '11',
-          'name' => 'Redonda',
+          'code' => NULL,
+          'name' => 'Anguilla',
         ),
       ),
     ),
@@ -324,12 +290,12 @@ return array (
         1 => 
         array (
           'code' => '09',
-          'name' => 'Dibër',
+          'name' => 'Diber',
         ),
         2 => 
         array (
           'code' => '02',
-          'name' => 'Durrës',
+          'name' => 'Durres',
         ),
         3 => 
         array (
@@ -344,37 +310,37 @@ return array (
         5 => 
         array (
           'code' => '05',
-          'name' => 'Gjirokastër',
+          'name' => 'Gjirokaster',
         ),
         6 => 
         array (
           'code' => '06',
-          'name' => 'Korçë',
+          'name' => 'Korce',
         ),
         7 => 
         array (
           'code' => '07',
-          'name' => 'Kukës',
+          'name' => 'Kukes',
         ),
         8 => 
         array (
           'code' => '08',
-          'name' => 'Lezhë',
+          'name' => 'Lezhe',
         ),
         9 => 
         array (
           'code' => '10',
-          'name' => 'Shkodër',
+          'name' => 'Shkoder',
         ),
         10 => 
         array (
           'code' => '11',
-          'name' => 'Tiranë',
+          'name' => 'Tirane',
         ),
         11 => 
         array (
           'code' => '12',
-          'name' => 'Vlorë',
+          'name' => 'Vlore',
         ),
       ),
     ),
@@ -385,7 +351,7 @@ return array (
         0 => 
         array (
           'code' => 'AG',
-          'name' => 'Aragac̣otn',
+          'name' => 'Aragacotn',
         ),
         1 => 
         array (
@@ -405,7 +371,7 @@ return array (
         4 => 
         array (
           'code' => 'GR',
-          'name' => 'Geġark\'unik\'',
+          'name' => 'Gegark\'unik\'',
         ),
         5 => 
         array (
@@ -415,12 +381,12 @@ return array (
         6 => 
         array (
           'code' => 'LO',
-          'name' => 'Loṙi',
+          'name' => 'Lori',
         ),
         7 => 
         array (
           'code' => 'SH',
-          'name' => 'Širak',
+          'name' => 'Sirak',
         ),
         8 => 
         array (
@@ -430,12 +396,12 @@ return array (
         9 => 
         array (
           'code' => 'TV',
-          'name' => 'Tavuš',
+          'name' => 'Tavus',
         ),
         10 => 
         array (
           'code' => 'VD',
-          'name' => 'Vayoć Jor',
+          'name' => 'Vayoc Jor',
         ),
       ),
     ),
@@ -456,7 +422,7 @@ return array (
         2 => 
         array (
           'code' => 'BIE',
-          'name' => 'Bié',
+          'name' => 'Bie',
         ),
         3 => 
         array (
@@ -491,7 +457,7 @@ return array (
         9 => 
         array (
           'code' => 'HUI',
-          'name' => 'Huíla',
+          'name' => 'Huila',
         ),
         10 => 
         array (
@@ -526,12 +492,23 @@ return array (
         16 => 
         array (
           'code' => 'UIG',
-          'name' => 'Uíge',
+          'name' => 'Uige',
         ),
         17 => 
         array (
           'code' => 'ZAI',
           'name' => 'Zaire',
+        ),
+      ),
+    ),
+    'AQ' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Antarctica',
         ),
       ),
     ),
@@ -562,12 +539,12 @@ return array (
         4 => 
         array (
           'code' => 'C',
-          'name' => 'Ciudad Autónoma de Buenos Aires',
+          'name' => 'Ciudad Autonoma de Buenos Aires',
         ),
         5 => 
         array (
           'code' => 'X',
-          'name' => 'Córdoba',
+          'name' => 'Cordoba',
         ),
         6 => 
         array (
@@ -577,7 +554,7 @@ return array (
         7 => 
         array (
           'code' => 'E',
-          'name' => 'Entre Ríos',
+          'name' => 'Entre Rios',
         ),
         8 => 
         array (
@@ -612,12 +589,12 @@ return array (
         14 => 
         array (
           'code' => 'Q',
-          'name' => 'Neuquén',
+          'name' => 'Neuquen',
         ),
         15 => 
         array (
           'code' => 'R',
-          'name' => 'Río Negro',
+          'name' => 'Rio Negro',
         ),
         16 => 
         array (
@@ -657,7 +634,23 @@ return array (
         23 => 
         array (
           'code' => 'T',
-          'name' => 'Tucumán',
+          'name' => 'Tucuman',
+        ),
+      ),
+    ),
+    'AS' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Eastern District',
+        ),
+        1 => 
+        array (
+          'code' => NULL,
+          'name' => 'Western District',
         ),
       ),
     ),
@@ -673,17 +666,17 @@ return array (
         1 => 
         array (
           'code' => '2',
-          'name' => 'Kärnten',
+          'name' => 'Karnten',
         ),
         2 => 
         array (
           'code' => '3',
-          'name' => 'Niederösterreich',
+          'name' => 'Niederosterreich',
         ),
         3 => 
         array (
           'code' => '4',
-          'name' => 'Oberösterreich',
+          'name' => 'Oberosterreich',
         ),
         4 => 
         array (
@@ -718,43 +711,100 @@ return array (
       array (
         0 => 
         array (
+          'code' => 'ACT',
+          'name' => 'Australian Capital Territory',
+        ),
+        1 => 
+        array (
           'code' => 'NSW',
           'name' => 'New South Wales',
         ),
-        1 => 
+        2 => 
+        array (
+          'code' => 'NT',
+          'name' => 'Northern Territory',
+        ),
+        3 => 
         array (
           'code' => 'QLD',
           'name' => 'Queensland',
         ),
-        2 => 
+        4 => 
         array (
           'code' => 'SA',
           'name' => 'South Australia',
         ),
-        3 => 
+        5 => 
         array (
           'code' => 'TAS',
           'name' => 'Tasmania',
         ),
-        4 => 
+        6 => 
         array (
           'code' => 'VIC',
           'name' => 'Victoria',
         ),
-        5 => 
+        7 => 
         array (
           'code' => 'WA',
           'name' => 'Western Australia',
         ),
+      ),
+    ),
+    'AW' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Aruba',
+        ),
+      ),
+    ),
+    'AX' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Eckeroe',
+        ),
+        1 => 
+        array (
+          'code' => NULL,
+          'name' => 'Finstroem',
+        ),
+        2 => 
+        array (
+          'code' => NULL,
+          'name' => 'Hammarland',
+        ),
+        3 => 
+        array (
+          'code' => NULL,
+          'name' => 'Jomala',
+        ),
+        4 => 
+        array (
+          'code' => NULL,
+          'name' => 'Lemland',
+        ),
+        5 => 
+        array (
+          'code' => NULL,
+          'name' => 'Mariehamn',
+        ),
         6 => 
         array (
-          'code' => 'ACT',
-          'name' => 'Australian Capital Territory',
+          'code' => NULL,
+          'name' => 'Saltvik',
         ),
         7 => 
         array (
-          'code' => 'NT',
-          'name' => 'Northern Territory',
+          'code' => NULL,
+          'name' => 'Sund',
         ),
       ),
     ),
@@ -764,393 +814,243 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'NX',
-          'name' => 'Naxçıvan',
+          'code' => 'ABS',
+          'name' => 'Abseron',
         ),
         1 => 
         array (
-          'code' => 'ABS',
-          'name' => 'Abşeron',
+          'code' => 'AGC',
+          'name' => 'Agcabadi',
         ),
         2 => 
         array (
-          'code' => 'AGC',
-          'name' => 'Ağcabədi',
+          'code' => 'AGU',
+          'name' => 'Agsu',
         ),
         3 => 
-        array (
-          'code' => 'AGM',
-          'name' => 'Ağdam',
-        ),
-        4 => 
-        array (
-          'code' => 'AGS',
-          'name' => 'Ağdaş',
-        ),
-        5 => 
-        array (
-          'code' => 'AGA',
-          'name' => 'Ağstafa',
-        ),
-        6 => 
-        array (
-          'code' => 'AGU',
-          'name' => 'Ağsu',
-        ),
-        7 => 
         array (
           'code' => 'AST',
           'name' => 'Astara',
         ),
+        4 => 
+        array (
+          'code' => 'BA',
+          'name' => 'Baki',
+        ),
+        5 => 
+        array (
+          'code' => 'BAL',
+          'name' => 'Balakan',
+        ),
+        6 => 
+        array (
+          'code' => 'BAR',
+          'name' => 'Barda',
+        ),
+        7 => 
+        array (
+          'code' => 'BEY',
+          'name' => 'Beylaqan',
+        ),
         8 => 
         array (
-          'code' => 'BAB',
-          'name' => 'Babək',
+          'code' => 'BIL',
+          'name' => 'Bilasuvar',
         ),
         9 => 
         array (
-          'code' => 'BA',
-          'name' => 'Bakı',
+          'code' => 'CAL',
+          'name' => 'Calilabad',
         ),
         10 => 
         array (
-          'code' => 'BAL',
-          'name' => 'Balakən',
+          'code' => 'FUZ',
+          'name' => 'Fuzuli',
         ),
         11 => 
         array (
-          'code' => 'BAR',
-          'name' => 'Bərdə',
+          'code' => 'GAD',
+          'name' => 'Gadabay',
         ),
         12 => 
         array (
-          'code' => 'BEY',
-          'name' => 'Beyləqan',
+          'code' => 'GA',
+          'name' => 'Ganca',
         ),
         13 => 
-        array (
-          'code' => 'BIL',
-          'name' => 'Biləsuvar',
-        ),
-        14 => 
-        array (
-          'code' => 'CAB',
-          'name' => 'Cəbrayıl',
-        ),
-        15 => 
-        array (
-          'code' => 'CAL',
-          'name' => 'Cəlilabad',
-        ),
-        16 => 
-        array (
-          'code' => 'CUL',
-          'name' => 'Culfa',
-        ),
-        17 => 
-        array (
-          'code' => 'DAS',
-          'name' => 'Daşkəsən',
-        ),
-        18 => 
-        array (
-          'code' => 'FUZ',
-          'name' => 'Füzuli',
-        ),
-        19 => 
-        array (
-          'code' => 'GAD',
-          'name' => 'Gədəbəy',
-        ),
-        20 => 
-        array (
-          'code' => 'GA',
-          'name' => 'Gəncə',
-        ),
-        21 => 
         array (
           'code' => 'GOR',
           'name' => 'Goranboy',
         ),
-        22 => 
+        14 => 
         array (
           'code' => 'GOY',
-          'name' => 'Göyçay',
+          'name' => 'Goycay',
         ),
-        23 => 
+        15 => 
         array (
           'code' => 'GYG',
-          'name' => 'Göygöl',
+          'name' => 'Goygol',
         ),
-        24 => 
-        array (
-          'code' => 'HAC',
-          'name' => 'Hacıqabul',
-        ),
-        25 => 
+        16 => 
         array (
           'code' => 'IMI',
-          'name' => 'İmişli',
+          'name' => 'Imisli',
         ),
-        26 => 
+        17 => 
         array (
           'code' => 'ISM',
-          'name' => 'İsmayıllı',
+          'name' => 'Ismayilli',
         ),
-        27 => 
-        array (
-          'code' => 'KAL',
-          'name' => 'Kəlbəcər',
-        ),
-        28 => 
-        array (
-          'code' => 'KAN',
-          'name' => 'Kǝngǝrli',
-        ),
-        29 => 
+        18 => 
         array (
           'code' => 'KUR',
-          'name' => 'Kürdəmir',
+          'name' => 'Kurdamir',
         ),
-        30 => 
-        array (
-          'code' => 'LAC',
-          'name' => 'Laçın',
-        ),
-        31 => 
+        19 => 
         array (
           'code' => 'LA',
-          'name' => 'Lənkəran',
+          'name' => 'Lankaran',
         ),
-        32 => 
-        array (
-          'code' => 'LAN',
-          'name' => 'Lənkəran',
-        ),
-        33 => 
-        array (
-          'code' => 'LER',
-          'name' => 'Lerik',
-        ),
-        34 => 
+        20 => 
         array (
           'code' => 'MAS',
-          'name' => 'Masallı',
+          'name' => 'Masalli',
         ),
-        35 => 
+        21 => 
         array (
           'code' => 'MI',
-          'name' => 'Mingəçevir',
+          'name' => 'Mingacevir',
         ),
-        36 => 
+        22 => 
         array (
           'code' => 'NA',
           'name' => 'Naftalan',
         ),
-        37 => 
+        23 => 
         array (
-          'code' => 'NV',
-          'name' => 'Naxçıvan',
+          'code' => 'NX',
+          'name' => 'Naxcivan',
         ),
-        38 => 
+        24 => 
         array (
           'code' => 'NEF',
-          'name' => 'Neftçala',
+          'name' => 'Neftcala',
         ),
-        39 => 
+        25 => 
         array (
           'code' => 'OGU',
-          'name' => 'Oğuz',
+          'name' => 'Oguz',
         ),
-        40 => 
+        26 => 
         array (
-          'code' => 'ORD',
-          'name' => 'Ordubad',
+          'code' => 'QAB',
+          'name' => 'Qabala',
         ),
-        41 => 
+        27 => 
         array (
           'code' => 'QAX',
           'name' => 'Qax',
         ),
-        42 => 
+        28 => 
         array (
           'code' => 'QAZ',
           'name' => 'Qazax',
         ),
-        43 => 
-        array (
-          'code' => 'QAB',
-          'name' => 'Qəbələ',
-        ),
-        44 => 
-        array (
-          'code' => 'QOB',
-          'name' => 'Qobustan',
-        ),
-        45 => 
+        29 => 
         array (
           'code' => 'QBA',
           'name' => 'Quba',
         ),
-        46 => 
-        array (
-          'code' => 'QBI',
-          'name' => 'Qubadlı',
-        ),
-        47 => 
+        30 => 
         array (
           'code' => 'QUS',
           'name' => 'Qusar',
         ),
-        48 => 
+        31 => 
         array (
           'code' => 'SAT',
-          'name' => 'Saatlı',
+          'name' => 'Saatli',
         ),
-        49 => 
+        32 => 
         array (
           'code' => 'SAB',
           'name' => 'Sabirabad',
         ),
-        50 => 
+        33 => 
         array (
-          'code' => 'SBN',
-          'name' => 'Şabran',
+          'code' => 'SAK',
+          'name' => 'Saki',
         ),
-        51 => 
-        array (
-          'code' => 'SAH',
-          'name' => 'Şahbuz',
-        ),
-        52 => 
+        34 => 
         array (
           'code' => 'SAL',
           'name' => 'Salyan',
         ),
-        53 => 
+        35 => 
         array (
           'code' => 'SMI',
-          'name' => 'Şamaxı',
+          'name' => 'Samaxi',
         ),
-        54 => 
+        36 => 
+        array (
+          'code' => 'SKR',
+          'name' => 'Samkir',
+        ),
+        37 => 
         array (
           'code' => 'SMX',
           'name' => 'Samux',
         ),
-        55 => 
-        array (
-          'code' => 'SAD',
-          'name' => 'Sədərək',
-        ),
-        56 => 
-        array (
-          'code' => 'SA',
-          'name' => 'Şəki',
-        ),
-        57 => 
-        array (
-          'code' => 'SAK',
-          'name' => 'Şəki',
-        ),
-        58 => 
-        array (
-          'code' => 'SKR',
-          'name' => 'Şəmkir',
-        ),
-        59 => 
-        array (
-          'code' => 'SAR',
-          'name' => 'Şərur',
-        ),
-        60 => 
+        38 => 
         array (
           'code' => 'SR',
-          'name' => 'Şirvan',
+          'name' => 'Sirvan',
         ),
-        61 => 
-        array (
-          'code' => 'SIY',
-          'name' => 'Siyəzən',
-        ),
-        62 => 
+        39 => 
         array (
           'code' => 'SM',
-          'name' => 'Sumqayıt',
+          'name' => 'Sumqayit',
         ),
-        63 => 
-        array (
-          'code' => 'SUS',
-          'name' => 'Şuşa',
-        ),
-        64 => 
+        40 => 
         array (
           'code' => 'TAR',
-          'name' => 'Tərtər',
+          'name' => 'Tartar',
         ),
-        65 => 
-        array (
-          'code' => 'TOV',
-          'name' => 'Tovuz',
-        ),
-        66 => 
+        41 => 
         array (
           'code' => 'UCA',
           'name' => 'Ucar',
         ),
-        67 => 
+        42 => 
         array (
           'code' => 'XAC',
-          'name' => 'Xaçmaz',
+          'name' => 'Xacmaz',
         ),
-        68 => 
-        array (
-          'code' => 'XA',
-          'name' => 'Xankəndi',
-        ),
-        69 => 
-        array (
-          'code' => 'XIZ',
-          'name' => 'Xızı',
-        ),
-        70 => 
-        array (
-          'code' => 'XCI',
-          'name' => 'Xocalı',
-        ),
-        71 => 
+        43 => 
         array (
           'code' => 'XVD',
-          'name' => 'Xocavənd',
+          'name' => 'Xocavand',
         ),
-        72 => 
+        44 => 
         array (
           'code' => 'YAR',
-          'name' => 'Yardımlı',
+          'name' => 'Yardimli',
         ),
-        73 => 
-        array (
-          'code' => 'YE',
-          'name' => 'Yevlax',
-        ),
-        74 => 
+        45 => 
         array (
           'code' => 'YEV',
           'name' => 'Yevlax',
         ),
-        75 => 
+        46 => 
         array (
           'code' => 'ZAQ',
           'name' => 'Zaqatala',
         ),
-        76 => 
-        array (
-          'code' => 'ZAN',
-          'name' => 'Zəngilan',
-        ),
-        77 => 
+        47 => 
         array (
           'code' => 'ZAR',
-          'name' => 'Zərdab',
+          'name' => 'Zardab',
         ),
       ),
     ),
@@ -1160,18 +1060,18 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'BIH',
-          'name' => 'Federacija Bosne i Hercegovine',
+          'code' => 'BRC',
+          'name' => 'Brcko distrikt',
         ),
         1 => 
         array (
-          'code' => 'SRP',
-          'name' => 'Republika Srpska',
+          'code' => 'BIH',
+          'name' => 'Federacija Bosne i Hercegovine',
         ),
         2 => 
         array (
-          'code' => 'BRC',
-          'name' => 'Brčko Distrikt',
+          'code' => 'SRP',
+          'name' => 'Republika Srpska',
         ),
       ),
     ),
@@ -1206,30 +1106,25 @@ return array (
         ),
         5 => 
         array (
-          'code' => '06',
-          'name' => 'Saint Joseph',
-        ),
-        6 => 
-        array (
           'code' => '07',
           'name' => 'Saint Lucy',
         ),
-        7 => 
+        6 => 
         array (
           'code' => '08',
           'name' => 'Saint Michael',
         ),
-        8 => 
+        7 => 
         array (
           'code' => '09',
           'name' => 'Saint Peter',
         ),
-        9 => 
+        8 => 
         array (
           'code' => '10',
           'name' => 'Saint Philip',
         ),
-        10 => 
+        9 => 
         array (
           'code' => '11',
           'name' => 'Saint Thomas',
@@ -1262,343 +1157,18 @@ return array (
         ),
         4 => 
         array (
-          'code' => 'H',
-          'name' => 'Mymensingh',
-        ),
-        5 => 
-        array (
           'code' => 'E',
           'name' => 'Rajshahi',
         ),
-        6 => 
+        5 => 
         array (
           'code' => 'F',
           'name' => 'Rangpur',
         ),
-        7 => 
+        6 => 
         array (
           'code' => 'G',
           'name' => 'Sylhet',
-        ),
-        8 => 
-        array (
-          'code' => '05',
-          'name' => 'Bagerhat',
-        ),
-        9 => 
-        array (
-          'code' => '01',
-          'name' => 'Bandarban',
-        ),
-        10 => 
-        array (
-          'code' => '02',
-          'name' => 'Barguna',
-        ),
-        11 => 
-        array (
-          'code' => '06',
-          'name' => 'Barishal',
-        ),
-        12 => 
-        array (
-          'code' => '07',
-          'name' => 'Bhola',
-        ),
-        13 => 
-        array (
-          'code' => '03',
-          'name' => 'Bogura',
-        ),
-        14 => 
-        array (
-          'code' => '04',
-          'name' => 'Brahmanbaria',
-        ),
-        15 => 
-        array (
-          'code' => '09',
-          'name' => 'Chandpur',
-        ),
-        16 => 
-        array (
-          'code' => '45',
-          'name' => 'Chapai Nawabganj',
-        ),
-        17 => 
-        array (
-          'code' => '10',
-          'name' => 'Chattogram',
-        ),
-        18 => 
-        array (
-          'code' => '12',
-          'name' => 'Chuadanga',
-        ),
-        19 => 
-        array (
-          'code' => '11',
-          'name' => 'Cox\'s Bazar',
-        ),
-        20 => 
-        array (
-          'code' => '08',
-          'name' => 'Cumilla',
-        ),
-        21 => 
-        array (
-          'code' => '13',
-          'name' => 'Dhaka',
-        ),
-        22 => 
-        array (
-          'code' => '14',
-          'name' => 'Dinajpur',
-        ),
-        23 => 
-        array (
-          'code' => '15',
-          'name' => 'Faridpur',
-        ),
-        24 => 
-        array (
-          'code' => '16',
-          'name' => 'Feni',
-        ),
-        25 => 
-        array (
-          'code' => '19',
-          'name' => 'Gaibandha',
-        ),
-        26 => 
-        array (
-          'code' => '18',
-          'name' => 'Gazipur',
-        ),
-        27 => 
-        array (
-          'code' => '17',
-          'name' => 'Gopalganj',
-        ),
-        28 => 
-        array (
-          'code' => '20',
-          'name' => 'Habiganj',
-        ),
-        29 => 
-        array (
-          'code' => '21',
-          'name' => 'Jamalpur',
-        ),
-        30 => 
-        array (
-          'code' => '22',
-          'name' => 'Jashore',
-        ),
-        31 => 
-        array (
-          'code' => '25',
-          'name' => 'Jhalakathi',
-        ),
-        32 => 
-        array (
-          'code' => '23',
-          'name' => 'Jhenaidah',
-        ),
-        33 => 
-        array (
-          'code' => '24',
-          'name' => 'Joypurhat',
-        ),
-        34 => 
-        array (
-          'code' => '29',
-          'name' => 'Khagrachhari',
-        ),
-        35 => 
-        array (
-          'code' => '27',
-          'name' => 'Khulna',
-        ),
-        36 => 
-        array (
-          'code' => '26',
-          'name' => 'Kishoreganj',
-        ),
-        37 => 
-        array (
-          'code' => '28',
-          'name' => 'Kurigram',
-        ),
-        38 => 
-        array (
-          'code' => '30',
-          'name' => 'Kushtia',
-        ),
-        39 => 
-        array (
-          'code' => '31',
-          'name' => 'Lakshmipur',
-        ),
-        40 => 
-        array (
-          'code' => '32',
-          'name' => 'Lalmonirhat',
-        ),
-        41 => 
-        array (
-          'code' => '36',
-          'name' => 'Madaripur',
-        ),
-        42 => 
-        array (
-          'code' => '37',
-          'name' => 'Magura',
-        ),
-        43 => 
-        array (
-          'code' => '33',
-          'name' => 'Manikganj',
-        ),
-        44 => 
-        array (
-          'code' => '39',
-          'name' => 'Meherpur',
-        ),
-        45 => 
-        array (
-          'code' => '38',
-          'name' => 'Moulvibazar',
-        ),
-        46 => 
-        array (
-          'code' => '35',
-          'name' => 'Munshiganj',
-        ),
-        47 => 
-        array (
-          'code' => '34',
-          'name' => 'Mymensingh',
-        ),
-        48 => 
-        array (
-          'code' => '48',
-          'name' => 'Naogaon',
-        ),
-        49 => 
-        array (
-          'code' => '43',
-          'name' => 'Narail',
-        ),
-        50 => 
-        array (
-          'code' => '40',
-          'name' => 'Narayanganj',
-        ),
-        51 => 
-        array (
-          'code' => '42',
-          'name' => 'Narsingdi',
-        ),
-        52 => 
-        array (
-          'code' => '44',
-          'name' => 'Natore',
-        ),
-        53 => 
-        array (
-          'code' => '41',
-          'name' => 'Netrakona',
-        ),
-        54 => 
-        array (
-          'code' => '46',
-          'name' => 'Nilphamari',
-        ),
-        55 => 
-        array (
-          'code' => '47',
-          'name' => 'Noakhali',
-        ),
-        56 => 
-        array (
-          'code' => '49',
-          'name' => 'Pabna',
-        ),
-        57 => 
-        array (
-          'code' => '52',
-          'name' => 'Panchagarh',
-        ),
-        58 => 
-        array (
-          'code' => '51',
-          'name' => 'Patuakhali',
-        ),
-        59 => 
-        array (
-          'code' => '50',
-          'name' => 'Pirojpur',
-        ),
-        60 => 
-        array (
-          'code' => '53',
-          'name' => 'Rajbari',
-        ),
-        61 => 
-        array (
-          'code' => '54',
-          'name' => 'Rajshahi',
-        ),
-        62 => 
-        array (
-          'code' => '56',
-          'name' => 'Rangamati',
-        ),
-        63 => 
-        array (
-          'code' => '55',
-          'name' => 'Rangpur',
-        ),
-        64 => 
-        array (
-          'code' => '58',
-          'name' => 'Satkhira',
-        ),
-        65 => 
-        array (
-          'code' => '62',
-          'name' => 'Shariatpur',
-        ),
-        66 => 
-        array (
-          'code' => '57',
-          'name' => 'Sherpur',
-        ),
-        67 => 
-        array (
-          'code' => '59',
-          'name' => 'Sirajganj',
-        ),
-        68 => 
-        array (
-          'code' => '61',
-          'name' => 'Sunamganj',
-        ),
-        69 => 
-        array (
-          'code' => '60',
-          'name' => 'Sylhet',
-        ),
-        70 => 
-        array (
-          'code' => '63',
-          'name' => 'Tangail',
-        ),
-        71 => 
-        array (
-          'code' => '64',
-          'name' => 'Thakurgaon',
         ),
       ),
     ),
@@ -1608,65 +1178,55 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'BRU',
-          'name' => 'Brussels Hoofdstedelijk Gewest',
-        ),
-        1 => 
-        array (
-          'code' => 'VLG',
-          'name' => 'Vlaams Gewest',
-        ),
-        2 => 
-        array (
-          'code' => 'WAL',
-          'name' => 'Waals Gewest',
-        ),
-        3 => 
-        array (
           'code' => 'VAN',
           'name' => 'Antwerpen',
         ),
-        4 => 
+        1 => 
         array (
           'code' => 'WBR',
           'name' => 'Brabant wallon',
         ),
-        5 => 
+        2 => 
+        array (
+          'code' => 'BRU',
+          'name' => 'Brussels Hoofdstedelijk Gewest',
+        ),
+        3 => 
         array (
           'code' => 'WHT',
           'name' => 'Hainaut',
         ),
-        6 => 
+        4 => 
         array (
           'code' => 'WLG',
-          'name' => 'Liège',
+          'name' => 'Liege',
         ),
-        7 => 
+        5 => 
         array (
           'code' => 'VLI',
           'name' => 'Limburg',
         ),
-        8 => 
+        6 => 
         array (
           'code' => 'WLX',
           'name' => 'Luxembourg',
         ),
-        9 => 
+        7 => 
         array (
           'code' => 'WNA',
           'name' => 'Namur',
         ),
-        10 => 
+        8 => 
         array (
           'code' => 'VOV',
           'name' => 'Oost-Vlaanderen',
         ),
-        11 => 
+        9 => 
         array (
           'code' => 'VBR',
           'name' => 'Vlaams-Brabant',
         ),
-        12 => 
+        10 => 
         array (
           'code' => 'VWV',
           'name' => 'West-Vlaanderen',
@@ -1679,293 +1239,193 @@ return array (
       array (
         0 => 
         array (
-          'code' => '01',
-          'name' => 'Boucle du Mouhoun',
-        ),
-        1 => 
-        array (
-          'code' => '02',
-          'name' => 'Cascades',
-        ),
-        2 => 
-        array (
-          'code' => '03',
-          'name' => 'Centre',
-        ),
-        3 => 
-        array (
-          'code' => '04',
-          'name' => 'Centre-Est',
-        ),
-        4 => 
-        array (
-          'code' => '05',
-          'name' => 'Centre-Nord',
-        ),
-        5 => 
-        array (
-          'code' => '06',
-          'name' => 'Centre-Ouest',
-        ),
-        6 => 
-        array (
-          'code' => '07',
-          'name' => 'Centre-Sud',
-        ),
-        7 => 
-        array (
-          'code' => '08',
-          'name' => 'Est',
-        ),
-        8 => 
-        array (
-          'code' => '09',
-          'name' => 'Hauts-Bassins',
-        ),
-        9 => 
-        array (
-          'code' => '10',
-          'name' => 'Nord',
-        ),
-        10 => 
-        array (
-          'code' => '11',
-          'name' => 'Plateau-Central',
-        ),
-        11 => 
-        array (
-          'code' => '12',
-          'name' => 'Sahel',
-        ),
-        12 => 
-        array (
-          'code' => '13',
-          'name' => 'Sud-Ouest',
-        ),
-        13 => 
-        array (
-          'code' => 'BAL',
-          'name' => 'Balé',
-        ),
-        14 => 
-        array (
           'code' => 'BAM',
           'name' => 'Bam',
         ),
-        15 => 
-        array (
-          'code' => 'BAN',
-          'name' => 'Banwa',
-        ),
-        16 => 
+        1 => 
         array (
           'code' => 'BAZ',
-          'name' => 'Bazèga',
+          'name' => 'Bazega',
         ),
-        17 => 
-        array (
-          'code' => 'BGR',
-          'name' => 'Bougouriba',
-        ),
-        18 => 
+        2 => 
         array (
           'code' => 'BLG',
           'name' => 'Boulgou',
         ),
-        19 => 
+        3 => 
         array (
           'code' => 'BLK',
-          'name' => 'Boulkiemdé',
+          'name' => 'Boulkiemde',
         ),
-        20 => 
+        4 => 
         array (
           'code' => 'COM',
-          'name' => 'Comoé',
+          'name' => 'Comoe',
         ),
-        21 => 
+        5 => 
         array (
           'code' => 'GAN',
           'name' => 'Ganzourgou',
         ),
-        22 => 
+        6 => 
         array (
           'code' => 'GNA',
           'name' => 'Gnagna',
         ),
-        23 => 
+        7 => 
         array (
           'code' => 'GOU',
           'name' => 'Gourma',
         ),
-        24 => 
+        8 => 
         array (
           'code' => 'HOU',
           'name' => 'Houet',
         ),
-        25 => 
+        9 => 
         array (
           'code' => 'IOB',
           'name' => 'Ioba',
         ),
-        26 => 
+        10 => 
         array (
           'code' => 'KAD',
           'name' => 'Kadiogo',
         ),
-        27 => 
+        11 => 
         array (
           'code' => 'KEN',
-          'name' => 'Kénédougou',
+          'name' => 'Kenedougou',
         ),
-        28 => 
-        array (
-          'code' => 'KMD',
-          'name' => 'Komondjari',
-        ),
-        29 => 
+        12 => 
         array (
           'code' => 'KMP',
           'name' => 'Kompienga',
         ),
-        30 => 
+        13 => 
         array (
           'code' => 'KOS',
           'name' => 'Kossi',
         ),
-        31 => 
-        array (
-          'code' => 'KOP',
-          'name' => 'Koulpélogo',
-        ),
-        32 => 
+        14 => 
         array (
           'code' => 'KOT',
           'name' => 'Kouritenga',
         ),
-        33 => 
+        15 => 
         array (
           'code' => 'KOW',
-          'name' => 'Kourwéogo',
+          'name' => 'Kourweogo',
         ),
-        34 => 
+        16 => 
         array (
           'code' => 'LER',
-          'name' => 'Léraba',
+          'name' => 'Leraba',
         ),
-        35 => 
+        17 => 
         array (
           'code' => 'LOR',
           'name' => 'Loroum',
         ),
-        36 => 
+        18 => 
         array (
           'code' => 'MOU',
           'name' => 'Mouhoun',
         ),
-        37 => 
+        19 => 
         array (
           'code' => 'NAO',
           'name' => 'Nahouri',
         ),
-        38 => 
+        20 => 
         array (
           'code' => 'NAM',
           'name' => 'Namentenga',
         ),
-        39 => 
+        21 => 
         array (
           'code' => 'NAY',
           'name' => 'Nayala',
         ),
-        40 => 
-        array (
-          'code' => 'NOU',
-          'name' => 'Noumbiel',
-        ),
-        41 => 
+        22 => 
         array (
           'code' => 'OUB',
           'name' => 'Oubritenga',
         ),
-        42 => 
+        23 => 
         array (
           'code' => 'OUD',
           'name' => 'Oudalan',
         ),
-        43 => 
+        24 => 
         array (
           'code' => 'PAS',
-          'name' => 'Passoré',
+          'name' => 'Passore',
         ),
-        44 => 
+        25 => 
         array (
           'code' => 'PON',
           'name' => 'Poni',
         ),
-        45 => 
+        26 => 
         array (
           'code' => 'SNG',
-          'name' => 'Sanguié',
+          'name' => 'Sanguie',
         ),
-        46 => 
+        27 => 
         array (
           'code' => 'SMT',
           'name' => 'Sanmatenga',
         ),
-        47 => 
+        28 => 
         array (
           'code' => 'SEN',
-          'name' => 'Séno',
+          'name' => 'Seno',
         ),
-        48 => 
+        29 => 
         array (
           'code' => 'SIS',
           'name' => 'Sissili',
         ),
-        49 => 
+        30 => 
         array (
           'code' => 'SOM',
           'name' => 'Soum',
         ),
-        50 => 
+        31 => 
         array (
           'code' => 'SOR',
           'name' => 'Sourou',
         ),
-        51 => 
+        32 => 
         array (
           'code' => 'TAP',
           'name' => 'Tapoa',
         ),
-        52 => 
+        33 => 
         array (
           'code' => 'TUI',
           'name' => 'Tuy',
         ),
-        53 => 
-        array (
-          'code' => 'YAG',
-          'name' => 'Yagha',
-        ),
-        54 => 
+        34 => 
         array (
           'code' => 'YAT',
           'name' => 'Yatenga',
         ),
-        55 => 
+        35 => 
         array (
           'code' => 'ZIR',
           'name' => 'Ziro',
         ),
-        56 => 
+        36 => 
         array (
           'code' => 'ZON',
           'name' => 'Zondoma',
         ),
-        57 => 
+        37 => 
         array (
           'code' => 'ZOU',
-          'name' => 'Zoundwéogo',
+          'name' => 'Zoundweogo',
         ),
       ),
     ),
@@ -2122,22 +1582,22 @@ return array (
         0 => 
         array (
           'code' => '13',
-          'name' => 'Al ‘Āşimah',
+          'name' => 'Al \'Asimah',
         ),
         1 => 
         array (
           'code' => '14',
-          'name' => 'Al Janūbīyah',
+          'name' => 'Al Janubiyah',
         ),
         2 => 
         array (
           'code' => '15',
-          'name' => 'Al Muḩarraq',
+          'name' => 'Al Muharraq',
         ),
         3 => 
         array (
           'code' => '17',
-          'name' => 'Ash Shamālīyah',
+          'name' => 'Ash Shamaliyah',
         ),
       ),
     ),
@@ -2147,90 +1607,50 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'BB',
-          'name' => 'Bubanza',
-        ),
-        1 => 
-        array (
           'code' => 'BM',
           'name' => 'Bujumbura Mairie',
         ),
-        2 => 
-        array (
-          'code' => 'BL',
-          'name' => 'Bujumbura Rural',
-        ),
-        3 => 
-        array (
-          'code' => 'BR',
-          'name' => 'Bururi',
-        ),
-        4 => 
-        array (
-          'code' => 'CA',
-          'name' => 'Cankuzo',
-        ),
-        5 => 
+        1 => 
         array (
           'code' => 'CI',
           'name' => 'Cibitoke',
         ),
-        6 => 
+        2 => 
         array (
           'code' => 'GI',
           'name' => 'Gitega',
         ),
-        7 => 
+        3 => 
         array (
           'code' => 'KR',
           'name' => 'Karuzi',
         ),
-        8 => 
-        array (
-          'code' => 'KY',
-          'name' => 'Kayanza',
-        ),
-        9 => 
+        4 => 
         array (
           'code' => 'KI',
           'name' => 'Kirundo',
         ),
-        10 => 
-        array (
-          'code' => 'MA',
-          'name' => 'Makamba',
-        ),
-        11 => 
-        array (
-          'code' => 'MU',
-          'name' => 'Muramvya',
-        ),
-        12 => 
-        array (
-          'code' => 'MY',
-          'name' => 'Muyinga',
-        ),
-        13 => 
+        5 => 
         array (
           'code' => 'MW',
           'name' => 'Mwaro',
         ),
-        14 => 
+        6 => 
         array (
           'code' => 'NG',
           'name' => 'Ngozi',
         ),
-        15 => 
+        7 => 
         array (
           'code' => 'RM',
           'name' => 'Rumonge',
         ),
-        16 => 
+        8 => 
         array (
           'code' => 'RT',
           'name' => 'Rutana',
         ),
-        17 => 
+        9 => 
         array (
           'code' => 'RY',
           'name' => 'Ruyigi',
@@ -2243,63 +1663,80 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'AL',
-          'name' => 'Alibori',
-        ),
-        1 => 
-        array (
           'code' => 'AK',
           'name' => 'Atacora',
         ),
-        2 => 
+        1 => 
         array (
           'code' => 'AQ',
           'name' => 'Atlantique',
         ),
-        3 => 
+        2 => 
         array (
           'code' => 'BO',
           'name' => 'Borgou',
         ),
-        4 => 
+        3 => 
         array (
           'code' => 'CO',
           'name' => 'Collines',
         ),
-        5 => 
-        array (
-          'code' => 'KO',
-          'name' => 'Couffo',
-        ),
-        6 => 
+        4 => 
         array (
           'code' => 'DO',
           'name' => 'Donga',
         ),
-        7 => 
+        5 => 
         array (
           'code' => 'LI',
           'name' => 'Littoral',
         ),
-        8 => 
+        6 => 
         array (
           'code' => 'MO',
           'name' => 'Mono',
         ),
-        9 => 
+        7 => 
         array (
           'code' => 'OU',
-          'name' => 'Ouémé',
+          'name' => 'Oueme',
         ),
-        10 => 
+        8 => 
         array (
           'code' => 'PL',
           'name' => 'Plateau',
         ),
-        11 => 
+        9 => 
         array (
           'code' => 'ZO',
           'name' => 'Zou',
+        ),
+      ),
+    ),
+    'BL' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Saint Barthelemy',
+        ),
+      ),
+    ),
+    'BM' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Hamilton',
+        ),
+        1 => 
+        array (
+          'code' => NULL,
+          'name' => 'Saint George',
         ),
       ),
     ),
@@ -2335,13 +1772,13 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'C',
-          'name' => 'Cochabamba',
+          'code' => 'H',
+          'name' => 'Chuquisaca',
         ),
         1 => 
         array (
-          'code' => 'H',
-          'name' => 'Chuquisaca',
+          'code' => 'C',
+          'name' => 'Cochabamba',
         ),
         2 => 
         array (
@@ -2366,7 +1803,7 @@ return array (
         6 => 
         array (
           'code' => 'P',
-          'name' => 'Potosí',
+          'name' => 'Potosi',
         ),
         7 => 
         array (
@@ -2418,7 +1855,7 @@ return array (
         2 => 
         array (
           'code' => 'AP',
-          'name' => 'Amapá',
+          'name' => 'Amapa',
         ),
         3 => 
         array (
@@ -2433,7 +1870,7 @@ return array (
         5 => 
         array (
           'code' => 'CE',
-          'name' => 'Ceará',
+          'name' => 'Ceara',
         ),
         6 => 
         array (
@@ -2443,17 +1880,17 @@ return array (
         7 => 
         array (
           'code' => 'ES',
-          'name' => 'Espírito Santo',
+          'name' => 'Espirito Santo',
         ),
         8 => 
         array (
           'code' => 'GO',
-          'name' => 'Goiás',
+          'name' => 'Goias',
         ),
         9 => 
         array (
           'code' => 'MA',
-          'name' => 'Maranhão',
+          'name' => 'Maranhao',
         ),
         10 => 
         array (
@@ -2473,17 +1910,17 @@ return array (
         13 => 
         array (
           'code' => 'PA',
-          'name' => 'Pará',
+          'name' => 'Para',
         ),
         14 => 
         array (
           'code' => 'PB',
-          'name' => 'Paraíba',
+          'name' => 'Paraiba',
         ),
         15 => 
         array (
           'code' => 'PR',
-          'name' => 'Paraná',
+          'name' => 'Parana',
         ),
         16 => 
         array (
@@ -2493,27 +1930,27 @@ return array (
         17 => 
         array (
           'code' => 'PI',
-          'name' => 'Piauí',
+          'name' => 'Piaui',
         ),
         18 => 
-        array (
-          'code' => 'RJ',
-          'name' => 'Rio de Janeiro',
-        ),
-        19 => 
         array (
           'code' => 'RN',
           'name' => 'Rio Grande do Norte',
         ),
-        20 => 
+        19 => 
         array (
           'code' => 'RS',
           'name' => 'Rio Grande do Sul',
         ),
+        20 => 
+        array (
+          'code' => 'RJ',
+          'name' => 'Rio de Janeiro',
+        ),
         21 => 
         array (
           'code' => 'RO',
-          'name' => 'Rondônia',
+          'name' => 'Rondonia',
         ),
         22 => 
         array (
@@ -2528,7 +1965,7 @@ return array (
         24 => 
         array (
           'code' => 'SP',
-          'name' => 'São Paulo',
+          'name' => 'Sao Paulo',
         ),
         25 => 
         array (
@@ -2548,160 +1985,60 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'AK',
-          'name' => 'Acklins',
-        ),
-        1 => 
-        array (
-          'code' => 'BY',
-          'name' => 'Berry Islands',
-        ),
-        2 => 
-        array (
-          'code' => 'BI',
-          'name' => 'Bimini',
-        ),
-        3 => 
-        array (
           'code' => 'BP',
           'name' => 'Black Point',
         ),
-        4 => 
-        array (
-          'code' => 'CI',
-          'name' => 'Cat Island',
-        ),
-        5 => 
+        1 => 
         array (
           'code' => 'CO',
           'name' => 'Central Abaco',
         ),
-        6 => 
-        array (
-          'code' => 'CS',
-          'name' => 'Central Andros',
-        ),
-        7 => 
-        array (
-          'code' => 'CE',
-          'name' => 'Central Eleuthera',
-        ),
-        8 => 
+        2 => 
         array (
           'code' => 'FP',
           'name' => 'City of Freeport',
         ),
-        9 => 
-        array (
-          'code' => 'CK',
-          'name' => 'Crooked Island and Long Cay',
-        ),
-        10 => 
+        3 => 
         array (
           'code' => 'EG',
           'name' => 'East Grand Bahama',
         ),
-        11 => 
-        array (
-          'code' => 'EX',
-          'name' => 'Exuma',
-        ),
-        12 => 
-        array (
-          'code' => 'GC',
-          'name' => 'Grand Cay',
-        ),
-        13 => 
+        4 => 
         array (
           'code' => 'HI',
           'name' => 'Harbour Island',
         ),
-        14 => 
-        array (
-          'code' => 'HT',
-          'name' => 'Hope Town',
-        ),
-        15 => 
-        array (
-          'code' => 'IN',
-          'name' => 'Inagua',
-        ),
-        16 => 
+        5 => 
         array (
           'code' => 'LI',
           'name' => 'Long Island',
         ),
-        17 => 
-        array (
-          'code' => 'MC',
-          'name' => 'Mangrove Cay',
-        ),
-        18 => 
-        array (
-          'code' => 'MG',
-          'name' => 'Mayaguana',
-        ),
-        19 => 
-        array (
-          'code' => 'MI',
-          'name' => 'Moore\'s Island',
-        ),
-        20 => 
+        6 => 
         array (
           'code' => 'NP',
           'name' => 'New Providence',
         ),
-        21 => 
+        7 => 
         array (
           'code' => 'NO',
           'name' => 'North Abaco',
         ),
-        22 => 
+        8 => 
         array (
           'code' => 'NS',
           'name' => 'North Andros',
         ),
-        23 => 
+        9 => 
         array (
           'code' => 'NE',
           'name' => 'North Eleuthera',
         ),
-        24 => 
-        array (
-          'code' => 'RI',
-          'name' => 'Ragged Island',
-        ),
-        25 => 
-        array (
-          'code' => 'RC',
-          'name' => 'Rum Cay',
-        ),
-        26 => 
-        array (
-          'code' => 'SS',
-          'name' => 'San Salvador',
-        ),
-        27 => 
-        array (
-          'code' => 'SO',
-          'name' => 'South Abaco',
-        ),
-        28 => 
-        array (
-          'code' => 'SA',
-          'name' => 'South Andros',
-        ),
-        29 => 
+        10 => 
         array (
           'code' => 'SE',
           'name' => 'South Eleuthera',
         ),
-        30 => 
-        array (
-          'code' => 'SW',
-          'name' => 'Spanish Wells',
-        ),
-        31 => 
+        11 => 
         array (
           'code' => 'WG',
           'name' => 'West Grand Bahama',
@@ -2734,83 +2071,79 @@ return array (
         ),
         4 => 
         array (
-          'code' => '13',
-          'name' => 'Haa',
-        ),
-        5 => 
-        array (
           'code' => '44',
           'name' => 'Lhuentse',
         ),
-        6 => 
+        5 => 
         array (
           'code' => '42',
           'name' => 'Monggar',
         ),
-        7 => 
+        6 => 
         array (
           'code' => '11',
           'name' => 'Paro',
         ),
-        8 => 
+        7 => 
         array (
           'code' => '43',
           'name' => 'Pema Gatshel',
         ),
-        9 => 
+        8 => 
         array (
           'code' => '23',
           'name' => 'Punakha',
         ),
-        10 => 
+        9 => 
         array (
           'code' => '45',
           'name' => 'Samdrup Jongkhar',
         ),
-        11 => 
+        10 => 
         array (
           'code' => '14',
           'name' => 'Samtse',
         ),
-        12 => 
+        11 => 
         array (
           'code' => '31',
           'name' => 'Sarpang',
         ),
-        13 => 
+        12 => 
         array (
           'code' => '15',
           'name' => 'Thimphu',
         ),
-        14 => 
+        13 => 
         array (
           'code' => '41',
           'name' => 'Trashigang',
         ),
-        15 => 
-        array (
-          'code' => 'TY',
-          'name' => 'Trashi Yangtse',
-        ),
-        16 => 
+        14 => 
         array (
           'code' => '32',
           'name' => 'Trongsa',
         ),
-        17 => 
+        15 => 
         array (
           'code' => '21',
           'name' => 'Tsirang',
         ),
-        18 => 
+        16 => 
         array (
           'code' => '24',
           'name' => 'Wangdue Phodrang',
         ),
-        19 => 
+      ),
+    ),
+    'BV' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
         array (
-          'code' => '34',
-          'name' => 'Zhemgang',
+          'code' => NULL,
+          'name' => 'Bouvet Island',
         ),
       ),
     ),
@@ -2830,73 +2163,43 @@ return array (
         ),
         2 => 
         array (
-          'code' => 'FR',
-          'name' => 'Francistown',
-        ),
-        3 => 
-        array (
-          'code' => 'GA',
-          'name' => 'Gaborone',
-        ),
-        4 => 
-        array (
           'code' => 'GH',
           'name' => 'Ghanzi',
         ),
-        5 => 
-        array (
-          'code' => 'JW',
-          'name' => 'Jwaneng',
-        ),
-        6 => 
+        3 => 
         array (
           'code' => 'KG',
           'name' => 'Kgalagadi',
         ),
-        7 => 
+        4 => 
         array (
           'code' => 'KL',
           'name' => 'Kgatleng',
         ),
-        8 => 
+        5 => 
         array (
           'code' => 'KW',
           'name' => 'Kweneng',
         ),
-        9 => 
-        array (
-          'code' => 'LO',
-          'name' => 'Lobatse',
-        ),
-        10 => 
+        6 => 
         array (
           'code' => 'NE',
           'name' => 'North East',
         ),
-        11 => 
+        7 => 
         array (
           'code' => 'NW',
           'name' => 'North West',
         ),
-        12 => 
-        array (
-          'code' => 'SP',
-          'name' => 'Selibe Phikwe',
-        ),
-        13 => 
+        8 => 
         array (
           'code' => 'SE',
           'name' => 'South East',
         ),
-        14 => 
+        9 => 
         array (
           'code' => 'SO',
           'name' => 'Southern',
-        ),
-        15 => 
-        array (
-          'code' => 'ST',
-          'name' => 'Sowa Town',
         ),
       ),
     ),
@@ -3048,136 +2351,102 @@ return array (
         ),
       ),
     ),
+    'CC' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Cocos (Keeling) Islands',
+        ),
+      ),
+    ),
     'CD' => 
     array (
       'zones' => 
       array (
         0 => 
         array (
-          'code' => 'BU',
-          'name' => 'Bas-Uélé',
+          'code' => 'EQ',
+          'name' => 'Equateur',
         ),
         1 => 
-        array (
-          'code' => 'EQ',
-          'name' => 'Équateur',
-        ),
-        2 => 
         array (
           'code' => 'HK',
           'name' => 'Haut-Katanga',
         ),
-        3 => 
+        2 => 
         array (
           'code' => 'HL',
           'name' => 'Haut-Lomami',
         ),
-        4 => 
-        array (
-          'code' => 'HU',
-          'name' => 'Haut-Uélé',
-        ),
-        5 => 
+        3 => 
         array (
           'code' => 'IT',
           'name' => 'Ituri',
         ),
-        6 => 
-        array (
-          'code' => 'KS',
-          'name' => 'Kasaï',
-        ),
-        7 => 
+        4 => 
         array (
           'code' => 'KC',
-          'name' => 'Kasaï Central',
+          'name' => 'Kasai Central',
         ),
-        8 => 
+        5 => 
         array (
           'code' => 'KE',
-          'name' => 'Kasaï Oriental',
+          'name' => 'Kasai Oriental',
         ),
-        9 => 
+        6 => 
         array (
           'code' => 'KN',
           'name' => 'Kinshasa',
         ),
-        10 => 
+        7 => 
         array (
           'code' => 'BC',
           'name' => 'Kongo Central',
         ),
-        11 => 
+        8 => 
         array (
           'code' => 'KG',
           'name' => 'Kwango',
         ),
-        12 => 
+        9 => 
         array (
           'code' => 'KL',
           'name' => 'Kwilu',
         ),
-        13 => 
-        array (
-          'code' => 'LO',
-          'name' => 'Lomami',
-        ),
-        14 => 
+        10 => 
         array (
           'code' => 'LU',
           'name' => 'Lualaba',
         ),
-        15 => 
-        array (
-          'code' => 'MN',
-          'name' => 'Mai-Ndombe',
-        ),
-        16 => 
-        array (
-          'code' => 'MA',
-          'name' => 'Maniema',
-        ),
-        17 => 
-        array (
-          'code' => 'MO',
-          'name' => 'Mongala',
-        ),
-        18 => 
+        11 => 
         array (
           'code' => 'NK',
           'name' => 'Nord-Kivu',
         ),
-        19 => 
-        array (
-          'code' => 'NU',
-          'name' => 'Nord-Ubangi',
-        ),
-        20 => 
+        12 => 
         array (
           'code' => 'SA',
           'name' => 'Sankuru',
         ),
-        21 => 
+        13 => 
         array (
           'code' => 'SK',
           'name' => 'Sud-Kivu',
         ),
-        22 => 
-        array (
-          'code' => 'SU',
-          'name' => 'Sud-Ubangi',
-        ),
-        23 => 
+        14 => 
         array (
           'code' => 'TA',
           'name' => 'Tanganyika',
         ),
-        24 => 
+        15 => 
         array (
           'code' => 'TO',
           'name' => 'Tshopo',
         ),
-        25 => 
+        16 => 
         array (
           'code' => 'TU',
           'name' => 'Tshuapa',
@@ -3200,75 +2469,40 @@ return array (
         ),
         2 => 
         array (
-          'code' => 'BK',
-          'name' => 'Basse-Kotto',
-        ),
-        3 => 
-        array (
           'code' => 'KB',
           'name' => 'Gribingui',
         ),
-        4 => 
+        3 => 
         array (
           'code' => 'HM',
           'name' => 'Haut-Mbomou',
         ),
-        5 => 
-        array (
-          'code' => 'HK',
-          'name' => 'Haute-Kotto',
-        ),
-        6 => 
-        array (
-          'code' => 'HS',
-          'name' => 'Haute-Sangha / Mambéré-Kadéï',
-        ),
-        7 => 
+        4 => 
         array (
           'code' => 'KG',
-          'name' => 'Kémo-Gribingui',
+          'name' => 'Kemo-Gribingui',
         ),
-        8 => 
-        array (
-          'code' => 'LB',
-          'name' => 'Lobaye',
-        ),
-        9 => 
-        array (
-          'code' => 'MB',
-          'name' => 'Mbomou',
-        ),
-        10 => 
+        5 => 
         array (
           'code' => 'NM',
-          'name' => 'Nana-Mambéré',
+          'name' => 'Nana-Mambere',
         ),
-        11 => 
-        array (
-          'code' => 'MP',
-          'name' => 'Ombella-Mpoko',
-        ),
-        12 => 
+        6 => 
         array (
           'code' => 'UK',
           'name' => 'Ouaka',
         ),
-        13 => 
+        7 => 
         array (
           'code' => 'AC',
           'name' => 'Ouham',
         ),
-        14 => 
+        8 => 
         array (
           'code' => 'OP',
-          'name' => 'Ouham-Pendé',
+          'name' => 'Ouham-Pende',
         ),
-        15 => 
-        array (
-          'code' => 'SE',
-          'name' => 'Sangha',
-        ),
-        16 => 
+        9 => 
         array (
           'code' => 'VK',
           'name' => 'Vakaga',
@@ -3296,45 +2530,15 @@ return array (
         ),
         3 => 
         array (
-          'code' => '15',
-          'name' => 'Cuvette-Ouest',
-        ),
-        4 => 
-        array (
-          'code' => '5',
-          'name' => 'Kouilou',
-        ),
-        5 => 
-        array (
-          'code' => '2',
-          'name' => 'Lékoumou',
-        ),
-        6 => 
-        array (
-          'code' => '7',
-          'name' => 'Likouala',
-        ),
-        7 => 
-        array (
           'code' => '9',
           'name' => 'Niari',
         ),
-        8 => 
-        array (
-          'code' => '14',
-          'name' => 'Plateaux',
-        ),
-        9 => 
+        4 => 
         array (
           'code' => '16',
           'name' => 'Pointe-Noire',
         ),
-        10 => 
-        array (
-          'code' => '12',
-          'name' => 'Pool',
-        ),
-        11 => 
+        5 => 
         array (
           'code' => '13',
           'name' => 'Sangha',
@@ -3383,7 +2587,7 @@ return array (
         7 => 
         array (
           'code' => 'GE',
-          'name' => 'Genève',
+          'name' => 'Geneve',
         ),
         8 => 
         array (
@@ -3393,7 +2597,7 @@ return array (
         9 => 
         array (
           'code' => 'GR',
-          'name' => 'Graubünden',
+          'name' => 'Graubunden',
         ),
         10 => 
         array (
@@ -3408,7 +2612,7 @@ return array (
         12 => 
         array (
           'code' => 'NE',
-          'name' => 'Neuchâtel',
+          'name' => 'Neuchatel',
         ),
         13 => 
         array (
@@ -3473,7 +2677,7 @@ return array (
         25 => 
         array (
           'code' => 'ZH',
-          'name' => 'Zürich',
+          'name' => 'Zurich',
         ),
       ),
     ),
@@ -3494,17 +2698,17 @@ return array (
         2 => 
         array (
           'code' => 'CM',
-          'name' => 'Comoé',
+          'name' => 'Comoe',
         ),
         3 => 
         array (
           'code' => 'DN',
-          'name' => 'Denguélé',
+          'name' => 'Denguele',
         ),
         4 => 
         array (
           'code' => 'GD',
-          'name' => 'Gôh-Djiboua',
+          'name' => 'Goh-Djiboua',
         ),
         5 => 
         array (
@@ -3524,7 +2728,7 @@ return array (
         8 => 
         array (
           'code' => 'SM',
-          'name' => 'Sassandra-Marahoué',
+          'name' => 'Sassandra-Marahoue',
         ),
         9 => 
         array (
@@ -3534,7 +2738,7 @@ return array (
         10 => 
         array (
           'code' => 'VB',
-          'name' => 'Vallée du Bandama',
+          'name' => 'Vallee du Bandama',
         ),
         11 => 
         array (
@@ -3553,6 +2757,17 @@ return array (
         ),
       ),
     ),
+    'CK' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Cook Islands',
+        ),
+      ),
+    ),
     'CL' => 
     array (
       'zones' => 
@@ -3560,7 +2775,7 @@ return array (
         0 => 
         array (
           'code' => 'AI',
-          'name' => 'Aisén del General Carlos Ibañez del Campo',
+          'name' => 'Aisen del General Carlos Ibanez del Campo',
         ),
         1 => 
         array (
@@ -3580,7 +2795,7 @@ return array (
         4 => 
         array (
           'code' => 'BI',
-          'name' => 'Biobío',
+          'name' => 'Biobio',
         ),
         5 => 
         array (
@@ -3590,7 +2805,7 @@ return array (
         6 => 
         array (
           'code' => 'AR',
-          'name' => 'La Araucanía',
+          'name' => 'La Araucania',
         ),
         7 => 
         array (
@@ -3605,7 +2820,7 @@ return array (
         9 => 
         array (
           'code' => 'LR',
-          'name' => 'Los Ríos',
+          'name' => 'Los Rios',
         ),
         10 => 
         array (
@@ -3620,22 +2835,22 @@ return array (
         12 => 
         array (
           'code' => 'NB',
-          'name' => 'Ñuble',
+          'name' => 'Nuble',
         ),
         13 => 
         array (
           'code' => 'RM',
-          'name' => 'Región Metropolitana de Santiago',
+          'name' => 'Region Metropolitana de Santiago',
         ),
         14 => 
         array (
           'code' => 'TA',
-          'name' => 'Tarapacá',
+          'name' => 'Tarapaca',
         ),
         15 => 
         array (
           'code' => 'VS',
-          'name' => 'Valparaíso',
+          'name' => 'Valparaiso',
         ),
       ),
     ),
@@ -3656,12 +2871,12 @@ return array (
         2 => 
         array (
           'code' => 'ES',
-          'name' => 'East',
+          'name' => 'Est',
         ),
         3 => 
         array (
           'code' => 'EN',
-          'name' => 'Far North',
+          'name' => 'Extreme-Nord',
         ),
         4 => 
         array (
@@ -3671,27 +2886,27 @@ return array (
         5 => 
         array (
           'code' => 'NO',
-          'name' => 'North',
+          'name' => 'Nord',
         ),
         6 => 
         array (
           'code' => 'NW',
-          'name' => 'North-West',
+          'name' => 'Nord-Ouest',
         ),
         7 => 
         array (
-          'code' => 'SU',
-          'name' => 'South',
+          'code' => 'OU',
+          'name' => 'Ouest',
         ),
         8 => 
         array (
-          'code' => 'SW',
-          'name' => 'South-West',
+          'code' => 'SU',
+          'name' => 'Sud',
         ),
         9 => 
         array (
-          'code' => 'OU',
-          'name' => 'West',
+          'code' => 'SW',
+          'name' => 'Sud-Ouest',
         ),
       ),
     ),
@@ -3702,172 +2917,157 @@ return array (
         0 => 
         array (
           'code' => 'AH',
-          'name' => 'Anhui Sheng',
+          'name' => 'Anhui',
         ),
         1 => 
         array (
           'code' => 'BJ',
-          'name' => 'Beijing Shi',
+          'name' => 'Beijing',
         ),
         2 => 
         array (
           'code' => 'CQ',
-          'name' => 'Chongqing Shi',
+          'name' => 'Chongqing',
         ),
         3 => 
         array (
           'code' => 'FJ',
-          'name' => 'Fujian Sheng',
+          'name' => 'Fujian',
         ),
         4 => 
         array (
           'code' => 'GS',
-          'name' => 'Gansu Sheng',
+          'name' => 'Gansu',
         ),
         5 => 
         array (
           'code' => 'GD',
-          'name' => 'Guangdong Sheng',
+          'name' => 'Guangdong',
         ),
         6 => 
         array (
           'code' => 'GX',
-          'name' => 'Guangxi Zhuangzu Zizhiqu',
+          'name' => 'Guangxi Zhuangzu',
         ),
         7 => 
         array (
           'code' => 'GZ',
-          'name' => 'Guizhou Sheng',
+          'name' => 'Guizhou',
         ),
         8 => 
         array (
           'code' => 'HI',
-          'name' => 'Hainan Sheng',
+          'name' => 'Hainan',
         ),
         9 => 
         array (
           'code' => 'HE',
-          'name' => 'Hebei Sheng',
+          'name' => 'Hebei',
         ),
         10 => 
         array (
           'code' => 'HL',
-          'name' => 'Heilongjiang Sheng',
+          'name' => 'Heilongjiang',
         ),
         11 => 
         array (
           'code' => 'HA',
-          'name' => 'Henan Sheng',
+          'name' => 'Henan',
         ),
         12 => 
         array (
-          'code' => 'HK',
-          'name' => 'Hong Kong SAR',
+          'code' => 'HB',
+          'name' => 'Hubei',
         ),
         13 => 
         array (
-          'code' => 'HB',
-          'name' => 'Hubei Sheng',
+          'code' => 'HN',
+          'name' => 'Hunan',
         ),
         14 => 
         array (
-          'code' => 'HN',
-          'name' => 'Hunan Sheng',
+          'code' => 'JS',
+          'name' => 'Jiangsu',
         ),
         15 => 
         array (
-          'code' => 'JS',
-          'name' => 'Jiangsu Sheng',
+          'code' => 'JX',
+          'name' => 'Jiangxi',
         ),
         16 => 
         array (
-          'code' => 'JX',
-          'name' => 'Jiangxi Sheng',
+          'code' => 'JL',
+          'name' => 'Jilin',
         ),
         17 => 
         array (
-          'code' => 'JL',
-          'name' => 'Jilin Sheng',
+          'code' => 'LN',
+          'name' => 'Liaoning',
         ),
         18 => 
         array (
-          'code' => 'LN',
-          'name' => 'Liaoning Sheng',
+          'code' => 'NM',
+          'name' => 'Nei Mongol',
         ),
         19 => 
         array (
-          'code' => 'MO',
-          'name' => 'Macao SAR',
+          'code' => 'NX',
+          'name' => 'Ningxia Huizu',
         ),
         20 => 
         array (
-          'code' => 'NM',
-          'name' => 'Nei Mongol Zizhiqu',
+          'code' => 'QH',
+          'name' => 'Qinghai',
         ),
         21 => 
         array (
-          'code' => 'NX',
-          'name' => 'Ningxia Huizu Zizhiqu',
+          'code' => 'SN',
+          'name' => 'Shaanxi',
         ),
         22 => 
         array (
-          'code' => 'QH',
-          'name' => 'Qinghai Sheng',
+          'code' => 'SD',
+          'name' => 'Shandong',
         ),
         23 => 
         array (
-          'code' => 'SN',
-          'name' => 'Shaanxi Sheng',
+          'code' => 'SH',
+          'name' => 'Shanghai',
         ),
         24 => 
         array (
-          'code' => 'SD',
-          'name' => 'Shandong Sheng',
+          'code' => 'SX',
+          'name' => 'Shanxi',
         ),
         25 => 
         array (
-          'code' => 'SH',
-          'name' => 'Shanghai Shi',
+          'code' => 'SC',
+          'name' => 'Sichuan',
         ),
         26 => 
         array (
-          'code' => 'SX',
-          'name' => 'Shanxi Sheng',
+          'code' => 'TJ',
+          'name' => 'Tianjin',
         ),
         27 => 
         array (
-          'code' => 'SC',
-          'name' => 'Sichuan Sheng',
+          'code' => 'XJ',
+          'name' => 'Xinjiang Uygur',
         ),
         28 => 
         array (
-          'code' => 'TW',
-          'name' => 'Taiwan Sheng',
+          'code' => 'XZ',
+          'name' => 'Xizang',
         ),
         29 => 
         array (
-          'code' => 'TJ',
-          'name' => 'Tianjin Shi',
+          'code' => 'YN',
+          'name' => 'Yunnan',
         ),
         30 => 
         array (
-          'code' => 'XJ',
-          'name' => 'Xinjiang Uygur Zizhiqu',
-        ),
-        31 => 
-        array (
-          'code' => 'XZ',
-          'name' => 'Xizang Zizhiqu',
-        ),
-        32 => 
-        array (
-          'code' => 'YN',
-          'name' => 'Yunnan Sheng',
-        ),
-        33 => 
-        array (
           'code' => 'ZJ',
-          'name' => 'Zhejiang Sheng',
+          'name' => 'Zhejiang',
         ),
       ),
     ),
@@ -3893,17 +3093,17 @@ return array (
         3 => 
         array (
           'code' => 'ATL',
-          'name' => 'Atlántico',
+          'name' => 'Atlantico',
         ),
         4 => 
         array (
           'code' => 'BOL',
-          'name' => 'Bolívar',
+          'name' => 'Bolivar',
         ),
         5 => 
         array (
           'code' => 'BOY',
-          'name' => 'Boyacá',
+          'name' => 'Boyaca',
         ),
         6 => 
         array (
@@ -3913,7 +3113,7 @@ return array (
         7 => 
         array (
           'code' => 'CAQ',
-          'name' => 'Caquetá',
+          'name' => 'Caqueta',
         ),
         8 => 
         array (
@@ -3932,28 +3132,28 @@ return array (
         ),
         11 => 
         array (
-          'code' => 'COR',
-          'name' => 'Córdoba',
+          'code' => 'CHO',
+          'name' => 'Choco',
         ),
         12 => 
+        array (
+          'code' => 'COR',
+          'name' => 'Cordoba',
+        ),
+        13 => 
         array (
           'code' => 'CUN',
           'name' => 'Cundinamarca',
         ),
-        13 => 
-        array (
-          'code' => 'CHO',
-          'name' => 'Chocó',
-        ),
         14 => 
         array (
           'code' => 'DC',
-          'name' => 'Distrito Capital de Bogotá',
+          'name' => 'Distrito Capital de Bogota',
         ),
         15 => 
         array (
           'code' => 'GUA',
-          'name' => 'Guainía',
+          'name' => 'Guainia',
         ),
         16 => 
         array (
@@ -3983,7 +3183,7 @@ return array (
         21 => 
         array (
           'code' => 'NAR',
-          'name' => 'Nariño',
+          'name' => 'Narino',
         ),
         22 => 
         array (
@@ -3998,7 +3198,7 @@ return array (
         24 => 
         array (
           'code' => 'QUI',
-          'name' => 'Quindío',
+          'name' => 'Quindio',
         ),
         25 => 
         array (
@@ -4008,7 +3208,7 @@ return array (
         26 => 
         array (
           'code' => 'SAP',
-          'name' => 'San Andrés, Providencia y Santa Catalina',
+          'name' => 'San Andres, Providencia y Santa Catalina',
         ),
         27 => 
         array (
@@ -4031,11 +3231,6 @@ return array (
           'name' => 'Valle del Cauca',
         ),
         31 => 
-        array (
-          'code' => 'VAU',
-          'name' => 'Vaupés',
-        ),
-        32 => 
         array (
           'code' => 'VID',
           'name' => 'Vichada',
@@ -4069,7 +3264,7 @@ return array (
         4 => 
         array (
           'code' => 'L',
-          'name' => 'Limón',
+          'name' => 'Limon',
         ),
         5 => 
         array (
@@ -4079,7 +3274,7 @@ return array (
         6 => 
         array (
           'code' => 'SJ',
-          'name' => 'San José',
+          'name' => 'San Jose',
         ),
       ),
     ),
@@ -4095,12 +3290,12 @@ return array (
         1 => 
         array (
           'code' => '09',
-          'name' => 'Camagüey',
+          'name' => 'Camaguey',
         ),
         2 => 
         array (
           'code' => '08',
-          'name' => 'Ciego de Ávila',
+          'name' => 'Ciego de Avila',
         ),
         3 => 
         array (
@@ -4115,12 +3310,12 @@ return array (
         5 => 
         array (
           'code' => '14',
-          'name' => 'Guantánamo',
+          'name' => 'Guantanamo',
         ),
         6 => 
         array (
           'code' => '11',
-          'name' => 'Holguín',
+          'name' => 'Holguin',
         ),
         7 => 
         array (
@@ -4145,12 +3340,12 @@ return array (
         11 => 
         array (
           'code' => '01',
-          'name' => 'Pinar del Río',
+          'name' => 'Pinar del Rio',
         ),
         12 => 
         array (
           'code' => '07',
-          'name' => 'Sancti Spíritus',
+          'name' => 'Sancti Spiritus',
         ),
         13 => 
         array (
@@ -4162,11 +3357,6 @@ return array (
           'code' => '05',
           'name' => 'Villa Clara',
         ),
-        15 => 
-        array (
-          'code' => '99',
-          'name' => 'Isla de la Juventud',
-        ),
       ),
     ),
     'CV' => 
@@ -4175,123 +3365,90 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'B',
-          'name' => 'Ilhas de Barlavento',
-        ),
-        1 => 
-        array (
-          'code' => 'S',
-          'name' => 'Ilhas de Sotavento',
-        ),
-        2 => 
-        array (
           'code' => 'BV',
           'name' => 'Boa Vista',
         ),
-        3 => 
+        1 => 
         array (
           'code' => 'BR',
           'name' => 'Brava',
         ),
-        4 => 
-        array (
-          'code' => 'MA',
-          'name' => 'Maio',
-        ),
-        5 => 
+        2 => 
         array (
           'code' => 'MO',
           'name' => 'Mosteiros',
         ),
-        6 => 
-        array (
-          'code' => 'PA',
-          'name' => 'Paul',
-        ),
-        7 => 
+        3 => 
         array (
           'code' => 'PN',
           'name' => 'Porto Novo',
         ),
-        8 => 
+        4 => 
         array (
           'code' => 'PR',
           'name' => 'Praia',
         ),
-        9 => 
-        array (
-          'code' => 'RB',
-          'name' => 'Ribeira Brava',
-        ),
-        10 => 
-        array (
-          'code' => 'RG',
-          'name' => 'Ribeira Grande',
-        ),
-        11 => 
+        5 => 
         array (
           'code' => 'RS',
           'name' => 'Ribeira Grande de Santiago',
         ),
-        12 => 
+        6 => 
         array (
           'code' => 'SL',
           'name' => 'Sal',
         ),
-        13 => 
-        array (
-          'code' => 'CA',
-          'name' => 'Santa Catarina',
-        ),
-        14 => 
-        array (
-          'code' => 'CF',
-          'name' => 'Santa Catarina do Fogo',
-        ),
-        15 => 
+        7 => 
         array (
           'code' => 'CR',
           'name' => 'Santa Cruz',
         ),
-        16 => 
+        8 => 
         array (
           'code' => 'SD',
-          'name' => 'São Domingos',
+          'name' => 'Sao Domingos',
         ),
-        17 => 
-        array (
-          'code' => 'SF',
-          'name' => 'São Filipe',
-        ),
-        18 => 
+        9 => 
         array (
           'code' => 'SO',
-          'name' => 'São Lourenço dos Órgãos',
+          'name' => 'Sao Lourenco dos Orgaos',
         ),
-        19 => 
-        array (
-          'code' => 'SM',
-          'name' => 'São Miguel',
-        ),
-        20 => 
-        array (
-          'code' => 'SS',
-          'name' => 'São Salvador do Mundo',
-        ),
-        21 => 
+        10 => 
         array (
           'code' => 'SV',
-          'name' => 'São Vicente',
+          'name' => 'Sao Vicente',
         ),
-        22 => 
+        11 => 
         array (
           'code' => 'TA',
           'name' => 'Tarrafal',
         ),
-        23 => 
+        12 => 
         array (
           'code' => 'TS',
-          'name' => 'Tarrafal de São Nicolau',
+          'name' => 'Tarrafal de Sao Nicolau',
+        ),
+      ),
+    ),
+    'CW' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Curacao',
+        ),
+      ),
+    ),
+    'CX' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Christmas Island',
         ),
       ),
     ),
@@ -4338,452 +3495,72 @@ return array (
         0 => 
         array (
           'code' => '31',
-          'name' => 'Jihočeský kraj',
+          'name' => 'Jihocesky kraj',
         ),
         1 => 
         array (
           'code' => '64',
-          'name' => 'Jihomoravský kraj',
+          'name' => 'Jihomoravsky kraj',
         ),
         2 => 
         array (
           'code' => '41',
-          'name' => 'Karlovarský kraj',
+          'name' => 'Karlovarsky kraj',
         ),
         3 => 
         array (
-          'code' => '52',
-          'name' => 'Královéhradecký kraj',
+          'code' => '63',
+          'name' => 'Kraj Vysocina',
         ),
         4 => 
         array (
-          'code' => '51',
-          'name' => 'Liberecký kraj',
+          'code' => '52',
+          'name' => 'Kralovehradecky kraj',
         ),
         5 => 
         array (
-          'code' => '80',
-          'name' => 'Moravskoslezský kraj',
+          'code' => '51',
+          'name' => 'Liberecky kraj',
         ),
         6 => 
         array (
-          'code' => '71',
-          'name' => 'Olomoucký kraj',
+          'code' => '80',
+          'name' => 'Moravskoslezsky kraj',
         ),
         7 => 
         array (
-          'code' => '53',
-          'name' => 'Pardubický kraj',
+          'code' => '71',
+          'name' => 'Olomoucky kraj',
         ),
         8 => 
         array (
-          'code' => '32',
-          'name' => 'Plzeňský kraj',
+          'code' => '53',
+          'name' => 'Pardubicky kraj',
         ),
         9 => 
         array (
-          'code' => '10',
-          'name' => 'Praha, Hlavní město',
+          'code' => '32',
+          'name' => 'Plzensky kraj',
         ),
         10 => 
         array (
-          'code' => '20',
-          'name' => 'Středočeský kraj',
+          'code' => '10',
+          'name' => 'Praha, Hlavni mesto',
         ),
         11 => 
         array (
-          'code' => '42',
-          'name' => 'Ústecký kraj',
+          'code' => '20',
+          'name' => 'Stredocesky kraj',
         ),
         12 => 
         array (
-          'code' => '63',
-          'name' => 'Kraj Vysočina',
+          'code' => '42',
+          'name' => 'Ustecky kraj',
         ),
         13 => 
         array (
           'code' => '72',
-          'name' => 'Zlínský kraj',
-        ),
-        14 => 
-        array (
-          'code' => '201',
-          'name' => 'Benešov',
-        ),
-        15 => 
-        array (
-          'code' => '202',
-          'name' => 'Beroun',
-        ),
-        16 => 
-        array (
-          'code' => '641',
-          'name' => 'Blansko',
-        ),
-        17 => 
-        array (
-          'code' => '642',
-          'name' => 'Brno-město',
-        ),
-        18 => 
-        array (
-          'code' => '643',
-          'name' => 'Brno-venkov',
-        ),
-        19 => 
-        array (
-          'code' => '801',
-          'name' => 'Bruntál',
-        ),
-        20 => 
-        array (
-          'code' => '644',
-          'name' => 'Břeclav',
-        ),
-        21 => 
-        array (
-          'code' => '511',
-          'name' => 'Česká Lípa',
-        ),
-        22 => 
-        array (
-          'code' => '311',
-          'name' => 'České Budějovice',
-        ),
-        23 => 
-        array (
-          'code' => '312',
-          'name' => 'Český Krumlov',
-        ),
-        24 => 
-        array (
-          'code' => '421',
-          'name' => 'Děčín',
-        ),
-        25 => 
-        array (
-          'code' => '321',
-          'name' => 'Domažlice',
-        ),
-        26 => 
-        array (
-          'code' => '802',
-          'name' => 'Frýdek-Místek',
-        ),
-        27 => 
-        array (
-          'code' => '631',
-          'name' => 'Havlíčkův Brod',
-        ),
-        28 => 
-        array (
-          'code' => '645',
-          'name' => 'Hodonín',
-        ),
-        29 => 
-        array (
-          'code' => '521',
-          'name' => 'Hradec Králové',
-        ),
-        30 => 
-        array (
-          'code' => '411',
-          'name' => 'Cheb',
-        ),
-        31 => 
-        array (
-          'code' => '422',
-          'name' => 'Chomutov',
-        ),
-        32 => 
-        array (
-          'code' => '531',
-          'name' => 'Chrudim',
-        ),
-        33 => 
-        array (
-          'code' => '512',
-          'name' => 'Jablonec nad Nisou',
-        ),
-        34 => 
-        array (
-          'code' => '711',
-          'name' => 'Jeseník',
-        ),
-        35 => 
-        array (
-          'code' => '522',
-          'name' => 'Jičín',
-        ),
-        36 => 
-        array (
-          'code' => '632',
-          'name' => 'Jihlava',
-        ),
-        37 => 
-        array (
-          'code' => '313',
-          'name' => 'Jindřichův Hradec',
-        ),
-        38 => 
-        array (
-          'code' => '412',
-          'name' => 'Karlovy Vary',
-        ),
-        39 => 
-        array (
-          'code' => '803',
-          'name' => 'Karviná',
-        ),
-        40 => 
-        array (
-          'code' => '203',
-          'name' => 'Kladno',
-        ),
-        41 => 
-        array (
-          'code' => '322',
-          'name' => 'Klatovy',
-        ),
-        42 => 
-        array (
-          'code' => '204',
-          'name' => 'Kolín',
-        ),
-        43 => 
-        array (
-          'code' => '721',
-          'name' => 'Kroměříž',
-        ),
-        44 => 
-        array (
-          'code' => '205',
-          'name' => 'Kutná Hora',
-        ),
-        45 => 
-        array (
-          'code' => '513',
-          'name' => 'Liberec',
-        ),
-        46 => 
-        array (
-          'code' => '423',
-          'name' => 'Litoměřice',
-        ),
-        47 => 
-        array (
-          'code' => '424',
-          'name' => 'Louny',
-        ),
-        48 => 
-        array (
-          'code' => '206',
-          'name' => 'Mělník',
-        ),
-        49 => 
-        array (
-          'code' => '207',
-          'name' => 'Mladá Boleslav',
-        ),
-        50 => 
-        array (
-          'code' => '425',
-          'name' => 'Most',
-        ),
-        51 => 
-        array (
-          'code' => '523',
-          'name' => 'Náchod',
-        ),
-        52 => 
-        array (
-          'code' => '804',
-          'name' => 'Nový Jičín',
-        ),
-        53 => 
-        array (
-          'code' => '208',
-          'name' => 'Nymburk',
-        ),
-        54 => 
-        array (
-          'code' => '712',
-          'name' => 'Olomouc',
-        ),
-        55 => 
-        array (
-          'code' => '805',
-          'name' => 'Opava',
-        ),
-        56 => 
-        array (
-          'code' => '806',
-          'name' => 'Ostrava-město',
-        ),
-        57 => 
-        array (
-          'code' => '532',
-          'name' => 'Pardubice',
-        ),
-        58 => 
-        array (
-          'code' => '633',
-          'name' => 'Pelhřimov',
-        ),
-        59 => 
-        array (
-          'code' => '314',
-          'name' => 'Písek',
-        ),
-        60 => 
-        array (
-          'code' => '324',
-          'name' => 'Plzeň-jih',
-        ),
-        61 => 
-        array (
-          'code' => '323',
-          'name' => 'Plzeň-město',
-        ),
-        62 => 
-        array (
-          'code' => '325',
-          'name' => 'Plzeň-sever',
-        ),
-        63 => 
-        array (
-          'code' => '209',
-          'name' => 'Praha-východ',
-        ),
-        64 => 
-        array (
-          'code' => '20A',
-          'name' => 'Praha-západ',
-        ),
-        65 => 
-        array (
-          'code' => '315',
-          'name' => 'Prachatice',
-        ),
-        66 => 
-        array (
-          'code' => '713',
-          'name' => 'Prostějov',
-        ),
-        67 => 
-        array (
-          'code' => '714',
-          'name' => 'Přerov',
-        ),
-        68 => 
-        array (
-          'code' => '20B',
-          'name' => 'Příbram',
-        ),
-        69 => 
-        array (
-          'code' => '20C',
-          'name' => 'Rakovník',
-        ),
-        70 => 
-        array (
-          'code' => '326',
-          'name' => 'Rokycany',
-        ),
-        71 => 
-        array (
-          'code' => '524',
-          'name' => 'Rychnov nad Kněžnou',
-        ),
-        72 => 
-        array (
-          'code' => '514',
-          'name' => 'Semily',
-        ),
-        73 => 
-        array (
-          'code' => '413',
-          'name' => 'Sokolov',
-        ),
-        74 => 
-        array (
-          'code' => '316',
-          'name' => 'Strakonice',
-        ),
-        75 => 
-        array (
-          'code' => '533',
-          'name' => 'Svitavy',
-        ),
-        76 => 
-        array (
-          'code' => '715',
-          'name' => 'Šumperk',
-        ),
-        77 => 
-        array (
-          'code' => '317',
-          'name' => 'Tábor',
-        ),
-        78 => 
-        array (
-          'code' => '327',
-          'name' => 'Tachov',
-        ),
-        79 => 
-        array (
-          'code' => '426',
-          'name' => 'Teplice',
-        ),
-        80 => 
-        array (
-          'code' => '525',
-          'name' => 'Trutnov',
-        ),
-        81 => 
-        array (
-          'code' => '634',
-          'name' => 'Třebíč',
-        ),
-        82 => 
-        array (
-          'code' => '722',
-          'name' => 'Uherské Hradiště',
-        ),
-        83 => 
-        array (
-          'code' => '427',
-          'name' => 'Ústí nad Labem',
-        ),
-        84 => 
-        array (
-          'code' => '534',
-          'name' => 'Ústí nad Orlicí',
-        ),
-        85 => 
-        array (
-          'code' => '723',
-          'name' => 'Vsetín',
-        ),
-        86 => 
-        array (
-          'code' => '646',
-          'name' => 'Vyškov',
-        ),
-        87 => 
-        array (
-          'code' => '724',
-          'name' => 'Zlín',
-        ),
-        88 => 
-        array (
-          'code' => '647',
-          'name' => 'Znojmo',
-        ),
-        89 => 
-        array (
-          'code' => '635',
-          'name' => 'Žďár nad Sázavou',
+          'name' => 'Zlinsky kraj',
         ),
       ),
     ),
@@ -4794,7 +3571,7 @@ return array (
         0 => 
         array (
           'code' => 'BW',
-          'name' => 'Baden-Württemberg',
+          'name' => 'Baden-Wurttemberg',
         ),
         1 => 
         array (
@@ -4869,7 +3646,7 @@ return array (
         15 => 
         array (
           'code' => 'TH',
-          'name' => 'Thüringen',
+          'name' => 'Thuringen',
         ),
       ),
     ),
@@ -4879,33 +3656,13 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'AS',
-          'name' => 'Ali Sabieh',
-        ),
-        1 => 
-        array (
           'code' => 'AR',
           'name' => 'Arta',
         ),
-        2 => 
-        array (
-          'code' => 'DI',
-          'name' => 'Dikhil',
-        ),
-        3 => 
+        1 => 
         array (
           'code' => 'DJ',
           'name' => 'Djibouti',
-        ),
-        4 => 
-        array (
-          'code' => 'OB',
-          'name' => 'Obock',
-        ),
-        5 => 
-        array (
-          'code' => 'TA',
-          'name' => 'Tadjourah',
         ),
       ),
     ),
@@ -4931,7 +3688,7 @@ return array (
         3 => 
         array (
           'code' => '85',
-          'name' => 'Sjælland',
+          'name' => 'Sjaelland',
         ),
         4 => 
         array (
@@ -4951,48 +3708,33 @@ return array (
         ),
         1 => 
         array (
-          'code' => '03',
-          'name' => 'Saint David',
-        ),
-        2 => 
-        array (
           'code' => '04',
           'name' => 'Saint George',
         ),
-        3 => 
+        2 => 
         array (
           'code' => '05',
           'name' => 'Saint John',
         ),
-        4 => 
+        3 => 
         array (
           'code' => '06',
           'name' => 'Saint Joseph',
         ),
-        5 => 
+        4 => 
         array (
           'code' => '07',
           'name' => 'Saint Luke',
         ),
-        6 => 
-        array (
-          'code' => '08',
-          'name' => 'Saint Mark',
-        ),
-        7 => 
+        5 => 
         array (
           'code' => '09',
           'name' => 'Saint Patrick',
         ),
-        8 => 
+        6 => 
         array (
           'code' => '10',
           'name' => 'Saint Paul',
-        ),
-        9 => 
-        array (
-          'code' => '11',
-          'name' => 'Saint Peter',
         ),
       ),
     ),
@@ -5002,210 +3744,150 @@ return array (
       array (
         0 => 
         array (
-          'code' => '33',
-          'name' => 'Cibao Nordeste',
-        ),
-        1 => 
-        array (
-          'code' => '34',
-          'name' => 'Cibao Noroeste',
-        ),
-        2 => 
-        array (
-          'code' => '35',
-          'name' => 'Cibao Norte',
-        ),
-        3 => 
-        array (
-          'code' => '36',
-          'name' => 'Cibao Sur',
-        ),
-        4 => 
-        array (
-          'code' => '37',
-          'name' => 'El Valle',
-        ),
-        5 => 
-        array (
-          'code' => '38',
-          'name' => 'Enriquillo',
-        ),
-        6 => 
-        array (
-          'code' => '39',
-          'name' => 'Higuamo',
-        ),
-        7 => 
-        array (
-          'code' => '40',
-          'name' => 'Ozama',
-        ),
-        8 => 
-        array (
-          'code' => '41',
-          'name' => 'Valdesia',
-        ),
-        9 => 
-        array (
-          'code' => '42',
-          'name' => 'Yuma',
-        ),
-        10 => 
-        array (
           'code' => '02',
           'name' => 'Azua',
         ),
-        11 => 
+        1 => 
         array (
           'code' => '03',
           'name' => 'Baoruco',
         ),
-        12 => 
+        2 => 
         array (
           'code' => '04',
           'name' => 'Barahona',
         ),
-        13 => 
+        3 => 
         array (
           'code' => '05',
-          'name' => 'Dajabón',
+          'name' => 'Dajabon',
         ),
-        14 => 
+        4 => 
         array (
           'code' => '01',
-          'name' => 'Distrito Nacional',
+          'name' => 'Distrito Nacional (Santo Domingo)',
         ),
-        15 => 
+        5 => 
         array (
           'code' => '06',
           'name' => 'Duarte',
         ),
-        16 => 
+        6 => 
         array (
           'code' => '08',
           'name' => 'El Seibo',
         ),
-        17 => 
+        7 => 
         array (
           'code' => '07',
-          'name' => 'Elías Piña',
+          'name' => 'Elias Pina',
         ),
-        18 => 
+        8 => 
         array (
           'code' => '09',
           'name' => 'Espaillat',
         ),
-        19 => 
+        9 => 
         array (
           'code' => '30',
           'name' => 'Hato Mayor',
         ),
-        20 => 
+        10 => 
         array (
           'code' => '19',
           'name' => 'Hermanas Mirabal',
         ),
-        21 => 
+        11 => 
         array (
           'code' => '10',
           'name' => 'Independencia',
         ),
-        22 => 
+        12 => 
         array (
           'code' => '11',
           'name' => 'La Altagracia',
         ),
-        23 => 
+        13 => 
         array (
           'code' => '12',
           'name' => 'La Romana',
         ),
-        24 => 
+        14 => 
         array (
           'code' => '13',
           'name' => 'La Vega',
         ),
-        25 => 
+        15 => 
         array (
           'code' => '14',
-          'name' => 'María Trinidad Sánchez',
+          'name' => 'Maria Trinidad Sanchez',
         ),
-        26 => 
+        16 => 
         array (
           'code' => '28',
-          'name' => 'Monseñor Nouel',
+          'name' => 'Monsenor Nouel',
         ),
-        27 => 
+        17 => 
         array (
           'code' => '15',
           'name' => 'Monte Cristi',
         ),
-        28 => 
+        18 => 
         array (
           'code' => '29',
           'name' => 'Monte Plata',
         ),
-        29 => 
-        array (
-          'code' => '16',
-          'name' => 'Pedernales',
-        ),
-        30 => 
+        19 => 
         array (
           'code' => '17',
           'name' => 'Peravia',
         ),
-        31 => 
+        20 => 
         array (
           'code' => '18',
           'name' => 'Puerto Plata',
         ),
-        32 => 
+        21 => 
         array (
           'code' => '20',
-          'name' => 'Samaná',
+          'name' => 'Samana',
         ),
-        33 => 
+        22 => 
         array (
           'code' => '21',
-          'name' => 'San Cristóbal',
+          'name' => 'San Cristobal',
         ),
-        34 => 
+        23 => 
         array (
           'code' => '31',
-          'name' => 'San José de Ocoa',
+          'name' => 'San Jose de Ocoa',
         ),
-        35 => 
+        24 => 
         array (
           'code' => '22',
           'name' => 'San Juan',
         ),
-        36 => 
+        25 => 
         array (
           'code' => '23',
-          'name' => 'San Pedro de Macorís',
+          'name' => 'San Pedro de Macoris',
         ),
-        37 => 
+        26 => 
         array (
           'code' => '24',
-          'name' => 'Sánchez Ramírez',
+          'name' => 'Sanchez Ramirez',
         ),
-        38 => 
+        27 => 
         array (
           'code' => '25',
           'name' => 'Santiago',
         ),
-        39 => 
+        28 => 
         array (
           'code' => '26',
-          'name' => 'Santiago Rodríguez',
+          'name' => 'Santiago Rodriguez',
         ),
-        40 => 
-        array (
-          'code' => '32',
-          'name' => 'Santo Domingo',
-        ),
-        41 => 
+        29 => 
         array (
           'code' => '27',
           'name' => 'Valverde',
@@ -5224,12 +3906,12 @@ return array (
         1 => 
         array (
           'code' => '44',
-          'name' => 'Aïn Defla',
+          'name' => 'Ain Defla',
         ),
         2 => 
         array (
           'code' => '46',
-          'name' => 'Aïn Témouchent',
+          'name' => 'Ain Temouchent',
         ),
         3 => 
         array (
@@ -5249,262 +3931,212 @@ return array (
         6 => 
         array (
           'code' => '08',
-          'name' => 'Béchar',
+          'name' => 'Bechar',
         ),
         7 => 
         array (
           'code' => '06',
-          'name' => 'Béjaïa',
+          'name' => 'Bejaia',
         ),
         8 => 
-        array (
-          'code' => '52',
-          'name' => 'Béni Abbès',
-        ),
-        9 => 
         array (
           'code' => '07',
           'name' => 'Biskra',
         ),
-        10 => 
+        9 => 
         array (
           'code' => '09',
           'name' => 'Blida',
         ),
-        11 => 
-        array (
-          'code' => '50',
-          'name' => 'Bordj Badji Mokhtar',
-        ),
-        12 => 
+        10 => 
         array (
           'code' => '34',
-          'name' => 'Bordj Bou Arréridj',
+          'name' => 'Bordj Bou Arreridj',
         ),
-        13 => 
+        11 => 
         array (
           'code' => '10',
           'name' => 'Bouira',
         ),
-        14 => 
+        12 => 
         array (
           'code' => '35',
-          'name' => 'Boumerdès',
+          'name' => 'Boumerdes',
         ),
-        15 => 
+        13 => 
         array (
           'code' => '02',
           'name' => 'Chlef',
         ),
-        16 => 
+        14 => 
         array (
           'code' => '25',
           'name' => 'Constantine',
         ),
-        17 => 
-        array (
-          'code' => '56',
-          'name' => 'Djanet',
-        ),
-        18 => 
+        15 => 
         array (
           'code' => '17',
           'name' => 'Djelfa',
         ),
-        19 => 
+        16 => 
         array (
           'code' => '32',
           'name' => 'El Bayadh',
         ),
-        20 => 
-        array (
-          'code' => '57',
-          'name' => 'El Meghaier',
-        ),
-        21 => 
-        array (
-          'code' => '58',
-          'name' => 'El Meniaa',
-        ),
-        22 => 
+        17 => 
         array (
           'code' => '39',
           'name' => 'El Oued',
         ),
-        23 => 
+        18 => 
         array (
           'code' => '36',
           'name' => 'El Tarf',
         ),
-        24 => 
+        19 => 
         array (
           'code' => '47',
-          'name' => 'Ghardaïa',
+          'name' => 'Ghardaia',
         ),
-        25 => 
+        20 => 
         array (
           'code' => '24',
           'name' => 'Guelma',
         ),
-        26 => 
+        21 => 
         array (
           'code' => '33',
           'name' => 'Illizi',
         ),
-        27 => 
-        array (
-          'code' => '54',
-          'name' => 'In Guezzam',
-        ),
-        28 => 
-        array (
-          'code' => '53',
-          'name' => 'In Salah',
-        ),
-        29 => 
+        22 => 
         array (
           'code' => '18',
           'name' => 'Jijel',
         ),
-        30 => 
+        23 => 
         array (
           'code' => '40',
           'name' => 'Khenchela',
         ),
-        31 => 
+        24 => 
         array (
           'code' => '03',
           'name' => 'Laghouat',
         ),
-        32 => 
+        25 => 
         array (
           'code' => '28',
           'name' => 'M\'sila',
         ),
-        33 => 
+        26 => 
         array (
           'code' => '29',
           'name' => 'Mascara',
         ),
-        34 => 
+        27 => 
         array (
           'code' => '26',
-          'name' => 'Médéa',
+          'name' => 'Medea',
         ),
-        35 => 
+        28 => 
         array (
           'code' => '43',
           'name' => 'Mila',
         ),
-        36 => 
+        29 => 
         array (
           'code' => '27',
           'name' => 'Mostaganem',
         ),
-        37 => 
+        30 => 
         array (
           'code' => '45',
           'name' => 'Naama',
         ),
-        38 => 
+        31 => 
         array (
           'code' => '31',
           'name' => 'Oran',
         ),
-        39 => 
+        32 => 
         array (
           'code' => '30',
           'name' => 'Ouargla',
         ),
-        40 => 
-        array (
-          'code' => '51',
-          'name' => 'Ouled Djellal',
-        ),
-        41 => 
+        33 => 
         array (
           'code' => '04',
           'name' => 'Oum el Bouaghi',
         ),
-        42 => 
+        34 => 
         array (
           'code' => '48',
           'name' => 'Relizane',
         ),
-        43 => 
+        35 => 
         array (
           'code' => '20',
-          'name' => 'Saïda',
+          'name' => 'Saida',
         ),
-        44 => 
+        36 => 
         array (
           'code' => '19',
-          'name' => 'Sétif',
+          'name' => 'Setif',
         ),
-        45 => 
+        37 => 
         array (
           'code' => '22',
-          'name' => 'Sidi Bel Abbès',
+          'name' => 'Sidi Bel Abbes',
         ),
-        46 => 
+        38 => 
         array (
           'code' => '21',
           'name' => 'Skikda',
         ),
-        47 => 
+        39 => 
         array (
           'code' => '41',
           'name' => 'Souk Ahras',
         ),
-        48 => 
+        40 => 
         array (
           'code' => '11',
           'name' => 'Tamanrasset',
         ),
-        49 => 
+        41 => 
         array (
           'code' => '12',
-          'name' => 'Tébessa',
+          'name' => 'Tebessa',
         ),
-        50 => 
+        42 => 
         array (
           'code' => '14',
           'name' => 'Tiaret',
         ),
-        51 => 
-        array (
-          'code' => '49',
-          'name' => 'Timimoun',
-        ),
-        52 => 
+        43 => 
         array (
           'code' => '37',
           'name' => 'Tindouf',
         ),
-        53 => 
+        44 => 
         array (
           'code' => '42',
           'name' => 'Tipaza',
         ),
-        54 => 
+        45 => 
         array (
           'code' => '38',
           'name' => 'Tissemsilt',
         ),
-        55 => 
+        46 => 
         array (
           'code' => '15',
           'name' => 'Tizi Ouzou',
         ),
-        56 => 
+        47 => 
         array (
           'code' => '13',
           'name' => 'Tlemcen',
-        ),
-        57 => 
-        array (
-          'code' => '55',
-          'name' => 'Touggourt',
         ),
       ),
     ),
@@ -5520,12 +4152,12 @@ return array (
         1 => 
         array (
           'code' => 'B',
-          'name' => 'Bolívar',
+          'name' => 'Bolivar',
         ),
         2 => 
         array (
           'code' => 'F',
-          'name' => 'Cañar',
+          'name' => 'Canar',
         ),
         3 => 
         array (
@@ -5555,7 +4187,7 @@ return array (
         8 => 
         array (
           'code' => 'W',
-          'name' => 'Galápagos',
+          'name' => 'Galapagos',
         ),
         9 => 
         array (
@@ -5575,12 +4207,12 @@ return array (
         12 => 
         array (
           'code' => 'R',
-          'name' => 'Los Ríos',
+          'name' => 'Los Rios',
         ),
         13 => 
         array (
           'code' => 'M',
-          'name' => 'Manabí',
+          'name' => 'Manabi',
         ),
         14 => 
         array (
@@ -5615,12 +4247,12 @@ return array (
         20 => 
         array (
           'code' => 'SD',
-          'name' => 'Santo Domingo de los Tsáchilas',
+          'name' => 'Santo Domingo de los Tsachilas',
         ),
         21 => 
         array (
           'code' => 'U',
-          'name' => 'Sucumbíos',
+          'name' => 'Sucumbios',
         ),
         22 => 
         array (
@@ -5655,33 +4287,33 @@ return array (
         ),
         3 => 
         array (
-          'code' => '50',
-          'name' => 'Jõgevamaa',
+          'code' => '52',
+          'name' => 'Jarvamaa',
         ),
         4 => 
         array (
-          'code' => '52',
-          'name' => 'Järvamaa',
+          'code' => '50',
+          'name' => 'Jogevamaa',
         ),
         5 => 
         array (
           'code' => '60',
-          'name' => 'Lääne-Virumaa',
+          'name' => 'Laane-Virumaa',
         ),
         6 => 
         array (
           'code' => '56',
-          'name' => 'Läänemaa',
+          'name' => 'Laanemaa',
         ),
         7 => 
         array (
-          'code' => '64',
-          'name' => 'Põlvamaa',
+          'code' => '68',
+          'name' => 'Parnumaa',
         ),
         8 => 
         array (
-          'code' => '68',
-          'name' => 'Pärnumaa',
+          'code' => '64',
+          'name' => 'Polvamaa',
         ),
         9 => 
         array (
@@ -5711,402 +4343,7 @@ return array (
         14 => 
         array (
           'code' => '87',
-          'name' => 'Võrumaa',
-        ),
-        15 => 
-        array (
-          'code' => '130',
-          'name' => 'Alutaguse',
-        ),
-        16 => 
-        array (
-          'code' => '141',
-          'name' => 'Anija',
-        ),
-        17 => 
-        array (
-          'code' => '142',
-          'name' => 'Antsla',
-        ),
-        18 => 
-        array (
-          'code' => '171',
-          'name' => 'Elva',
-        ),
-        19 => 
-        array (
-          'code' => '184',
-          'name' => 'Haapsalu',
-        ),
-        20 => 
-        array (
-          'code' => '191',
-          'name' => 'Haljala',
-        ),
-        21 => 
-        array (
-          'code' => '198',
-          'name' => 'Harku',
-        ),
-        22 => 
-        array (
-          'code' => '205',
-          'name' => 'Hiiumaa',
-        ),
-        23 => 
-        array (
-          'code' => '214',
-          'name' => 'Häädemeeste',
-        ),
-        24 => 
-        array (
-          'code' => '245',
-          'name' => 'Jõelähtme',
-        ),
-        25 => 
-        array (
-          'code' => '247',
-          'name' => 'Jõgeva',
-        ),
-        26 => 
-        array (
-          'code' => '251',
-          'name' => 'Jõhvi',
-        ),
-        27 => 
-        array (
-          'code' => '255',
-          'name' => 'Järva',
-        ),
-        28 => 
-        array (
-          'code' => '272',
-          'name' => 'Kadrina',
-        ),
-        29 => 
-        array (
-          'code' => '283',
-          'name' => 'Kambja',
-        ),
-        30 => 
-        array (
-          'code' => '284',
-          'name' => 'Kanepi',
-        ),
-        31 => 
-        array (
-          'code' => '291',
-          'name' => 'Kastre',
-        ),
-        32 => 
-        array (
-          'code' => '293',
-          'name' => 'Kehtna',
-        ),
-        33 => 
-        array (
-          'code' => '296',
-          'name' => 'Keila',
-        ),
-        34 => 
-        array (
-          'code' => '303',
-          'name' => 'Kihnu',
-        ),
-        35 => 
-        array (
-          'code' => '305',
-          'name' => 'Kiili',
-        ),
-        36 => 
-        array (
-          'code' => '317',
-          'name' => 'Kohila',
-        ),
-        37 => 
-        array (
-          'code' => '321',
-          'name' => 'Kohtla-Järve',
-        ),
-        38 => 
-        array (
-          'code' => '338',
-          'name' => 'Kose',
-        ),
-        39 => 
-        array (
-          'code' => '353',
-          'name' => 'Kuusalu',
-        ),
-        40 => 
-        array (
-          'code' => '424',
-          'name' => 'Loksa',
-        ),
-        41 => 
-        array (
-          'code' => '432',
-          'name' => 'Luunja',
-        ),
-        42 => 
-        array (
-          'code' => '431',
-          'name' => 'Lääne-Harju',
-        ),
-        43 => 
-        array (
-          'code' => '441',
-          'name' => 'Lääne-Nigula',
-        ),
-        44 => 
-        array (
-          'code' => '430',
-          'name' => 'Lääneranna',
-        ),
-        45 => 
-        array (
-          'code' => '442',
-          'name' => 'Lüganuse',
-        ),
-        46 => 
-        array (
-          'code' => '446',
-          'name' => 'Maardu',
-        ),
-        47 => 
-        array (
-          'code' => '478',
-          'name' => 'Muhu',
-        ),
-        48 => 
-        array (
-          'code' => '480',
-          'name' => 'Mulgi',
-        ),
-        49 => 
-        array (
-          'code' => '486',
-          'name' => 'Mustvee',
-        ),
-        50 => 
-        array (
-          'code' => '503',
-          'name' => 'Märjamaa',
-        ),
-        51 => 
-        array (
-          'code' => '511',
-          'name' => 'Narva',
-        ),
-        52 => 
-        array (
-          'code' => '514',
-          'name' => 'Narva-Jõesuu',
-        ),
-        53 => 
-        array (
-          'code' => '528',
-          'name' => 'Nõo',
-        ),
-        54 => 
-        array (
-          'code' => '557',
-          'name' => 'Otepää',
-        ),
-        55 => 
-        array (
-          'code' => '567',
-          'name' => 'Paide',
-        ),
-        56 => 
-        array (
-          'code' => '586',
-          'name' => 'Peipsiääre',
-        ),
-        57 => 
-        array (
-          'code' => '638',
-          'name' => 'Põhja-Pärnumaa',
-        ),
-        58 => 
-        array (
-          'code' => '615',
-          'name' => 'Põhja-Sakala',
-        ),
-        59 => 
-        array (
-          'code' => '618',
-          'name' => 'Põltsamaa',
-        ),
-        60 => 
-        array (
-          'code' => '622',
-          'name' => 'Põlva',
-        ),
-        61 => 
-        array (
-          'code' => '624',
-          'name' => 'Pärnu',
-        ),
-        62 => 
-        array (
-          'code' => '651',
-          'name' => 'Raasiku',
-        ),
-        63 => 
-        array (
-          'code' => '653',
-          'name' => 'Rae',
-        ),
-        64 => 
-        array (
-          'code' => '661',
-          'name' => 'Rakvere',
-        ),
-        65 => 
-        array (
-          'code' => '663',
-          'name' => 'Rakvere',
-        ),
-        66 => 
-        array (
-          'code' => '668',
-          'name' => 'Rapla',
-        ),
-        67 => 
-        array (
-          'code' => '689',
-          'name' => 'Ruhnu',
-        ),
-        68 => 
-        array (
-          'code' => '698',
-          'name' => 'Rõuge',
-        ),
-        69 => 
-        array (
-          'code' => '708',
-          'name' => 'Räpina',
-        ),
-        70 => 
-        array (
-          'code' => '712',
-          'name' => 'Saarde',
-        ),
-        71 => 
-        array (
-          'code' => '714',
-          'name' => 'Saaremaa',
-        ),
-        72 => 
-        array (
-          'code' => '719',
-          'name' => 'Saku',
-        ),
-        73 => 
-        array (
-          'code' => '726',
-          'name' => 'Saue',
-        ),
-        74 => 
-        array (
-          'code' => '732',
-          'name' => 'Setomaa',
-        ),
-        75 => 
-        array (
-          'code' => '735',
-          'name' => 'Sillamäe',
-        ),
-        76 => 
-        array (
-          'code' => '784',
-          'name' => 'Tallinn',
-        ),
-        77 => 
-        array (
-          'code' => '792',
-          'name' => 'Tapa',
-        ),
-        78 => 
-        array (
-          'code' => '796',
-          'name' => 'Tartu',
-        ),
-        79 => 
-        array (
-          'code' => '793',
-          'name' => 'Tartu',
-        ),
-        80 => 
-        array (
-          'code' => '803',
-          'name' => 'Toila',
-        ),
-        81 => 
-        array (
-          'code' => '809',
-          'name' => 'Tori',
-        ),
-        82 => 
-        array (
-          'code' => '824',
-          'name' => 'Tõrva',
-        ),
-        83 => 
-        array (
-          'code' => '834',
-          'name' => 'Türi',
-        ),
-        84 => 
-        array (
-          'code' => '855',
-          'name' => 'Valga',
-        ),
-        85 => 
-        array (
-          'code' => '890',
-          'name' => 'Viimsi',
-        ),
-        86 => 
-        array (
-          'code' => '899',
-          'name' => 'Viljandi',
-        ),
-        87 => 
-        array (
-          'code' => '897',
-          'name' => 'Viljandi',
-        ),
-        88 => 
-        array (
-          'code' => '901',
-          'name' => 'Vinni',
-        ),
-        89 => 
-        array (
-          'code' => '903',
-          'name' => 'Viru-Nigula',
-        ),
-        90 => 
-        array (
-          'code' => '907',
-          'name' => 'Vormsi',
-        ),
-        91 => 
-        array (
-          'code' => '917',
-          'name' => 'Võru',
-        ),
-        92 => 
-        array (
-          'code' => '919',
-          'name' => 'Võru',
-        ),
-        93 => 
-        array (
-          'code' => '928',
-          'name' => 'Väike-Maarja',
+          'name' => 'Vorumaa',
         ),
       ),
     ),
@@ -6117,72 +4354,72 @@ return array (
         0 => 
         array (
           'code' => 'DK',
-          'name' => 'Ad Daqahlīyah',
+          'name' => 'Ad Daqahliyah',
         ),
         1 => 
         array (
           'code' => 'BA',
-          'name' => 'Al Baḩr al Aḩmar',
+          'name' => 'Al Bahr al Ahmar',
         ),
         2 => 
         array (
           'code' => 'BH',
-          'name' => 'Al Buḩayrah',
+          'name' => 'Al Buhayrah',
         ),
         3 => 
         array (
           'code' => 'FYM',
-          'name' => 'Al Fayyūm',
+          'name' => 'Al Fayyum',
         ),
         4 => 
         array (
           'code' => 'GH',
-          'name' => 'Al Gharbīyah',
+          'name' => 'Al Gharbiyah',
         ),
         5 => 
         array (
           'code' => 'ALX',
-          'name' => 'Al Iskandarīyah',
+          'name' => 'Al Iskandariyah',
         ),
         6 => 
         array (
           'code' => 'IS',
-          'name' => 'Al Ismā\'īlīyah',
+          'name' => 'Al Isma\'iliyah',
         ),
         7 => 
         array (
           'code' => 'GZ',
-          'name' => 'Al Jīzah',
+          'name' => 'Al Jizah',
         ),
         8 => 
         array (
           'code' => 'MNF',
-          'name' => 'Al Minūfīyah',
+          'name' => 'Al Minufiyah',
         ),
         9 => 
         array (
           'code' => 'MN',
-          'name' => 'Al Minyā',
+          'name' => 'Al Minya',
         ),
         10 => 
         array (
           'code' => 'C',
-          'name' => 'Al Qāhirah',
+          'name' => 'Al Qahirah',
         ),
         11 => 
         array (
           'code' => 'KB',
-          'name' => 'Al Qalyūbīyah',
+          'name' => 'Al Qalyubiyah',
         ),
         12 => 
         array (
           'code' => 'LX',
-          'name' => 'Al Uqşur',
+          'name' => 'Al Uqsur',
         ),
         13 => 
         array (
           'code' => 'WAD',
-          'name' => 'Al Wādī al Jadīd',
+          'name' => 'Al Wadi al Jadid',
         ),
         14 => 
         array (
@@ -6192,37 +4429,37 @@ return array (
         15 => 
         array (
           'code' => 'SHR',
-          'name' => 'Ash Sharqīyah',
+          'name' => 'Ash Sharqiyah',
         ),
         16 => 
         array (
           'code' => 'ASN',
-          'name' => 'Aswān',
+          'name' => 'Aswan',
         ),
         17 => 
         array (
           'code' => 'AST',
-          'name' => 'Asyūţ',
+          'name' => 'Asyut',
         ),
         18 => 
         array (
           'code' => 'BNS',
-          'name' => 'Banī Suwayf',
+          'name' => 'Bani Suwayf',
         ),
         19 => 
         array (
           'code' => 'PTS',
-          'name' => 'Būr Sa‘īd',
+          'name' => 'Bur Sa\'id',
         ),
         20 => 
         array (
           'code' => 'DT',
-          'name' => 'Dumyāţ',
+          'name' => 'Dumyat',
         ),
         21 => 
         array (
           'code' => 'JS',
-          'name' => 'Janūb Sīnā\'',
+          'name' => 'Janub Sina\'',
         ),
         22 => 
         array (
@@ -6232,22 +4469,33 @@ return array (
         23 => 
         array (
           'code' => 'MT',
-          'name' => 'Maţrūḩ',
+          'name' => 'Matruh',
         ),
         24 => 
         array (
           'code' => 'KN',
-          'name' => 'Qinā',
+          'name' => 'Qina',
         ),
         25 => 
         array (
           'code' => 'SIN',
-          'name' => 'Shamāl Sīnā\'',
+          'name' => 'Shamal Sina\'',
         ),
         26 => 
         array (
           'code' => 'SHG',
-          'name' => 'Sūhāj',
+          'name' => 'Suhaj',
+        ),
+      ),
+    ),
+    'EH' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Western Sahara',
         ),
       ),
     ),
@@ -6258,32 +4506,17 @@ return array (
         0 => 
         array (
           'code' => 'MA',
-          'name' => 'Al Awsaţ',
+          'name' => 'Al Awsat',
         ),
         1 => 
         array (
-          'code' => 'DU',
-          'name' => 'Al Janūbī',
+          'code' => 'DK',
+          'name' => 'Janubi al Bahri al Ahmar',
         ),
         2 => 
         array (
-          'code' => 'AN',
-          'name' => 'Ansabā',
-        ),
-        3 => 
-        array (
-          'code' => 'DK',
-          'name' => 'Janūbī al Baḩrī al Aḩmar',
-        ),
-        4 => 
-        array (
-          'code' => 'GB',
-          'name' => 'Qāsh-Barkah',
-        ),
-        5 => 
-        array (
           'code' => 'SK',
-          'name' => 'Shimālī al Baḩrī al Aḩmar',
+          'name' => 'Shimali al Bahri al Ahmar',
         ),
       ),
     ),
@@ -6294,12 +4527,12 @@ return array (
         0 => 
         array (
           'code' => 'AN',
-          'name' => 'Andalucía',
+          'name' => 'Andalucia',
         ),
         1 => 
         array (
           'code' => 'AR',
-          'name' => 'Aragón',
+          'name' => 'Aragon',
         ),
         2 => 
         array (
@@ -6319,7 +4552,7 @@ return array (
         5 => 
         array (
           'code' => 'CL',
-          'name' => 'Castilla y León',
+          'name' => 'Castilla y Leon',
         ),
         6 => 
         array (
@@ -6369,7 +4602,7 @@ return array (
         15 => 
         array (
           'code' => 'MC',
-          'name' => 'Murcia, Región de',
+          'name' => 'Murcia, Region de',
         ),
         16 => 
         array (
@@ -6379,262 +4612,12 @@ return array (
         17 => 
         array (
           'code' => 'PV',
-          'name' => 'País Vasco',
+          'name' => 'Pais Vasco',
         ),
         18 => 
         array (
           'code' => 'VC',
           'name' => 'Valenciana, Comunidad',
-        ),
-        19 => 
-        array (
-          'code' => 'C',
-          'name' => 'A Coruña',
-        ),
-        20 => 
-        array (
-          'code' => 'VI',
-          'name' => 'Álava',
-        ),
-        21 => 
-        array (
-          'code' => 'AB',
-          'name' => 'Albacete',
-        ),
-        22 => 
-        array (
-          'code' => 'A',
-          'name' => 'Alicante',
-        ),
-        23 => 
-        array (
-          'code' => 'AL',
-          'name' => 'Almería',
-        ),
-        24 => 
-        array (
-          'code' => 'O',
-          'name' => 'Asturias',
-        ),
-        25 => 
-        array (
-          'code' => 'AV',
-          'name' => 'Ávila',
-        ),
-        26 => 
-        array (
-          'code' => 'BA',
-          'name' => 'Badajoz',
-        ),
-        27 => 
-        array (
-          'code' => 'B',
-          'name' => 'Barcelona',
-        ),
-        28 => 
-        array (
-          'code' => 'BI',
-          'name' => 'Bizkaia',
-        ),
-        29 => 
-        array (
-          'code' => 'BU',
-          'name' => 'Burgos',
-        ),
-        30 => 
-        array (
-          'code' => 'CC',
-          'name' => 'Cáceres',
-        ),
-        31 => 
-        array (
-          'code' => 'CA',
-          'name' => 'Cádiz',
-        ),
-        32 => 
-        array (
-          'code' => 'S',
-          'name' => 'Cantabria',
-        ),
-        33 => 
-        array (
-          'code' => 'CS',
-          'name' => 'Castellón',
-        ),
-        34 => 
-        array (
-          'code' => 'CR',
-          'name' => 'Ciudad Real',
-        ),
-        35 => 
-        array (
-          'code' => 'CO',
-          'name' => 'Córdoba',
-        ),
-        36 => 
-        array (
-          'code' => 'CU',
-          'name' => 'Cuenca',
-        ),
-        37 => 
-        array (
-          'code' => 'SS',
-          'name' => 'Gipuzkoa',
-        ),
-        38 => 
-        array (
-          'code' => 'GI',
-          'name' => 'Girona',
-        ),
-        39 => 
-        array (
-          'code' => 'GR',
-          'name' => 'Granada',
-        ),
-        40 => 
-        array (
-          'code' => 'GU',
-          'name' => 'Guadalajara',
-        ),
-        41 => 
-        array (
-          'code' => 'H',
-          'name' => 'Huelva',
-        ),
-        42 => 
-        array (
-          'code' => 'HU',
-          'name' => 'Huesca',
-        ),
-        43 => 
-        array (
-          'code' => 'PM',
-          'name' => 'Illes Balears',
-        ),
-        44 => 
-        array (
-          'code' => 'J',
-          'name' => 'Jaén',
-        ),
-        45 => 
-        array (
-          'code' => 'LO',
-          'name' => 'La Rioja',
-        ),
-        46 => 
-        array (
-          'code' => 'GC',
-          'name' => 'Las Palmas',
-        ),
-        47 => 
-        array (
-          'code' => 'LE',
-          'name' => 'León',
-        ),
-        48 => 
-        array (
-          'code' => 'L',
-          'name' => 'Lleida',
-        ),
-        49 => 
-        array (
-          'code' => 'LU',
-          'name' => 'Lugo',
-        ),
-        50 => 
-        array (
-          'code' => 'M',
-          'name' => 'Madrid',
-        ),
-        51 => 
-        array (
-          'code' => 'MA',
-          'name' => 'Málaga',
-        ),
-        52 => 
-        array (
-          'code' => 'MU',
-          'name' => 'Murcia',
-        ),
-        53 => 
-        array (
-          'code' => 'NA',
-          'name' => 'Navarra',
-        ),
-        54 => 
-        array (
-          'code' => 'OR',
-          'name' => 'Ourense',
-        ),
-        55 => 
-        array (
-          'code' => 'P',
-          'name' => 'Palencia',
-        ),
-        56 => 
-        array (
-          'code' => 'PO',
-          'name' => 'Pontevedra',
-        ),
-        57 => 
-        array (
-          'code' => 'SA',
-          'name' => 'Salamanca',
-        ),
-        58 => 
-        array (
-          'code' => 'TF',
-          'name' => 'Santa Cruz de Tenerife',
-        ),
-        59 => 
-        array (
-          'code' => 'SG',
-          'name' => 'Segovia',
-        ),
-        60 => 
-        array (
-          'code' => 'SE',
-          'name' => 'Sevilla',
-        ),
-        61 => 
-        array (
-          'code' => 'SO',
-          'name' => 'Soria',
-        ),
-        62 => 
-        array (
-          'code' => 'T',
-          'name' => 'Tarragona',
-        ),
-        63 => 
-        array (
-          'code' => 'TE',
-          'name' => 'Teruel',
-        ),
-        64 => 
-        array (
-          'code' => 'TO',
-          'name' => 'Toledo',
-        ),
-        65 => 
-        array (
-          'code' => 'V',
-          'name' => 'Valencia',
-        ),
-        66 => 
-        array (
-          'code' => 'VA',
-          'name' => 'Valladolid',
-        ),
-        67 => 
-        array (
-          'code' => 'ZA',
-          'name' => 'Zamora',
-        ),
-        68 => 
-        array (
-          'code' => 'Z',
-          'name' => 'Zaragoza',
         ),
       ),
     ),
@@ -6645,67 +4628,57 @@ return array (
         0 => 
         array (
           'code' => 'AA',
-          'name' => 'Ādīs Ābeba',
+          'name' => 'Adis Abeba',
         ),
         1 => 
         array (
           'code' => 'AF',
-          'name' => 'Āfar',
+          'name' => 'Afar',
         ),
         2 => 
         array (
           'code' => 'AM',
-          'name' => 'Āmara',
+          'name' => 'Amara',
         ),
         3 => 
         array (
           'code' => 'BE',
-          'name' => 'Bīnshangul Gumuz',
+          'name' => 'Binshangul Gumuz',
         ),
         4 => 
         array (
           'code' => 'DD',
-          'name' => 'Dirē Dawa',
+          'name' => 'Dire Dawa',
         ),
         5 => 
         array (
           'code' => 'GA',
-          'name' => 'Gambēla Hizboch',
+          'name' => 'Gambela Hizboch',
         ),
         6 => 
         array (
           'code' => 'HA',
-          'name' => 'Hārerī Hizb',
+          'name' => 'Hareri Hizb',
         ),
         7 => 
         array (
           'code' => 'OR',
-          'name' => 'Oromīya',
+          'name' => 'Oromiya',
         ),
         8 => 
         array (
-          'code' => 'SI',
-          'name' => 'Sīdama',
+          'code' => 'SO',
+          'name' => 'Sumale',
         ),
         9 => 
-        array (
-          'code' => 'SO',
-          'name' => 'Sumalē',
-        ),
-        10 => 
         array (
           'code' => 'TI',
           'name' => 'Tigray',
         ),
-        11 => 
+        10 => 
         array (
           'code' => 'SN',
-          'name' => 'YeDebub Bihēroch Bihēreseboch na Hizboch',
-        ),
-        12 => 
-        array (
-          'code' => 'SW',
-          'name' => 'YeDebub M‘irab Ītyop’iya Hizboch',
+          'name' => 'YeDebub Biheroch Bihereseboch na Hizboch',
         ),
       ),
     ),
@@ -6715,53 +4688,53 @@ return array (
       array (
         0 => 
         array (
-          'code' => '01',
-          'name' => 'Ahvenanmaan maakunta',
+          'code' => '02',
+          'name' => 'Etela-Karjala',
         ),
         1 => 
         array (
-          'code' => '02',
-          'name' => 'Etelä-Karjala',
+          'code' => '03',
+          'name' => 'Etela-Pohjanmaa',
         ),
         2 => 
         array (
-          'code' => '03',
-          'name' => 'Etelä-Pohjanmaa',
+          'code' => '04',
+          'name' => 'Etela-Savo',
         ),
         3 => 
-        array (
-          'code' => '04',
-          'name' => 'Etelä-Savo',
-        ),
-        4 => 
         array (
           'code' => '05',
           'name' => 'Kainuu',
         ),
-        5 => 
+        4 => 
         array (
           'code' => '06',
-          'name' => 'Kanta-Häme',
+          'name' => 'Kanta-Hame',
         ),
-        6 => 
+        5 => 
         array (
           'code' => '07',
           'name' => 'Keski-Pohjanmaa',
         ),
-        7 => 
+        6 => 
         array (
           'code' => '08',
           'name' => 'Keski-Suomi',
         ),
-        8 => 
+        7 => 
         array (
           'code' => '09',
           'name' => 'Kymenlaakso',
         ),
-        9 => 
+        8 => 
         array (
           'code' => '10',
           'name' => 'Lappi',
+        ),
+        9 => 
+        array (
+          'code' => '16',
+          'name' => 'Paijat-Hame',
         ),
         10 => 
         array (
@@ -6790,20 +4763,15 @@ return array (
         ),
         15 => 
         array (
-          'code' => '16',
-          'name' => 'Päijät-Häme',
-        ),
-        16 => 
-        array (
           'code' => '17',
           'name' => 'Satakunta',
         ),
-        17 => 
+        16 => 
         array (
           'code' => '18',
           'name' => 'Uusimaa',
         ),
-        18 => 
+        17 => 
         array (
           'code' => '19',
           'name' => 'Varsinais-Suomi',
@@ -6831,83 +4799,24 @@ return array (
         ),
         3 => 
         array (
-          'code' => 'W',
-          'name' => 'Western',
-        ),
-        4 => 
-        array (
           'code' => 'R',
           'name' => 'Rotuma',
         ),
-        5 => 
+        4 => 
         array (
-          'code' => '01',
-          'name' => 'Ba',
+          'code' => 'W',
+          'name' => 'Western',
         ),
-        6 => 
+      ),
+    ),
+    'FK' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
         array (
-          'code' => '02',
-          'name' => 'Bua',
-        ),
-        7 => 
-        array (
-          'code' => '03',
-          'name' => 'Cakaudrove',
-        ),
-        8 => 
-        array (
-          'code' => '04',
-          'name' => 'Kadavu',
-        ),
-        9 => 
-        array (
-          'code' => '05',
-          'name' => 'Lau',
-        ),
-        10 => 
-        array (
-          'code' => '06',
-          'name' => 'Lomaiviti',
-        ),
-        11 => 
-        array (
-          'code' => '07',
-          'name' => 'Macuata',
-        ),
-        12 => 
-        array (
-          'code' => '08',
-          'name' => 'Nadroga and Navosa',
-        ),
-        13 => 
-        array (
-          'code' => '09',
-          'name' => 'Naitasiri',
-        ),
-        14 => 
-        array (
-          'code' => '10',
-          'name' => 'Namosi',
-        ),
-        15 => 
-        array (
-          'code' => '11',
-          'name' => 'Ra',
-        ),
-        16 => 
-        array (
-          'code' => '12',
-          'name' => 'Rewa',
-        ),
-        17 => 
-        array (
-          'code' => '13',
-          'name' => 'Serua',
-        ),
-        18 => 
-        array (
-          'code' => '14',
-          'name' => 'Tailevu',
+          'code' => NULL,
+          'name' => 'Falkland Islands (Malvinas)',
         ),
       ),
     ),
@@ -6937,6 +4846,37 @@ return array (
         ),
       ),
     ),
+    'FO' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Eysturoy',
+        ),
+        1 => 
+        array (
+          'code' => NULL,
+          'name' => 'Nordoyar',
+        ),
+        2 => 
+        array (
+          'code' => NULL,
+          'name' => 'Streymoy',
+        ),
+        3 => 
+        array (
+          'code' => NULL,
+          'name' => 'Suduroy',
+        ),
+        4 => 
+        array (
+          'code' => NULL,
+          'name' => 'Vagar',
+        ),
+      ),
+    ),
     'FR' => 
     array (
       'zones' => 
@@ -6944,12 +4884,12 @@ return array (
         0 => 
         array (
           'code' => 'ARA',
-          'name' => 'Auvergne-Rhône-Alpes',
+          'name' => 'Auvergne-Rhone-Alpes',
         ),
         1 => 
         array (
           'code' => 'BFC',
-          'name' => 'Bourgogne-Franche-Comté',
+          'name' => 'Bourgogne-Franche-Comte',
         ),
         2 => 
         array (
@@ -6969,7 +4909,7 @@ return array (
         5 => 
         array (
           'code' => 'GES',
-          'name' => 'Grand Est',
+          'name' => 'Grand-Est',
         ),
         6 => 
         array (
@@ -6979,7 +4919,7 @@ return array (
         7 => 
         array (
           'code' => 'IDF',
-          'name' => 'Île-de-France',
+          'name' => 'Ile-de-France',
         ),
         8 => 
         array (
@@ -7004,562 +4944,7 @@ return array (
         12 => 
         array (
           'code' => 'PAC',
-          'name' => 'Provence-Alpes-Côte-d’Azur',
-        ),
-        13 => 
-        array (
-          'code' => '01',
-          'name' => 'Ain',
-        ),
-        14 => 
-        array (
-          'code' => '02',
-          'name' => 'Aisne',
-        ),
-        15 => 
-        array (
-          'code' => '03',
-          'name' => 'Allier',
-        ),
-        16 => 
-        array (
-          'code' => '04',
-          'name' => 'Alpes-de-Haute-Provence',
-        ),
-        17 => 
-        array (
-          'code' => '06',
-          'name' => 'Alpes-Maritimes',
-        ),
-        18 => 
-        array (
-          'code' => '6AE',
-          'name' => 'Alsace',
-        ),
-        19 => 
-        array (
-          'code' => '07',
-          'name' => 'Ardèche',
-        ),
-        20 => 
-        array (
-          'code' => '08',
-          'name' => 'Ardennes',
-        ),
-        21 => 
-        array (
-          'code' => '09',
-          'name' => 'Ariège',
-        ),
-        22 => 
-        array (
-          'code' => '10',
-          'name' => 'Aube',
-        ),
-        23 => 
-        array (
-          'code' => '11',
-          'name' => 'Aude',
-        ),
-        24 => 
-        array (
-          'code' => '12',
-          'name' => 'Aveyron',
-        ),
-        25 => 
-        array (
-          'code' => '13',
-          'name' => 'Bouches-du-Rhône',
-        ),
-        26 => 
-        array (
-          'code' => '14',
-          'name' => 'Calvados',
-        ),
-        27 => 
-        array (
-          'code' => '15',
-          'name' => 'Cantal',
-        ),
-        28 => 
-        array (
-          'code' => '16',
-          'name' => 'Charente',
-        ),
-        29 => 
-        array (
-          'code' => '17',
-          'name' => 'Charente-Maritime',
-        ),
-        30 => 
-        array (
-          'code' => '18',
-          'name' => 'Cher',
-        ),
-        31 => 
-        array (
-          'code' => '19',
-          'name' => 'Corrèze',
-        ),
-        32 => 
-        array (
-          'code' => '2A',
-          'name' => 'Corse-du-Sud',
-        ),
-        33 => 
-        array (
-          'code' => '21',
-          'name' => 'Côte-d\'Or',
-        ),
-        34 => 
-        array (
-          'code' => '22',
-          'name' => 'Côtes-d\'Armor',
-        ),
-        35 => 
-        array (
-          'code' => '23',
-          'name' => 'Creuse',
-        ),
-        36 => 
-        array (
-          'code' => '79',
-          'name' => 'Deux-Sèvres',
-        ),
-        37 => 
-        array (
-          'code' => '24',
-          'name' => 'Dordogne',
-        ),
-        38 => 
-        array (
-          'code' => '25',
-          'name' => 'Doubs',
-        ),
-        39 => 
-        array (
-          'code' => '26',
-          'name' => 'Drôme',
-        ),
-        40 => 
-        array (
-          'code' => '91',
-          'name' => 'Essonne',
-        ),
-        41 => 
-        array (
-          'code' => '27',
-          'name' => 'Eure',
-        ),
-        42 => 
-        array (
-          'code' => '28',
-          'name' => 'Eure-et-Loir',
-        ),
-        43 => 
-        array (
-          'code' => '29',
-          'name' => 'Finistère',
-        ),
-        44 => 
-        array (
-          'code' => '30',
-          'name' => 'Gard',
-        ),
-        45 => 
-        array (
-          'code' => '32',
-          'name' => 'Gers',
-        ),
-        46 => 
-        array (
-          'code' => '33',
-          'name' => 'Gironde',
-        ),
-        47 => 
-        array (
-          'code' => '971',
-          'name' => 'Guadeloupe',
-        ),
-        48 => 
-        array (
-          'code' => '973',
-          'name' => 'Guyane (française)',
-        ),
-        49 => 
-        array (
-          'code' => '2B',
-          'name' => 'Haute-Corse',
-        ),
-        50 => 
-        array (
-          'code' => '31',
-          'name' => 'Haute-Garonne',
-        ),
-        51 => 
-        array (
-          'code' => '43',
-          'name' => 'Haute-Loire',
-        ),
-        52 => 
-        array (
-          'code' => '52',
-          'name' => 'Haute-Marne',
-        ),
-        53 => 
-        array (
-          'code' => '70',
-          'name' => 'Haute-Saône',
-        ),
-        54 => 
-        array (
-          'code' => '74',
-          'name' => 'Haute-Savoie',
-        ),
-        55 => 
-        array (
-          'code' => '87',
-          'name' => 'Haute-Vienne',
-        ),
-        56 => 
-        array (
-          'code' => '05',
-          'name' => 'Hautes-Alpes',
-        ),
-        57 => 
-        array (
-          'code' => '65',
-          'name' => 'Hautes-Pyrénées',
-        ),
-        58 => 
-        array (
-          'code' => '92',
-          'name' => 'Hauts-de-Seine',
-        ),
-        59 => 
-        array (
-          'code' => '34',
-          'name' => 'Hérault',
-        ),
-        60 => 
-        array (
-          'code' => '35',
-          'name' => 'Ille-et-Vilaine',
-        ),
-        61 => 
-        array (
-          'code' => '36',
-          'name' => 'Indre',
-        ),
-        62 => 
-        array (
-          'code' => '37',
-          'name' => 'Indre-et-Loire',
-        ),
-        63 => 
-        array (
-          'code' => '38',
-          'name' => 'Isère',
-        ),
-        64 => 
-        array (
-          'code' => '39',
-          'name' => 'Jura',
-        ),
-        65 => 
-        array (
-          'code' => '974',
-          'name' => 'La Réunion',
-        ),
-        66 => 
-        array (
-          'code' => '40',
-          'name' => 'Landes',
-        ),
-        67 => 
-        array (
-          'code' => '41',
-          'name' => 'Loir-et-Cher',
-        ),
-        68 => 
-        array (
-          'code' => '42',
-          'name' => 'Loire',
-        ),
-        69 => 
-        array (
-          'code' => '44',
-          'name' => 'Loire-Atlantique',
-        ),
-        70 => 
-        array (
-          'code' => '45',
-          'name' => 'Loiret',
-        ),
-        71 => 
-        array (
-          'code' => '46',
-          'name' => 'Lot',
-        ),
-        72 => 
-        array (
-          'code' => '47',
-          'name' => 'Lot-et-Garonne',
-        ),
-        73 => 
-        array (
-          'code' => '48',
-          'name' => 'Lozère',
-        ),
-        74 => 
-        array (
-          'code' => '49',
-          'name' => 'Maine-et-Loire',
-        ),
-        75 => 
-        array (
-          'code' => '50',
-          'name' => 'Manche',
-        ),
-        76 => 
-        array (
-          'code' => '51',
-          'name' => 'Marne',
-        ),
-        77 => 
-        array (
-          'code' => '972',
-          'name' => 'Martinique',
-        ),
-        78 => 
-        array (
-          'code' => '53',
-          'name' => 'Mayenne',
-        ),
-        79 => 
-        array (
-          'code' => '976',
-          'name' => 'Mayotte',
-        ),
-        80 => 
-        array (
-          'code' => '69M',
-          'name' => 'Métropole de Lyon',
-        ),
-        81 => 
-        array (
-          'code' => '54',
-          'name' => 'Meurthe-et-Moselle',
-        ),
-        82 => 
-        array (
-          'code' => '55',
-          'name' => 'Meuse',
-        ),
-        83 => 
-        array (
-          'code' => '56',
-          'name' => 'Morbihan',
-        ),
-        84 => 
-        array (
-          'code' => '57',
-          'name' => 'Moselle',
-        ),
-        85 => 
-        array (
-          'code' => '58',
-          'name' => 'Nièvre',
-        ),
-        86 => 
-        array (
-          'code' => '59',
-          'name' => 'Nord',
-        ),
-        87 => 
-        array (
-          'code' => '60',
-          'name' => 'Oise',
-        ),
-        88 => 
-        array (
-          'code' => '61',
-          'name' => 'Orne',
-        ),
-        89 => 
-        array (
-          'code' => '75C',
-          'name' => 'Paris',
-        ),
-        90 => 
-        array (
-          'code' => '62',
-          'name' => 'Pas-de-Calais',
-        ),
-        91 => 
-        array (
-          'code' => '63',
-          'name' => 'Puy-de-Dôme',
-        ),
-        92 => 
-        array (
-          'code' => '64',
-          'name' => 'Pyrénées-Atlantiques',
-        ),
-        93 => 
-        array (
-          'code' => '66',
-          'name' => 'Pyrénées-Orientales',
-        ),
-        94 => 
-        array (
-          'code' => '69',
-          'name' => 'Rhône',
-        ),
-        95 => 
-        array (
-          'code' => '71',
-          'name' => 'Saône-et-Loire',
-        ),
-        96 => 
-        array (
-          'code' => '72',
-          'name' => 'Sarthe',
-        ),
-        97 => 
-        array (
-          'code' => '73',
-          'name' => 'Savoie',
-        ),
-        98 => 
-        array (
-          'code' => '77',
-          'name' => 'Seine-et-Marne',
-        ),
-        99 => 
-        array (
-          'code' => '76',
-          'name' => 'Seine-Maritime',
-        ),
-        100 => 
-        array (
-          'code' => '93',
-          'name' => 'Seine-Saint-Denis',
-        ),
-        101 => 
-        array (
-          'code' => '80',
-          'name' => 'Somme',
-        ),
-        102 => 
-        array (
-          'code' => '81',
-          'name' => 'Tarn',
-        ),
-        103 => 
-        array (
-          'code' => '82',
-          'name' => 'Tarn-et-Garonne',
-        ),
-        104 => 
-        array (
-          'code' => '90',
-          'name' => 'Territoire de Belfort',
-        ),
-        105 => 
-        array (
-          'code' => '95',
-          'name' => 'Val-d\'Oise',
-        ),
-        106 => 
-        array (
-          'code' => '94',
-          'name' => 'Val-de-Marne',
-        ),
-        107 => 
-        array (
-          'code' => '83',
-          'name' => 'Var',
-        ),
-        108 => 
-        array (
-          'code' => '84',
-          'name' => 'Vaucluse',
-        ),
-        109 => 
-        array (
-          'code' => '85',
-          'name' => 'Vendée',
-        ),
-        110 => 
-        array (
-          'code' => '86',
-          'name' => 'Vienne',
-        ),
-        111 => 
-        array (
-          'code' => '88',
-          'name' => 'Vosges',
-        ),
-        112 => 
-        array (
-          'code' => '89',
-          'name' => 'Yonne',
-        ),
-        113 => 
-        array (
-          'code' => '78',
-          'name' => 'Yvelines',
-        ),
-        114 => 
-        array (
-          'code' => '67',
-          'name' => 'Bas-Rhin',
-        ),
-        115 => 
-        array (
-          'code' => '68',
-          'name' => 'Haut-Rhin',
-        ),
-        116 => 
-        array (
-          'code' => 'CP',
-          'name' => 'Clipperton',
-        ),
-        117 => 
-        array (
-          'code' => 'NC',
-          'name' => 'Nouvelle-Calédonie',
-        ),
-        118 => 
-        array (
-          'code' => 'PF',
-          'name' => 'Polynésie française',
-        ),
-        119 => 
-        array (
-          'code' => 'BL',
-          'name' => 'Saint-Barthélemy',
-        ),
-        120 => 
-        array (
-          'code' => 'MF',
-          'name' => 'Saint-Martin',
-        ),
-        121 => 
-        array (
-          'code' => 'PM',
-          'name' => 'Saint-Pierre-et-Miquelon',
-        ),
-        122 => 
-        array (
-          'code' => 'TF',
-          'name' => 'Terres australes françaises',
-        ),
-        123 => 
-        array (
-          'code' => 'WF',
-          'name' => 'Wallis-et-Futuna',
+          'name' => 'Provence-Alpes-Cote-d\'Azur',
         ),
       ),
     ),
@@ -7575,39 +4960,24 @@ return array (
         1 => 
         array (
           'code' => '2',
-          'name' => 'Haut-Ogooué',
+          'name' => 'Haut-Ogooue',
         ),
         2 => 
         array (
-          'code' => '3',
-          'name' => 'Moyen-Ogooué',
+          'code' => '4',
+          'name' => 'Ngounie',
         ),
         3 => 
-        array (
-          'code' => '4',
-          'name' => 'Ngounié',
-        ),
-        4 => 
         array (
           'code' => '5',
           'name' => 'Nyanga',
         ),
-        5 => 
-        array (
-          'code' => '6',
-          'name' => 'Ogooué-Ivindo',
-        ),
-        6 => 
-        array (
-          'code' => '7',
-          'name' => 'Ogooué-Lolo',
-        ),
-        7 => 
+        4 => 
         array (
           'code' => '8',
-          'name' => 'Ogooué-Maritime',
+          'name' => 'Ogooue-Maritime',
         ),
-        8 => 
+        5 => 
         array (
           'code' => '9',
           'name' => 'Woleu-Ntem',
@@ -7667,7 +5037,7 @@ return array (
         1 => 
         array (
           'code' => 'AJ',
-          'name' => 'Adjara',
+          'name' => 'Ajaria',
         ),
         2 => 
         array (
@@ -7721,6 +5091,28 @@ return array (
         ),
       ),
     ),
+    'GF' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Guyane',
+        ),
+      ),
+    ),
+    'GG' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Guernsey',
+        ),
+      ),
+    ),
     'GH' => 
     array (
       'zones' => 
@@ -7762,48 +5154,39 @@ return array (
         ),
         7 => 
         array (
-          'code' => 'NE',
-          'name' => 'North East',
-        ),
-        8 => 
-        array (
           'code' => 'NP',
           'name' => 'Northern',
         ),
-        9 => 
-        array (
-          'code' => 'OT',
-          'name' => 'Oti',
-        ),
-        10 => 
-        array (
-          'code' => 'SV',
-          'name' => 'Savannah',
-        ),
-        11 => 
+        8 => 
         array (
           'code' => 'UE',
           'name' => 'Upper East',
         ),
-        12 => 
+        9 => 
         array (
           'code' => 'UW',
           'name' => 'Upper West',
         ),
-        13 => 
+        10 => 
         array (
           'code' => 'TV',
           'name' => 'Volta',
         ),
-        14 => 
+        11 => 
         array (
           'code' => 'WP',
           'name' => 'Western',
         ),
-        15 => 
+      ),
+    ),
+    'GI' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
         array (
-          'code' => 'WN',
-          'name' => 'Western North',
+          'code' => NULL,
+          'name' => 'Gibraltar',
         ),
       ),
     ),
@@ -7880,208 +5263,74 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'B',
-          'name' => 'Boké',
+          'code' => 'BF',
+          'name' => 'Boffa',
         ),
         1 => 
         array (
-          'code' => 'F',
-          'name' => 'Faranah',
+          'code' => 'B',
+          'name' => 'Boke',
         ),
         2 => 
-        array (
-          'code' => 'K',
-          'name' => 'Kankan',
-        ),
-        3 => 
-        array (
-          'code' => 'D',
-          'name' => 'Kindia',
-        ),
-        4 => 
-        array (
-          'code' => 'L',
-          'name' => 'Labé',
-        ),
-        5 => 
-        array (
-          'code' => 'M',
-          'name' => 'Mamou',
-        ),
-        6 => 
-        array (
-          'code' => 'N',
-          'name' => 'Nzérékoré',
-        ),
-        7 => 
         array (
           'code' => 'C',
           'name' => 'Conakry',
         ),
-        8 => 
-        array (
-          'code' => 'BE',
-          'name' => 'Beyla',
-        ),
-        9 => 
-        array (
-          'code' => 'BF',
-          'name' => 'Boffa',
-        ),
-        10 => 
-        array (
-          'code' => 'BK',
-          'name' => 'Boké',
-        ),
-        11 => 
+        3 => 
         array (
           'code' => 'CO',
           'name' => 'Coyah',
         ),
-        12 => 
+        4 => 
         array (
           'code' => 'DB',
           'name' => 'Dabola',
         ),
-        13 => 
-        array (
-          'code' => 'DL',
-          'name' => 'Dalaba',
-        ),
-        14 => 
-        array (
-          'code' => 'DI',
-          'name' => 'Dinguiraye',
-        ),
-        15 => 
+        5 => 
         array (
           'code' => 'DU',
-          'name' => 'Dubréka',
+          'name' => 'Dubreka',
         ),
-        16 => 
+        6 => 
         array (
-          'code' => 'FA',
-          'name' => 'Faranah',
-        ),
-        17 => 
-        array (
-          'code' => 'FO',
-          'name' => 'Forécariah',
-        ),
-        18 => 
-        array (
-          'code' => 'FR',
-          'name' => 'Fria',
-        ),
-        19 => 
-        array (
-          'code' => 'GA',
-          'name' => 'Gaoual',
-        ),
-        20 => 
-        array (
-          'code' => 'GU',
-          'name' => 'Guékédou',
-        ),
-        21 => 
-        array (
-          'code' => 'KA',
+          'code' => 'K',
           'name' => 'Kankan',
         ),
-        22 => 
+        7 => 
         array (
-          'code' => 'KE',
-          'name' => 'Kérouané',
+          'code' => 'L',
+          'name' => 'Labe',
         ),
-        23 => 
-        array (
-          'code' => 'KD',
-          'name' => 'Kindia',
-        ),
-        24 => 
-        array (
-          'code' => 'KS',
-          'name' => 'Kissidougou',
-        ),
-        25 => 
-        array (
-          'code' => 'KB',
-          'name' => 'Koubia',
-        ),
-        26 => 
-        array (
-          'code' => 'KN',
-          'name' => 'Koundara',
-        ),
-        27 => 
-        array (
-          'code' => 'KO',
-          'name' => 'Kouroussa',
-        ),
-        28 => 
+        8 => 
         array (
           'code' => 'LA',
-          'name' => 'Labé',
+          'name' => 'Labe',
         ),
-        29 => 
-        array (
-          'code' => 'LE',
-          'name' => 'Lélouma',
-        ),
-        30 => 
-        array (
-          'code' => 'LO',
-          'name' => 'Lola',
-        ),
-        31 => 
+        9 => 
         array (
           'code' => 'MC',
           'name' => 'Macenta',
         ),
-        32 => 
+        10 => 
         array (
-          'code' => 'ML',
-          'name' => 'Mali',
+          'code' => 'N',
+          'name' => 'Nzerekore',
         ),
-        33 => 
-        array (
-          'code' => 'MM',
-          'name' => 'Mamou',
-        ),
-        34 => 
-        array (
-          'code' => 'MD',
-          'name' => 'Mandiana',
-        ),
-        35 => 
-        array (
-          'code' => 'NZ',
-          'name' => 'Nzérékoré',
-        ),
-        36 => 
-        array (
-          'code' => 'PI',
-          'name' => 'Pita',
-        ),
-        37 => 
+        11 => 
         array (
           'code' => 'SI',
           'name' => 'Siguiri',
         ),
-        38 => 
+      ),
+    ),
+    'GP' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
         array (
-          'code' => 'TE',
-          'name' => 'Télimélé',
-        ),
-        39 => 
-        array (
-          'code' => 'TO',
-          'name' => 'Tougué',
-        ),
-        40 => 
-        array (
-          'code' => 'YO',
-          'name' => 'Yomou',
+          'code' => NULL,
+          'name' => 'Guadeloupe',
         ),
       ),
     ),
@@ -8091,50 +5340,20 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'C',
-          'name' => 'Región Continental',
-        ),
-        1 => 
-        array (
-          'code' => 'I',
-          'name' => 'Región Insular',
-        ),
-        2 => 
-        array (
-          'code' => 'AN',
-          'name' => 'Annobón',
-        ),
-        3 => 
-        array (
           'code' => 'BN',
           'name' => 'Bioko Norte',
         ),
-        4 => 
-        array (
-          'code' => 'BS',
-          'name' => 'Bioko Sur',
-        ),
-        5 => 
-        array (
-          'code' => 'CS',
-          'name' => 'Centro Sur',
-        ),
-        6 => 
-        array (
-          'code' => 'DJ',
-          'name' => 'Djibloho',
-        ),
-        7 => 
+        1 => 
         array (
           'code' => 'KN',
-          'name' => 'Kié-Ntem',
+          'name' => 'Kie-Ntem',
         ),
-        8 => 
+        2 => 
         array (
           'code' => 'LI',
           'name' => 'Litoral',
         ),
-        9 => 
+        3 => 
         array (
           'code' => 'WN',
           'name' => 'Wele-Nzas',
@@ -8147,73 +5366,79 @@ return array (
       array (
         0 => 
         array (
-          'code' => '69',
-          'name' => 'Ágion Óros',
+          'code' => 'A',
+          'name' => 'Anatoliki Makedonia kai Thraki',
         ),
         1 => 
         array (
-          'code' => 'A',
-          'name' => 'Anatolikí Makedonía kai Thráki',
+          'code' => 'I',
+          'name' => 'Attiki',
         ),
         2 => 
         array (
-          'code' => 'I',
-          'name' => 'Attikí',
+          'code' => 'G',
+          'name' => 'Dytiki Ellada',
         ),
         3 => 
         array (
-          'code' => 'G',
-          'name' => 'Dytikí Elláda',
+          'code' => 'C',
+          'name' => 'Dytiki Makedonia',
         ),
         4 => 
         array (
-          'code' => 'C',
-          'name' => 'Dytikí Makedonía',
+          'code' => 'F',
+          'name' => 'Ionia Nisia',
         ),
         5 => 
         array (
-          'code' => 'F',
-          'name' => 'Ionía Nísia',
+          'code' => 'D',
+          'name' => 'Ipeiros',
         ),
         6 => 
         array (
-          'code' => 'D',
-          'name' => 'Ípeiros',
+          'code' => 'B',
+          'name' => 'Kentriki Makedonia',
         ),
         7 => 
         array (
-          'code' => 'B',
-          'name' => 'Kentrikí Makedonía',
+          'code' => 'M',
+          'name' => 'Kriti',
         ),
         8 => 
         array (
-          'code' => 'M',
-          'name' => 'Kríti',
+          'code' => 'L',
+          'name' => 'Notio Aigaio',
         ),
         9 => 
         array (
-          'code' => 'L',
-          'name' => 'Nótio Aigaío',
+          'code' => 'J',
+          'name' => 'Peloponnisos',
         ),
         10 => 
         array (
-          'code' => 'J',
-          'name' => 'Pelopónnisos',
+          'code' => 'H',
+          'name' => 'Sterea Ellada',
         ),
         11 => 
         array (
-          'code' => 'H',
-          'name' => 'Stereá Elláda',
+          'code' => 'E',
+          'name' => 'Thessalia',
         ),
         12 => 
         array (
-          'code' => 'E',
-          'name' => 'Thessalía',
-        ),
-        13 => 
-        array (
           'code' => 'K',
-          'name' => 'Vóreio Aigaío',
+          'name' => 'Voreio Aigaio',
+        ),
+      ),
+    ),
+    'GS' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'South Georgia and the South Sandwich Islands',
         ),
       ),
     ),
@@ -8279,7 +5504,7 @@ return array (
         11 => 
         array (
           'code' => '17',
-          'name' => 'Petén',
+          'name' => 'Peten',
         ),
         12 => 
         array (
@@ -8289,7 +5514,7 @@ return array (
         13 => 
         array (
           'code' => '14',
-          'name' => 'Quiché',
+          'name' => 'Quiche',
         ),
         14 => 
         array (
@@ -8299,7 +5524,7 @@ return array (
         15 => 
         array (
           'code' => '03',
-          'name' => 'Sacatepéquez',
+          'name' => 'Sacatepequez',
         ),
         16 => 
         array (
@@ -8314,22 +5539,108 @@ return array (
         18 => 
         array (
           'code' => '07',
-          'name' => 'Sololá',
+          'name' => 'Solola',
         ),
         19 => 
         array (
           'code' => '10',
-          'name' => 'Suchitepéquez',
+          'name' => 'Suchitepequez',
         ),
         20 => 
         array (
           'code' => '08',
-          'name' => 'Totonicapán',
+          'name' => 'Totonicapan',
         ),
         21 => 
         array (
           'code' => '19',
           'name' => 'Zacapa',
+        ),
+      ),
+    ),
+    'GU' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Agana Heights',
+        ),
+        1 => 
+        array (
+          'code' => NULL,
+          'name' => 'Agat',
+        ),
+        2 => 
+        array (
+          'code' => NULL,
+          'name' => 'Barrigada',
+        ),
+        3 => 
+        array (
+          'code' => NULL,
+          'name' => 'Chalan Pago-Ordot',
+        ),
+        4 => 
+        array (
+          'code' => NULL,
+          'name' => 'Dededo',
+        ),
+        5 => 
+        array (
+          'code' => NULL,
+          'name' => 'Hagatna',
+        ),
+        6 => 
+        array (
+          'code' => NULL,
+          'name' => 'Inarajan',
+        ),
+        7 => 
+        array (
+          'code' => NULL,
+          'name' => 'Mangilao',
+        ),
+        8 => 
+        array (
+          'code' => NULL,
+          'name' => 'Mongmong-Toto-Maite',
+        ),
+        9 => 
+        array (
+          'code' => NULL,
+          'name' => 'Piti',
+        ),
+        10 => 
+        array (
+          'code' => NULL,
+          'name' => 'Santa Rita',
+        ),
+        11 => 
+        array (
+          'code' => NULL,
+          'name' => 'Sinajana',
+        ),
+        12 => 
+        array (
+          'code' => NULL,
+          'name' => 'Talofofo',
+        ),
+        13 => 
+        array (
+          'code' => NULL,
+          'name' => 'Tamuning-Tumon-Harmon',
+        ),
+        14 => 
+        array (
+          'code' => NULL,
+          'name' => 'Yigo',
+        ),
+        15 => 
+        array (
+          'code' => NULL,
+          'name' => 'Yona',
         ),
       ),
     ),
@@ -8339,63 +5650,13 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'L',
-          'name' => 'Leste',
-        ),
-        1 => 
-        array (
-          'code' => 'N',
-          'name' => 'Norte',
-        ),
-        2 => 
-        array (
-          'code' => 'S',
-          'name' => 'Sul',
-        ),
-        3 => 
-        array (
-          'code' => 'BA',
-          'name' => 'Bafatá',
-        ),
-        4 => 
-        array (
-          'code' => 'BM',
-          'name' => 'Biombo',
-        ),
-        5 => 
-        array (
           'code' => 'BS',
           'name' => 'Bissau',
         ),
-        6 => 
-        array (
-          'code' => 'BL',
-          'name' => 'Bolama / Bijagós',
-        ),
-        7 => 
-        array (
-          'code' => 'CA',
-          'name' => 'Cacheu',
-        ),
-        8 => 
+        1 => 
         array (
           'code' => 'GA',
-          'name' => 'Gabú',
-        ),
-        9 => 
-        array (
-          'code' => 'OI',
-          'name' => 'Oio',
-        ),
-        10 => 
-        array (
-          'code' => 'QU',
-          'name' => 'Quinara',
-        ),
-        11 => 
-        array (
-          'code' => 'TO',
-          'name' => 'Tombali',
+          'name' => 'Gabu',
         ),
       ),
     ),
@@ -8405,53 +5666,60 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'BA',
-          'name' => 'Barima-Waini',
-        ),
-        1 => 
-        array (
           'code' => 'CU',
           'name' => 'Cuyuni-Mazaruni',
         ),
-        2 => 
+        1 => 
         array (
           'code' => 'DE',
           'name' => 'Demerara-Mahaica',
         ),
-        3 => 
+        2 => 
         array (
           'code' => 'EB',
           'name' => 'East Berbice-Corentyne',
         ),
-        4 => 
+        3 => 
         array (
           'code' => 'ES',
           'name' => 'Essequibo Islands-West Demerara',
         ),
-        5 => 
+        4 => 
         array (
           'code' => 'MA',
           'name' => 'Mahaica-Berbice',
         ),
-        6 => 
-        array (
-          'code' => 'PM',
-          'name' => 'Pomeroon-Supenaam',
-        ),
-        7 => 
+        5 => 
         array (
           'code' => 'PT',
           'name' => 'Potaro-Siparuni',
         ),
-        8 => 
+        6 => 
         array (
           'code' => 'UD',
           'name' => 'Upper Demerara-Berbice',
         ),
-        9 => 
+      ),
+    ),
+    'HK' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
         array (
-          'code' => 'UT',
-          'name' => 'Upper Takutu-Upper Essequibo',
+          'code' => NULL,
+          'name' => 'Hong Kong',
+        ),
+      ),
+    ),
+    'HM' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Heard Island and McDonald Islands',
         ),
       ),
     ),
@@ -8462,7 +5730,7 @@ return array (
         0 => 
         array (
           'code' => 'AT',
-          'name' => 'Atlántida',
+          'name' => 'Atlantida',
         ),
         1 => 
         array (
@@ -8472,7 +5740,7 @@ return array (
         2 => 
         array (
           'code' => 'CL',
-          'name' => 'Colón',
+          'name' => 'Colon',
         ),
         3 => 
         array (
@@ -8482,22 +5750,22 @@ return array (
         4 => 
         array (
           'code' => 'CP',
-          'name' => 'Copán',
+          'name' => 'Copan',
         ),
         5 => 
         array (
           'code' => 'CR',
-          'name' => 'Cortés',
+          'name' => 'Cortes',
         ),
         6 => 
         array (
           'code' => 'EP',
-          'name' => 'El Paraíso',
+          'name' => 'El Paraiso',
         ),
         7 => 
         array (
           'code' => 'FM',
-          'name' => 'Francisco Morazán',
+          'name' => 'Francisco Morazan',
         ),
         8 => 
         array (
@@ -8507,12 +5775,12 @@ return array (
         9 => 
         array (
           'code' => 'IN',
-          'name' => 'Intibucá',
+          'name' => 'Intibuca',
         ),
         10 => 
         array (
           'code' => 'IB',
-          'name' => 'Islas de la Bahía',
+          'name' => 'Islas de la Bahia',
         ),
         11 => 
         array (
@@ -8537,7 +5805,7 @@ return array (
         15 => 
         array (
           'code' => 'SB',
-          'name' => 'Santa Bárbara',
+          'name' => 'Santa Barbara',
         ),
         16 => 
         array (
@@ -8558,17 +5826,17 @@ return array (
         0 => 
         array (
           'code' => '07',
-          'name' => 'Bjelovarsko-bilogorska županija',
+          'name' => 'Bjelovarsko-bilogorska zupanija',
         ),
         1 => 
         array (
           'code' => '12',
-          'name' => 'Brodsko-posavska županija',
+          'name' => 'Brodsko-posavska zupanija',
         ),
         2 => 
         array (
           'code' => '19',
-          'name' => 'Dubrovačko-neretvanska županija',
+          'name' => 'Dubrovacko-neretvanska zupanija',
         ),
         3 => 
         array (
@@ -8578,87 +5846,87 @@ return array (
         4 => 
         array (
           'code' => '18',
-          'name' => 'Istarska županija',
+          'name' => 'Istarska zupanija',
         ),
         5 => 
         array (
           'code' => '04',
-          'name' => 'Karlovačka županija',
+          'name' => 'Karlovacka zupanija',
         ),
         6 => 
         array (
           'code' => '06',
-          'name' => 'Koprivničko-križevačka županija',
+          'name' => 'Koprivnicko-krizevacka zupanija',
         ),
         7 => 
         array (
           'code' => '02',
-          'name' => 'Krapinsko-zagorska županija',
+          'name' => 'Krapinsko-zagorska zupanija',
         ),
         8 => 
         array (
           'code' => '09',
-          'name' => 'Ličko-senjska županija',
+          'name' => 'Licko-senjska zupanija',
         ),
         9 => 
         array (
           'code' => '20',
-          'name' => 'Međimurska županija',
+          'name' => 'Medimurska zupanija',
         ),
         10 => 
         array (
           'code' => '14',
-          'name' => 'Osječko-baranjska županija',
+          'name' => 'Osjecko-baranjska zupanija',
         ),
         11 => 
         array (
           'code' => '11',
-          'name' => 'Požeško-slavonska županija',
+          'name' => 'Pozesko-slavonska zupanija',
         ),
         12 => 
         array (
           'code' => '08',
-          'name' => 'Primorsko-goranska županija',
+          'name' => 'Primorsko-goranska zupanija',
         ),
         13 => 
         array (
-          'code' => '03',
-          'name' => 'Sisačko-moslavačka županija',
+          'code' => '15',
+          'name' => 'Sibensko-kninska zupanija',
         ),
         14 => 
         array (
-          'code' => '17',
-          'name' => 'Splitsko-dalmatinska županija',
+          'code' => '03',
+          'name' => 'Sisacko-moslavacka zupanija',
         ),
         15 => 
         array (
-          'code' => '15',
-          'name' => 'Šibensko-kninska županija',
+          'code' => '17',
+          'name' => 'Splitsko-dalmatinska zupanija',
         ),
         16 => 
         array (
           'code' => '05',
-          'name' => 'Varaždinska županija',
+          'name' => 'Varazdinska zupanija',
         ),
         17 => 
         array (
           'code' => '10',
-          'name' => 'Virovitičko-podravska županija',
+          'name' => 'Viroviticko-podravska zupanija',
         ),
         18 => 
         array (
           'code' => '16',
-          'name' => 'Vukovarsko-srijemska županija',
+          'name' => 'Vukovarsko-srijemska zupanija',
         ),
         19 => 
         array (
           'code' => '13',
-          'name' => 'Zadarska županija',
+          'name' => 'Zadarska zupanija',
         ),
         20 => 
         array (
           'code' => '01',
-          'name' => 'Zagrebačka županija',
+          'name' => 'Zagrebacka zupanija',
         ),
       ),
     ),
@@ -8679,7 +5947,7 @@ return array (
         2 => 
         array (
           'code' => 'GA',
-          'name' => 'Grande’Anse',
+          'name' => 'Grande\'Anse',
         ),
         3 => 
         array (
@@ -8693,25 +5961,15 @@ return array (
         ),
         5 => 
         array (
-          'code' => 'NE',
-          'name' => 'Nord-Est',
-        ),
-        6 => 
-        array (
-          'code' => 'NO',
-          'name' => 'Nord-Ouest',
-        ),
-        7 => 
-        array (
           'code' => 'OU',
           'name' => 'Ouest',
         ),
-        8 => 
+        6 => 
         array (
           'code' => 'SD',
           'name' => 'Sud',
         ),
-        9 => 
+        7 => 
         array (
           'code' => 'SE',
           'name' => 'Sud-Est',
@@ -8725,7 +5983,7 @@ return array (
         0 => 
         array (
           'code' => 'BK',
-          'name' => 'Bács-Kiskun',
+          'name' => 'Bacs-Kiskun',
         ),
         1 => 
         array (
@@ -8735,207 +5993,92 @@ return array (
         2 => 
         array (
           'code' => 'BE',
-          'name' => 'Békés',
+          'name' => 'Bekes',
         ),
         3 => 
         array (
-          'code' => 'BC',
-          'name' => 'Békéscsaba',
+          'code' => 'BZ',
+          'name' => 'Borsod-Abauj-Zemplen',
         ),
         4 => 
-        array (
-          'code' => 'BZ',
-          'name' => 'Borsod-Abaúj-Zemplén',
-        ),
-        5 => 
         array (
           'code' => 'BU',
           'name' => 'Budapest',
         ),
-        6 => 
+        5 => 
         array (
           'code' => 'CS',
-          'name' => 'Csongrád-Csanád',
+          'name' => 'Csongrad-Csanad',
+        ),
+        6 => 
+        array (
+          'code' => 'FE',
+          'name' => 'Fejer',
         ),
         7 => 
         array (
-          'code' => 'DE',
-          'name' => 'Debrecen',
+          'code' => 'GS',
+          'name' => 'Gyor-Moson-Sopron',
         ),
         8 => 
         array (
-          'code' => 'DU',
-          'name' => 'Dunaújváros',
+          'code' => 'HB',
+          'name' => 'Hajdu-Bihar',
         ),
         9 => 
-        array (
-          'code' => 'EG',
-          'name' => 'Eger',
-        ),
-        10 => 
-        array (
-          'code' => 'ER',
-          'name' => 'Érd',
-        ),
-        11 => 
-        array (
-          'code' => 'FE',
-          'name' => 'Fejér',
-        ),
-        12 => 
-        array (
-          'code' => 'GY',
-          'name' => 'Győr',
-        ),
-        13 => 
-        array (
-          'code' => 'GS',
-          'name' => 'Győr-Moson-Sopron',
-        ),
-        14 => 
-        array (
-          'code' => 'HB',
-          'name' => 'Hajdú-Bihar',
-        ),
-        15 => 
         array (
           'code' => 'HE',
           'name' => 'Heves',
         ),
-        16 => 
-        array (
-          'code' => 'HV',
-          'name' => 'Hódmezővásárhely',
-        ),
-        17 => 
+        10 => 
         array (
           'code' => 'JN',
-          'name' => 'Jász-Nagykun-Szolnok',
+          'name' => 'Jasz-Nagykun-Szolnok',
         ),
-        18 => 
-        array (
-          'code' => 'KV',
-          'name' => 'Kaposvár',
-        ),
-        19 => 
-        array (
-          'code' => 'KM',
-          'name' => 'Kecskemét',
-        ),
-        20 => 
+        11 => 
         array (
           'code' => 'KE',
-          'name' => 'Komárom-Esztergom',
+          'name' => 'Komarom-Esztergom',
         ),
-        21 => 
-        array (
-          'code' => 'MI',
-          'name' => 'Miskolc',
-        ),
-        22 => 
-        array (
-          'code' => 'NK',
-          'name' => 'Nagykanizsa',
-        ),
-        23 => 
+        12 => 
         array (
           'code' => 'NO',
-          'name' => 'Nógrád',
+          'name' => 'Nograd',
         ),
-        24 => 
-        array (
-          'code' => 'NY',
-          'name' => 'Nyíregyháza',
-        ),
-        25 => 
-        array (
-          'code' => 'PS',
-          'name' => 'Pécs',
-        ),
-        26 => 
+        13 => 
         array (
           'code' => 'PE',
           'name' => 'Pest',
         ),
-        27 => 
-        array (
-          'code' => 'ST',
-          'name' => 'Salgótarján',
-        ),
-        28 => 
+        14 => 
         array (
           'code' => 'SO',
           'name' => 'Somogy',
         ),
-        29 => 
-        array (
-          'code' => 'SN',
-          'name' => 'Sopron',
-        ),
-        30 => 
+        15 => 
         array (
           'code' => 'SZ',
-          'name' => 'Szabolcs-Szatmár-Bereg',
+          'name' => 'Szabolcs-Szatmar-Bereg',
         ),
-        31 => 
-        array (
-          'code' => 'SD',
-          'name' => 'Szeged',
-        ),
-        32 => 
-        array (
-          'code' => 'SF',
-          'name' => 'Székesfehérvár',
-        ),
-        33 => 
-        array (
-          'code' => 'SS',
-          'name' => 'Szekszárd',
-        ),
-        34 => 
-        array (
-          'code' => 'SK',
-          'name' => 'Szolnok',
-        ),
-        35 => 
-        array (
-          'code' => 'SH',
-          'name' => 'Szombathely',
-        ),
-        36 => 
-        array (
-          'code' => 'TB',
-          'name' => 'Tatabánya',
-        ),
-        37 => 
+        16 => 
         array (
           'code' => 'TO',
           'name' => 'Tolna',
         ),
-        38 => 
+        17 => 
         array (
           'code' => 'VA',
           'name' => 'Vas',
         ),
-        39 => 
-        array (
-          'code' => 'VM',
-          'name' => 'Veszprém',
-        ),
-        40 => 
+        18 => 
         array (
           'code' => 'VE',
-          'name' => 'Veszprém',
+          'name' => 'Veszprem',
         ),
-        41 => 
+        19 => 
         array (
           'code' => 'ZA',
           'name' => 'Zala',
-        ),
-        42 => 
-        array (
-          'code' => 'ZE',
-          'name' => 'Zalaegerszeg',
         ),
       ),
     ),
@@ -8945,225 +6088,170 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'JW',
-          'name' => 'Jawa',
-        ),
-        1 => 
-        array (
-          'code' => 'KA',
-          'name' => 'Kalimantan',
-        ),
-        2 => 
-        array (
-          'code' => 'ML',
-          'name' => 'Maluku',
-        ),
-        3 => 
-        array (
-          'code' => 'NU',
-          'name' => 'Nusa Tenggara',
-        ),
-        4 => 
-        array (
-          'code' => 'PP',
-          'name' => 'Papua',
-        ),
-        5 => 
-        array (
-          'code' => 'SL',
-          'name' => 'Sulawesi',
-        ),
-        6 => 
-        array (
-          'code' => 'SM',
-          'name' => 'Sumatera',
-        ),
-        7 => 
-        array (
           'code' => 'AC',
           'name' => 'Aceh',
         ),
-        8 => 
+        1 => 
         array (
           'code' => 'BA',
           'name' => 'Bali',
         ),
-        9 => 
+        2 => 
         array (
           'code' => 'BT',
           'name' => 'Banten',
         ),
-        10 => 
+        3 => 
         array (
           'code' => 'BE',
           'name' => 'Bengkulu',
         ),
-        11 => 
+        4 => 
         array (
           'code' => 'GO',
           'name' => 'Gorontalo',
         ),
-        12 => 
+        5 => 
         array (
           'code' => 'JK',
           'name' => 'Jakarta Raya',
         ),
-        13 => 
+        6 => 
         array (
           'code' => 'JA',
           'name' => 'Jambi',
         ),
-        14 => 
+        7 => 
         array (
           'code' => 'JB',
           'name' => 'Jawa Barat',
         ),
-        15 => 
+        8 => 
         array (
           'code' => 'JT',
           'name' => 'Jawa Tengah',
         ),
-        16 => 
+        9 => 
         array (
           'code' => 'JI',
           'name' => 'Jawa Timur',
         ),
-        17 => 
+        10 => 
         array (
           'code' => 'KB',
           'name' => 'Kalimantan Barat',
         ),
-        18 => 
+        11 => 
         array (
           'code' => 'KS',
           'name' => 'Kalimantan Selatan',
         ),
-        19 => 
+        12 => 
         array (
           'code' => 'KT',
           'name' => 'Kalimantan Tengah',
         ),
-        20 => 
+        13 => 
         array (
           'code' => 'KI',
           'name' => 'Kalimantan Timur',
         ),
-        21 => 
+        14 => 
         array (
           'code' => 'KU',
           'name' => 'Kalimantan Utara',
         ),
-        22 => 
+        15 => 
         array (
           'code' => 'BB',
           'name' => 'Kepulauan Bangka Belitung',
         ),
-        23 => 
+        16 => 
         array (
           'code' => 'KR',
           'name' => 'Kepulauan Riau',
         ),
-        24 => 
+        17 => 
         array (
           'code' => 'LA',
           'name' => 'Lampung',
         ),
-        25 => 
+        18 => 
         array (
-          'code' => 'MA',
+          'code' => 'ML',
           'name' => 'Maluku',
         ),
-        26 => 
+        19 => 
         array (
           'code' => 'MU',
           'name' => 'Maluku Utara',
         ),
-        27 => 
+        20 => 
         array (
           'code' => 'NB',
           'name' => 'Nusa Tenggara Barat',
         ),
-        28 => 
+        21 => 
         array (
           'code' => 'NT',
           'name' => 'Nusa Tenggara Timur',
         ),
-        29 => 
+        22 => 
         array (
-          'code' => 'PA',
+          'code' => 'PP',
           'name' => 'Papua',
         ),
-        30 => 
+        23 => 
         array (
           'code' => 'PB',
           'name' => 'Papua Barat',
         ),
-        31 => 
-        array (
-          'code' => 'PD',
-          'name' => 'Papua Barat Daya',
-        ),
-        32 => 
-        array (
-          'code' => 'PE',
-          'name' => 'Papua Pengunungan',
-        ),
-        33 => 
-        array (
-          'code' => 'PS',
-          'name' => 'Papua Selatan',
-        ),
-        34 => 
-        array (
-          'code' => 'PT',
-          'name' => 'Papua Tengah',
-        ),
-        35 => 
+        24 => 
         array (
           'code' => 'RI',
           'name' => 'Riau',
         ),
-        36 => 
+        25 => 
         array (
           'code' => 'SR',
           'name' => 'Sulawesi Barat',
         ),
-        37 => 
+        26 => 
         array (
           'code' => 'SN',
           'name' => 'Sulawesi Selatan',
         ),
-        38 => 
+        27 => 
         array (
           'code' => 'ST',
           'name' => 'Sulawesi Tengah',
         ),
-        39 => 
+        28 => 
         array (
           'code' => 'SG',
           'name' => 'Sulawesi Tenggara',
         ),
-        40 => 
+        29 => 
         array (
           'code' => 'SA',
           'name' => 'Sulawesi Utara',
         ),
-        41 => 
+        30 => 
         array (
           'code' => 'SB',
           'name' => 'Sumatera Barat',
         ),
-        42 => 
+        31 => 
         array (
           'code' => 'SS',
           'name' => 'Sumatera Selatan',
         ),
-        43 => 
+        32 => 
         array (
           'code' => 'SU',
           'name' => 'Sumatera Utara',
         ),
-        44 => 
+        33 => 
         array (
           'code' => 'YO',
           'name' => 'Yogyakarta',
@@ -9176,150 +6264,130 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'C',
-          'name' => 'Connaught',
-        ),
-        1 => 
-        array (
-          'code' => 'L',
-          'name' => 'Leinster',
-        ),
-        2 => 
-        array (
-          'code' => 'M',
-          'name' => 'Munster',
-        ),
-        3 => 
-        array (
-          'code' => 'U',
-          'name' => 'Ulster',
-        ),
-        4 => 
-        array (
           'code' => 'CW',
           'name' => 'Carlow',
         ),
-        5 => 
+        1 => 
         array (
           'code' => 'CN',
           'name' => 'Cavan',
         ),
-        6 => 
+        2 => 
         array (
           'code' => 'CE',
           'name' => 'Clare',
         ),
-        7 => 
+        3 => 
         array (
           'code' => 'CO',
           'name' => 'Cork',
         ),
-        8 => 
+        4 => 
         array (
           'code' => 'DL',
           'name' => 'Donegal',
         ),
-        9 => 
+        5 => 
         array (
           'code' => 'D',
           'name' => 'Dublin',
         ),
-        10 => 
+        6 => 
         array (
           'code' => 'G',
           'name' => 'Galway',
         ),
-        11 => 
+        7 => 
         array (
           'code' => 'KY',
           'name' => 'Kerry',
         ),
-        12 => 
+        8 => 
         array (
           'code' => 'KE',
           'name' => 'Kildare',
         ),
-        13 => 
+        9 => 
         array (
           'code' => 'KK',
           'name' => 'Kilkenny',
         ),
-        14 => 
+        10 => 
         array (
           'code' => 'LS',
           'name' => 'Laois',
         ),
-        15 => 
+        11 => 
         array (
           'code' => 'LM',
           'name' => 'Leitrim',
         ),
-        16 => 
+        12 => 
         array (
           'code' => 'LK',
           'name' => 'Limerick',
         ),
-        17 => 
+        13 => 
         array (
           'code' => 'LD',
           'name' => 'Longford',
         ),
-        18 => 
+        14 => 
         array (
           'code' => 'LH',
           'name' => 'Louth',
         ),
-        19 => 
+        15 => 
         array (
           'code' => 'MO',
           'name' => 'Mayo',
         ),
-        20 => 
+        16 => 
         array (
           'code' => 'MH',
           'name' => 'Meath',
         ),
-        21 => 
+        17 => 
         array (
           'code' => 'MN',
           'name' => 'Monaghan',
         ),
-        22 => 
+        18 => 
         array (
           'code' => 'OY',
           'name' => 'Offaly',
         ),
-        23 => 
+        19 => 
         array (
           'code' => 'RN',
           'name' => 'Roscommon',
         ),
-        24 => 
+        20 => 
         array (
           'code' => 'SO',
           'name' => 'Sligo',
         ),
-        25 => 
+        21 => 
         array (
           'code' => 'TA',
           'name' => 'Tipperary',
         ),
-        26 => 
+        22 => 
         array (
           'code' => 'WD',
           'name' => 'Waterford',
         ),
-        27 => 
+        23 => 
         array (
           'code' => 'WH',
           'name' => 'Westmeath',
         ),
-        28 => 
+        24 => 
         array (
           'code' => 'WX',
           'name' => 'Wexford',
         ),
-        29 => 
+        25 => 
         array (
           'code' => 'WW',
           'name' => 'Wicklow',
@@ -9348,7 +6416,7 @@ return array (
         3 => 
         array (
           'code' => 'HA',
-          'name' => 'H̱efa',
+          'name' => 'Hefa',
         ),
         4 => 
         array (
@@ -9359,6 +6427,17 @@ return array (
         array (
           'code' => 'JM',
           'name' => 'Yerushalayim',
+        ),
+      ),
+    ),
+    'IM' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Isle of Man',
         ),
       ),
     ),
@@ -9379,7 +6458,7 @@ return array (
         2 => 
         array (
           'code' => 'AR',
-          'name' => 'Arunāchal Pradesh',
+          'name' => 'Arunachal Pradesh',
         ),
         3 => 
         array (
@@ -9389,7 +6468,7 @@ return array (
         4 => 
         array (
           'code' => 'BR',
-          'name' => 'Bihār',
+          'name' => 'Bihar',
         ),
         5 => 
         array (
@@ -9398,63 +6477,63 @@ return array (
         ),
         6 => 
         array (
-          'code' => 'CG',
-          'name' => 'Chhattīsgarh',
+          'code' => 'CT',
+          'name' => 'Chhattisgarh',
         ),
         7 => 
         array (
-          'code' => 'DH',
-          'name' => 'Dādra and Nagar Haveli and Damān and Diu',
+          'code' => 'DN',
+          'name' => 'Dadra and Nagar Haveli',
         ),
         8 => 
+        array (
+          'code' => 'DH',
+          'name' => 'Dadra and Nagar Haveli and Daman and Diu',
+        ),
+        9 => 
         array (
           'code' => 'DL',
           'name' => 'Delhi',
         ),
-        9 => 
+        10 => 
         array (
           'code' => 'GA',
           'name' => 'Goa',
         ),
-        10 => 
-        array (
-          'code' => 'GJ',
-          'name' => 'Gujarāt',
-        ),
         11 => 
         array (
-          'code' => 'HR',
-          'name' => 'Haryāna',
+          'code' => 'GJ',
+          'name' => 'Gujarat',
         ),
         12 => 
         array (
-          'code' => 'HP',
-          'name' => 'Himāchal Pradesh',
+          'code' => 'HR',
+          'name' => 'Haryana',
         ),
         13 => 
         array (
-          'code' => 'JK',
-          'name' => 'Jammu and Kashmīr',
+          'code' => 'HP',
+          'name' => 'Himachal Pradesh',
         ),
         14 => 
         array (
-          'code' => 'JH',
-          'name' => 'Jhārkhand',
+          'code' => 'JK',
+          'name' => 'Jammu and Kashmir',
         ),
         15 => 
         array (
-          'code' => 'KA',
-          'name' => 'Karnātaka',
+          'code' => 'JH',
+          'name' => 'Jharkhand',
         ),
         16 => 
         array (
-          'code' => 'KL',
-          'name' => 'Kerala',
+          'code' => 'KA',
+          'name' => 'Karnataka',
         ),
         17 => 
         array (
-          'code' => 'LA',
-          'name' => 'Ladākh',
+          'code' => 'KL',
+          'name' => 'Kerala',
         ),
         18 => 
         array (
@@ -9469,7 +6548,7 @@ return array (
         20 => 
         array (
           'code' => 'MH',
-          'name' => 'Mahārāshtra',
+          'name' => 'Maharashtra',
         ),
         21 => 
         array (
@@ -9479,7 +6558,7 @@ return array (
         22 => 
         array (
           'code' => 'ML',
-          'name' => 'Meghālaya',
+          'name' => 'Meghalaya',
         ),
         23 => 
         array (
@@ -9489,11 +6568,11 @@ return array (
         24 => 
         array (
           'code' => 'NL',
-          'name' => 'Nāgāland',
+          'name' => 'Nagaland',
         ),
         25 => 
         array (
-          'code' => 'OD',
+          'code' => 'OR',
           'name' => 'Odisha',
         ),
         26 => 
@@ -9509,7 +6588,7 @@ return array (
         28 => 
         array (
           'code' => 'RJ',
-          'name' => 'Rājasthān',
+          'name' => 'Rajasthan',
         ),
         29 => 
         array (
@@ -9519,12 +6598,12 @@ return array (
         30 => 
         array (
           'code' => 'TN',
-          'name' => 'Tamil Nādu',
+          'name' => 'Tamil Nadu',
         ),
         31 => 
         array (
-          'code' => 'TS',
-          'name' => 'Telangāna',
+          'code' => 'TG',
+          'name' => 'Telangana',
         ),
         32 => 
         array (
@@ -9538,13 +6617,24 @@ return array (
         ),
         34 => 
         array (
-          'code' => 'UK',
-          'name' => 'Uttarākhand',
+          'code' => 'UT',
+          'name' => 'Uttarakhand',
         ),
         35 => 
         array (
           'code' => 'WB',
           'name' => 'West Bengal',
+        ),
+      ),
+    ),
+    'IO' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'British Indian Ocean Territory',
         ),
       ),
     ),
@@ -9555,22 +6645,22 @@ return array (
         0 => 
         array (
           'code' => 'AN',
-          'name' => 'Al Anbār',
+          'name' => 'Al Anbar',
         ),
         1 => 
         array (
           'code' => 'BA',
-          'name' => 'Al Başrah',
+          'name' => 'Al Basrah',
         ),
         2 => 
         array (
           'code' => 'MU',
-          'name' => 'Al Muthanná',
+          'name' => 'Al Muthanna',
         ),
         3 => 
         array (
           'code' => 'QA',
-          'name' => 'Al Qādisīyah',
+          'name' => 'Al Qadisiyah',
         ),
         4 => 
         array (
@@ -9580,72 +6670,67 @@ return array (
         5 => 
         array (
           'code' => 'AR',
-          'name' => 'Arbīl',
+          'name' => 'Arbil',
         ),
         6 => 
         array (
           'code' => 'SU',
-          'name' => 'As Sulaymānīyah',
+          'name' => 'As Sulaymaniyah',
         ),
         7 => 
         array (
           'code' => 'BB',
-          'name' => 'Bābil',
+          'name' => 'Babil',
         ),
         8 => 
         array (
           'code' => 'BG',
-          'name' => 'Baghdād',
+          'name' => 'Baghdad',
         ),
         9 => 
         array (
           'code' => 'DA',
-          'name' => 'Dahūk',
+          'name' => 'Dahuk',
         ),
         10 => 
         array (
           'code' => 'DQ',
-          'name' => 'Dhī Qār',
+          'name' => 'Dhi Qar',
         ),
         11 => 
         array (
           'code' => 'DI',
-          'name' => 'Diyālá',
+          'name' => 'Diyala',
         ),
         12 => 
         array (
-          'code' => 'KR',
-          'name' => 'Iqlīm Kūrdistān',
+          'code' => 'KA',
+          'name' => 'Karbala\'',
         ),
         13 => 
         array (
-          'code' => 'KA',
-          'name' => 'Karbalā’',
+          'code' => 'KI',
+          'name' => 'Kirkuk',
         ),
         14 => 
         array (
-          'code' => 'KI',
-          'name' => 'Kirkūk',
+          'code' => 'MA',
+          'name' => 'Maysan',
         ),
         15 => 
         array (
-          'code' => 'MA',
-          'name' => 'Maysān',
+          'code' => 'NI',
+          'name' => 'Ninawa',
         ),
         16 => 
         array (
-          'code' => 'NI',
-          'name' => 'Nīnawá',
+          'code' => 'SD',
+          'name' => 'Salah ad Din',
         ),
         17 => 
         array (
-          'code' => 'SD',
-          'name' => 'Şalāḩ ad Dīn',
-        ),
-        18 => 
-        array (
           'code' => 'WA',
-          'name' => 'Wāsiţ',
+          'name' => 'Wasit',
         ),
       ),
     ),
@@ -9661,122 +6746,122 @@ return array (
         1 => 
         array (
           'code' => '24',
-          'name' => 'Ardabīl',
+          'name' => 'Ardabil',
         ),
         2 => 
         array (
           'code' => '04',
-          'name' => 'Āz̄ārbāyjān-e Ghārbī',
+          'name' => 'Azarbayjan-e Gharbi',
         ),
         3 => 
         array (
           'code' => '03',
-          'name' => 'Āz̄ārbāyjān-e Shārqī',
+          'name' => 'Azarbayjan-e Sharqi',
         ),
         4 => 
         array (
           'code' => '18',
-          'name' => 'Būshehr',
+          'name' => 'Bushehr',
         ),
         5 => 
         array (
           'code' => '14',
-          'name' => 'Chahār Maḩāl va Bakhtīārī',
+          'name' => 'Chahar Mahal va Bakhtiari',
         ),
         6 => 
         array (
           'code' => '10',
-          'name' => 'Eşfahān',
+          'name' => 'Esfahan',
         ),
         7 => 
         array (
           'code' => '07',
-          'name' => 'Fārs',
+          'name' => 'Fars',
         ),
         8 => 
         array (
           'code' => '01',
-          'name' => 'Gīlān',
+          'name' => 'Gilan',
         ),
         9 => 
         array (
           'code' => '27',
-          'name' => 'Golestān',
+          'name' => 'Golestan',
         ),
         10 => 
         array (
           'code' => '13',
-          'name' => 'Hamadān',
+          'name' => 'Hamadan',
         ),
         11 => 
         array (
           'code' => '22',
-          'name' => 'Hormozgān',
+          'name' => 'Hormozgan',
         ),
         12 => 
         array (
           'code' => '16',
-          'name' => 'Īlām',
+          'name' => 'Ilam',
         ),
         13 => 
         array (
           'code' => '08',
-          'name' => 'Kermān',
+          'name' => 'Kerman',
         ),
         14 => 
         array (
           'code' => '05',
-          'name' => 'Kermānshāh',
+          'name' => 'Kermanshah',
         ),
         15 => 
         array (
           'code' => '29',
-          'name' => 'Khorāsān-e Jonūbī',
+          'name' => 'Khorasan-e Jonubi',
         ),
         16 => 
         array (
           'code' => '09',
-          'name' => 'Khorāsān-e Raẕavī',
+          'name' => 'Khorasan-e Razavi',
         ),
         17 => 
         array (
           'code' => '28',
-          'name' => 'Khorāsān-e Shomālī',
+          'name' => 'Khorasan-e Shomali',
         ),
         18 => 
         array (
           'code' => '06',
-          'name' => 'Khūzestān',
+          'name' => 'Khuzestan',
         ),
         19 => 
         array (
           'code' => '17',
-          'name' => 'Kohgīlūyeh va Bowyer Aḩmad',
+          'name' => 'Kohgiluyeh va Bowyer Ahmad',
         ),
         20 => 
         array (
           'code' => '12',
-          'name' => 'Kordestān',
+          'name' => 'Kordestan',
         ),
         21 => 
         array (
           'code' => '15',
-          'name' => 'Lorestān',
+          'name' => 'Lorestan',
         ),
         22 => 
         array (
           'code' => '00',
-          'name' => 'Markazī',
+          'name' => 'Markazi',
         ),
         23 => 
         array (
           'code' => '02',
-          'name' => 'Māzandarān',
+          'name' => 'Mazandaran',
         ),
         24 => 
         array (
           'code' => '26',
-          'name' => 'Qazvīn',
+          'name' => 'Qazvin',
         ),
         25 => 
         array (
@@ -9786,17 +6871,17 @@ return array (
         26 => 
         array (
           'code' => '20',
-          'name' => 'Semnān',
+          'name' => 'Semnan',
         ),
         27 => 
         array (
           'code' => '11',
-          'name' => 'Sīstān va Balūchestān',
+          'name' => 'Sistan va Baluchestan',
         ),
         28 => 
         array (
           'code' => '23',
-          'name' => 'Tehrān',
+          'name' => 'Tehran',
         ),
         29 => 
         array (
@@ -9806,7 +6891,7 @@ return array (
         30 => 
         array (
           'code' => '19',
-          'name' => 'Zanjān',
+          'name' => 'Zanjan',
         ),
       ),
     ),
@@ -9822,357 +6907,37 @@ return array (
         1 => 
         array (
           'code' => '1',
-          'name' => 'Höfuðborgarsvæði',
+          'name' => 'Hofudborgarsvaedi',
         ),
         2 => 
         array (
           'code' => '6',
-          'name' => 'Norðurland eystra',
+          'name' => 'Nordurland eystra',
         ),
         3 => 
         array (
           'code' => '5',
-          'name' => 'Norðurland vestra',
+          'name' => 'Nordurland vestra',
         ),
         4 => 
         array (
           'code' => '8',
-          'name' => 'Suðurland',
+          'name' => 'Sudurland',
         ),
         5 => 
         array (
           'code' => '2',
-          'name' => 'Suðurnes',
+          'name' => 'Sudurnes',
         ),
         6 => 
         array (
           'code' => '4',
-          'name' => 'Vestfirðir',
+          'name' => 'Vestfirdir',
         ),
         7 => 
         array (
           'code' => '3',
           'name' => 'Vesturland',
-        ),
-        8 => 
-        array (
-          'code' => 'AKN',
-          'name' => 'Akraneskaupstaður',
-        ),
-        9 => 
-        array (
-          'code' => 'AKU',
-          'name' => 'Akureyrarbær',
-        ),
-        10 => 
-        array (
-          'code' => 'ARN',
-          'name' => 'Árneshreppur',
-        ),
-        11 => 
-        array (
-          'code' => 'ASA',
-          'name' => 'Ásahreppur',
-        ),
-        12 => 
-        array (
-          'code' => 'BLA',
-          'name' => 'Bláskógabyggð',
-        ),
-        13 => 
-        array (
-          'code' => 'BOL',
-          'name' => 'Bolungarvíkurkaupstaður',
-        ),
-        14 => 
-        array (
-          'code' => 'BOG',
-          'name' => 'Borgarbyggð',
-        ),
-        15 => 
-        array (
-          'code' => 'DAB',
-          'name' => 'Dalabyggð',
-        ),
-        16 => 
-        array (
-          'code' => 'DAV',
-          'name' => 'Dalvíkurbyggð',
-        ),
-        17 => 
-        array (
-          'code' => 'EOM',
-          'name' => 'Eyja- og Miklaholtshreppur',
-        ),
-        18 => 
-        array (
-          'code' => 'EYF',
-          'name' => 'Eyjafjarðarsveit',
-        ),
-        19 => 
-        array (
-          'code' => 'FJL',
-          'name' => 'Fjallabyggð',
-        ),
-        20 => 
-        array (
-          'code' => 'FJD',
-          'name' => 'Fjarðabyggð',
-        ),
-        21 => 
-        array (
-          'code' => 'FLR',
-          'name' => 'Fljótsdalshreppur',
-        ),
-        22 => 
-        array (
-          'code' => 'FLA',
-          'name' => 'Flóahreppur',
-        ),
-        23 => 
-        array (
-          'code' => 'GAR',
-          'name' => 'Garðabær',
-        ),
-        24 => 
-        array (
-          'code' => 'GOG',
-          'name' => 'Grímsnes- og Grafningshreppur',
-        ),
-        25 => 
-        array (
-          'code' => 'GRN',
-          'name' => 'Grindavíkurbær',
-        ),
-        26 => 
-        array (
-          'code' => 'GRU',
-          'name' => 'Grundarfjarðarbær',
-        ),
-        27 => 
-        array (
-          'code' => 'GRY',
-          'name' => 'Grýtubakkahreppur',
-        ),
-        28 => 
-        array (
-          'code' => 'HAF',
-          'name' => 'Hafnarfjarðarkaupstaður',
-        ),
-        29 => 
-        array (
-          'code' => 'HRG',
-          'name' => 'Hörgársveit',
-        ),
-        30 => 
-        array (
-          'code' => 'HRU',
-          'name' => 'Hrunamannahreppur',
-        ),
-        31 => 
-        array (
-          'code' => 'HUG',
-          'name' => 'Húnabyggð',
-        ),
-        32 => 
-        array (
-          'code' => 'HUV',
-          'name' => 'Húnaþing vestra',
-        ),
-        33 => 
-        array (
-          'code' => 'HVA',
-          'name' => 'Hvalfjarðarsveit',
-        ),
-        34 => 
-        array (
-          'code' => 'HVE',
-          'name' => 'Hveragerðisbær',
-        ),
-        35 => 
-        array (
-          'code' => 'ISA',
-          'name' => 'Ísafjarðarbær',
-        ),
-        36 => 
-        array (
-          'code' => 'KAL',
-          'name' => 'Kaldrananeshreppur',
-        ),
-        37 => 
-        array (
-          'code' => 'KJO',
-          'name' => 'Kjósarhreppur',
-        ),
-        38 => 
-        array (
-          'code' => 'KOP',
-          'name' => 'Kópavogsbær',
-        ),
-        39 => 
-        array (
-          'code' => 'LAN',
-          'name' => 'Langanesbyggð',
-        ),
-        40 => 
-        array (
-          'code' => 'MOS',
-          'name' => 'Mosfellsbær',
-        ),
-        41 => 
-        array (
-          'code' => 'MUL',
-          'name' => 'Múlaþing',
-        ),
-        42 => 
-        array (
-          'code' => 'MYR',
-          'name' => 'Mýrdalshreppur',
-        ),
-        43 => 
-        array (
-          'code' => 'NOR',
-          'name' => 'Norðurþing',
-        ),
-        44 => 
-        array (
-          'code' => 'RGE',
-          'name' => 'Rangárþing eystra',
-        ),
-        45 => 
-        array (
-          'code' => 'RGY',
-          'name' => 'Rangárþing ytra',
-        ),
-        46 => 
-        array (
-          'code' => 'RHH',
-          'name' => 'Reykhólahreppur',
-        ),
-        47 => 
-        array (
-          'code' => 'RKN',
-          'name' => 'Reykjanesbær',
-        ),
-        48 => 
-        array (
-          'code' => 'RKV',
-          'name' => 'Reykjavíkurborg',
-        ),
-        49 => 
-        array (
-          'code' => 'SEL',
-          'name' => 'Seltjarnarnesbær',
-        ),
-        50 => 
-        array (
-          'code' => 'SKF',
-          'name' => 'Skaftárhreppur',
-        ),
-        51 => 
-        array (
-          'code' => 'SKG',
-          'name' => 'Skagabyggð',
-        ),
-        52 => 
-        array (
-          'code' => 'SKR',
-          'name' => 'Skagafjörður',
-        ),
-        53 => 
-        array (
-          'code' => 'SOG',
-          'name' => 'Skeiða- og Gnúpverjahreppur',
-        ),
-        54 => 
-        array (
-          'code' => 'SKO',
-          'name' => 'Skorradalshreppur',
-        ),
-        55 => 
-        array (
-          'code' => 'SNF',
-          'name' => 'Snæfellsbær',
-        ),
-        56 => 
-        array (
-          'code' => 'STR',
-          'name' => 'Strandabyggð',
-        ),
-        57 => 
-        array (
-          'code' => 'STY',
-          'name' => 'Stykkishólmsbær',
-        ),
-        58 => 
-        array (
-          'code' => 'SDV',
-          'name' => 'Súðavíkurhreppur',
-        ),
-        59 => 
-        array (
-          'code' => 'SDN',
-          'name' => 'Suðurnesjabær',
-        ),
-        60 => 
-        array (
-          'code' => 'SBT',
-          'name' => 'Svalbarðsstrandarhreppur',
-        ),
-        61 => 
-        array (
-          'code' => 'SFA',
-          'name' => 'Sveitarfélagið Árborg',
-        ),
-        62 => 
-        array (
-          'code' => 'SHF',
-          'name' => 'Sveitarfélagið Hornafjörður',
-        ),
-        63 => 
-        array (
-          'code' => 'SOL',
-          'name' => 'Sveitarfélagið Ölfus',
-        ),
-        64 => 
-        array (
-          'code' => 'SSS',
-          'name' => 'Sveitarfélagið Skagaströnd',
-        ),
-        65 => 
-        array (
-          'code' => 'SVG',
-          'name' => 'Sveitarfélagið Vogar',
-        ),
-        66 => 
-        array (
-          'code' => 'TAL',
-          'name' => 'Tálknafjarðarhreppur',
-        ),
-        67 => 
-        array (
-          'code' => 'TJO',
-          'name' => 'Tjörneshreppur',
-        ),
-        68 => 
-        array (
-          'code' => 'VEM',
-          'name' => 'Vestmannaeyjabær',
-        ),
-        69 => 
-        array (
-          'code' => 'VER',
-          'name' => 'Vesturbyggð',
-        ),
-        70 => 
-        array (
-          'code' => 'VOP',
-          'name' => 'Vopnafjarðarhreppur',
-        ),
-        71 => 
-        array (
-          'code' => 'THG',
-          'name' => 'Þingeyjarsveit',
         ),
       ),
     ),
@@ -10208,7 +6973,7 @@ return array (
         5 => 
         array (
           'code' => '36',
-          'name' => 'Friuli Venezia Giulia',
+          'name' => 'Friuli-Venezia Giulia',
         ),
         6 => 
         array (
@@ -10280,535 +7045,16 @@ return array (
           'code' => '34',
           'name' => 'Veneto',
         ),
-        20 => 
-        array (
-          'code' => 'AG',
-          'name' => 'Agrigento',
-        ),
-        21 => 
-        array (
-          'code' => 'AL',
-          'name' => 'Alessandria',
-        ),
-        22 => 
-        array (
-          'code' => 'AN',
-          'name' => 'Ancona',
-        ),
-        23 => 
-        array (
-          'code' => 'AR',
-          'name' => 'Arezzo',
-        ),
-        24 => 
-        array (
-          'code' => 'AP',
-          'name' => 'Ascoli Piceno',
-        ),
-        25 => 
-        array (
-          'code' => 'AT',
-          'name' => 'Asti',
-        ),
-        26 => 
-        array (
-          'code' => 'AV',
-          'name' => 'Avellino',
-        ),
-        27 => 
-        array (
-          'code' => 'BA',
-          'name' => 'Bari',
-        ),
-        28 => 
-        array (
-          'code' => 'BT',
-          'name' => 'Barletta-Andria-Trani',
-        ),
-        29 => 
-        array (
-          'code' => 'BL',
-          'name' => 'Belluno',
-        ),
-        30 => 
-        array (
-          'code' => 'BN',
-          'name' => 'Benevento',
-        ),
-        31 => 
-        array (
-          'code' => 'BG',
-          'name' => 'Bergamo',
-        ),
-        32 => 
-        array (
-          'code' => 'BI',
-          'name' => 'Biella',
-        ),
-        33 => 
-        array (
-          'code' => 'BO',
-          'name' => 'Bologna',
-        ),
-        34 => 
-        array (
-          'code' => 'BZ',
-          'name' => 'Bolzano',
-        ),
-        35 => 
-        array (
-          'code' => 'BS',
-          'name' => 'Brescia',
-        ),
-        36 => 
-        array (
-          'code' => 'BR',
-          'name' => 'Brindisi',
-        ),
-        37 => 
-        array (
-          'code' => 'CA',
-          'name' => 'Cagliari',
-        ),
-        38 => 
-        array (
-          'code' => 'CL',
-          'name' => 'Caltanissetta',
-        ),
-        39 => 
-        array (
-          'code' => 'CB',
-          'name' => 'Campobasso',
-        ),
-        40 => 
-        array (
-          'code' => 'CE',
-          'name' => 'Caserta',
-        ),
-        41 => 
-        array (
-          'code' => 'CT',
-          'name' => 'Catania',
-        ),
-        42 => 
-        array (
-          'code' => 'CZ',
-          'name' => 'Catanzaro',
-        ),
-        43 => 
-        array (
-          'code' => 'CH',
-          'name' => 'Chieti',
-        ),
-        44 => 
-        array (
-          'code' => 'CO',
-          'name' => 'Como',
-        ),
-        45 => 
-        array (
-          'code' => 'CS',
-          'name' => 'Cosenza',
-        ),
-        46 => 
-        array (
-          'code' => 'CR',
-          'name' => 'Cremona',
-        ),
-        47 => 
-        array (
-          'code' => 'KR',
-          'name' => 'Crotone',
-        ),
-        48 => 
-        array (
-          'code' => 'CN',
-          'name' => 'Cuneo',
-        ),
-        49 => 
-        array (
-          'code' => 'EN',
-          'name' => 'Enna',
-        ),
-        50 => 
-        array (
-          'code' => 'FM',
-          'name' => 'Fermo',
-        ),
-        51 => 
-        array (
-          'code' => 'FE',
-          'name' => 'Ferrara',
-        ),
-        52 => 
-        array (
-          'code' => 'FI',
-          'name' => 'Firenze',
-        ),
-        53 => 
-        array (
-          'code' => 'FG',
-          'name' => 'Foggia',
-        ),
-        54 => 
-        array (
-          'code' => 'FC',
-          'name' => 'Forlì-Cesena',
-        ),
-        55 => 
-        array (
-          'code' => 'FR',
-          'name' => 'Frosinone',
-        ),
-        56 => 
-        array (
-          'code' => 'GE',
-          'name' => 'Genova',
-        ),
-        57 => 
-        array (
-          'code' => 'GO',
-          'name' => 'Gorizia',
-        ),
-        58 => 
-        array (
-          'code' => 'GR',
-          'name' => 'Grosseto',
-        ),
-        59 => 
-        array (
-          'code' => 'IM',
-          'name' => 'Imperia',
-        ),
-        60 => 
-        array (
-          'code' => 'IS',
-          'name' => 'Isernia',
-        ),
-        61 => 
-        array (
-          'code' => 'AQ',
-          'name' => 'L\'Aquila',
-        ),
-        62 => 
-        array (
-          'code' => 'SP',
-          'name' => 'La Spezia',
-        ),
-        63 => 
-        array (
-          'code' => 'LT',
-          'name' => 'Latina',
-        ),
-        64 => 
-        array (
-          'code' => 'LE',
-          'name' => 'Lecce',
-        ),
-        65 => 
-        array (
-          'code' => 'LC',
-          'name' => 'Lecco',
-        ),
-        66 => 
-        array (
-          'code' => 'LI',
-          'name' => 'Livorno',
-        ),
-        67 => 
-        array (
-          'code' => 'LO',
-          'name' => 'Lodi',
-        ),
-        68 => 
-        array (
-          'code' => 'LU',
-          'name' => 'Lucca',
-        ),
-        69 => 
-        array (
-          'code' => 'MC',
-          'name' => 'Macerata',
-        ),
-        70 => 
-        array (
-          'code' => 'MN',
-          'name' => 'Mantova',
-        ),
-        71 => 
-        array (
-          'code' => 'MS',
-          'name' => 'Massa-Carrara',
-        ),
-        72 => 
-        array (
-          'code' => 'MT',
-          'name' => 'Matera',
-        ),
-        73 => 
-        array (
-          'code' => 'ME',
-          'name' => 'Messina',
-        ),
-        74 => 
-        array (
-          'code' => 'MI',
-          'name' => 'Milano',
-        ),
-        75 => 
-        array (
-          'code' => 'MO',
-          'name' => 'Modena',
-        ),
-        76 => 
-        array (
-          'code' => 'MB',
-          'name' => 'Monza e Brianza',
-        ),
-        77 => 
-        array (
-          'code' => 'NA',
-          'name' => 'Napoli',
-        ),
-        78 => 
-        array (
-          'code' => 'NO',
-          'name' => 'Novara',
-        ),
-        79 => 
-        array (
-          'code' => 'NU',
-          'name' => 'Nuoro',
-        ),
-        80 => 
-        array (
-          'code' => 'OR',
-          'name' => 'Oristano',
-        ),
-        81 => 
-        array (
-          'code' => 'PD',
-          'name' => 'Padova',
-        ),
-        82 => 
-        array (
-          'code' => 'PA',
-          'name' => 'Palermo',
-        ),
-        83 => 
-        array (
-          'code' => 'PR',
-          'name' => 'Parma',
-        ),
-        84 => 
-        array (
-          'code' => 'PV',
-          'name' => 'Pavia',
-        ),
-        85 => 
-        array (
-          'code' => 'PG',
-          'name' => 'Perugia',
-        ),
-        86 => 
-        array (
-          'code' => 'PU',
-          'name' => 'Pesaro e Urbino',
-        ),
-        87 => 
-        array (
-          'code' => 'PE',
-          'name' => 'Pescara',
-        ),
-        88 => 
-        array (
-          'code' => 'PC',
-          'name' => 'Piacenza',
-        ),
-        89 => 
-        array (
-          'code' => 'PI',
-          'name' => 'Pisa',
-        ),
-        90 => 
-        array (
-          'code' => 'PT',
-          'name' => 'Pistoia',
-        ),
-        91 => 
-        array (
-          'code' => 'PN',
-          'name' => 'Pordenone',
-        ),
-        92 => 
-        array (
-          'code' => 'PZ',
-          'name' => 'Potenza',
-        ),
-        93 => 
-        array (
-          'code' => 'PO',
-          'name' => 'Prato',
-        ),
-        94 => 
-        array (
-          'code' => 'RG',
-          'name' => 'Ragusa',
-        ),
-        95 => 
-        array (
-          'code' => 'RA',
-          'name' => 'Ravenna',
-        ),
-        96 => 
-        array (
-          'code' => 'RC',
-          'name' => 'Reggio Calabria',
-        ),
-        97 => 
-        array (
-          'code' => 'RE',
-          'name' => 'Reggio Emilia',
-        ),
-        98 => 
-        array (
-          'code' => 'RI',
-          'name' => 'Rieti',
-        ),
-        99 => 
-        array (
-          'code' => 'RN',
-          'name' => 'Rimini',
-        ),
-        100 => 
-        array (
-          'code' => 'RM',
-          'name' => 'Roma',
-        ),
-        101 => 
-        array (
-          'code' => 'RO',
-          'name' => 'Rovigo',
-        ),
-        102 => 
-        array (
-          'code' => 'SA',
-          'name' => 'Salerno',
-        ),
-        103 => 
-        array (
-          'code' => 'SS',
-          'name' => 'Sassari',
-        ),
-        104 => 
-        array (
-          'code' => 'SV',
-          'name' => 'Savona',
-        ),
-        105 => 
-        array (
-          'code' => 'SI',
-          'name' => 'Siena',
-        ),
-        106 => 
-        array (
-          'code' => 'SR',
-          'name' => 'Siracusa',
-        ),
-        107 => 
-        array (
-          'code' => 'SO',
-          'name' => 'Sondrio',
-        ),
-        108 => 
-        array (
-          'code' => 'SU',
-          'name' => 'Sud Sardegna',
-        ),
-        109 => 
-        array (
-          'code' => 'TA',
-          'name' => 'Taranto',
-        ),
-        110 => 
-        array (
-          'code' => 'TE',
-          'name' => 'Teramo',
-        ),
-        111 => 
-        array (
-          'code' => 'TR',
-          'name' => 'Terni',
-        ),
-        112 => 
-        array (
-          'code' => 'TO',
-          'name' => 'Torino',
-        ),
-        113 => 
-        array (
-          'code' => 'TP',
-          'name' => 'Trapani',
-        ),
-        114 => 
-        array (
-          'code' => 'TN',
-          'name' => 'Trento',
-        ),
-        115 => 
-        array (
-          'code' => 'TV',
-          'name' => 'Treviso',
-        ),
-        116 => 
-        array (
-          'code' => 'TS',
-          'name' => 'Trieste',
-        ),
-        117 => 
-        array (
-          'code' => 'UD',
-          'name' => 'Udine',
-        ),
-        118 => 
-        array (
-          'code' => 'VA',
-          'name' => 'Varese',
-        ),
-        119 => 
-        array (
-          'code' => 'VE',
-          'name' => 'Venezia',
-        ),
-        120 => 
-        array (
-          'code' => 'VB',
-          'name' => 'Verbano-Cusio-Ossola',
-        ),
-        121 => 
-        array (
-          'code' => 'VC',
-          'name' => 'Vercelli',
-        ),
-        122 => 
-        array (
-          'code' => 'VR',
-          'name' => 'Verona',
-        ),
-        123 => 
-        array (
-          'code' => 'VV',
-          'name' => 'Vibo Valentia',
-        ),
-        124 => 
-        array (
-          'code' => 'VI',
-          'name' => 'Vicenza',
-        ),
-        125 => 
-        array (
-          'code' => 'VT',
-          'name' => 'Viterbo',
+      ),
+    ),
+    'JE' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Jersey',
         ),
       ),
     ),
@@ -10895,22 +7141,22 @@ return array (
         0 => 
         array (
           'code' => 'AJ',
-          'name' => '‘Ajlūn',
+          'name' => '\'Ajlun',
         ),
         1 => 
         array (
           'code' => 'AQ',
-          'name' => 'Al ‘Aqabah',
+          'name' => 'Al \'Aqabah',
         ),
         2 => 
         array (
           'code' => 'AM',
-          'name' => 'Al ‘A̅şimah',
+          'name' => 'Al \'Asimah',
         ),
         3 => 
         array (
           'code' => 'BA',
-          'name' => 'Al Balqā’',
+          'name' => 'Al Balqa\'',
         ),
         4 => 
         array (
@@ -10925,12 +7171,12 @@ return array (
         6 => 
         array (
           'code' => 'AT',
-          'name' => 'Aţ Ţafīlah',
+          'name' => 'At Tafilah',
         ),
         7 => 
         array (
           'code' => 'AZ',
-          'name' => 'Az Zarqā’',
+          'name' => 'Az Zarqa\'',
         ),
         8 => 
         array (
@@ -10945,12 +7191,12 @@ return array (
         10 => 
         array (
           'code' => 'MN',
-          'name' => 'Ma‘ān',
+          'name' => 'Ma\'an',
         ),
         11 => 
         array (
           'code' => 'MD',
-          'name' => 'Mādabā',
+          'name' => 'Madaba',
         ),
       ),
     ),
@@ -10961,7 +7207,7 @@ return array (
         0 => 
         array (
           'code' => '23',
-          'name' => 'Aiti',
+          'name' => 'Aichi',
         ),
         1 => 
         array (
@@ -10975,193 +7221,193 @@ return array (
         ),
         3 => 
         array (
-          'code' => '38',
-          'name' => 'Ehime',
+          'code' => '12',
+          'name' => 'Chiba',
         ),
         4 => 
         array (
-          'code' => '21',
-          'name' => 'Gihu',
+          'code' => '38',
+          'name' => 'Ehime',
         ),
         5 => 
+        array (
+          'code' => '18',
+          'name' => 'Fukui',
+        ),
+        6 => 
+        array (
+          'code' => '40',
+          'name' => 'Fukuoka',
+        ),
+        7 => 
+        array (
+          'code' => '07',
+          'name' => 'Fukushima',
+        ),
+        8 => 
+        array (
+          'code' => '21',
+          'name' => 'Gifu',
+        ),
+        9 => 
         array (
           'code' => '10',
           'name' => 'Gunma',
         ),
-        6 => 
-        array (
-          'code' => '34',
-          'name' => 'Hirosima',
-        ),
-        7 => 
-        array (
-          'code' => '01',
-          'name' => 'Hokkaidô',
-        ),
-        8 => 
-        array (
-          'code' => '18',
-          'name' => 'Hukui',
-        ),
-        9 => 
-        array (
-          'code' => '40',
-          'name' => 'Hukuoka',
-        ),
         10 => 
         array (
-          'code' => '07',
-          'name' => 'Hukusima',
+          'code' => '34',
+          'name' => 'Hiroshima',
         ),
         11 => 
         array (
-          'code' => '28',
-          'name' => 'Hyôgo',
+          'code' => '01',
+          'name' => 'Hokkaido',
         ),
         12 => 
+        array (
+          'code' => '28',
+          'name' => 'Hyogo',
+        ),
+        13 => 
         array (
           'code' => '08',
           'name' => 'Ibaraki',
         ),
-        13 => 
+        14 => 
         array (
           'code' => '17',
-          'name' => 'Isikawa',
+          'name' => 'Ishikawa',
         ),
-        14 => 
+        15 => 
         array (
           'code' => '03',
           'name' => 'Iwate',
         ),
-        15 => 
+        16 => 
         array (
           'code' => '37',
           'name' => 'Kagawa',
         ),
-        16 => 
+        17 => 
         array (
           'code' => '46',
-          'name' => 'Kagosima',
+          'name' => 'Kagoshima',
         ),
-        17 => 
+        18 => 
         array (
           'code' => '14',
           'name' => 'Kanagawa',
         ),
-        18 => 
+        19 => 
         array (
           'code' => '39',
-          'name' => 'Kôti',
+          'name' => 'Kochi',
         ),
-        19 => 
+        20 => 
         array (
           'code' => '43',
           'name' => 'Kumamoto',
         ),
-        20 => 
+        21 => 
         array (
           'code' => '26',
-          'name' => 'Kyôto',
+          'name' => 'Kyoto',
         ),
-        21 => 
+        22 => 
         array (
           'code' => '24',
           'name' => 'Mie',
         ),
-        22 => 
+        23 => 
         array (
           'code' => '04',
           'name' => 'Miyagi',
         ),
-        23 => 
+        24 => 
         array (
           'code' => '45',
           'name' => 'Miyazaki',
         ),
-        24 => 
+        25 => 
         array (
           'code' => '20',
           'name' => 'Nagano',
         ),
-        25 => 
+        26 => 
         array (
           'code' => '42',
           'name' => 'Nagasaki',
         ),
-        26 => 
+        27 => 
         array (
           'code' => '29',
           'name' => 'Nara',
         ),
-        27 => 
+        28 => 
         array (
           'code' => '15',
           'name' => 'Niigata',
         ),
-        28 => 
+        29 => 
         array (
           'code' => '44',
-          'name' => 'Ôita',
+          'name' => 'Oita',
         ),
-        29 => 
+        30 => 
         array (
           'code' => '33',
           'name' => 'Okayama',
         ),
-        30 => 
+        31 => 
         array (
           'code' => '47',
           'name' => 'Okinawa',
         ),
-        31 => 
+        32 => 
         array (
           'code' => '27',
-          'name' => 'Ôsaka',
+          'name' => 'Osaka',
         ),
-        32 => 
+        33 => 
         array (
           'code' => '41',
           'name' => 'Saga',
         ),
-        33 => 
+        34 => 
         array (
           'code' => '11',
           'name' => 'Saitama',
         ),
-        34 => 
-        array (
-          'code' => '25',
-          'name' => 'Siga',
-        ),
         35 => 
         array (
-          'code' => '32',
-          'name' => 'Simane',
+          'code' => '25',
+          'name' => 'Shiga',
         ),
         36 => 
         array (
-          'code' => '22',
-          'name' => 'Sizuoka',
+          'code' => '32',
+          'name' => 'Shimane',
         ),
         37 => 
         array (
-          'code' => '12',
-          'name' => 'Tiba',
+          'code' => '22',
+          'name' => 'Shizuoka',
         ),
         38 => 
         array (
-          'code' => '36',
-          'name' => 'Tokusima',
+          'code' => '09',
+          'name' => 'Tochigi',
         ),
         39 => 
         array (
-          'code' => '13',
-          'name' => 'Tôkyô',
+          'code' => '36',
+          'name' => 'Tokushima',
         ),
         40 => 
         array (
-          'code' => '09',
-          'name' => 'Totigi',
+          'code' => '13',
+          'name' => 'Tokyo',
         ),
         41 => 
         array (
@@ -11186,12 +7432,12 @@ return array (
         45 => 
         array (
           'code' => '35',
-          'name' => 'Yamaguti',
+          'name' => 'Yamaguchi',
         ),
         46 => 
         array (
           'code' => '19',
-          'name' => 'Yamanasi',
+          'name' => 'Yamanashi',
         ),
       ),
     ),
@@ -11453,7 +7699,7 @@ return array (
         2 => 
         array (
           'code' => 'C',
-          'name' => 'Chüy',
+          'name' => 'Chuy',
         ),
         3 => 
         array (
@@ -11467,23 +7713,18 @@ return array (
         ),
         5 => 
         array (
-          'code' => 'O',
-          'name' => 'Osh',
-        ),
-        6 => 
-        array (
           'code' => 'GO',
           'name' => 'Osh Shaary',
         ),
-        7 => 
+        6 => 
         array (
           'code' => 'T',
           'name' => 'Talas',
         ),
-        8 => 
+        7 => 
         array (
           'code' => 'Y',
-          'name' => 'Ysyk-Köl',
+          'name' => 'Ysyk-Kol',
         ),
       ),
     ),
@@ -11499,7 +7740,7 @@ return array (
         1 => 
         array (
           'code' => '1',
-          'name' => 'Banteay Mean Choăy',
+          'name' => 'Banteay Mean Choay',
         ),
         2 => 
         array (
@@ -11538,83 +7779,63 @@ return array (
         ),
         9 => 
         array (
-          'code' => '9',
-          'name' => 'Kaoh Kong',
-        ),
-        10 => 
-        array (
           'code' => '10',
           'name' => 'Kracheh',
         ),
-        11 => 
+        10 => 
         array (
           'code' => '11',
           'name' => 'Mondol Kiri',
         ),
-        12 => 
-        array (
-          'code' => '22',
-          'name' => 'Otdar Mean Chey',
-        ),
-        13 => 
+        11 => 
         array (
           'code' => '24',
           'name' => 'Pailin',
         ),
-        14 => 
+        12 => 
         array (
           'code' => '12',
           'name' => 'Phnom Penh',
         ),
-        15 => 
+        13 => 
         array (
           'code' => '15',
           'name' => 'Pousaat',
         ),
-        16 => 
+        14 => 
         array (
           'code' => '18',
           'name' => 'Preah Sihanouk',
         ),
-        17 => 
-        array (
-          'code' => '13',
-          'name' => 'Preah Vihear',
-        ),
-        18 => 
+        15 => 
         array (
           'code' => '14',
           'name' => 'Prey Veaeng',
         ),
-        19 => 
+        16 => 
         array (
           'code' => '16',
           'name' => 'Rotanak Kiri',
         ),
-        20 => 
+        17 => 
         array (
           'code' => '17',
           'name' => 'Siem Reab',
         ),
-        21 => 
+        18 => 
         array (
           'code' => '19',
           'name' => 'Stueng Traeng',
         ),
-        22 => 
+        19 => 
         array (
           'code' => '20',
           'name' => 'Svaay Rieng',
         ),
-        23 => 
+        20 => 
         array (
           'code' => '21',
           'name' => 'Taakaev',
-        ),
-        24 => 
-        array (
-          'code' => '25',
-          'name' => 'Tbong Khmum',
         ),
       ),
     ),
@@ -11626,16 +7847,6 @@ return array (
         array (
           'code' => 'G',
           'name' => 'Gilbert Islands',
-        ),
-        1 => 
-        array (
-          'code' => 'L',
-          'name' => 'Line Islands',
-        ),
-        2 => 
-        array (
-          'code' => 'P',
-          'name' => 'Phoenix Islands',
         ),
       ),
     ),
@@ -11650,13 +7861,8 @@ return array (
         ),
         1 => 
         array (
-          'code' => 'A',
-          'name' => 'Anjouan',
-        ),
-        2 => 
-        array (
           'code' => 'M',
-          'name' => 'Mohéli',
+          'name' => 'Moheli',
         ),
       ),
     ),
@@ -11666,80 +7872,65 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'K',
-          'name' => 'Saint Kitts',
-        ),
-        1 => 
-        array (
-          'code' => 'N',
-          'name' => 'Nevis',
-        ),
-        2 => 
-        array (
           'code' => '01',
           'name' => 'Christ Church Nichola Town',
         ),
-        3 => 
+        1 => 
         array (
           'code' => '02',
           'name' => 'Saint Anne Sandy Point',
         ),
-        4 => 
+        2 => 
         array (
           'code' => '03',
           'name' => 'Saint George Basseterre',
         ),
-        5 => 
-        array (
-          'code' => '04',
-          'name' => 'Saint George Gingerland',
-        ),
-        6 => 
+        3 => 
         array (
           'code' => '05',
           'name' => 'Saint James Windward',
         ),
-        7 => 
+        4 => 
         array (
           'code' => '06',
           'name' => 'Saint John Capisterre',
         ),
-        8 => 
+        5 => 
         array (
           'code' => '07',
           'name' => 'Saint John Figtree',
         ),
-        9 => 
+        6 => 
         array (
           'code' => '08',
           'name' => 'Saint Mary Cayon',
         ),
-        10 => 
+        7 => 
         array (
           'code' => '09',
           'name' => 'Saint Paul Capisterre',
         ),
-        11 => 
+        8 => 
         array (
           'code' => '10',
           'name' => 'Saint Paul Charlestown',
         ),
-        12 => 
+        9 => 
         array (
           'code' => '11',
           'name' => 'Saint Peter Basseterre',
         ),
-        13 => 
+        10 => 
         array (
           'code' => '12',
           'name' => 'Saint Thomas Lowland',
         ),
-        14 => 
+        11 => 
         array (
           'code' => '13',
           'name' => 'Saint Thomas Middle Island',
         ),
-        15 => 
+        12 => 
         array (
           'code' => '15',
           'name' => 'Trinity Palmetto Point',
@@ -11752,68 +7943,8 @@ return array (
       array (
         0 => 
         array (
-          'code' => '04',
-          'name' => 'Chagang-do',
-        ),
-        1 => 
-        array (
-          'code' => '09',
-          'name' => 'Hamgyǒng-bukto',
-        ),
-        2 => 
-        array (
-          'code' => '08',
-          'name' => 'Hamgyǒng-namdo',
-        ),
-        3 => 
-        array (
-          'code' => '06',
-          'name' => 'Hwanghae-bukto',
-        ),
-        4 => 
-        array (
-          'code' => '05',
-          'name' => 'Hwanghae-namdo',
-        ),
-        5 => 
-        array (
-          'code' => '15',
-          'name' => 'Kaesŏng',
-        ),
-        6 => 
-        array (
-          'code' => '07',
-          'name' => 'Kangwǒn-do',
-        ),
-        7 => 
-        array (
-          'code' => '14',
-          'name' => 'Namp’o',
-        ),
-        8 => 
-        array (
-          'code' => '03',
-          'name' => 'P\'yǒngan-bukto',
-        ),
-        9 => 
-        array (
-          'code' => '02',
-          'name' => 'P\'yǒngan-namdo',
-        ),
-        10 => 
-        array (
           'code' => '01',
-          'name' => 'P\'yǒngyang',
-        ),
-        11 => 
-        array (
-          'code' => '13',
-          'name' => 'Rasǒn',
-        ),
-        12 => 
-        array (
-          'code' => '10',
-          'name' => 'Ryanggang-do',
+          'name' => 'P\'yongyang',
         ),
       ),
     ),
@@ -11849,7 +7980,7 @@ return array (
         5 => 
         array (
           'code' => '42',
-          'name' => 'Gangwon-teukbyeoljachido',
+          'name' => 'Gangwon-do',
         ),
         6 => 
         array (
@@ -11893,15 +8024,10 @@ return array (
         ),
         14 => 
         array (
-          'code' => '50',
-          'name' => 'Sejong',
-        ),
-        15 => 
-        array (
           'code' => '11',
           'name' => 'Seoul-teukbyeolsi',
         ),
-        16 => 
+        15 => 
         array (
           'code' => '31',
           'name' => 'Ulsan-gwangyeoksi',
@@ -11914,33 +8040,44 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'AH',
-          'name' => 'Al Aḩmadī',
+          'code' => 'KU',
+          'name' => 'Al \'Asimah',
         ),
         1 => 
         array (
-          'code' => 'FA',
-          'name' => 'Al Farwānīyah',
+          'code' => 'AH',
+          'name' => 'Al Ahmadi',
         ),
         2 => 
         array (
-          'code' => 'JA',
-          'name' => 'Al Jahrā’',
+          'code' => 'FA',
+          'name' => 'Al Farwaniyah',
         ),
         3 => 
         array (
-          'code' => 'KU',
-          'name' => 'Al ‘Āşimah',
+          'code' => 'JA',
+          'name' => 'Al Jahra\'',
         ),
         4 => 
         array (
           'code' => 'HA',
-          'name' => 'Ḩawallī',
+          'name' => 'Hawalli',
         ),
         5 => 
         array (
           'code' => 'MU',
-          'name' => 'Mubārak al Kabīr',
+          'name' => 'Mubarak al Kabir',
+        ),
+      ),
+    ),
+    'KY' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Cayman Islands',
         ),
       ),
     ),
@@ -11950,103 +8087,88 @@ return array (
       array (
         0 => 
         array (
-          'code' => '10',
-          'name' => 'Abay oblysy',
+          'code' => 'ALA',
+          'name' => 'Almaty',
         ),
         1 => 
         array (
-          'code' => '75',
-          'name' => 'Almaty',
+          'code' => 'ALM',
+          'name' => 'Almaty oblysy',
         ),
         2 => 
         array (
-          'code' => '19',
-          'name' => 'Almaty oblysy',
+          'code' => 'AKM',
+          'name' => 'Aqmola oblysy',
         ),
         3 => 
         array (
-          'code' => '11',
-          'name' => 'Aqmola oblysy',
+          'code' => 'AKT',
+          'name' => 'Aqtobe oblysy',
         ),
         4 => 
         array (
-          'code' => '15',
-          'name' => 'Aqtöbe oblysy',
+          'code' => 'ATY',
+          'name' => 'Atyrau oblysy',
         ),
         5 => 
         array (
-          'code' => '71',
-          'name' => 'Astana',
+          'code' => 'ZAP',
+          'name' => 'Batys Qazaqstan oblysy',
         ),
         6 => 
         array (
-          'code' => '23',
-          'name' => 'Atyraū oblysy',
+          'code' => 'MAN',
+          'name' => 'Mangghystau oblysy',
         ),
         7 => 
         array (
-          'code' => '27',
-          'name' => 'Batys Qazaqstan oblysy',
+          'code' => 'AST',
+          'name' => 'Nur-Sultan',
         ),
         8 => 
         array (
-          'code' => '47',
-          'name' => 'Mangghystaū oblysy',
+          'code' => 'YUZ',
+          'name' => 'Ongtustik Qazaqstan oblysy',
         ),
         9 => 
         array (
-          'code' => '55',
+          'code' => 'PAV',
           'name' => 'Pavlodar oblysy',
         ),
         10 => 
         array (
-          'code' => '35',
+          'code' => 'KAR',
           'name' => 'Qaraghandy oblysy',
         ),
         11 => 
         array (
-          'code' => '39',
+          'code' => 'KUS',
           'name' => 'Qostanay oblysy',
         ),
         12 => 
         array (
-          'code' => '43',
+          'code' => 'KZY',
           'name' => 'Qyzylorda oblysy',
         ),
         13 => 
         array (
-          'code' => '63',
+          'code' => 'VOS',
           'name' => 'Shyghys Qazaqstan oblysy',
         ),
         14 => 
         array (
-          'code' => '79',
+          'code' => 'SHY',
           'name' => 'Shymkent',
         ),
         15 => 
         array (
-          'code' => '59',
-          'name' => 'Soltüstik Qazaqstan oblysy',
+          'code' => 'SEV',
+          'name' => 'Soltustik Qazaqstan oblysy',
         ),
         16 => 
         array (
-          'code' => '61',
-          'name' => 'Türkistan oblysy',
-        ),
-        17 => 
-        array (
-          'code' => '62',
-          'name' => 'Ulytaū oblysy',
-        ),
-        18 => 
-        array (
-          'code' => '31',
+          'code' => 'ZHA',
           'name' => 'Zhambyl oblysy',
-        ),
-        19 => 
-        array (
-          'code' => '33',
-          'name' => 'Zhetisū oblysy',
         ),
       ),
     ),
@@ -12061,85 +8183,55 @@ return array (
         ),
         1 => 
         array (
-          'code' => 'BK',
-          'name' => 'Bokèo',
-        ),
-        2 => 
-        array (
           'code' => 'BL',
           'name' => 'Bolikhamxai',
         ),
-        3 => 
+        2 => 
         array (
           'code' => 'CH',
           'name' => 'Champasak',
         ),
-        4 => 
+        3 => 
         array (
           'code' => 'HO',
           'name' => 'Houaphan',
         ),
-        5 => 
+        4 => 
         array (
           'code' => 'KH',
           'name' => 'Khammouan',
         ),
+        5 => 
+        array (
+          'code' => 'OU',
+          'name' => 'Oudomxai',
+        ),
         6 => 
         array (
-          'code' => 'LM',
-          'name' => 'Louang Namtha',
+          'code' => 'PH',
+          'name' => 'Phongsali',
         ),
         7 => 
         array (
-          'code' => 'LP',
-          'name' => 'Louangphabang',
+          'code' => 'SV',
+          'name' => 'Savannakhet',
         ),
         8 => 
-        array (
-          'code' => 'OU',
-          'name' => 'Oudômxai',
-        ),
-        9 => 
-        array (
-          'code' => 'PH',
-          'name' => 'Phôngsali',
-        ),
-        10 => 
-        array (
-          'code' => 'SL',
-          'name' => 'Salavan',
-        ),
-        11 => 
-        array (
-          'code' => 'SV',
-          'name' => 'Savannakhét',
-        ),
-        12 => 
         array (
           'code' => 'VI',
           'name' => 'Viangchan',
         ),
-        13 => 
-        array (
-          'code' => 'VT',
-          'name' => 'Viangchan',
-        ),
-        14 => 
+        9 => 
         array (
           'code' => 'XA',
           'name' => 'Xaignabouli',
         ),
-        15 => 
-        array (
-          'code' => 'XS',
-          'name' => 'Xaisômboun',
-        ),
-        16 => 
+        10 => 
         array (
           'code' => 'XE',
-          'name' => 'Xékong',
+          'name' => 'Xekong',
         ),
-        17 => 
+        11 => 
         array (
           'code' => 'XI',
           'name' => 'Xiangkhouang',
@@ -12153,7 +8245,7 @@ return array (
         0 => 
         array (
           'code' => 'AK',
-          'name' => 'Aakkâr',
+          'name' => 'Aakkar',
         ),
         1 => 
         array (
@@ -12163,7 +8255,7 @@ return array (
         2 => 
         array (
           'code' => 'BI',
-          'name' => 'Béqaa',
+          'name' => 'Beqaa',
         ),
         3 => 
         array (
@@ -12188,7 +8280,7 @@ return array (
         7 => 
         array (
           'code' => 'NA',
-          'name' => 'Nabatîyé',
+          'name' => 'Nabatiye',
         ),
       ),
     ),
@@ -12203,45 +8295,40 @@ return array (
         ),
         1 => 
         array (
-          'code' => '12',
-          'name' => 'Canaries',
-        ),
-        2 => 
-        array (
           'code' => '02',
           'name' => 'Castries',
         ),
-        3 => 
+        2 => 
         array (
           'code' => '03',
           'name' => 'Choiseul',
         ),
-        4 => 
+        3 => 
         array (
           'code' => '05',
           'name' => 'Dennery',
         ),
-        5 => 
+        4 => 
         array (
           'code' => '06',
           'name' => 'Gros Islet',
         ),
-        6 => 
+        5 => 
         array (
           'code' => '07',
           'name' => 'Laborie',
         ),
-        7 => 
+        6 => 
         array (
           'code' => '08',
           'name' => 'Micoud',
         ),
-        8 => 
+        7 => 
         array (
           'code' => '10',
-          'name' => 'Soufrière',
+          'name' => 'Soufriere',
         ),
-        9 => 
+        8 => 
         array (
           'code' => '11',
           'name' => 'Vieux Fort',
@@ -12289,20 +8376,15 @@ return array (
         ),
         7 => 
         array (
-          'code' => '08',
-          'name' => 'Schellenberg',
-        ),
-        8 => 
-        array (
           'code' => '09',
           'name' => 'Triesen',
         ),
-        9 => 
+        8 => 
         array (
           'code' => '10',
           'name' => 'Triesenberg',
         ),
-        10 => 
+        9 => 
         array (
           'code' => '11',
           'name' => 'Vaduz',
@@ -12315,173 +8397,48 @@ return array (
       array (
         0 => 
         array (
-          'code' => '1',
-          'name' => 'Basnāhira paḷāta',
+          'code' => '2',
+          'name' => 'Central Province',
         ),
         1 => 
         array (
-          'code' => '3',
-          'name' => 'Dakuṇu paḷāta',
+          'code' => '5',
+          'name' => 'Eastern Province',
         ),
         2 => 
         array (
-          'code' => '2',
-          'name' => 'Madhyama paḷāta',
+          'code' => '7',
+          'name' => 'North Central Province',
         ),
         3 => 
         array (
-          'code' => '5',
-          'name' => 'Næ̆gĕnahira paḷāta',
+          'code' => '6',
+          'name' => 'North Western Province',
         ),
         4 => 
         array (
-          'code' => '9',
-          'name' => 'Sabaragamuva paḷāta',
+          'code' => '4',
+          'name' => 'Northern Province',
         ),
         5 => 
         array (
-          'code' => '4',
-          'name' => 'Uturu paḷāta',
+          'code' => '9',
+          'name' => 'Sabaragamuwa Province',
         ),
         6 => 
         array (
-          'code' => '7',
-          'name' => 'Uturumæ̆da paḷāta',
+          'code' => '3',
+          'name' => 'Southern Province',
         ),
         7 => 
         array (
           'code' => '8',
-          'name' => 'Ūva paḷāta',
+          'name' => 'Uva Province',
         ),
         8 => 
         array (
-          'code' => '6',
-          'name' => 'Vayamba paḷāta',
-        ),
-        9 => 
-        array (
-          'code' => '52',
-          'name' => 'Ampāra',
-        ),
-        10 => 
-        array (
-          'code' => '71',
-          'name' => 'Anurādhapura',
-        ),
-        11 => 
-        array (
-          'code' => '81',
-          'name' => 'Badulla',
-        ),
-        12 => 
-        array (
-          'code' => '31',
-          'name' => 'Gālla',
-        ),
-        13 => 
-        array (
-          'code' => '12',
-          'name' => 'Gampaha',
-        ),
-        14 => 
-        array (
-          'code' => '33',
-          'name' => 'Hambantŏṭa',
-        ),
-        15 => 
-        array (
-          'code' => '92',
-          'name' => 'Kægalla',
-        ),
-        16 => 
-        array (
-          'code' => '13',
-          'name' => 'Kalutara',
-        ),
-        17 => 
-        array (
-          'code' => '42',
-          'name' => 'Kilinŏchchi',
-        ),
-        18 => 
-        array (
-          'code' => '11',
-          'name' => 'Kŏḷamba',
-        ),
-        19 => 
-        array (
-          'code' => '61',
-          'name' => 'Kuruṇægala',
-        ),
-        20 => 
-        array (
-          'code' => '51',
-          'name' => 'Maḍakalapuva',
-        ),
-        21 => 
-        array (
-          'code' => '21',
-          'name' => 'Mahanuvara',
-        ),
-        22 => 
-        array (
-          'code' => '43',
-          'name' => 'Mannārama',
-        ),
-        23 => 
-        array (
-          'code' => '22',
-          'name' => 'Mātale',
-        ),
-        24 => 
-        array (
-          'code' => '32',
-          'name' => 'Mātara',
-        ),
-        25 => 
-        array (
-          'code' => '82',
-          'name' => 'Mŏṇarāgala',
-        ),
-        26 => 
-        array (
-          'code' => '45',
-          'name' => 'Mulativ',
-        ),
-        27 => 
-        array (
-          'code' => '23',
-          'name' => 'Nuvara Ĕliya',
-        ),
-        28 => 
-        array (
-          'code' => '72',
-          'name' => 'Pŏḷŏnnaruva',
-        ),
-        29 => 
-        array (
-          'code' => '62',
-          'name' => 'Puttalama',
-        ),
-        30 => 
-        array (
-          'code' => '91',
-          'name' => 'Ratnapura',
-        ),
-        31 => 
-        array (
-          'code' => '53',
-          'name' => 'Trikuṇāmalaya',
-        ),
-        32 => 
-        array (
-          'code' => '44',
-          'name' => 'Vavuniyāva',
-        ),
-        33 => 
-        array (
-          'code' => '41',
-          'name' => 'Yāpanaya',
+          'code' => '1',
+          'name' => 'Western Province',
         ),
       ),
     ),
@@ -12496,70 +8453,30 @@ return array (
         ),
         1 => 
         array (
-          'code' => 'BG',
-          'name' => 'Bong',
-        ),
-        2 => 
-        array (
-          'code' => 'GP',
-          'name' => 'Gbarpolu',
-        ),
-        3 => 
-        array (
           'code' => 'GB',
           'name' => 'Grand Bassa',
         ),
-        4 => 
-        array (
-          'code' => 'CM',
-          'name' => 'Grand Cape Mount',
-        ),
-        5 => 
+        2 => 
         array (
           'code' => 'GG',
           'name' => 'Grand Gedeh',
         ),
-        6 => 
-        array (
-          'code' => 'GK',
-          'name' => 'Grand Kru',
-        ),
-        7 => 
-        array (
-          'code' => 'LO',
-          'name' => 'Lofa',
-        ),
-        8 => 
+        3 => 
         array (
           'code' => 'MG',
           'name' => 'Margibi',
         ),
-        9 => 
-        array (
-          'code' => 'MY',
-          'name' => 'Maryland',
-        ),
-        10 => 
+        4 => 
         array (
           'code' => 'MO',
           'name' => 'Montserrado',
         ),
-        11 => 
+        5 => 
         array (
           'code' => 'NI',
           'name' => 'Nimba',
         ),
-        12 => 
-        array (
-          'code' => 'RI',
-          'name' => 'River Cess',
-        ),
-        13 => 
-        array (
-          'code' => 'RG',
-          'name' => 'River Gee',
-        ),
-        14 => 
+        6 => 
         array (
           'code' => 'SI',
           'name' => 'Sinoe',
@@ -12639,32 +8556,32 @@ return array (
         2 => 
         array (
           'code' => 'KL',
-          'name' => 'Klaipėdos apskritis',
+          'name' => 'Klaipedos apskritis',
         ),
         3 => 
         array (
           'code' => 'MR',
-          'name' => 'Marijampolės apskritis',
+          'name' => 'Marijampoles apskritis',
         ),
         4 => 
         array (
           'code' => 'PN',
-          'name' => 'Panevėžio apskritis',
+          'name' => 'Panevezio apskritis',
         ),
         5 => 
         array (
           'code' => 'SA',
-          'name' => 'Šiaulių apskritis',
+          'name' => 'Siauliu apskritis',
         ),
         6 => 
         array (
           'code' => 'TA',
-          'name' => 'Tauragės apskritis',
+          'name' => 'Taurages apskritis',
         ),
         7 => 
         array (
           'code' => 'TE',
-          'name' => 'Telšių apskritis',
+          'name' => 'Telsiu apskritis',
         ),
         8 => 
         array (
@@ -12675,306 +8592,6 @@ return array (
         array (
           'code' => 'VL',
           'name' => 'Vilniaus apskritis',
-        ),
-        10 => 
-        array (
-          'code' => '01',
-          'name' => 'Akmenė',
-        ),
-        11 => 
-        array (
-          'code' => '02',
-          'name' => 'Alytaus miestas',
-        ),
-        12 => 
-        array (
-          'code' => '03',
-          'name' => 'Alytus',
-        ),
-        13 => 
-        array (
-          'code' => '04',
-          'name' => 'Anykščiai',
-        ),
-        14 => 
-        array (
-          'code' => '05',
-          'name' => 'Birštonas',
-        ),
-        15 => 
-        array (
-          'code' => '06',
-          'name' => 'Biržai',
-        ),
-        16 => 
-        array (
-          'code' => '07',
-          'name' => 'Druskininkai',
-        ),
-        17 => 
-        array (
-          'code' => '08',
-          'name' => 'Elektrėnai',
-        ),
-        18 => 
-        array (
-          'code' => '09',
-          'name' => 'Ignalina',
-        ),
-        19 => 
-        array (
-          'code' => '10',
-          'name' => 'Jonava',
-        ),
-        20 => 
-        array (
-          'code' => '11',
-          'name' => 'Joniškis',
-        ),
-        21 => 
-        array (
-          'code' => '12',
-          'name' => 'Jurbarkas',
-        ),
-        22 => 
-        array (
-          'code' => '13',
-          'name' => 'Kaišiadorys',
-        ),
-        23 => 
-        array (
-          'code' => '14',
-          'name' => 'Kalvarija',
-        ),
-        24 => 
-        array (
-          'code' => '16',
-          'name' => 'Kaunas',
-        ),
-        25 => 
-        array (
-          'code' => '15',
-          'name' => 'Kauno miestas',
-        ),
-        26 => 
-        array (
-          'code' => '17',
-          'name' => 'Kazlų Rūdos',
-        ),
-        27 => 
-        array (
-          'code' => '18',
-          'name' => 'Kėdainiai',
-        ),
-        28 => 
-        array (
-          'code' => '19',
-          'name' => 'Kelmė',
-        ),
-        29 => 
-        array (
-          'code' => '21',
-          'name' => 'Klaipėda',
-        ),
-        30 => 
-        array (
-          'code' => '20',
-          'name' => 'Klaipėdos miestas',
-        ),
-        31 => 
-        array (
-          'code' => '22',
-          'name' => 'Kretinga',
-        ),
-        32 => 
-        array (
-          'code' => '23',
-          'name' => 'Kupiškis',
-        ),
-        33 => 
-        array (
-          'code' => '24',
-          'name' => 'Lazdijai',
-        ),
-        34 => 
-        array (
-          'code' => '25',
-          'name' => 'Marijampolė',
-        ),
-        35 => 
-        array (
-          'code' => '26',
-          'name' => 'Mažeikiai',
-        ),
-        36 => 
-        array (
-          'code' => '27',
-          'name' => 'Molėtai',
-        ),
-        37 => 
-        array (
-          'code' => '28',
-          'name' => 'Neringa',
-        ),
-        38 => 
-        array (
-          'code' => '29',
-          'name' => 'Pagėgiai',
-        ),
-        39 => 
-        array (
-          'code' => '30',
-          'name' => 'Pakruojis',
-        ),
-        40 => 
-        array (
-          'code' => '31',
-          'name' => 'Palangos miestas',
-        ),
-        41 => 
-        array (
-          'code' => '32',
-          'name' => 'Panevėžio miestas',
-        ),
-        42 => 
-        array (
-          'code' => '33',
-          'name' => 'Panevėžys',
-        ),
-        43 => 
-        array (
-          'code' => '34',
-          'name' => 'Pasvalys',
-        ),
-        44 => 
-        array (
-          'code' => '35',
-          'name' => 'Plungė',
-        ),
-        45 => 
-        array (
-          'code' => '36',
-          'name' => 'Prienai',
-        ),
-        46 => 
-        array (
-          'code' => '37',
-          'name' => 'Radviliškis',
-        ),
-        47 => 
-        array (
-          'code' => '38',
-          'name' => 'Raseiniai',
-        ),
-        48 => 
-        array (
-          'code' => '39',
-          'name' => 'Rietavas',
-        ),
-        49 => 
-        array (
-          'code' => '40',
-          'name' => 'Rokiškis',
-        ),
-        50 => 
-        array (
-          'code' => '41',
-          'name' => 'Šakiai',
-        ),
-        51 => 
-        array (
-          'code' => '42',
-          'name' => 'Šalčininkai',
-        ),
-        52 => 
-        array (
-          'code' => '44',
-          'name' => 'Šiauliai',
-        ),
-        53 => 
-        array (
-          'code' => '43',
-          'name' => 'Šiaulių miestas',
-        ),
-        54 => 
-        array (
-          'code' => '45',
-          'name' => 'Šilalė',
-        ),
-        55 => 
-        array (
-          'code' => '46',
-          'name' => 'Šilutė',
-        ),
-        56 => 
-        array (
-          'code' => '47',
-          'name' => 'Širvintos',
-        ),
-        57 => 
-        array (
-          'code' => '48',
-          'name' => 'Skuodas',
-        ),
-        58 => 
-        array (
-          'code' => '49',
-          'name' => 'Švenčionys',
-        ),
-        59 => 
-        array (
-          'code' => '50',
-          'name' => 'Tauragė',
-        ),
-        60 => 
-        array (
-          'code' => '51',
-          'name' => 'Telšiai',
-        ),
-        61 => 
-        array (
-          'code' => '52',
-          'name' => 'Trakai',
-        ),
-        62 => 
-        array (
-          'code' => '53',
-          'name' => 'Ukmergė',
-        ),
-        63 => 
-        array (
-          'code' => '54',
-          'name' => 'Utena',
-        ),
-        64 => 
-        array (
-          'code' => '55',
-          'name' => 'Varėna',
-        ),
-        65 => 
-        array (
-          'code' => '56',
-          'name' => 'Vilkaviškis',
-        ),
-        66 => 
-        array (
-          'code' => '57',
-          'name' => 'Vilniaus miestas',
-        ),
-        67 => 
-        array (
-          'code' => '58',
-          'name' => 'Vilnius',
-        ),
-        68 => 
-        array (
-          'code' => '59',
-          'name' => 'Visaginas',
-        ),
-        69 => 
-        array (
-          'code' => '60',
-          'name' => 'Zarasai',
         ),
       ),
     ),
@@ -13050,23 +8667,23 @@ return array (
       array (
         0 => 
         array (
-          'code' => '002',
-          'name' => 'Aizkraukles novads',
+          'code' => '011',
+          'name' => 'Adazu novads',
         ),
         1 => 
         array (
-          'code' => '007',
-          'name' => 'Alūksnes novads',
+          'code' => '002',
+          'name' => 'Aizkraukles novads',
         ),
         2 => 
         array (
-          'code' => '111',
-          'name' => 'Augšdaugavas novads',
+          'code' => '007',
+          'name' => 'Aluksnes novads',
         ),
         3 => 
         array (
-          'code' => '011',
-          'name' => 'Ādažu novads',
+          'code' => '111',
+          'name' => 'Augsdaugavas novads',
         ),
         4 => 
         array (
@@ -13081,7 +8698,7 @@ return array (
         6 => 
         array (
           'code' => '022',
-          'name' => 'Cēsu novads',
+          'name' => 'Cesu novads',
         ),
         7 => 
         array (
@@ -13091,7 +8708,7 @@ return array (
         8 => 
         array (
           'code' => '112',
-          'name' => 'Dienvidkurzemes Novads',
+          'name' => 'Dienvidkurzemes novads',
         ),
         9 => 
         array (
@@ -13105,53 +8722,53 @@ return array (
         ),
         11 => 
         array (
+          'code' => '042',
+          'name' => 'Jekabpils novads',
+        ),
+        12 => 
+        array (
           'code' => 'JEL',
           'name' => 'Jelgava',
         ),
-        12 => 
+        13 => 
         array (
           'code' => '041',
           'name' => 'Jelgavas novads',
         ),
-        13 => 
-        array (
-          'code' => '042',
-          'name' => 'Jēkabpils novads',
-        ),
         14 => 
         array (
           'code' => 'JUR',
-          'name' => 'Jūrmala',
+          'name' => 'Jurmala',
         ),
         15 => 
         array (
-          'code' => '047',
-          'name' => 'Krāslavas novads',
+          'code' => '052',
+          'name' => 'Kekavas novads',
         ),
         16 => 
         array (
-          'code' => '050',
-          'name' => 'Kuldīgas novads',
+          'code' => '047',
+          'name' => 'Kraslavas novads',
         ),
         17 => 
         array (
-          'code' => '052',
-          'name' => 'Ķekavas novads',
+          'code' => '050',
+          'name' => 'Kuldigas novads',
         ),
         18 => 
         array (
           'code' => 'LPX',
-          'name' => 'Liepāja',
+          'name' => 'Liepaja',
         ),
         19 => 
         array (
           'code' => '054',
-          'name' => 'Limbažu novads',
+          'name' => 'Limbazu novads',
         ),
         20 => 
         array (
           'code' => '056',
-          'name' => 'Līvānu novads',
+          'name' => 'Livanu novads',
         ),
         21 => 
         array (
@@ -13166,7 +8783,7 @@ return array (
         23 => 
         array (
           'code' => '062',
-          'name' => 'Mārupes novads',
+          'name' => 'Marupes novads',
         ),
         24 => 
         array (
@@ -13181,84 +8798,74 @@ return array (
         26 => 
         array (
           'code' => '073',
-          'name' => 'Preiļu novads',
+          'name' => 'Preilu novads',
         ),
         27 => 
         array (
-          'code' => 'REZ',
-          'name' => 'Rēzekne',
+          'code' => '077',
+          'name' => 'Rezeknes novads',
         ),
         28 => 
         array (
-          'code' => '077',
-          'name' => 'Rēzeknes novads',
+          'code' => 'RIX',
+          'name' => 'Riga',
         ),
         29 => 
         array (
-          'code' => 'RIX',
-          'name' => 'Rīga',
+          'code' => '080',
+          'name' => 'Ropazu novads',
         ),
         30 => 
-        array (
-          'code' => '080',
-          'name' => 'Ropažu novads',
-        ),
-        31 => 
         array (
           'code' => '087',
           'name' => 'Salaspils novads',
         ),
-        32 => 
+        31 => 
         array (
           'code' => '088',
           'name' => 'Saldus novads',
         ),
-        33 => 
+        32 => 
         array (
           'code' => '089',
           'name' => 'Saulkrastu novads',
         ),
-        34 => 
+        33 => 
         array (
           'code' => '091',
           'name' => 'Siguldas novads',
         ),
-        35 => 
+        34 => 
         array (
           'code' => '094',
           'name' => 'Smiltenes novads',
         ),
-        36 => 
+        35 => 
         array (
           'code' => '097',
           'name' => 'Talsu novads',
         ),
-        37 => 
+        36 => 
         array (
           'code' => '099',
           'name' => 'Tukuma novads',
         ),
-        38 => 
+        37 => 
         array (
           'code' => '101',
           'name' => 'Valkas novads',
         ),
-        39 => 
+        38 => 
         array (
           'code' => '113',
-          'name' => 'Valmieras Novads',
+          'name' => 'Valmieras novads',
         ),
-        40 => 
+        39 => 
         array (
           'code' => '102',
-          'name' => 'Varakļānu novads',
+          'name' => 'Varaklanu novads',
         ),
-        41 => 
-        array (
-          'code' => 'VEN',
-          'name' => 'Ventspils',
-        ),
-        42 => 
+        40 => 
         array (
           'code' => '106',
           'name' => 'Ventspils novads',
@@ -13272,22 +8879,22 @@ return array (
         0 => 
         array (
           'code' => 'BU',
-          'name' => 'Al Buţnān',
+          'name' => 'Al Butnan',
         ),
         1 => 
         array (
           'code' => 'JA',
-          'name' => 'Al Jabal al Akhḑar',
+          'name' => 'Al Jabal al Akhdar',
         ),
         2 => 
         array (
           'code' => 'JG',
-          'name' => 'Al Jabal al Gharbī',
+          'name' => 'Al Jabal al Gharbi',
         ),
         3 => 
         array (
           'code' => 'JI',
-          'name' => 'Al Jafārah',
+          'name' => 'Al Jafarah',
         ),
         4 => 
         array (
@@ -13312,22 +8919,22 @@ return array (
         8 => 
         array (
           'code' => 'WA',
-          'name' => 'Al Wāḩāt',
+          'name' => 'Al Wahat',
         ),
         9 => 
         array (
           'code' => 'NQ',
-          'name' => 'An Nuqāţ al Khams',
+          'name' => 'An Nuqat al Khams',
         ),
         10 => 
         array (
           'code' => 'ZA',
-          'name' => 'Az Zāwiyah',
+          'name' => 'Az Zawiyah',
         ),
         11 => 
         array (
           'code' => 'BA',
-          'name' => 'Banghāzī',
+          'name' => 'Banghazi',
         ),
         12 => 
         array (
@@ -13336,48 +8943,33 @@ return array (
         ),
         13 => 
         array (
-          'code' => 'GT',
-          'name' => 'Ghāt',
+          'code' => 'MI',
+          'name' => 'Misratah',
         ),
         14 => 
         array (
-          'code' => 'MI',
-          'name' => 'Mişrātah',
+          'code' => 'NL',
+          'name' => 'Nalut',
         ),
         15 => 
         array (
-          'code' => 'MQ',
-          'name' => 'Murzuq',
+          'code' => 'SB',
+          'name' => 'Sabha',
         ),
         16 => 
-        array (
-          'code' => 'NL',
-          'name' => 'Nālūt',
-        ),
-        17 => 
-        array (
-          'code' => 'SB',
-          'name' => 'Sabhā',
-        ),
-        18 => 
         array (
           'code' => 'SR',
           'name' => 'Surt',
         ),
-        19 => 
+        17 => 
         array (
           'code' => 'TB',
-          'name' => 'Ţarābulus',
+          'name' => 'Tarabulus',
         ),
-        20 => 
-        array (
-          'code' => 'WD',
-          'name' => 'Wādī al Ḩayāt',
-        ),
-        21 => 
+        18 => 
         array (
           'code' => 'WS',
-          'name' => 'Wādī ash Shāţi’',
+          'name' => 'Wadi ash Shati\'',
         ),
       ),
     ),
@@ -13388,7 +8980,7 @@ return array (
         0 => 
         array (
           'code' => '05',
-          'name' => 'Béni Mellal-Khénifra',
+          'name' => 'Beni-Mellal-Khenifra',
         ),
         1 => 
         array (
@@ -13397,428 +8989,48 @@ return array (
         ),
         2 => 
         array (
-          'code' => '12',
-          'name' => 'Dakhla-Oued Ed-Dahab',
+          'code' => '08',
+          'name' => 'Draa-Tafilalet',
         ),
         3 => 
         array (
-          'code' => '08',
-          'name' => 'Drâa-Tafilalet',
+          'code' => '03',
+          'name' => 'Fes- Meknes',
         ),
         4 => 
         array (
-          'code' => '03',
-          'name' => 'Fès-Meknès',
+          'code' => '10',
+          'name' => 'Guelmim-Oued Noun (EH-partial)',
         ),
         5 => 
-        array (
-          'code' => '10',
-          'name' => 'Guelmim-Oued Noun',
-        ),
-        6 => 
         array (
           'code' => '02',
           'name' => 'L\'Oriental',
         ),
-        7 => 
+        6 => 
         array (
           'code' => '11',
-          'name' => 'Laâyoune-Sakia El Hamra',
+          'name' => 'Laayoune-Sakia El Hamra (EH-partial)',
         ),
-        8 => 
+        7 => 
         array (
           'code' => '07',
           'name' => 'Marrakech-Safi',
         ),
-        9 => 
+        8 => 
         array (
           'code' => '04',
-          'name' => 'Rabat-Salé-Kénitra',
+          'name' => 'Rabat-Sale-Kenitra',
         ),
-        10 => 
+        9 => 
         array (
           'code' => '09',
           'name' => 'Souss-Massa',
         ),
-        11 => 
+        10 => 
         array (
           'code' => '01',
-          'name' => 'Tanger-Tétouan-Al Hoceïma',
-        ),
-        12 => 
-        array (
-          'code' => 'AGD',
-          'name' => 'Agadir-Ida-Ou-Tanane',
-        ),
-        13 => 
-        array (
-          'code' => 'HAO',
-          'name' => 'Al Haouz',
-        ),
-        14 => 
-        array (
-          'code' => 'HOC',
-          'name' => 'Al Hoceïma',
-        ),
-        15 => 
-        array (
-          'code' => 'AOU',
-          'name' => 'Aousserd',
-        ),
-        16 => 
-        array (
-          'code' => 'ASZ',
-          'name' => 'Assa-Zag',
-        ),
-        17 => 
-        array (
-          'code' => 'AZI',
-          'name' => 'Azilal',
-        ),
-        18 => 
-        array (
-          'code' => 'BEM',
-          'name' => 'Béni Mellal',
-        ),
-        19 => 
-        array (
-          'code' => 'BES',
-          'name' => 'Benslimane',
-        ),
-        20 => 
-        array (
-          'code' => 'BER',
-          'name' => 'Berkane',
-        ),
-        21 => 
-        array (
-          'code' => 'BRR',
-          'name' => 'Berrechid',
-        ),
-        22 => 
-        array (
-          'code' => 'BOD',
-          'name' => 'Boujdour',
-        ),
-        23 => 
-        array (
-          'code' => 'BOM',
-          'name' => 'Boulemane',
-        ),
-        24 => 
-        array (
-          'code' => 'CAS',
-          'name' => 'Casablanca',
-        ),
-        25 => 
-        array (
-          'code' => 'CHE',
-          'name' => 'Chefchaouen',
-        ),
-        26 => 
-        array (
-          'code' => 'CHI',
-          'name' => 'Chichaoua',
-        ),
-        27 => 
-        array (
-          'code' => 'CHT',
-          'name' => 'Chtouka-Ait Baha',
-        ),
-        28 => 
-        array (
-          'code' => 'DRI',
-          'name' => 'Driouch',
-        ),
-        29 => 
-        array (
-          'code' => 'HAJ',
-          'name' => 'El Hajeb',
-        ),
-        30 => 
-        array (
-          'code' => 'JDI',
-          'name' => 'El Jadida',
-        ),
-        31 => 
-        array (
-          'code' => 'KES',
-          'name' => 'El Kelâa des Sraghna',
-        ),
-        32 => 
-        array (
-          'code' => 'ERR',
-          'name' => 'Errachidia',
-        ),
-        33 => 
-        array (
-          'code' => 'ESM',
-          'name' => 'Es-Semara',
-        ),
-        34 => 
-        array (
-          'code' => 'ESI',
-          'name' => 'Essaouira',
-        ),
-        35 => 
-        array (
-          'code' => 'FAH',
-          'name' => 'Fahs-Anjra',
-        ),
-        36 => 
-        array (
-          'code' => 'FES',
-          'name' => 'Fès',
-        ),
-        37 => 
-        array (
-          'code' => 'FIG',
-          'name' => 'Figuig',
-        ),
-        38 => 
-        array (
-          'code' => 'FQH',
-          'name' => 'Fquih Ben Salah',
-        ),
-        39 => 
-        array (
-          'code' => 'GUE',
-          'name' => 'Guelmim',
-        ),
-        40 => 
-        array (
-          'code' => 'GUF',
-          'name' => 'Guercif',
-        ),
-        41 => 
-        array (
-          'code' => 'IFR',
-          'name' => 'Ifrane',
-        ),
-        42 => 
-        array (
-          'code' => 'INE',
-          'name' => 'Inezgane-Ait Melloul',
-        ),
-        43 => 
-        array (
-          'code' => 'JRA',
-          'name' => 'Jerada',
-        ),
-        44 => 
-        array (
-          'code' => 'KEN',
-          'name' => 'Kénitra',
-        ),
-        45 => 
-        array (
-          'code' => 'KHE',
-          'name' => 'Khémisset',
-        ),
-        46 => 
-        array (
-          'code' => 'KHN',
-          'name' => 'Khénifra',
-        ),
-        47 => 
-        array (
-          'code' => 'KHO',
-          'name' => 'Khouribga',
-        ),
-        48 => 
-        array (
-          'code' => 'LAA',
-          'name' => 'Laâyoune',
-        ),
-        49 => 
-        array (
-          'code' => 'LAR',
-          'name' => 'Larache',
-        ),
-        50 => 
-        array (
-          'code' => 'MDF',
-          'name' => 'M’diq-Fnideq',
-        ),
-        51 => 
-        array (
-          'code' => 'MAR',
-          'name' => 'Marrakech',
-        ),
-        52 => 
-        array (
-          'code' => 'MED',
-          'name' => 'Médiouna',
-        ),
-        53 => 
-        array (
-          'code' => 'MEK',
-          'name' => 'Meknès',
-        ),
-        54 => 
-        array (
-          'code' => 'MID',
-          'name' => 'Midelt',
-        ),
-        55 => 
-        array (
-          'code' => 'MOH',
-          'name' => 'Mohammadia',
-        ),
-        56 => 
-        array (
-          'code' => 'MOU',
-          'name' => 'Moulay Yacoub',
-        ),
-        57 => 
-        array (
-          'code' => 'NAD',
-          'name' => 'Nador',
-        ),
-        58 => 
-        array (
-          'code' => 'NOU',
-          'name' => 'Nouaceur',
-        ),
-        59 => 
-        array (
-          'code' => 'OUA',
-          'name' => 'Ouarzazate',
-        ),
-        60 => 
-        array (
-          'code' => 'OUD',
-          'name' => 'Oued Ed-Dahab',
-        ),
-        61 => 
-        array (
-          'code' => 'OUZ',
-          'name' => 'Ouezzane',
-        ),
-        62 => 
-        array (
-          'code' => 'OUJ',
-          'name' => 'Oujda-Angad',
-        ),
-        63 => 
-        array (
-          'code' => 'RAB',
-          'name' => 'Rabat',
-        ),
-        64 => 
-        array (
-          'code' => 'REH',
-          'name' => 'Rehamna',
-        ),
-        65 => 
-        array (
-          'code' => 'SAF',
-          'name' => 'Safi',
-        ),
-        66 => 
-        array (
-          'code' => 'SAL',
-          'name' => 'Salé',
-        ),
-        67 => 
-        array (
-          'code' => 'SEF',
-          'name' => 'Sefrou',
-        ),
-        68 => 
-        array (
-          'code' => 'SET',
-          'name' => 'Settat',
-        ),
-        69 => 
-        array (
-          'code' => 'SIB',
-          'name' => 'Sidi Bennour',
-        ),
-        70 => 
-        array (
-          'code' => 'SIF',
-          'name' => 'Sidi Ifni',
-        ),
-        71 => 
-        array (
-          'code' => 'SIK',
-          'name' => 'Sidi Kacem',
-        ),
-        72 => 
-        array (
-          'code' => 'SIL',
-          'name' => 'Sidi Slimane',
-        ),
-        73 => 
-        array (
-          'code' => 'SKH',
-          'name' => 'Skhirate-Témara',
-        ),
-        74 => 
-        array (
-          'code' => 'TNT',
-          'name' => 'Tan-Tan',
-        ),
-        75 => 
-        array (
-          'code' => 'TNG',
-          'name' => 'Tanger-Assilah',
-        ),
-        76 => 
-        array (
-          'code' => 'TAO',
-          'name' => 'Taounate',
-        ),
-        77 => 
-        array (
-          'code' => 'TAI',
-          'name' => 'Taourirt',
-        ),
-        78 => 
-        array (
-          'code' => 'TAF',
-          'name' => 'Tarfaya',
-        ),
-        79 => 
-        array (
-          'code' => 'TAR',
-          'name' => 'Taroudannt',
-        ),
-        80 => 
-        array (
-          'code' => 'TAT',
-          'name' => 'Tata',
-        ),
-        81 => 
-        array (
-          'code' => 'TAZ',
-          'name' => 'Taza',
-        ),
-        82 => 
-        array (
-          'code' => 'TET',
-          'name' => 'Tétouan',
-        ),
-        83 => 
-        array (
-          'code' => 'TIN',
-          'name' => 'Tinghir',
-        ),
-        84 => 
-        array (
-          'code' => 'TIZ',
-          'name' => 'Tiznit',
-        ),
-        85 => 
-        array (
-          'code' => 'YUS',
-          'name' => 'Youssoufia',
-        ),
-        86 => 
-        array (
-          'code' => 'ZAG',
-          'name' => 'Zagora',
+          'name' => 'Tanger-Tetouan-Al Hoceima',
         ),
       ),
     ),
@@ -13833,83 +9045,23 @@ return array (
         ),
         1 => 
         array (
-          'code' => 'JE',
-          'name' => 'Jardin Exotique',
-        ),
-        2 => 
-        array (
-          'code' => 'CL',
-          'name' => 'La Colle',
-        ),
-        3 => 
-        array (
           'code' => 'CO',
           'name' => 'La Condamine',
         ),
-        4 => 
-        array (
-          'code' => 'GA',
-          'name' => 'La Gare',
-        ),
-        5 => 
-        array (
-          'code' => 'SO',
-          'name' => 'La Source',
-        ),
-        6 => 
-        array (
-          'code' => 'LA',
-          'name' => 'Larvotto',
-        ),
-        7 => 
-        array (
-          'code' => 'MA',
-          'name' => 'Malbousquet',
-        ),
-        8 => 
+        2 => 
         array (
           'code' => 'MO',
           'name' => 'Monaco-Ville',
         ),
-        9 => 
-        array (
-          'code' => 'MG',
-          'name' => 'Moneghetti',
-        ),
-        10 => 
+        3 => 
         array (
           'code' => 'MC',
           'name' => 'Monte-Carlo',
         ),
-        11 => 
-        array (
-          'code' => 'MU',
-          'name' => 'Moulins',
-        ),
-        12 => 
-        array (
-          'code' => 'PH',
-          'name' => 'Port-Hercule',
-        ),
-        13 => 
+        4 => 
         array (
           'code' => 'SR',
           'name' => 'Saint-Roman',
-        ),
-        14 => 
-        array (
-          'code' => 'SD',
-          'name' => 'Sainte-Dévote',
-        ),
-        15 => 
-        array (
-          'code' => 'SP',
-          'name' => 'Spélugues',
-        ),
-        16 => 
-        array (
-          'code' => 'VR',
-          'name' => 'Vallon de la Rousse',
         ),
       ),
     ),
@@ -13924,13 +9076,13 @@ return array (
         ),
         1 => 
         array (
-          'code' => 'BS',
-          'name' => 'Basarabeasca',
+          'code' => 'BA',
+          'name' => 'Balti',
         ),
         2 => 
         array (
-          'code' => 'BA',
-          'name' => 'Bălți',
+          'code' => 'BS',
+          'name' => 'Basarabeasca',
         ),
         3 => 
         array (
@@ -13949,28 +9101,28 @@ return array (
         ),
         6 => 
         array (
-          'code' => 'CT',
-          'name' => 'Cantemir',
+          'code' => 'CL',
+          'name' => 'Calarasi',
         ),
         7 => 
         array (
-          'code' => 'CL',
-          'name' => 'Călărași',
+          'code' => 'CT',
+          'name' => 'Cantemir',
         ),
         8 => 
         array (
           'code' => 'CS',
-          'name' => 'Căușeni',
+          'name' => 'Causeni',
         ),
         9 => 
         array (
           'code' => 'CU',
-          'name' => 'Chișinău',
+          'name' => 'Chisinau',
         ),
         10 => 
         array (
           'code' => 'CM',
-          'name' => 'Cimișlia',
+          'name' => 'Cimislia',
         ),
         11 => 
         array (
@@ -13980,7 +9132,7 @@ return array (
         12 => 
         array (
           'code' => 'DO',
-          'name' => 'Dondușeni',
+          'name' => 'Donduseni',
         ),
         13 => 
         array (
@@ -13990,27 +9142,27 @@ return array (
         14 => 
         array (
           'code' => 'DU',
-          'name' => 'Dubăsari',
+          'name' => 'Dubasari',
         ),
         15 => 
         array (
           'code' => 'ED',
-          'name' => 'Edineț',
+          'name' => 'Edinet',
         ),
         16 => 
         array (
           'code' => 'FA',
-          'name' => 'Fălești',
+          'name' => 'Falesti',
         ),
         17 => 
         array (
           'code' => 'FL',
-          'name' => 'Florești',
+          'name' => 'Floresti',
         ),
         18 => 
         array (
           'code' => 'GA',
-          'name' => 'Găgăuzia, Unitatea teritorială autonomă',
+          'name' => 'Gagauzia, Unitatea teritoriala autonoma',
         ),
         19 => 
         array (
@@ -14020,7 +9172,7 @@ return array (
         20 => 
         array (
           'code' => 'HI',
-          'name' => 'Hîncești',
+          'name' => 'Hincesti',
         ),
         21 => 
         array (
@@ -14040,7 +9192,7 @@ return array (
         24 => 
         array (
           'code' => 'OC',
-          'name' => 'Ocnița',
+          'name' => 'Ocnita',
         ),
         25 => 
         array (
@@ -14055,37 +9207,37 @@ return array (
         27 => 
         array (
           'code' => 'RI',
-          'name' => 'Rîșcani',
+          'name' => 'Riscani',
         ),
         28 => 
         array (
           'code' => 'SI',
-          'name' => 'Sîngerei',
+          'name' => 'Singerei',
         ),
         29 => 
+        array (
+          'code' => 'SD',
+          'name' => 'Soldanesti',
+        ),
+        30 => 
         array (
           'code' => 'SO',
           'name' => 'Soroca',
         ),
-        30 => 
-        array (
-          'code' => 'SN',
-          'name' => 'Stînga Nistrului, unitatea teritorială din',
-        ),
         31 => 
         array (
-          'code' => 'ST',
-          'name' => 'Strășeni',
+          'code' => 'SV',
+          'name' => 'Stefan Voda',
         ),
         32 => 
         array (
-          'code' => 'SD',
-          'name' => 'Șoldănești',
+          'code' => 'SN',
+          'name' => 'Stinga Nistrului, unitatea teritoriala din',
         ),
         33 => 
         array (
-          'code' => 'SV',
-          'name' => 'Ștefan Vodă',
+          'code' => 'ST',
+          'name' => 'Straseni',
         ),
         34 => 
         array (
@@ -14095,7 +9247,7 @@ return array (
         35 => 
         array (
           'code' => 'TE',
-          'name' => 'Telenești',
+          'name' => 'Telenesti',
         ),
         36 => 
         array (
@@ -14145,93 +9297,74 @@ return array (
         ),
         7 => 
         array (
-          'code' => '22',
-          'name' => 'Gusinje',
-        ),
-        8 => 
-        array (
           'code' => '08',
           'name' => 'Herceg-Novi',
         ),
-        9 => 
-        array (
-          'code' => '09',
-          'name' => 'Kolašin',
-        ),
-        10 => 
+        8 => 
         array (
           'code' => '10',
           'name' => 'Kotor',
         ),
-        11 => 
-        array (
-          'code' => '11',
-          'name' => 'Mojkovac',
-        ),
-        12 => 
+        9 => 
         array (
           'code' => '12',
-          'name' => 'Nikšić',
+          'name' => 'Niksic',
         ),
-        13 => 
-        array (
-          'code' => '23',
-          'name' => 'Petnjica',
-        ),
-        14 => 
+        10 => 
         array (
           'code' => '13',
           'name' => 'Plav',
         ),
-        15 => 
+        11 => 
         array (
           'code' => '14',
           'name' => 'Pljevlja',
         ),
-        16 => 
+        12 => 
         array (
           'code' => '15',
-          'name' => 'Plužine',
+          'name' => 'Pluzine',
         ),
-        17 => 
+        13 => 
         array (
           'code' => '16',
           'name' => 'Podgorica',
         ),
-        18 => 
+        14 => 
         array (
           'code' => '17',
-          'name' => 'Rožaje',
+          'name' => 'Rozaje',
         ),
-        19 => 
-        array (
-          'code' => '18',
-          'name' => 'Šavnik',
-        ),
-        20 => 
+        15 => 
         array (
           'code' => '19',
           'name' => 'Tivat',
         ),
-        21 => 
+        16 => 
         array (
           'code' => '24',
           'name' => 'Tuzi',
         ),
-        22 => 
+        17 => 
         array (
           'code' => '20',
           'name' => 'Ulcinj',
         ),
-        23 => 
+        18 => 
         array (
           'code' => '21',
-          'name' => 'Žabljak',
+          'name' => 'Zabljak',
         ),
-        24 => 
+      ),
+    ),
+    'MF' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
         array (
-          'code' => '25',
-          'name' => 'Zeta',
+          'code' => NULL,
+          'name' => 'Saint Martin (French Part)',
         ),
       ),
     ),
@@ -14277,133 +9410,13 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'L',
-          'name' => 'Ralik chain',
-        ),
-        1 => 
-        array (
-          'code' => 'T',
-          'name' => 'Ratak chain',
-        ),
-        2 => 
-        array (
-          'code' => 'ALL',
-          'name' => 'Ailinglaplap',
-        ),
-        3 => 
-        array (
-          'code' => 'ALK',
-          'name' => 'Ailuk',
-        ),
-        4 => 
-        array (
-          'code' => 'ARN',
-          'name' => 'Arno',
-        ),
-        5 => 
-        array (
-          'code' => 'AUR',
-          'name' => 'Aur',
-        ),
-        6 => 
-        array (
-          'code' => 'KIL',
-          'name' => 'Bikini & Kili',
-        ),
-        7 => 
-        array (
-          'code' => 'EBO',
-          'name' => 'Ebon',
-        ),
-        8 => 
-        array (
-          'code' => 'ENI',
-          'name' => 'Enewetak & Ujelang',
-        ),
-        9 => 
-        array (
-          'code' => 'JAB',
-          'name' => 'Jabat',
-        ),
-        10 => 
-        array (
-          'code' => 'JAL',
-          'name' => 'Jaluit',
-        ),
-        11 => 
-        array (
           'code' => 'KWA',
           'name' => 'Kwajalein',
         ),
-        12 => 
-        array (
-          'code' => 'LAE',
-          'name' => 'Lae',
-        ),
-        13 => 
-        array (
-          'code' => 'LIB',
-          'name' => 'Lib',
-        ),
-        14 => 
-        array (
-          'code' => 'LIK',
-          'name' => 'Likiep',
-        ),
-        15 => 
+        1 => 
         array (
           'code' => 'MAJ',
           'name' => 'Majuro',
-        ),
-        16 => 
-        array (
-          'code' => 'MAL',
-          'name' => 'Maloelap',
-        ),
-        17 => 
-        array (
-          'code' => 'MEJ',
-          'name' => 'Mejit',
-        ),
-        18 => 
-        array (
-          'code' => 'MIL',
-          'name' => 'Mili',
-        ),
-        19 => 
-        array (
-          'code' => 'NMK',
-          'name' => 'Namdrik',
-        ),
-        20 => 
-        array (
-          'code' => 'NMU',
-          'name' => 'Namu',
-        ),
-        21 => 
-        array (
-          'code' => 'RON',
-          'name' => 'Rongelap',
-        ),
-        22 => 
-        array (
-          'code' => 'UJA',
-          'name' => 'Ujae',
-        ),
-        23 => 
-        array (
-          'code' => 'UTI',
-          'name' => 'Utrik',
-        ),
-        24 => 
-        array (
-          'code' => 'WTH',
-          'name' => 'Wotho',
-        ),
-        25 => 
-        array (
-          'code' => 'WTJ',
-          'name' => 'Wotje',
         ),
       ),
     ),
@@ -14413,48 +9426,48 @@ return array (
       array (
         0 => 
         array (
-          'code' => '801',
-          'name' => 'Aerodrom',
+          'code' => '802',
+          'name' => 'Aracinovo',
         ),
         1 => 
-        array (
-          'code' => '802',
-          'name' => 'Aračinovo',
-        ),
-        2 => 
         array (
           'code' => '201',
           'name' => 'Berovo',
         ),
-        3 => 
+        2 => 
         array (
           'code' => '501',
           'name' => 'Bitola',
         ),
-        4 => 
+        3 => 
         array (
           'code' => '401',
           'name' => 'Bogdanci',
         ),
-        5 => 
+        4 => 
         array (
           'code' => '601',
           'name' => 'Bogovinje',
         ),
-        6 => 
+        5 => 
         array (
           'code' => '402',
           'name' => 'Bosilovo',
         ),
-        7 => 
+        6 => 
         array (
           'code' => '602',
           'name' => 'Brvenica',
         ),
-        8 => 
+        7 => 
         array (
           'code' => '803',
           'name' => 'Butel',
+        ),
+        8 => 
+        array (
+          'code' => '109',
+          'name' => 'Caska',
         ),
         9 => 
         array (
@@ -14463,353 +9476,293 @@ return array (
         ),
         10 => 
         array (
-          'code' => '313',
-          'name' => 'Centar Župa',
+          'code' => '210',
+          'name' => 'Cesinovo-Oblesevo',
         ),
         11 => 
         array (
-          'code' => '815',
-          'name' => 'Čair',
+          'code' => '816',
+          'name' => 'Cucer Sandevo',
         ),
         12 => 
-        array (
-          'code' => '109',
-          'name' => 'Čaška',
-        ),
-        13 => 
-        array (
-          'code' => '210',
-          'name' => 'Češinovo-Obleševo',
-        ),
-        14 => 
-        array (
-          'code' => '816',
-          'name' => 'Čučer-Sandevo',
-        ),
-        15 => 
         array (
           'code' => '303',
           'name' => 'Debar',
         ),
-        16 => 
-        array (
-          'code' => '304',
-          'name' => 'Debrca',
-        ),
-        17 => 
+        13 => 
         array (
           'code' => '203',
-          'name' => 'Delčevo',
+          'name' => 'Delcevo',
         ),
-        18 => 
+        14 => 
         array (
           'code' => '502',
           'name' => 'Demir Hisar',
         ),
-        19 => 
-        array (
-          'code' => '103',
-          'name' => 'Demir Kapija',
-        ),
-        20 => 
+        15 => 
         array (
           'code' => '406',
           'name' => 'Dojran',
         ),
-        21 => 
+        16 => 
         array (
           'code' => '503',
           'name' => 'Dolneni',
         ),
-        22 => 
+        17 => 
         array (
           'code' => '804',
           'name' => 'Gazi Baba',
         ),
-        23 => 
+        18 => 
         array (
           'code' => '405',
           'name' => 'Gevgelija',
         ),
-        24 => 
-        array (
-          'code' => '805',
-          'name' => 'Gjorče Petrov',
-        ),
-        25 => 
+        19 => 
         array (
           'code' => '604',
           'name' => 'Gostivar',
         ),
-        26 => 
+        20 => 
         array (
           'code' => '102',
           'name' => 'Gradsko',
         ),
-        27 => 
+        21 => 
         array (
           'code' => '807',
           'name' => 'Ilinden',
         ),
-        28 => 
+        22 => 
         array (
           'code' => '606',
           'name' => 'Jegunovce',
         ),
-        29 => 
+        23 => 
         array (
           'code' => '205',
           'name' => 'Karbinci',
         ),
-        30 => 
-        array (
-          'code' => '808',
-          'name' => 'Karpoš',
-        ),
-        31 => 
+        24 => 
         array (
           'code' => '104',
           'name' => 'Kavadarci',
         ),
-        32 => 
+        25 => 
         array (
           'code' => '307',
-          'name' => 'Kičevo',
+          'name' => 'Kicevo',
         ),
-        33 => 
+        26 => 
         array (
           'code' => '809',
           'name' => 'Kisela Voda',
         ),
-        34 => 
+        27 => 
         array (
           'code' => '206',
-          'name' => 'Kočani',
+          'name' => 'Kocani',
         ),
-        35 => 
-        array (
-          'code' => '407',
-          'name' => 'Konče',
-        ),
-        36 => 
+        28 => 
         array (
           'code' => '701',
           'name' => 'Kratovo',
         ),
-        37 => 
+        29 => 
         array (
           'code' => '702',
           'name' => 'Kriva Palanka',
         ),
-        38 => 
-        array (
-          'code' => '504',
-          'name' => 'Krivogaštani',
-        ),
-        39 => 
+        30 => 
         array (
           'code' => '505',
-          'name' => 'Kruševo',
+          'name' => 'Krusevo',
         ),
-        40 => 
+        31 => 
         array (
           'code' => '703',
           'name' => 'Kumanovo',
         ),
-        41 => 
+        32 => 
         array (
           'code' => '704',
           'name' => 'Lipkovo',
         ),
-        42 => 
+        33 => 
         array (
           'code' => '105',
           'name' => 'Lozovo',
         ),
-        43 => 
+        34 => 
         array (
           'code' => '207',
           'name' => 'Makedonska Kamenica',
         ),
-        44 => 
+        35 => 
         array (
           'code' => '308',
           'name' => 'Makedonski Brod',
         ),
-        45 => 
+        36 => 
         array (
           'code' => '607',
-          'name' => 'Mavrovo i Rostuše',
+          'name' => 'Mavrovo i Rostusa',
         ),
-        46 => 
+        37 => 
         array (
           'code' => '506',
           'name' => 'Mogila',
         ),
-        47 => 
+        38 => 
         array (
           'code' => '106',
           'name' => 'Negotino',
         ),
-        48 => 
+        39 => 
         array (
           'code' => '507',
           'name' => 'Novaci',
         ),
-        49 => 
+        40 => 
         array (
           'code' => '408',
           'name' => 'Novo Selo',
         ),
-        50 => 
+        41 => 
         array (
           'code' => '310',
           'name' => 'Ohrid',
         ),
-        51 => 
+        42 => 
         array (
           'code' => '208',
-          'name' => 'Pehčevo',
+          'name' => 'Pehcevo',
         ),
-        52 => 
+        43 => 
         array (
           'code' => '810',
           'name' => 'Petrovec',
         ),
-        53 => 
+        44 => 
         array (
           'code' => '311',
           'name' => 'Plasnica',
         ),
-        54 => 
+        45 => 
         array (
           'code' => '508',
           'name' => 'Prilep',
         ),
-        55 => 
+        46 => 
         array (
           'code' => '209',
-          'name' => 'Probištip',
+          'name' => 'Probistip',
         ),
-        56 => 
+        47 => 
         array (
           'code' => '409',
-          'name' => 'Radoviš',
+          'name' => 'Radovis',
         ),
-        57 => 
+        48 => 
         array (
           'code' => '705',
           'name' => 'Rankovce',
         ),
-        58 => 
+        49 => 
         array (
           'code' => '509',
           'name' => 'Resen',
         ),
-        59 => 
+        50 => 
         array (
           'code' => '107',
           'name' => 'Rosoman',
         ),
-        60 => 
+        51 => 
         array (
           'code' => '811',
           'name' => 'Saraj',
         ),
-        61 => 
+        52 => 
         array (
           'code' => '812',
-          'name' => 'Sopište',
+          'name' => 'Sopiste',
         ),
-        62 => 
+        53 => 
         array (
-          'code' => '706',
-          'name' => 'Staro Nagoričane',
+          'code' => '211',
+          'name' => 'Stip',
         ),
-        63 => 
+        54 => 
         array (
           'code' => '312',
           'name' => 'Struga',
         ),
-        64 => 
+        55 => 
         array (
           'code' => '410',
           'name' => 'Strumica',
         ),
-        65 => 
+        56 => 
         array (
           'code' => '813',
-          'name' => 'Studeničani',
+          'name' => 'Studenicani',
         ),
-        66 => 
+        57 => 
         array (
           'code' => '108',
           'name' => 'Sveti Nikole',
         ),
-        67 => 
-        array (
-          'code' => '211',
-          'name' => 'Štip',
-        ),
-        68 => 
-        array (
-          'code' => '817',
-          'name' => 'Šuto Orizari',
-        ),
-        69 => 
+        58 => 
         array (
           'code' => '608',
           'name' => 'Tearce',
         ),
-        70 => 
+        59 => 
         array (
           'code' => '609',
           'name' => 'Tetovo',
         ),
-        71 => 
+        60 => 
         array (
           'code' => '403',
           'name' => 'Valandovo',
         ),
-        72 => 
+        61 => 
         array (
           'code' => '404',
           'name' => 'Vasilevo',
         ),
-        73 => 
+        62 => 
         array (
           'code' => '101',
           'name' => 'Veles',
         ),
-        74 => 
+        63 => 
         array (
           'code' => '301',
-          'name' => 'Vevčani',
+          'name' => 'Vevcani',
         ),
-        75 => 
+        64 => 
         array (
           'code' => '202',
           'name' => 'Vinica',
         ),
-        76 => 
+        65 => 
         array (
           'code' => '603',
-          'name' => 'Vrapčište',
+          'name' => 'Vrapciste',
         ),
-        77 => 
+        66 => 
         array (
           'code' => '806',
           'name' => 'Zelenikovo',
         ),
-        78 => 
-        array (
-          'code' => '204',
-          'name' => 'Zrnovci',
-        ),
-        79 => 
+        67 => 
         array (
           'code' => '605',
-          'name' => 'Želino',
+          'name' => 'Zelino',
         ),
       ),
     ),
@@ -14844,30 +9797,20 @@ return array (
         ),
         5 => 
         array (
-          'code' => '9',
-          'name' => 'Ménaka',
-        ),
-        6 => 
-        array (
           'code' => '5',
           'name' => 'Mopti',
         ),
-        7 => 
+        6 => 
         array (
           'code' => '4',
-          'name' => 'Ségou',
+          'name' => 'Segou',
         ),
-        8 => 
+        7 => 
         array (
           'code' => '3',
           'name' => 'Sikasso',
         ),
-        9 => 
-        array (
-          'code' => '10',
-          'name' => 'Taoudénit',
-        ),
-        10 => 
+        8 => 
         array (
           'code' => '6',
           'name' => 'Tombouctou',
@@ -14961,113 +9904,91 @@ return array (
       array (
         0 => 
         array (
-          'code' => '073',
-          'name' => 'Arhangay',
+          'code' => '071',
+          'name' => 'Bayan-Olgiy',
         ),
         1 => 
-        array (
-          'code' => '069',
-          'name' => 'Bayanhongor',
-        ),
-        2 => 
-        array (
-          'code' => '071',
-          'name' => 'Bayan-Ölgiy',
-        ),
-        3 => 
-        array (
-          'code' => '067',
-          'name' => 'Bulgan',
-        ),
-        4 => 
         array (
           'code' => '037',
           'name' => 'Darhan uul',
         ),
-        5 => 
+        2 => 
         array (
           'code' => '061',
           'name' => 'Dornod',
         ),
-        6 => 
+        3 => 
         array (
           'code' => '063',
-          'name' => 'Dornogovĭ',
+          'name' => 'Dornogovi',
         ),
-        7 => 
-        array (
-          'code' => '059',
-          'name' => 'Dundgovĭ',
-        ),
-        8 => 
-        array (
-          'code' => '057',
-          'name' => 'Dzavhan',
-        ),
-        9 => 
+        4 => 
         array (
           'code' => '065',
-          'name' => 'Govĭ-Altay',
+          'name' => 'Govi-Altay',
         ),
-        10 => 
-        array (
-          'code' => '064',
-          'name' => 'Govĭ-Sümber',
-        ),
-        11 => 
-        array (
-          'code' => '039',
-          'name' => 'Hentiy',
-        ),
-        12 => 
+        5 => 
         array (
           'code' => '043',
           'name' => 'Hovd',
         ),
-        13 => 
-        array (
-          'code' => '041',
-          'name' => 'Hövsgöl',
-        ),
-        14 => 
-        array (
-          'code' => '053',
-          'name' => 'Ömnögovĭ',
-        ),
-        15 => 
+        6 => 
         array (
           'code' => '035',
           'name' => 'Orhon',
         ),
-        16 => 
+        7 => 
         array (
           'code' => '055',
-          'name' => 'Övörhangay',
+          'name' => 'Ovorhangay',
         ),
-        17 => 
+        8 => 
         array (
           'code' => '049',
           'name' => 'Selenge',
         ),
-        18 => 
-        array (
-          'code' => '051',
-          'name' => 'Sühbaatar',
-        ),
-        19 => 
+        9 => 
         array (
           'code' => '047',
-          'name' => 'Töv',
+          'name' => 'Tov',
         ),
-        20 => 
+        10 => 
         array (
           'code' => '1',
           'name' => 'Ulaanbaatar',
         ),
-        21 => 
+      ),
+    ),
+    'MO' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
         array (
-          'code' => '046',
-          'name' => 'Uvs',
+          'code' => NULL,
+          'name' => 'Macao',
+        ),
+      ),
+    ),
+    'MP' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Northern Mariana Islands',
+        ),
+      ),
+    ),
+    'MQ' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Martinique',
         ),
       ),
     ),
@@ -15093,7 +10014,7 @@ return array (
         3 => 
         array (
           'code' => '08',
-          'name' => 'Dakhlet Nouâdhibou',
+          'name' => 'Dakhlet Nouadhibou',
         ),
         4 => 
         array (
@@ -15122,33 +10043,39 @@ return array (
         ),
         9 => 
         array (
-          'code' => '14',
-          'name' => 'Nouakchott-Nord',
+          'code' => '13',
+          'name' => 'Nouakchott Ouest',
         ),
         10 => 
-        array (
-          'code' => '13',
-          'name' => 'Nouakchott-Ouest',
-        ),
-        11 => 
-        array (
-          'code' => '15',
-          'name' => 'Nouakchott-Sud',
-        ),
-        12 => 
         array (
           'code' => '09',
           'name' => 'Tagant',
         ),
-        13 => 
+        11 => 
         array (
           'code' => '11',
           'name' => 'Tiris Zemmour',
         ),
-        14 => 
+        12 => 
         array (
           'code' => '06',
           'name' => 'Trarza',
+        ),
+      ),
+    ),
+    'MS' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Saint Anthony',
+        ),
+        1 => 
+        array (
+          'code' => NULL,
+          'name' => 'Saint Peter',
         ),
       ),
     ),
@@ -15179,7 +10106,7 @@ return array (
         4 => 
         array (
           'code' => '05',
-          'name' => 'Birżebbuġa',
+          'name' => 'Birzebbuga',
         ),
         5 => 
         array (
@@ -15208,293 +10135,268 @@ return array (
         ),
         10 => 
         array (
-          'code' => '11',
-          'name' => 'Gudja',
+          'code' => '14',
+          'name' => 'Gharb',
         ),
         11 => 
         array (
-          'code' => '12',
-          'name' => 'Gżira',
+          'code' => '15',
+          'name' => 'Gharghur',
         ),
         12 => 
         array (
-          'code' => '13',
-          'name' => 'Għajnsielem',
+          'code' => '16',
+          'name' => 'Ghasri',
         ),
         13 => 
         array (
-          'code' => '14',
-          'name' => 'Għarb',
+          'code' => '17',
+          'name' => 'Ghaxaq',
         ),
         14 => 
         array (
-          'code' => '15',
-          'name' => 'Għargħur',
+          'code' => '11',
+          'name' => 'Gudja',
         ),
         15 => 
         array (
-          'code' => '16',
-          'name' => 'Għasri',
+          'code' => '12',
+          'name' => 'Gzira',
         ),
         16 => 
         array (
-          'code' => '17',
-          'name' => 'Għaxaq',
+          'code' => '18',
+          'name' => 'Hamrun',
         ),
         17 => 
-        array (
-          'code' => '18',
-          'name' => 'Ħamrun',
-        ),
-        18 => 
         array (
           'code' => '19',
           'name' => 'Iklin',
         ),
-        19 => 
+        18 => 
         array (
           'code' => '20',
           'name' => 'Isla',
         ),
-        20 => 
+        19 => 
         array (
           'code' => '21',
           'name' => 'Kalkara',
         ),
-        21 => 
+        20 => 
         array (
           'code' => '22',
-          'name' => 'Kerċem',
+          'name' => 'Kercem',
         ),
-        22 => 
+        21 => 
         array (
           'code' => '23',
           'name' => 'Kirkop',
         ),
-        23 => 
+        22 => 
         array (
           'code' => '24',
           'name' => 'Lija',
         ),
-        24 => 
+        23 => 
         array (
           'code' => '25',
           'name' => 'Luqa',
         ),
-        25 => 
+        24 => 
         array (
           'code' => '26',
           'name' => 'Marsa',
         ),
-        26 => 
+        25 => 
         array (
           'code' => '27',
           'name' => 'Marsaskala',
         ),
-        27 => 
+        26 => 
         array (
           'code' => '28',
           'name' => 'Marsaxlokk',
         ),
-        28 => 
+        27 => 
         array (
           'code' => '29',
           'name' => 'Mdina',
         ),
-        29 => 
+        28 => 
         array (
           'code' => '30',
-          'name' => 'Mellieħa',
+          'name' => 'Mellieha',
         ),
-        30 => 
+        29 => 
         array (
           'code' => '31',
-          'name' => 'Mġarr',
+          'name' => 'Mgarr',
         ),
-        31 => 
+        30 => 
         array (
           'code' => '32',
           'name' => 'Mosta',
         ),
-        32 => 
+        31 => 
         array (
           'code' => '33',
           'name' => 'Mqabba',
         ),
-        33 => 
+        32 => 
         array (
           'code' => '34',
           'name' => 'Msida',
         ),
-        34 => 
+        33 => 
         array (
           'code' => '35',
           'name' => 'Mtarfa',
         ),
-        35 => 
+        34 => 
         array (
           'code' => '36',
           'name' => 'Munxar',
         ),
-        36 => 
+        35 => 
         array (
           'code' => '37',
           'name' => 'Nadur',
         ),
-        37 => 
+        36 => 
         array (
           'code' => '38',
           'name' => 'Naxxar',
         ),
-        38 => 
+        37 => 
         array (
           'code' => '39',
           'name' => 'Paola',
         ),
-        39 => 
+        38 => 
         array (
           'code' => '40',
           'name' => 'Pembroke',
         ),
-        40 => 
+        39 => 
         array (
           'code' => '41',
-          'name' => 'Pietà',
+          'name' => 'Pieta',
         ),
-        41 => 
+        40 => 
         array (
           'code' => '42',
           'name' => 'Qala',
         ),
-        42 => 
+        41 => 
         array (
           'code' => '43',
           'name' => 'Qormi',
         ),
-        43 => 
-        array (
-          'code' => '44',
-          'name' => 'Qrendi',
-        ),
-        44 => 
+        42 => 
         array (
           'code' => '45',
-          'name' => 'Rabat Għawdex',
+          'name' => 'Rabat Gozo',
         ),
-        45 => 
+        43 => 
         array (
           'code' => '46',
           'name' => 'Rabat Malta',
         ),
+        44 => 
+        array (
+          'code' => '49',
+          'name' => 'Saint John',
+        ),
+        45 => 
+        array (
+          'code' => '48',
+          'name' => 'Saint Julian\'s',
+        ),
         46 => 
         array (
-          'code' => '47',
-          'name' => 'Safi',
+          'code' => '53',
+          'name' => 'Saint Lucia\'s',
         ),
         47 => 
         array (
-          'code' => '48',
-          'name' => 'San Ġiljan',
+          'code' => '51',
+          'name' => 'Saint Paul\'s Bay',
         ),
         48 => 
-        array (
-          'code' => '49',
-          'name' => 'San Ġwann',
-        ),
-        49 => 
-        array (
-          'code' => '50',
-          'name' => 'San Lawrenz',
-        ),
-        50 => 
-        array (
-          'code' => '51',
-          'name' => 'San Pawl il-Baħar',
-        ),
-        51 => 
         array (
           'code' => '52',
           'name' => 'Sannat',
         ),
-        52 => 
-        array (
-          'code' => '53',
-          'name' => 'Santa Luċija',
-        ),
-        53 => 
+        49 => 
         array (
           'code' => '54',
           'name' => 'Santa Venera',
         ),
-        54 => 
+        50 => 
         array (
           'code' => '55',
-          'name' => 'Siġġiewi',
+          'name' => 'Siggiewi',
         ),
-        55 => 
+        51 => 
         array (
           'code' => '56',
           'name' => 'Sliema',
         ),
-        56 => 
+        52 => 
         array (
           'code' => '57',
           'name' => 'Swieqi',
         ),
-        57 => 
+        53 => 
         array (
           'code' => '58',
           'name' => 'Ta\' Xbiex',
         ),
-        58 => 
+        54 => 
         array (
           'code' => '59',
           'name' => 'Tarxien',
         ),
-        59 => 
+        55 => 
         array (
           'code' => '60',
           'name' => 'Valletta',
         ),
-        60 => 
+        56 => 
         array (
           'code' => '61',
-          'name' => 'Xagħra',
+          'name' => 'Xaghra',
         ),
-        61 => 
+        57 => 
         array (
           'code' => '62',
           'name' => 'Xewkija',
         ),
-        62 => 
+        58 => 
         array (
           'code' => '63',
-          'name' => 'Xgħajra',
+          'name' => 'Xghajra',
         ),
-        63 => 
+        59 => 
         array (
           'code' => '64',
-          'name' => 'Żabbar',
+          'name' => 'Zabbar',
         ),
-        64 => 
+        60 => 
         array (
           'code' => '65',
-          'name' => 'Żebbuġ Għawdex',
+          'name' => 'Zebbug Gozo',
         ),
-        65 => 
-        array (
-          'code' => '66',
-          'name' => 'Żebbuġ Malta',
-        ),
-        66 => 
+        61 => 
         array (
           'code' => '67',
-          'name' => 'Żejtun',
+          'name' => 'Zejtun',
         ),
-        67 => 
+        62 => 
         array (
           'code' => '68',
-          'name' => 'Żurrieq',
+          'name' => 'Zurrieq',
         ),
       ),
     ),
@@ -15504,60 +10406,50 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'AG',
-          'name' => 'Agalega Islands',
-        ),
-        1 => 
-        array (
           'code' => 'BL',
           'name' => 'Black River',
         ),
-        2 => 
-        array (
-          'code' => 'CC',
-          'name' => 'Cargados Carajos Shoals',
-        ),
-        3 => 
+        1 => 
         array (
           'code' => 'FL',
           'name' => 'Flacq',
         ),
-        4 => 
+        2 => 
         array (
           'code' => 'GP',
           'name' => 'Grand Port',
         ),
-        5 => 
+        3 => 
         array (
           'code' => 'MO',
           'name' => 'Moka',
         ),
-        6 => 
+        4 => 
         array (
           'code' => 'PA',
           'name' => 'Pamplemousses',
         ),
-        7 => 
+        5 => 
         array (
           'code' => 'PW',
           'name' => 'Plaines Wilhems',
         ),
-        8 => 
+        6 => 
         array (
           'code' => 'PL',
           'name' => 'Port Louis',
         ),
-        9 => 
+        7 => 
         array (
           'code' => 'RR',
-          'name' => 'Rivière du Rempart',
+          'name' => 'Riviere du Rempart',
         ),
-        10 => 
+        8 => 
         array (
           'code' => 'RO',
-          'name' => 'Rodrigues Island',
+          'name' => 'Rodrigues Islands',
         ),
-        11 => 
+        9 => 
         array (
           'code' => 'SA',
           'name' => 'Savanne',
@@ -15571,107 +10463,62 @@ return array (
         0 => 
         array (
           'code' => '01',
-          'name' => 'Addu',
+          'name' => 'Addu City',
         ),
         1 => 
-        array (
-          'code' => '00',
-          'name' => 'Ariatholhu Dhekunuburi',
-        ),
-        2 => 
-        array (
-          'code' => '02',
-          'name' => 'Ariatholhu Uthuruburi',
-        ),
-        3 => 
         array (
           'code' => '03',
           'name' => 'Faadhippolhu',
         ),
-        4 => 
+        2 => 
         array (
           'code' => '04',
-          'name' => 'Felidheatholhu',
+          'name' => 'Felidhu Atoll',
         ),
-        5 => 
-        array (
-          'code' => '29',
-          'name' => 'Fuvammulah',
-        ),
-        6 => 
+        3 => 
         array (
           'code' => '05',
           'name' => 'Hahdhunmathi',
         ),
+        4 => 
+        array (
+          'code' => 'MLE',
+          'name' => 'Male',
+        ),
+        5 => 
+        array (
+          'code' => '12',
+          'name' => 'Mulaku Atoll',
+        ),
+        6 => 
+        array (
+          'code' => '13',
+          'name' => 'North Maalhosmadulu',
+        ),
         7 => 
         array (
-          'code' => '28',
-          'name' => 'Huvadhuatholhu Dhekunuburi',
+          'code' => '00',
+          'name' => 'South Ari Atoll',
         ),
         8 => 
         array (
-          'code' => '27',
-          'name' => 'Huvadhuatholhu Uthuruburi',
+          'code' => '28',
+          'name' => 'South Huvadhu Atoll',
         ),
         9 => 
         array (
-          'code' => '08',
-          'name' => 'Kolhumadulu',
+          'code' => '20',
+          'name' => 'South Maalhosmadulu',
         ),
         10 => 
         array (
-          'code' => 'MLE',
-          'name' => 'Maale',
+          'code' => '25',
+          'name' => 'South Miladhunmadulu',
         ),
         11 => 
         array (
-          'code' => '26',
-          'name' => 'Maaleatholhu',
-        ),
-        12 => 
-        array (
-          'code' => '20',
-          'name' => 'Maalhosmadulu Dhekunuburi',
-        ),
-        13 => 
-        array (
-          'code' => '13',
-          'name' => 'Maalhosmadulu Uthuruburi',
-        ),
-        14 => 
-        array (
-          'code' => '25',
-          'name' => 'Miladhunmadulu Dhekunuburi',
-        ),
-        15 => 
-        array (
-          'code' => '24',
-          'name' => 'Miladhunmadulu Uthuruburi',
-        ),
-        16 => 
-        array (
-          'code' => '12',
-          'name' => 'Mulakatholhu',
-        ),
-        17 => 
-        array (
           'code' => '17',
-          'name' => 'Nilandheatholhu Dhekunuburi',
-        ),
-        18 => 
-        array (
-          'code' => '14',
-          'name' => 'Nilandheatholhu Uthuruburi',
-        ),
-        19 => 
-        array (
-          'code' => '23',
-          'name' => 'Thiladhunmathee Dhekunuburi',
-        ),
-        20 => 
-        array (
-          'code' => '07',
-          'name' => 'Thiladhunmathee Uthuruburi',
+          'name' => 'South Nilandhe Atoll',
         ),
       ),
     ),
@@ -15681,155 +10528,90 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'N',
-          'name' => 'Chakumpoto',
-        ),
-        1 => 
-        array (
-          'code' => 'S',
-          'name' => 'Chakumwera',
-        ),
-        2 => 
-        array (
-          'code' => 'C',
-          'name' => 'Chapakati',
-        ),
-        3 => 
-        array (
           'code' => 'BA',
           'name' => 'Balaka',
         ),
-        4 => 
+        1 => 
         array (
           'code' => 'BL',
           'name' => 'Blantyre',
         ),
-        5 => 
+        2 => 
         array (
           'code' => 'CK',
           'name' => 'Chikwawa',
         ),
-        6 => 
+        3 => 
         array (
           'code' => 'CR',
           'name' => 'Chiradzulu',
         ),
-        7 => 
-        array (
-          'code' => 'CT',
-          'name' => 'Chitipa',
-        ),
-        8 => 
+        4 => 
         array (
           'code' => 'DE',
           'name' => 'Dedza',
         ),
-        9 => 
+        5 => 
         array (
           'code' => 'DO',
           'name' => 'Dowa',
         ),
-        10 => 
+        6 => 
         array (
           'code' => 'KR',
           'name' => 'Karonga',
         ),
-        11 => 
-        array (
-          'code' => 'KS',
-          'name' => 'Kasungu',
-        ),
-        12 => 
-        array (
-          'code' => 'LK',
-          'name' => 'Likoma',
-        ),
-        13 => 
+        7 => 
         array (
           'code' => 'LI',
           'name' => 'Lilongwe',
         ),
-        14 => 
+        8 => 
         array (
           'code' => 'MH',
           'name' => 'Machinga',
         ),
-        15 => 
+        9 => 
         array (
           'code' => 'MG',
           'name' => 'Mangochi',
         ),
-        16 => 
-        array (
-          'code' => 'MC',
-          'name' => 'Mchinji',
-        ),
-        17 => 
-        array (
-          'code' => 'MU',
-          'name' => 'Mulanje',
-        ),
-        18 => 
+        10 => 
         array (
           'code' => 'MW',
           'name' => 'Mwanza',
         ),
-        19 => 
+        11 => 
         array (
           'code' => 'MZ',
           'name' => 'Mzimba',
         ),
-        20 => 
+        12 => 
         array (
           'code' => 'NE',
           'name' => 'Neno',
         ),
-        21 => 
-        array (
-          'code' => 'NB',
-          'name' => 'Nkhata Bay',
-        ),
-        22 => 
+        13 => 
         array (
           'code' => 'NK',
           'name' => 'Nkhotakota',
         ),
-        23 => 
-        array (
-          'code' => 'NS',
-          'name' => 'Nsanje',
-        ),
-        24 => 
-        array (
-          'code' => 'NU',
-          'name' => 'Ntcheu',
-        ),
-        25 => 
-        array (
-          'code' => 'NI',
-          'name' => 'Ntchisi',
-        ),
-        26 => 
+        14 => 
         array (
           'code' => 'PH',
           'name' => 'Phalombe',
         ),
-        27 => 
-        array (
-          'code' => 'RU',
-          'name' => 'Rumphi',
-        ),
-        28 => 
+        15 => 
         array (
           'code' => 'SA',
           'name' => 'Salima',
         ),
-        29 => 
+        16 => 
         array (
           'code' => 'TH',
           'name' => 'Thyolo',
         ),
-        30 => 
+        17 => 
         array (
           'code' => 'ZO',
           'name' => 'Zomba',
@@ -15873,7 +10655,7 @@ return array (
         6 => 
         array (
           'code' => 'CMX',
-          'name' => 'Ciudad de México',
+          'name' => 'Ciudad de Mexico',
         ),
         7 => 
         array (
@@ -15912,18 +10694,18 @@ return array (
         ),
         14 => 
         array (
-          'code' => 'MIC',
-          'name' => 'Michoacán de Ocampo',
+          'code' => 'MEX',
+          'name' => 'Mexico',
         ),
         15 => 
         array (
-          'code' => 'MOR',
-          'name' => 'Morelos',
+          'code' => 'MIC',
+          'name' => 'Michoacan de Ocampo',
         ),
         16 => 
         array (
-          'code' => 'MEX',
-          'name' => 'México',
+          'code' => 'MOR',
+          'name' => 'Morelos',
         ),
         17 => 
         array (
@@ -15933,7 +10715,7 @@ return array (
         18 => 
         array (
           'code' => 'NLE',
-          'name' => 'Nuevo León',
+          'name' => 'Nuevo Leon',
         ),
         19 => 
         array (
@@ -15948,7 +10730,7 @@ return array (
         21 => 
         array (
           'code' => 'QUE',
-          'name' => 'Querétaro',
+          'name' => 'Queretaro',
         ),
         22 => 
         array (
@@ -15958,7 +10740,7 @@ return array (
         23 => 
         array (
           'code' => 'SLP',
-          'name' => 'San Luis Potosí',
+          'name' => 'San Luis Potosi',
         ),
         24 => 
         array (
@@ -15993,7 +10775,7 @@ return array (
         30 => 
         array (
           'code' => 'YUC',
-          'name' => 'Yucatán',
+          'name' => 'Yucatan',
         ),
         31 => 
         array (
@@ -16114,38 +10896,33 @@ return array (
         ),
         4 => 
         array (
-          'code' => 'MPM',
+          'code' => 'L',
           'name' => 'Maputo',
         ),
         5 => 
         array (
-          'code' => 'L',
-          'name' => 'Maputo',
-        ),
-        6 => 
-        array (
           'code' => 'N',
           'name' => 'Nampula',
         ),
-        7 => 
+        6 => 
         array (
           'code' => 'A',
           'name' => 'Niassa',
         ),
-        8 => 
+        7 => 
         array (
           'code' => 'S',
           'name' => 'Sofala',
         ),
-        9 => 
+        8 => 
         array (
           'code' => 'T',
           'name' => 'Tete',
         ),
-        10 => 
+        9 => 
         array (
           'code' => 'Q',
-          'name' => 'Zambézia',
+          'name' => 'Zambezia',
         ),
       ),
     ),
@@ -16166,7 +10943,7 @@ return array (
         2 => 
         array (
           'code' => 'KA',
-          'name' => '//Karas',
+          'name' => 'Karas',
         ),
         3 => 
         array (
@@ -16225,6 +11002,22 @@ return array (
         ),
       ),
     ),
+    'NC' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Province Nord',
+        ),
+        1 => 
+        array (
+          'code' => NULL,
+          'name' => 'Province Sud',
+        ),
+      ),
+    ),
     'NE' => 
     array (
       'zones' => 
@@ -16246,28 +11039,34 @@ return array (
         ),
         3 => 
         array (
-          'code' => '4',
-          'name' => 'Maradi',
-        ),
-        4 => 
-        array (
           'code' => '8',
           'name' => 'Niamey',
         ),
-        5 => 
+        4 => 
         array (
           'code' => '5',
           'name' => 'Tahoua',
         ),
-        6 => 
+        5 => 
         array (
           'code' => '6',
-          'name' => 'Tillabéri',
+          'name' => 'Tillaberi',
         ),
-        7 => 
+        6 => 
         array (
           'code' => '7',
           'name' => 'Zinder',
+        ),
+      ),
+    ),
+    'NF' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Norfolk Island',
         ),
       ),
     ),
@@ -16499,7 +11298,7 @@ return array (
         6 => 
         array (
           'code' => 'ES',
-          'name' => 'Estelí',
+          'name' => 'Esteli',
         ),
         7 => 
         array (
@@ -16514,7 +11313,7 @@ return array (
         9 => 
         array (
           'code' => 'LE',
-          'name' => 'León',
+          'name' => 'Leon',
         ),
         10 => 
         array (
@@ -16544,7 +11343,7 @@ return array (
         15 => 
         array (
           'code' => 'SJ',
-          'name' => 'Río San Juan',
+          'name' => 'Rio San Juan',
         ),
         16 => 
         array (
@@ -16570,7 +11369,7 @@ return array (
         2 => 
         array (
           'code' => 'FR',
-          'name' => 'Fryslân',
+          'name' => 'Fryslan',
         ),
         3 => 
         array (
@@ -16617,36 +11416,6 @@ return array (
           'code' => 'ZH',
           'name' => 'Zuid-Holland',
         ),
-        12 => 
-        array (
-          'code' => 'AW',
-          'name' => 'Aruba',
-        ),
-        13 => 
-        array (
-          'code' => 'CW',
-          'name' => 'Curaçao',
-        ),
-        14 => 
-        array (
-          'code' => 'SX',
-          'name' => 'Sint Maarten',
-        ),
-        15 => 
-        array (
-          'code' => 'BQ1',
-          'name' => 'Bonaire',
-        ),
-        16 => 
-        array (
-          'code' => 'BQ2',
-          'name' => 'Saba',
-        ),
-        17 => 
-        array (
-          'code' => 'BQ3',
-          'name' => 'Sint Eustatius',
-        ),
       ),
     ),
     'NO' => 
@@ -16665,55 +11434,45 @@ return array (
         ),
         2 => 
         array (
-          'code' => '22',
-          'name' => 'Jan Mayen',
+          'code' => '15',
+          'name' => 'More og Romsdal',
         ),
         3 => 
-        array (
-          'code' => '15',
-          'name' => 'Møre og Romsdal',
-        ),
-        4 => 
         array (
           'code' => '18',
           'name' => 'Nordland',
         ),
-        5 => 
+        4 => 
         array (
           'code' => '03',
           'name' => 'Oslo',
         ),
-        6 => 
+        5 => 
         array (
           'code' => '11',
           'name' => 'Rogaland',
         ),
-        7 => 
-        array (
-          'code' => '21',
-          'name' => 'Svalbard',
-        ),
-        8 => 
+        6 => 
         array (
           'code' => '54',
           'name' => 'Troms og Finnmark',
         ),
-        9 => 
+        7 => 
         array (
           'code' => '50',
-          'name' => 'Trøndelag',
+          'name' => 'Trondelag',
         ),
-        10 => 
+        8 => 
         array (
           'code' => '38',
           'name' => 'Vestfold og Telemark',
         ),
-        11 => 
+        9 => 
         array (
           'code' => '46',
           'name' => 'Vestland',
         ),
-        12 => 
+        10 => 
         array (
           'code' => '30',
           'name' => 'Viken',
@@ -16726,38 +11485,73 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'P3',
-          'name' => 'Bāgmatī',
+          'code' => 'BA',
+          'name' => 'Bagmati',
         ),
         1 => 
         array (
-          'code' => 'P4',
-          'name' => 'Gaṇḍakī',
+          'code' => 'BH',
+          'name' => 'Bheri',
         ),
         2 => 
         array (
-          'code' => 'P6',
-          'name' => 'Karṇālī',
+          'code' => 'DH',
+          'name' => 'Dhawalagiri',
         ),
         3 => 
         array (
-          'code' => 'P1',
-          'name' => 'Koshī',
+          'code' => 'GA',
+          'name' => 'Gandaki',
         ),
         4 => 
         array (
-          'code' => 'P5',
-          'name' => 'Lumbinī',
+          'code' => 'JA',
+          'name' => 'Janakpur',
         ),
         5 => 
         array (
-          'code' => 'P2',
-          'name' => 'Madhesh',
+          'code' => 'KA',
+          'name' => 'Karnali',
         ),
         6 => 
         array (
-          'code' => 'P7',
-          'name' => 'Sudūrpashchim',
+          'code' => 'KO',
+          'name' => 'Kosi',
+        ),
+        7 => 
+        array (
+          'code' => 'LU',
+          'name' => 'Lumbini',
+        ),
+        8 => 
+        array (
+          'code' => 'MA',
+          'name' => 'Mahakali',
+        ),
+        9 => 
+        array (
+          'code' => 'ME',
+          'name' => 'Mechi',
+        ),
+        10 => 
+        array (
+          'code' => 'NA',
+          'name' => 'Narayani',
+        ),
+        11 => 
+        array (
+          'code' => 'RA',
+          'name' => 'Rapti',
+        ),
+        12 => 
+        array (
+          'code' => 'SA',
+          'name' => 'Sagarmatha',
+        ),
+        13 => 
+        array (
+          'code' => 'SE',
+          'name' => 'Seti',
         ),
       ),
     ),
@@ -16772,68 +11566,24 @@ return array (
         ),
         1 => 
         array (
-          'code' => '02',
-          'name' => 'Anabar',
-        ),
-        2 => 
-        array (
           'code' => '03',
           'name' => 'Anetan',
         ),
-        3 => 
-        array (
-          'code' => '04',
-          'name' => 'Anibare',
-        ),
-        4 => 
-        array (
-          'code' => '05',
-          'name' => 'Baitsi',
-        ),
-        5 => 
-        array (
-          'code' => '06',
-          'name' => 'Boe',
-        ),
-        6 => 
-        array (
-          'code' => '07',
-          'name' => 'Buada',
-        ),
-        7 => 
-        array (
-          'code' => '08',
-          'name' => 'Denigomodu',
-        ),
-        8 => 
-        array (
-          'code' => '09',
-          'name' => 'Ewa',
-        ),
-        9 => 
-        array (
-          'code' => '10',
-          'name' => 'Ijuw',
-        ),
-        10 => 
-        array (
-          'code' => '11',
-          'name' => 'Meneng',
-        ),
-        11 => 
-        array (
-          'code' => '12',
-          'name' => 'Nibok',
-        ),
-        12 => 
-        array (
-          'code' => '13',
-          'name' => 'Uaboe',
-        ),
-        13 => 
+        2 => 
         array (
           'code' => '14',
           'name' => 'Yaren',
+        ),
+      ),
+    ),
+    'NU' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Niue',
         ),
       ),
     ),
@@ -16868,58 +11618,58 @@ return array (
         ),
         5 => 
         array (
-          'code' => 'WGN',
-          'name' => 'Greater Wellington',
-        ),
-        6 => 
-        array (
           'code' => 'HKB',
           'name' => 'Hawke\'s Bay',
         ),
-        7 => 
+        6 => 
         array (
           'code' => 'MWT',
-          'name' => 'Manawatū-Whanganui',
+          'name' => 'Manawatu-Wanganui',
         ),
-        8 => 
+        7 => 
         array (
           'code' => 'MBH',
           'name' => 'Marlborough',
         ),
-        9 => 
+        8 => 
         array (
           'code' => 'NSN',
           'name' => 'Nelson',
         ),
-        10 => 
+        9 => 
         array (
           'code' => 'NTL',
           'name' => 'Northland',
         ),
-        11 => 
+        10 => 
         array (
           'code' => 'OTA',
           'name' => 'Otago',
         ),
-        12 => 
+        11 => 
         array (
           'code' => 'STL',
           'name' => 'Southland',
         ),
-        13 => 
+        12 => 
         array (
           'code' => 'TKI',
           'name' => 'Taranaki',
         ),
-        14 => 
+        13 => 
         array (
           'code' => 'TAS',
           'name' => 'Tasman',
         ),
-        15 => 
+        14 => 
         array (
           'code' => 'WKO',
           'name' => 'Waikato',
+        ),
+        15 => 
+        array (
+          'code' => 'WGN',
+          'name' => 'Wellington',
         ),
         16 => 
         array (
@@ -16935,37 +11685,37 @@ return array (
         0 => 
         array (
           'code' => 'DA',
-          'name' => 'Ad Dākhilīyah',
+          'name' => 'Ad Dakhiliyah',
         ),
         1 => 
         array (
           'code' => 'BU',
-          'name' => 'Al Buraymī',
+          'name' => 'Al Buraymi',
         ),
         2 => 
         array (
           'code' => 'WU',
-          'name' => 'Al Wusţá',
+          'name' => 'Al Wusta',
         ),
         3 => 
         array (
           'code' => 'ZA',
-          'name' => 'Az̧ Z̧āhirah',
+          'name' => 'Az Zahirah',
         ),
         4 => 
         array (
           'code' => 'BJ',
-          'name' => 'Janūb al Bāţinah',
+          'name' => 'Janub al Batinah',
         ),
         5 => 
         array (
           'code' => 'SJ',
-          'name' => 'Janūb ash Sharqīyah',
+          'name' => 'Janub ash Sharqiyah',
         ),
         6 => 
         array (
           'code' => 'MA',
-          'name' => 'Masqaţ',
+          'name' => 'Masqat',
         ),
         7 => 
         array (
@@ -16975,17 +11725,17 @@ return array (
         8 => 
         array (
           'code' => 'BS',
-          'name' => 'Shamāl al Bāţinah',
+          'name' => 'Shamal al Batinah',
         ),
         9 => 
         array (
           'code' => 'SS',
-          'name' => 'Shamāl ash Sharqīyah',
+          'name' => 'Shamal ash Sharqiyah',
         ),
         10 => 
         array (
           'code' => 'ZU',
-          'name' => 'Z̧ufār',
+          'name' => 'Zufar',
         ),
       ),
     ),
@@ -17001,64 +11751,49 @@ return array (
         1 => 
         array (
           'code' => '4',
-          'name' => 'Chiriquí',
+          'name' => 'Chiriqui',
         ),
         2 => 
         array (
           'code' => '2',
-          'name' => 'Coclé',
+          'name' => 'Cocle',
         ),
         3 => 
         array (
           'code' => '3',
-          'name' => 'Colón',
+          'name' => 'Colon',
         ),
         4 => 
         array (
           'code' => '5',
-          'name' => 'Darién',
+          'name' => 'Darien',
         ),
         5 => 
-        array (
-          'code' => 'EM',
-          'name' => 'Emberá',
-        ),
-        6 => 
         array (
           'code' => 'KY',
           'name' => 'Guna Yala',
         ),
-        7 => 
+        6 => 
         array (
           'code' => '6',
           'name' => 'Herrera',
         ),
-        8 => 
+        7 => 
         array (
           'code' => '7',
           'name' => 'Los Santos',
         ),
-        9 => 
-        array (
-          'code' => 'NT',
-          'name' => 'Naso Tjër Di',
-        ),
-        10 => 
+        8 => 
         array (
           'code' => 'NB',
-          'name' => 'Ngäbe-Buglé',
+          'name' => 'Ngobe-Bugle',
         ),
-        11 => 
+        9 => 
         array (
           'code' => '8',
-          'name' => 'Panamá',
+          'name' => 'Panama',
         ),
-        12 => 
-        array (
-          'code' => '10',
-          'name' => 'Panamá Oeste',
-        ),
-        13 => 
+        10 => 
         array (
           'code' => '9',
           'name' => 'Veraguas',
@@ -17082,7 +11817,7 @@ return array (
         2 => 
         array (
           'code' => 'APU',
-          'name' => 'Apurímac',
+          'name' => 'Apurimac',
         ),
         3 => 
         array (
@@ -17117,7 +11852,7 @@ return array (
         9 => 
         array (
           'code' => 'HUC',
-          'name' => 'Huánuco',
+          'name' => 'Huanuco',
         ),
         10 => 
         array (
@@ -17127,7 +11862,7 @@ return array (
         11 => 
         array (
           'code' => 'JUN',
-          'name' => 'Junín',
+          'name' => 'Junin',
         ),
         12 => 
         array (
@@ -17161,43 +11896,69 @@ return array (
         ),
         18 => 
         array (
-          'code' => 'LMA',
-          'name' => 'Municipalidad Metropolitana de Lima',
-        ),
-        19 => 
-        array (
           'code' => 'PAS',
           'name' => 'Pasco',
         ),
-        20 => 
+        19 => 
         array (
           'code' => 'PIU',
           'name' => 'Piura',
         ),
-        21 => 
+        20 => 
         array (
           'code' => 'PUN',
           'name' => 'Puno',
         ),
-        22 => 
+        21 => 
         array (
           'code' => 'SAM',
-          'name' => 'San Martín',
+          'name' => 'San Martin',
         ),
-        23 => 
+        22 => 
         array (
           'code' => 'TAC',
           'name' => 'Tacna',
         ),
-        24 => 
+        23 => 
         array (
           'code' => 'TUM',
           'name' => 'Tumbes',
         ),
-        25 => 
+        24 => 
         array (
           'code' => 'UCA',
           'name' => 'Ucayali',
+        ),
+      ),
+    ),
+    'PF' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Iles Australes',
+        ),
+        1 => 
+        array (
+          'code' => NULL,
+          'name' => 'Iles Marquises',
+        ),
+        2 => 
+        array (
+          'code' => NULL,
+          'name' => 'Iles Sous-le-Vent',
+        ),
+        3 => 
+        array (
+          'code' => NULL,
+          'name' => 'Iles Tuamotu-Gambier',
+        ),
+        4 => 
+        array (
+          'code' => NULL,
+          'name' => 'Iles du Vent',
         ),
       ),
     ),
@@ -17227,90 +11988,55 @@ return array (
         ),
         4 => 
         array (
-          'code' => 'ESW',
-          'name' => 'East Sepik',
-        ),
-        5 => 
-        array (
           'code' => 'EHG',
           'name' => 'Eastern Highlands',
         ),
-        6 => 
-        array (
-          'code' => 'EPW',
-          'name' => 'Enga',
-        ),
-        7 => 
-        array (
-          'code' => 'GPK',
-          'name' => 'Gulf',
-        ),
-        8 => 
-        array (
-          'code' => 'HLA',
-          'name' => 'Hela',
-        ),
-        9 => 
-        array (
-          'code' => 'JWK',
-          'name' => 'Jiwaka',
-        ),
-        10 => 
+        5 => 
         array (
           'code' => 'MPM',
           'name' => 'Madang',
         ),
-        11 => 
+        6 => 
         array (
           'code' => 'MRL',
           'name' => 'Manus',
         ),
-        12 => 
+        7 => 
         array (
           'code' => 'MBA',
           'name' => 'Milne Bay',
         ),
-        13 => 
+        8 => 
         array (
           'code' => 'MPL',
           'name' => 'Morobe',
         ),
-        14 => 
+        9 => 
         array (
           'code' => 'NCD',
-          'name' => 'National Capital District',
+          'name' => 'National Capital District (Port Moresby)',
         ),
-        15 => 
-        array (
-          'code' => 'NIK',
-          'name' => 'New Ireland',
-        ),
-        16 => 
-        array (
-          'code' => 'NPP',
-          'name' => 'Northern',
-        ),
-        17 => 
+        10 => 
         array (
           'code' => 'SHM',
           'name' => 'Southern Highlands',
         ),
-        18 => 
+        11 => 
         array (
           'code' => 'WBK',
           'name' => 'West New Britain',
         ),
-        19 => 
+        12 => 
         array (
           'code' => 'SAN',
           'name' => 'West Sepik',
         ),
-        20 => 
+        13 => 
         array (
           'code' => 'WPD',
           'name' => 'Western',
         ),
-        21 => 
+        14 => 
         array (
           'code' => 'WHM',
           'name' => 'Western Highlands',
@@ -17323,498 +12049,408 @@ return array (
       array (
         0 => 
         array (
-          'code' => '14',
-          'name' => 'Autonomous Region in Muslim Mindanao',
-        ),
-        1 => 
-        array (
-          'code' => '05',
-          'name' => 'Bicol',
-        ),
-        2 => 
-        array (
-          'code' => '02',
-          'name' => 'Cagayan Valley',
-        ),
-        3 => 
-        array (
-          'code' => '40',
-          'name' => 'Calabarzon',
-        ),
-        4 => 
-        array (
-          'code' => '13',
-          'name' => 'Caraga',
-        ),
-        5 => 
-        array (
-          'code' => '03',
-          'name' => 'Central Luzon',
-        ),
-        6 => 
-        array (
-          'code' => '07',
-          'name' => 'Central Visayas',
-        ),
-        7 => 
-        array (
-          'code' => '15',
-          'name' => 'Cordillera Administrative Region',
-        ),
-        8 => 
-        array (
-          'code' => '11',
-          'name' => 'Davao',
-        ),
-        9 => 
-        array (
-          'code' => '08',
-          'name' => 'Eastern Visayas',
-        ),
-        10 => 
-        array (
-          'code' => '01',
-          'name' => 'Ilocos',
-        ),
-        11 => 
-        array (
-          'code' => '41',
-          'name' => 'Mimaropa',
-        ),
-        12 => 
-        array (
-          'code' => '00',
-          'name' => 'National Capital Region',
-        ),
-        13 => 
-        array (
-          'code' => '10',
-          'name' => 'Northern Mindanao',
-        ),
-        14 => 
-        array (
-          'code' => '12',
-          'name' => 'Soccsksargen',
-        ),
-        15 => 
-        array (
-          'code' => '06',
-          'name' => 'Western Visayas',
-        ),
-        16 => 
-        array (
-          'code' => '09',
-          'name' => 'Zamboanga Peninsula',
-        ),
-        17 => 
-        array (
           'code' => 'ABR',
           'name' => 'Abra',
         ),
-        18 => 
+        1 => 
         array (
           'code' => 'AGN',
           'name' => 'Agusan del Norte',
         ),
-        19 => 
+        2 => 
         array (
           'code' => 'AGS',
           'name' => 'Agusan del Sur',
         ),
-        20 => 
+        3 => 
         array (
           'code' => 'AKL',
           'name' => 'Aklan',
         ),
-        21 => 
+        4 => 
         array (
           'code' => 'ALB',
           'name' => 'Albay',
         ),
-        22 => 
+        5 => 
         array (
           'code' => 'ANT',
           'name' => 'Antique',
         ),
-        23 => 
+        6 => 
         array (
           'code' => 'APA',
           'name' => 'Apayao',
         ),
-        24 => 
+        7 => 
         array (
           'code' => 'AUR',
           'name' => 'Aurora',
         ),
-        25 => 
+        8 => 
         array (
           'code' => 'BAS',
           'name' => 'Basilan',
         ),
-        26 => 
+        9 => 
         array (
           'code' => 'BAN',
           'name' => 'Bataan',
         ),
-        27 => 
+        10 => 
         array (
           'code' => 'BTN',
           'name' => 'Batanes',
         ),
-        28 => 
+        11 => 
         array (
           'code' => 'BTG',
           'name' => 'Batangas',
         ),
-        29 => 
+        12 => 
         array (
           'code' => 'BEN',
           'name' => 'Benguet',
         ),
-        30 => 
+        13 => 
         array (
           'code' => 'BIL',
           'name' => 'Biliran',
         ),
-        31 => 
+        14 => 
         array (
           'code' => 'BOH',
           'name' => 'Bohol',
         ),
-        32 => 
+        15 => 
         array (
           'code' => 'BUK',
           'name' => 'Bukidnon',
         ),
-        33 => 
+        16 => 
         array (
           'code' => 'BUL',
           'name' => 'Bulacan',
         ),
-        34 => 
+        17 => 
         array (
           'code' => 'CAG',
           'name' => 'Cagayan',
         ),
-        35 => 
+        18 => 
         array (
           'code' => 'CAN',
           'name' => 'Camarines Norte',
         ),
-        36 => 
+        19 => 
         array (
           'code' => 'CAS',
           'name' => 'Camarines Sur',
         ),
-        37 => 
+        20 => 
         array (
           'code' => 'CAM',
           'name' => 'Camiguin',
         ),
-        38 => 
+        21 => 
         array (
           'code' => 'CAP',
           'name' => 'Capiz',
         ),
-        39 => 
+        22 => 
         array (
           'code' => 'CAT',
           'name' => 'Catanduanes',
         ),
-        40 => 
+        23 => 
         array (
           'code' => 'CAV',
           'name' => 'Cavite',
         ),
-        41 => 
+        24 => 
         array (
           'code' => 'CEB',
           'name' => 'Cebu',
         ),
-        42 => 
+        25 => 
         array (
           'code' => 'NCO',
           'name' => 'Cotabato',
         ),
-        43 => 
-        array (
-          'code' => 'COM',
-          'name' => 'Davao de Oro',
-        ),
-        44 => 
-        array (
-          'code' => 'DAV',
-          'name' => 'Davao del Norte',
-        ),
-        45 => 
-        array (
-          'code' => 'DAS',
-          'name' => 'Davao del Sur',
-        ),
-        46 => 
-        array (
-          'code' => 'DVO',
-          'name' => 'Davao Occidental',
-        ),
-        47 => 
+        26 => 
         array (
           'code' => 'DAO',
           'name' => 'Davao Oriental',
         ),
-        48 => 
+        27 => 
+        array (
+          'code' => 'COM',
+          'name' => 'Davao de Oro',
+        ),
+        28 => 
+        array (
+          'code' => 'DAV',
+          'name' => 'Davao del Norte',
+        ),
+        29 => 
+        array (
+          'code' => 'DAS',
+          'name' => 'Davao del Sur',
+        ),
+        30 => 
         array (
           'code' => 'DIN',
           'name' => 'Dinagat Islands',
         ),
-        49 => 
+        31 => 
         array (
           'code' => 'EAS',
           'name' => 'Eastern Samar',
         ),
-        50 => 
+        32 => 
         array (
           'code' => 'GUI',
           'name' => 'Guimaras',
         ),
-        51 => 
+        33 => 
         array (
           'code' => 'IFU',
           'name' => 'Ifugao',
         ),
-        52 => 
+        34 => 
         array (
           'code' => 'ILN',
           'name' => 'Ilocos Norte',
         ),
-        53 => 
+        35 => 
         array (
           'code' => 'ILS',
           'name' => 'Ilocos Sur',
         ),
-        54 => 
+        36 => 
         array (
           'code' => 'ILI',
           'name' => 'Iloilo',
         ),
-        55 => 
+        37 => 
         array (
           'code' => 'ISA',
           'name' => 'Isabela',
         ),
-        56 => 
+        38 => 
         array (
           'code' => 'KAL',
           'name' => 'Kalinga',
         ),
-        57 => 
+        39 => 
         array (
           'code' => 'LUN',
           'name' => 'La Union',
         ),
-        58 => 
+        40 => 
         array (
           'code' => 'LAG',
           'name' => 'Laguna',
         ),
-        59 => 
+        41 => 
         array (
           'code' => 'LAN',
           'name' => 'Lanao del Norte',
         ),
-        60 => 
+        42 => 
         array (
           'code' => 'LAS',
           'name' => 'Lanao del Sur',
         ),
-        61 => 
+        43 => 
         array (
           'code' => 'LEY',
           'name' => 'Leyte',
         ),
-        62 => 
+        44 => 
+        array (
+          'code' => 'MAG',
+          'name' => 'Maguindanao',
+        ),
+        45 => 
         array (
           'code' => 'MAD',
           'name' => 'Marinduque',
         ),
-        63 => 
+        46 => 
         array (
           'code' => 'MAS',
           'name' => 'Masbate',
         ),
-        64 => 
+        47 => 
         array (
           'code' => 'MDC',
           'name' => 'Mindoro Occidental',
         ),
-        65 => 
+        48 => 
         array (
           'code' => 'MDR',
           'name' => 'Mindoro Oriental',
         ),
-        66 => 
-        array (
-          'code' => 'MGN',
-          'name' => 'Maguindanao del Norte',
-        ),
-        67 => 
-        array (
-          'code' => 'MGS',
-          'name' => 'Maguindanao del Sur',
-        ),
-        68 => 
+        49 => 
         array (
           'code' => 'MSC',
           'name' => 'Misamis Occidental',
         ),
-        69 => 
+        50 => 
         array (
           'code' => 'MSR',
           'name' => 'Misamis Oriental',
         ),
-        70 => 
+        51 => 
         array (
           'code' => 'MOU',
           'name' => 'Mountain Province',
         ),
-        71 => 
+        52 => 
+        array (
+          'code' => '00',
+          'name' => 'National Capital Region',
+        ),
+        53 => 
         array (
           'code' => 'NEC',
           'name' => 'Negros Occidental',
         ),
-        72 => 
+        54 => 
         array (
           'code' => 'NER',
           'name' => 'Negros Oriental',
         ),
-        73 => 
+        55 => 
         array (
           'code' => 'NSA',
           'name' => 'Northern Samar',
         ),
-        74 => 
+        56 => 
         array (
           'code' => 'NUE',
           'name' => 'Nueva Ecija',
         ),
-        75 => 
+        57 => 
         array (
           'code' => 'NUV',
           'name' => 'Nueva Vizcaya',
         ),
-        76 => 
+        58 => 
         array (
           'code' => 'PLW',
           'name' => 'Palawan',
         ),
-        77 => 
+        59 => 
         array (
           'code' => 'PAM',
           'name' => 'Pampanga',
         ),
-        78 => 
+        60 => 
         array (
           'code' => 'PAN',
           'name' => 'Pangasinan',
         ),
-        79 => 
+        61 => 
         array (
           'code' => 'QUE',
           'name' => 'Quezon',
         ),
-        80 => 
+        62 => 
         array (
           'code' => 'QUI',
           'name' => 'Quirino',
         ),
-        81 => 
+        63 => 
         array (
           'code' => 'RIZ',
           'name' => 'Rizal',
         ),
-        82 => 
+        64 => 
         array (
           'code' => 'ROM',
           'name' => 'Romblon',
         ),
-        83 => 
+        65 => 
         array (
           'code' => 'WSA',
           'name' => 'Samar',
         ),
-        84 => 
+        66 => 
         array (
           'code' => 'SAR',
           'name' => 'Sarangani',
         ),
-        85 => 
+        67 => 
         array (
           'code' => 'SIG',
           'name' => 'Siquijor',
         ),
-        86 => 
+        68 => 
         array (
           'code' => 'SOR',
           'name' => 'Sorsogon',
         ),
-        87 => 
+        69 => 
         array (
           'code' => 'SCO',
           'name' => 'South Cotabato',
         ),
-        88 => 
+        70 => 
         array (
           'code' => 'SLE',
           'name' => 'Southern Leyte',
         ),
-        89 => 
+        71 => 
         array (
           'code' => 'SUK',
           'name' => 'Sultan Kudarat',
         ),
-        90 => 
+        72 => 
         array (
           'code' => 'SLU',
           'name' => 'Sulu',
         ),
-        91 => 
+        73 => 
         array (
           'code' => 'SUN',
           'name' => 'Surigao del Norte',
         ),
-        92 => 
+        74 => 
         array (
           'code' => 'SUR',
           'name' => 'Surigao del Sur',
         ),
-        93 => 
+        75 => 
         array (
           'code' => 'TAR',
           'name' => 'Tarlac',
         ),
-        94 => 
+        76 => 
         array (
           'code' => 'TAW',
           'name' => 'Tawi-Tawi',
         ),
-        95 => 
+        77 => 
         array (
           'code' => 'ZMB',
           'name' => 'Zambales',
         ),
-        96 => 
+        78 => 
+        array (
+          'code' => 'ZSI',
+          'name' => 'Zamboanga Sibugay',
+        ),
+        79 => 
         array (
           'code' => 'ZAN',
           'name' => 'Zamboanga del Norte',
         ),
-        97 => 
+        80 => 
         array (
           'code' => 'ZAS',
           'name' => 'Zamboanga del Sur',
-        ),
-        98 => 
-        array (
-          'code' => 'ZSI',
-          'name' => 'Zamboanga Sibugay',
         ),
       ),
     ),
@@ -17825,32 +12461,32 @@ return array (
         0 => 
         array (
           'code' => 'JK',
-          'name' => 'Āzād Jammūñ o Kashmīr',
+          'name' => 'Azad Jammu and Kashmir',
         ),
         1 => 
         array (
           'code' => 'BA',
-          'name' => 'Balōchistān',
+          'name' => 'Balochistan',
         ),
         2 => 
         array (
           'code' => 'GB',
-          'name' => 'Gilgit-Baltistān',
+          'name' => 'Gilgit-Baltistan',
         ),
         3 => 
         array (
           'code' => 'IS',
-          'name' => 'Islāmābād',
+          'name' => 'Islamabad',
         ),
         4 => 
         array (
           'code' => 'KP',
-          'name' => 'Khaībar Pakhtūnkhwā',
+          'name' => 'Khyber Pakhtunkhwa',
         ),
         5 => 
         array (
           'code' => 'PB',
-          'name' => 'Panjāb',
+          'name' => 'Punjab',
         ),
         6 => 
         array (
@@ -17866,32 +12502,32 @@ return array (
         0 => 
         array (
           'code' => '02',
-          'name' => 'Dolnośląskie',
+          'name' => 'Dolnoslaskie',
         ),
         1 => 
         array (
           'code' => '04',
-          'name' => 'Kujawsko-Pomorskie',
+          'name' => 'Kujawsko-pomorskie',
         ),
         2 => 
+        array (
+          'code' => '10',
+          'name' => 'Lodzkie',
+        ),
+        3 => 
         array (
           'code' => '06',
           'name' => 'Lubelskie',
         ),
-        3 => 
+        4 => 
         array (
           'code' => '08',
           'name' => 'Lubuskie',
         ),
-        4 => 
-        array (
-          'code' => '10',
-          'name' => 'Łódzkie',
-        ),
         5 => 
         array (
           'code' => '12',
-          'name' => 'Małopolskie',
+          'name' => 'Malopolskie',
         ),
         6 => 
         array (
@@ -17921,17 +12557,17 @@ return array (
         11 => 
         array (
           'code' => '24',
-          'name' => 'Śląskie',
+          'name' => 'Slaskie',
         ),
         12 => 
         array (
           'code' => '26',
-          'name' => 'Świętokrzyskie',
+          'name' => 'Swietokrzyskie',
         ),
         13 => 
         array (
           'code' => '28',
-          'name' => 'Warmińsko-Mazurskie',
+          'name' => 'Warminsko-mazurskie',
         ),
         14 => 
         array (
@@ -17945,6 +12581,414 @@ return array (
         ),
       ),
     ),
+    'PM' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Saint Pierre and Miquelon',
+        ),
+      ),
+    ),
+    'PN' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Pitcairn',
+        ),
+      ),
+    ),
+    'PR' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Adjuntas',
+        ),
+        1 => 
+        array (
+          'code' => NULL,
+          'name' => 'Aguada',
+        ),
+        2 => 
+        array (
+          'code' => NULL,
+          'name' => 'Aguadilla',
+        ),
+        3 => 
+        array (
+          'code' => NULL,
+          'name' => 'Aguas Buenas',
+        ),
+        4 => 
+        array (
+          'code' => NULL,
+          'name' => 'Aibonito',
+        ),
+        5 => 
+        array (
+          'code' => NULL,
+          'name' => 'Anasco',
+        ),
+        6 => 
+        array (
+          'code' => NULL,
+          'name' => 'Arecibo',
+        ),
+        7 => 
+        array (
+          'code' => NULL,
+          'name' => 'Arroyo',
+        ),
+        8 => 
+        array (
+          'code' => NULL,
+          'name' => 'Barceloneta',
+        ),
+        9 => 
+        array (
+          'code' => NULL,
+          'name' => 'Barranquitas',
+        ),
+        10 => 
+        array (
+          'code' => NULL,
+          'name' => 'Bayamon',
+        ),
+        11 => 
+        array (
+          'code' => NULL,
+          'name' => 'Cabo Rojo',
+        ),
+        12 => 
+        array (
+          'code' => NULL,
+          'name' => 'Caguas',
+        ),
+        13 => 
+        array (
+          'code' => NULL,
+          'name' => 'Camuy',
+        ),
+        14 => 
+        array (
+          'code' => NULL,
+          'name' => 'Canovanas',
+        ),
+        15 => 
+        array (
+          'code' => NULL,
+          'name' => 'Carolina',
+        ),
+        16 => 
+        array (
+          'code' => NULL,
+          'name' => 'Catano',
+        ),
+        17 => 
+        array (
+          'code' => NULL,
+          'name' => 'Cayey',
+        ),
+        18 => 
+        array (
+          'code' => NULL,
+          'name' => 'Ceiba',
+        ),
+        19 => 
+        array (
+          'code' => NULL,
+          'name' => 'Ciales',
+        ),
+        20 => 
+        array (
+          'code' => NULL,
+          'name' => 'Cidra',
+        ),
+        21 => 
+        array (
+          'code' => NULL,
+          'name' => 'Coamo',
+        ),
+        22 => 
+        array (
+          'code' => NULL,
+          'name' => 'Comerio',
+        ),
+        23 => 
+        array (
+          'code' => NULL,
+          'name' => 'Corozal',
+        ),
+        24 => 
+        array (
+          'code' => NULL,
+          'name' => 'Culebra',
+        ),
+        25 => 
+        array (
+          'code' => NULL,
+          'name' => 'Dorado',
+        ),
+        26 => 
+        array (
+          'code' => NULL,
+          'name' => 'Fajardo',
+        ),
+        27 => 
+        array (
+          'code' => NULL,
+          'name' => 'Florida',
+        ),
+        28 => 
+        array (
+          'code' => NULL,
+          'name' => 'Guanica',
+        ),
+        29 => 
+        array (
+          'code' => NULL,
+          'name' => 'Guayama',
+        ),
+        30 => 
+        array (
+          'code' => NULL,
+          'name' => 'Guayanilla',
+        ),
+        31 => 
+        array (
+          'code' => NULL,
+          'name' => 'Guaynabo',
+        ),
+        32 => 
+        array (
+          'code' => NULL,
+          'name' => 'Gurabo',
+        ),
+        33 => 
+        array (
+          'code' => NULL,
+          'name' => 'Hatillo',
+        ),
+        34 => 
+        array (
+          'code' => NULL,
+          'name' => 'Hormigueros',
+        ),
+        35 => 
+        array (
+          'code' => NULL,
+          'name' => 'Humacao',
+        ),
+        36 => 
+        array (
+          'code' => NULL,
+          'name' => 'Isabela',
+        ),
+        37 => 
+        array (
+          'code' => NULL,
+          'name' => 'Juana Diaz',
+        ),
+        38 => 
+        array (
+          'code' => NULL,
+          'name' => 'Lajas',
+        ),
+        39 => 
+        array (
+          'code' => NULL,
+          'name' => 'Lares',
+        ),
+        40 => 
+        array (
+          'code' => NULL,
+          'name' => 'Las Marias',
+        ),
+        41 => 
+        array (
+          'code' => NULL,
+          'name' => 'Las Piedras',
+        ),
+        42 => 
+        array (
+          'code' => NULL,
+          'name' => 'Loiza',
+        ),
+        43 => 
+        array (
+          'code' => NULL,
+          'name' => 'Luquillo',
+        ),
+        44 => 
+        array (
+          'code' => NULL,
+          'name' => 'Manati',
+        ),
+        45 => 
+        array (
+          'code' => NULL,
+          'name' => 'Maunabo',
+        ),
+        46 => 
+        array (
+          'code' => NULL,
+          'name' => 'Mayaguez',
+        ),
+        47 => 
+        array (
+          'code' => NULL,
+          'name' => 'Moca',
+        ),
+        48 => 
+        array (
+          'code' => NULL,
+          'name' => 'Morovis',
+        ),
+        49 => 
+        array (
+          'code' => NULL,
+          'name' => 'Municipio de Jayuya',
+        ),
+        50 => 
+        array (
+          'code' => NULL,
+          'name' => 'Municipio de Juncos',
+        ),
+        51 => 
+        array (
+          'code' => NULL,
+          'name' => 'Naguabo',
+        ),
+        52 => 
+        array (
+          'code' => NULL,
+          'name' => 'Naranjito',
+        ),
+        53 => 
+        array (
+          'code' => NULL,
+          'name' => 'Patillas',
+        ),
+        54 => 
+        array (
+          'code' => NULL,
+          'name' => 'Penuelas',
+        ),
+        55 => 
+        array (
+          'code' => NULL,
+          'name' => 'Ponce',
+        ),
+        56 => 
+        array (
+          'code' => NULL,
+          'name' => 'Quebradillas',
+        ),
+        57 => 
+        array (
+          'code' => NULL,
+          'name' => 'Rincon',
+        ),
+        58 => 
+        array (
+          'code' => NULL,
+          'name' => 'Rio Grande',
+        ),
+        59 => 
+        array (
+          'code' => NULL,
+          'name' => 'Sabana Grande',
+        ),
+        60 => 
+        array (
+          'code' => NULL,
+          'name' => 'Salinas',
+        ),
+        61 => 
+        array (
+          'code' => NULL,
+          'name' => 'San German',
+        ),
+        62 => 
+        array (
+          'code' => NULL,
+          'name' => 'San Juan',
+        ),
+        63 => 
+        array (
+          'code' => NULL,
+          'name' => 'San Lorenzo',
+        ),
+        64 => 
+        array (
+          'code' => NULL,
+          'name' => 'San Sebastian',
+        ),
+        65 => 
+        array (
+          'code' => NULL,
+          'name' => 'Santa Isabel Municipio',
+        ),
+        66 => 
+        array (
+          'code' => NULL,
+          'name' => 'Toa Alta',
+        ),
+        67 => 
+        array (
+          'code' => NULL,
+          'name' => 'Toa Baja',
+        ),
+        68 => 
+        array (
+          'code' => NULL,
+          'name' => 'Trujillo Alto',
+        ),
+        69 => 
+        array (
+          'code' => NULL,
+          'name' => 'Utuado',
+        ),
+        70 => 
+        array (
+          'code' => NULL,
+          'name' => 'Vega Alta',
+        ),
+        71 => 
+        array (
+          'code' => NULL,
+          'name' => 'Vega Baja',
+        ),
+        72 => 
+        array (
+          'code' => NULL,
+          'name' => 'Vieques',
+        ),
+        73 => 
+        array (
+          'code' => NULL,
+          'name' => 'Villalba',
+        ),
+        74 => 
+        array (
+          'code' => NULL,
+          'name' => 'Yabucoa',
+        ),
+        75 => 
+        array (
+          'code' => NULL,
+          'name' => 'Yauco',
+        ),
+      ),
+    ),
     'PS' => 
     array (
       'zones' => 
@@ -17952,82 +12996,77 @@ return array (
         0 => 
         array (
           'code' => 'BTH',
-          'name' => 'Bayt Laḩm',
+          'name' => 'Bethlehem',
         ),
         1 => 
         array (
           'code' => 'DEB',
-          'name' => 'Dayr al Balaḩ',
+          'name' => 'Deir El Balah',
         ),
         2 => 
         array (
           'code' => 'GZA',
-          'name' => 'Ghazzah',
+          'name' => 'Gaza',
         ),
         3 => 
         array (
           'code' => 'HBN',
-          'name' => 'Al Khalīl',
+          'name' => 'Hebron',
         ),
         4 => 
         array (
           'code' => 'JEN',
-          'name' => 'Janīn',
+          'name' => 'Jenin',
         ),
         5 => 
         array (
           'code' => 'JRH',
-          'name' => 'Arīḩā wal Aghwār',
+          'name' => 'Jericho and Al Aghwar',
         ),
         6 => 
         array (
           'code' => 'JEM',
-          'name' => 'Al Quds',
+          'name' => 'Jerusalem',
         ),
         7 => 
         array (
           'code' => 'KYS',
-          'name' => 'Khān Yūnis',
+          'name' => 'Khan Yunis',
         ),
         8 => 
         array (
           'code' => 'NBS',
-          'name' => 'Nāblus',
+          'name' => 'Nablus',
         ),
         9 => 
         array (
-          'code' => 'NGZ',
-          'name' => 'Shamāl Ghazzah',
+          'code' => 'QQA',
+          'name' => 'Qalqilya',
         ),
         10 => 
         array (
-          'code' => 'QQA',
-          'name' => 'Qalqīlyah',
+          'code' => 'RFH',
+          'name' => 'Rafah',
         ),
         11 => 
         array (
-          'code' => 'RFH',
-          'name' => 'Rafaḩ',
+          'code' => 'RBH',
+          'name' => 'Ramallah',
         ),
         12 => 
         array (
-          'code' => 'RBH',
-          'name' => 'Rām Allāh wal Bīrah',
+          'code' => 'SLT',
+          'name' => 'Salfit',
         ),
         13 => 
         array (
-          'code' => 'SLT',
-          'name' => 'Salfīt',
+          'code' => 'TBS',
+          'name' => 'Tubas',
         ),
         14 => 
         array (
-          'code' => 'TBS',
-          'name' => 'Ţūbās',
-        ),
-        15 => 
-        array (
           'code' => 'TKM',
-          'name' => 'Ţūlkarm',
+          'name' => 'Tulkarm',
         ),
       ),
     ),
@@ -18053,7 +13092,7 @@ return array (
         3 => 
         array (
           'code' => '04',
-          'name' => 'Bragança',
+          'name' => 'Braganca',
         ),
         4 => 
         array (
@@ -18068,7 +13107,7 @@ return array (
         6 => 
         array (
           'code' => '07',
-          'name' => 'Évora',
+          'name' => 'Evora',
         ),
         7 => 
         array (
@@ -18103,22 +13142,22 @@ return array (
         13 => 
         array (
           'code' => '30',
-          'name' => 'Região Autónoma da Madeira',
+          'name' => 'Regiao Autonoma da Madeira',
         ),
         14 => 
         array (
           'code' => '20',
-          'name' => 'Região Autónoma dos Açores',
+          'name' => 'Regiao Autonoma dos Acores',
         ),
         15 => 
         array (
           'code' => '14',
-          'name' => 'Santarém',
+          'name' => 'Santarem',
         ),
         16 => 
         array (
           'code' => '15',
-          'name' => 'Setúbal',
+          'name' => 'Setubal',
         ),
         17 => 
         array (
@@ -18143,83 +13182,33 @@ return array (
       array (
         0 => 
         array (
-          'code' => '002',
-          'name' => 'Aimeliik',
-        ),
-        1 => 
-        array (
           'code' => '004',
           'name' => 'Airai',
         ),
-        2 => 
-        array (
-          'code' => '010',
-          'name' => 'Angaur',
-        ),
-        3 => 
-        array (
-          'code' => '050',
-          'name' => 'Hatohobei',
-        ),
-        4 => 
+        1 => 
         array (
           'code' => '100',
           'name' => 'Kayangel',
         ),
-        5 => 
+        2 => 
         array (
           'code' => '150',
           'name' => 'Koror',
         ),
-        6 => 
+        3 => 
         array (
           'code' => '212',
           'name' => 'Melekeok',
         ),
-        7 => 
+        4 => 
         array (
           'code' => '214',
           'name' => 'Ngaraard',
         ),
-        8 => 
-        array (
-          'code' => '218',
-          'name' => 'Ngarchelong',
-        ),
-        9 => 
+        5 => 
         array (
           'code' => '222',
           'name' => 'Ngardmau',
-        ),
-        10 => 
-        array (
-          'code' => '224',
-          'name' => 'Ngatpang',
-        ),
-        11 => 
-        array (
-          'code' => '226',
-          'name' => 'Ngchesar',
-        ),
-        12 => 
-        array (
-          'code' => '227',
-          'name' => 'Ngeremlengui',
-        ),
-        13 => 
-        array (
-          'code' => '228',
-          'name' => 'Ngiwal',
-        ),
-        14 => 
-        array (
-          'code' => '350',
-          'name' => 'Peleliu',
-        ),
-        15 => 
-        array (
-          'code' => '370',
-          'name' => 'Sonsorol',
         ),
       ),
     ),
@@ -18229,90 +13218,85 @@ return array (
       array (
         0 => 
         array (
-          'code' => '16',
-          'name' => 'Alto Paraguay',
+          'code' => '10',
+          'name' => 'Alto Parana',
         ),
         1 => 
-        array (
-          'code' => '10',
-          'name' => 'Alto Paraná',
-        ),
-        2 => 
         array (
           'code' => '13',
           'name' => 'Amambay',
         ),
-        3 => 
+        2 => 
         array (
           'code' => 'ASU',
-          'name' => 'Asunción',
+          'name' => 'Asuncion',
+        ),
+        3 => 
+        array (
+          'code' => '19',
+          'name' => 'Boqueron',
         ),
         4 => 
         array (
-          'code' => '19',
-          'name' => 'Boquerón',
+          'code' => '5',
+          'name' => 'Caaguazu',
         ),
         5 => 
         array (
-          'code' => '5',
-          'name' => 'Caaguazú',
+          'code' => '6',
+          'name' => 'Caazapa',
         ),
         6 => 
         array (
-          'code' => '6',
-          'name' => 'Caazapá',
+          'code' => '14',
+          'name' => 'Canindeyu',
         ),
         7 => 
-        array (
-          'code' => '14',
-          'name' => 'Canindeyú',
-        ),
-        8 => 
         array (
           'code' => '11',
           'name' => 'Central',
         ),
-        9 => 
+        8 => 
         array (
           'code' => '1',
-          'name' => 'Concepción',
+          'name' => 'Concepcion',
         ),
-        10 => 
+        9 => 
         array (
           'code' => '3',
           'name' => 'Cordillera',
         ),
-        11 => 
+        10 => 
         array (
           'code' => '4',
-          'name' => 'Guairá',
+          'name' => 'Guaira',
         ),
-        12 => 
+        11 => 
         array (
           'code' => '7',
-          'name' => 'Itapúa',
+          'name' => 'Itapua',
         ),
-        13 => 
+        12 => 
         array (
           'code' => '8',
           'name' => 'Misiones',
         ),
-        14 => 
+        13 => 
         array (
           'code' => '12',
-          'name' => 'Ñeembucú',
+          'name' => 'Neembucu',
         ),
-        15 => 
+        14 => 
         array (
           'code' => '9',
-          'name' => 'Paraguarí',
+          'name' => 'Paraguari',
         ),
-        16 => 
+        15 => 
         array (
           'code' => '15',
           'name' => 'Presidente Hayes',
         ),
-        17 => 
+        16 => 
         array (
           'code' => '2',
           'name' => 'San Pedro',
@@ -18326,12 +13310,12 @@ return array (
         0 => 
         array (
           'code' => 'DA',
-          'name' => 'Ad Dawḩah',
+          'name' => 'Ad Dawhah',
         ),
         1 => 
         array (
           'code' => 'KH',
-          'name' => 'Al Khawr wa adh Dhakhīrah',
+          'name' => 'Al Khawr wa adh Dhakhirah',
         ),
         2 => 
         array (
@@ -18341,27 +13325,33 @@ return array (
         3 => 
         array (
           'code' => 'RA',
-          'name' => 'Ar Rayyān',
+          'name' => 'Ar Rayyan',
         ),
         4 => 
         array (
           'code' => 'MS',
-          'name' => 'Ash Shamāl',
+          'name' => 'Ash Shamal',
         ),
         5 => 
         array (
-          'code' => 'SH',
-          'name' => 'Ash Shīḩānīyah',
+          'code' => 'ZA',
+          'name' => 'Az Za\'ayin',
         ),
         6 => 
         array (
-          'code' => 'ZA',
-          'name' => 'Az̧ Z̧a‘āyin',
-        ),
-        7 => 
-        array (
           'code' => 'US',
-          'name' => 'Umm Şalāl',
+          'name' => 'Umm Salal',
+        ),
+      ),
+    ),
+    'RE' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Reunion',
         ),
       ),
     ),
@@ -18406,13 +13396,13 @@ return array (
         ),
         7 => 
         array (
-          'code' => 'BV',
-          'name' => 'Brașov',
+          'code' => 'BR',
+          'name' => 'Brăila',
         ),
         8 => 
         array (
-          'code' => 'BR',
-          'name' => 'Brăila',
+          'code' => 'BV',
+          'name' => 'Brașov',
         ),
         9 => 
         array (
@@ -18426,13 +13416,13 @@ return array (
         ),
         11 => 
         array (
-          'code' => 'CS',
-          'name' => 'Caraș-Severin',
+          'code' => 'CL',
+          'name' => 'Călărași',
         ),
         12 => 
         array (
-          'code' => 'CL',
-          'name' => 'Călărași',
+          'code' => 'CS',
+          'name' => 'Caraș-Severin',
         ),
         13 => 
         array (
@@ -18531,13 +13521,13 @@ return array (
         ),
         32 => 
         array (
-          'code' => 'SM',
-          'name' => 'Satu Mare',
+          'code' => 'SJ',
+          'name' => 'Sălaj',
         ),
         33 => 
         array (
-          'code' => 'SJ',
-          'name' => 'Sălaj',
+          'code' => 'SM',
+          'name' => 'Satu Mare',
         ),
         34 => 
         array (
@@ -18566,13 +13556,13 @@ return array (
         ),
         39 => 
         array (
-          'code' => 'VS',
-          'name' => 'Vaslui',
+          'code' => 'VL',
+          'name' => 'Vâlcea',
         ),
         40 => 
         array (
-          'code' => 'VL',
-          'name' => 'Vâlcea',
+          'code' => 'VS',
+          'name' => 'Vaslui',
         ),
         41 => 
         array (
@@ -18587,160 +13577,140 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'KM',
-          'name' => 'Kosovo-Metohija',
-        ),
-        1 => 
-        array (
-          'code' => 'VO',
-          'name' => 'Vojvodina',
-        ),
-        2 => 
-        array (
           'code' => '00',
           'name' => 'Beograd',
         ),
-        3 => 
+        1 => 
         array (
           'code' => '14',
           'name' => 'Borski okrug',
         ),
-        4 => 
+        2 => 
         array (
           'code' => '11',
-          'name' => 'Braničevski okrug',
+          'name' => 'Branicevski okrug',
+        ),
+        3 => 
+        array (
+          'code' => '23',
+          'name' => 'Jablanicki okrug',
+        ),
+        4 => 
+        array (
+          'code' => '06',
+          'name' => 'Juznobacki okrug',
         ),
         5 => 
         array (
-          'code' => '23',
-          'name' => 'Jablanički okrug',
+          'code' => '04',
+          'name' => 'Juznobanatski okrug',
         ),
         6 => 
-        array (
-          'code' => '06',
-          'name' => 'Južnobački okrug',
-        ),
-        7 => 
-        array (
-          'code' => '04',
-          'name' => 'Južnobanatski okrug',
-        ),
-        8 => 
         array (
           'code' => '09',
           'name' => 'Kolubarski okrug',
         ),
+        7 => 
+        array (
+          'code' => '28',
+          'name' => 'Kosovsko-Mitrovacki okrug',
+        ),
+        8 => 
+        array (
+          'code' => '08',
+          'name' => 'Macvanski okrug',
+        ),
         9 => 
         array (
-          'code' => '25',
-          'name' => 'Kosovski okrug',
+          'code' => '17',
+          'name' => 'Moravicki okrug',
         ),
         10 => 
         array (
-          'code' => '28',
-          'name' => 'Kosovsko-Mitrovački okrug',
+          'code' => '20',
+          'name' => 'Nisavski okrug',
         ),
         11 => 
         array (
-          'code' => '29',
-          'name' => 'Kosovsko-Pomoravski okrug',
+          'code' => '24',
+          'name' => 'Pcinjski okrug',
         ),
         12 => 
         array (
-          'code' => '08',
-          'name' => 'Mačvanski okrug',
+          'code' => '26',
+          'name' => 'Pecki okrug',
         ),
         13 => 
-        array (
-          'code' => '17',
-          'name' => 'Moravički okrug',
-        ),
-        14 => 
-        array (
-          'code' => '20',
-          'name' => 'Nišavski okrug',
-        ),
-        15 => 
-        array (
-          'code' => '24',
-          'name' => 'Pčinjski okrug',
-        ),
-        16 => 
-        array (
-          'code' => '26',
-          'name' => 'Pećki okrug',
-        ),
-        17 => 
         array (
           'code' => '22',
           'name' => 'Pirotski okrug',
         ),
-        18 => 
+        14 => 
         array (
           'code' => '10',
           'name' => 'Podunavski okrug',
         ),
-        19 => 
+        15 => 
         array (
           'code' => '13',
           'name' => 'Pomoravski okrug',
         ),
-        20 => 
+        16 => 
         array (
           'code' => '27',
           'name' => 'Prizrenski okrug',
         ),
-        21 => 
+        17 => 
         array (
           'code' => '19',
           'name' => 'Rasinski okrug',
         ),
-        22 => 
+        18 => 
         array (
           'code' => '18',
-          'name' => 'Raški okrug',
+          'name' => 'Raski okrug',
         ),
-        23 => 
+        19 => 
         array (
           'code' => '01',
-          'name' => 'Severnobački okrug',
+          'name' => 'Severnobacki okrug',
         ),
-        24 => 
+        20 => 
         array (
           'code' => '03',
           'name' => 'Severnobanatski okrug',
         ),
-        25 => 
+        21 => 
         array (
           'code' => '02',
           'name' => 'Srednjebanatski okrug',
         ),
-        26 => 
+        22 => 
         array (
           'code' => '07',
           'name' => 'Sremski okrug',
         ),
-        27 => 
+        23 => 
         array (
           'code' => '12',
-          'name' => 'Šumadijski okrug',
+          'name' => 'Sumadijski okrug',
         ),
-        28 => 
+        24 => 
         array (
           'code' => '21',
-          'name' => 'Toplički okrug',
+          'name' => 'Toplicki okrug',
         ),
-        29 => 
+        25 => 
         array (
           'code' => '15',
-          'name' => 'Zaječarski okrug',
+          'name' => 'Zajecarski okrug',
         ),
-        30 => 
+        26 => 
         array (
           'code' => '05',
-          'name' => 'Zapadnobački okrug',
+          'name' => 'Zapadnobacki okrug',
         ),
-        31 => 
+        27 => 
         array (
           'code' => '16',
           'name' => 'Zlatiborski okrug',
@@ -18844,7 +13814,7 @@ return array (
         18 => 
         array (
           'code' => 'KB',
-          'name' => 'Kabardino- Balkarskaya Respublika',
+          'name' => 'Kabardino-Balkarskaya Respublika',
         ),
         19 => 
         array (
@@ -18894,7 +13864,7 @@ return array (
         28 => 
         array (
           'code' => 'KHM',
-          'name' => 'Khanty- Mansiyskiy avtonomnyy okrug',
+          'name' => 'Khanty-Mansiyskiy avtonomnyy okrug',
         ),
         29 => 
         array (
@@ -19149,7 +14119,7 @@ return array (
         79 => 
         array (
           'code' => 'YAN',
-          'name' => 'Yamalo- Nenetskiy avtonomnyy okrug',
+          'name' => 'Yamalo-Nenetskiy avtonomnyy okrug',
         ),
         80 => 
         array (
@@ -19174,28 +14144,28 @@ return array (
       array (
         0 => 
         array (
-          'code' => '01',
-          'name' => 'City of Kigali',
+          'code' => '02',
+          'name' => 'Est',
         ),
         1 => 
         array (
-          'code' => '02',
-          'name' => 'Eastern',
+          'code' => '03',
+          'name' => 'Nord',
         ),
         2 => 
         array (
-          'code' => '03',
-          'name' => 'Northern',
+          'code' => '04',
+          'name' => 'Ouest',
         ),
         3 => 
         array (
           'code' => '05',
-          'name' => 'Southern',
+          'name' => 'Sud',
         ),
         4 => 
         array (
-          'code' => '04',
-          'name' => 'Western',
+          'code' => '01',
+          'name' => 'Ville de Kigali',
         ),
       ),
     ),
@@ -19206,17 +14176,17 @@ return array (
         0 => 
         array (
           'code' => '14',
-          'name' => '\'Asīr',
+          'name' => '\'Asir',
         ),
         1 => 
         array (
           'code' => '11',
-          'name' => 'Al Bāḩah',
+          'name' => 'Al Bahah',
         ),
         2 => 
         array (
           'code' => '08',
-          'name' => 'Al Ḩudūd ash Shamālīyah',
+          'name' => 'Al Hudud ash Shamaliyah',
         ),
         3 => 
         array (
@@ -19226,32 +14196,32 @@ return array (
         4 => 
         array (
           'code' => '03',
-          'name' => 'Al Madīnah al Munawwarah',
+          'name' => 'Al Madinah al Munawwarah',
         ),
         5 => 
         array (
           'code' => '05',
-          'name' => 'Al Qaşīm',
+          'name' => 'Al Qasim',
         ),
         6 => 
         array (
           'code' => '01',
-          'name' => 'Ar Riyāḑ',
+          'name' => 'Ar Riyad',
         ),
         7 => 
         array (
           'code' => '04',
-          'name' => 'Ash Sharqīyah',
+          'name' => 'Ash Sharqiyah',
         ),
         8 => 
         array (
           'code' => '06',
-          'name' => 'Ḩā\'il',
+          'name' => 'Ha\'il',
         ),
         9 => 
         array (
           'code' => '09',
-          'name' => 'Jāzān',
+          'name' => 'Jazan',
         ),
         10 => 
         array (
@@ -19261,12 +14231,12 @@ return array (
         11 => 
         array (
           'code' => '10',
-          'name' => 'Najrān',
+          'name' => 'Najran',
         ),
         12 => 
         array (
           'code' => '07',
-          'name' => 'Tabūk',
+          'name' => 'Tabuk',
         ),
       ),
     ),
@@ -19276,50 +14246,15 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'CT',
-          'name' => 'Capital Territory',
-        ),
-        1 => 
-        array (
-          'code' => 'CE',
-          'name' => 'Central',
-        ),
-        2 => 
-        array (
           'code' => 'CH',
           'name' => 'Choiseul',
         ),
-        3 => 
+        1 => 
         array (
           'code' => 'GU',
           'name' => 'Guadalcanal',
         ),
-        4 => 
-        array (
-          'code' => 'IS',
-          'name' => 'Isabel',
-        ),
-        5 => 
-        array (
-          'code' => 'MK',
-          'name' => 'Makira-Ulawa',
-        ),
-        6 => 
-        array (
-          'code' => 'ML',
-          'name' => 'Malaita',
-        ),
-        7 => 
-        array (
-          'code' => 'RB',
-          'name' => 'Rennell and Bellona',
-        ),
-        8 => 
-        array (
-          'code' => 'TE',
-          'name' => 'Temotu',
-        ),
-        9 => 
+        2 => 
         array (
           'code' => 'WE',
           'name' => 'Western',
@@ -19332,135 +14267,70 @@ return array (
       array (
         0 => 
         array (
-          'code' => '01',
-          'name' => 'Anse aux Pins',
-        ),
-        1 => 
-        array (
           'code' => '02',
           'name' => 'Anse Boileau',
         ),
-        2 => 
-        array (
-          'code' => '03',
-          'name' => 'Anse Etoile',
-        ),
-        3 => 
+        1 => 
         array (
           'code' => '05',
           'name' => 'Anse Royale',
         ),
-        4 => 
+        2 => 
         array (
-          'code' => '04',
-          'name' => 'Au Cap',
+          'code' => '01',
+          'name' => 'Anse aux Pins',
         ),
-        5 => 
+        3 => 
         array (
           'code' => '06',
           'name' => 'Baie Lazare',
         ),
-        6 => 
+        4 => 
         array (
           'code' => '07',
           'name' => 'Baie Sainte Anne',
         ),
-        7 => 
+        5 => 
         array (
           'code' => '08',
           'name' => 'Beau Vallon',
         ),
-        8 => 
-        array (
-          'code' => '09',
-          'name' => 'Bel Air',
-        ),
-        9 => 
+        6 => 
         array (
           'code' => '10',
           'name' => 'Bel Ombre',
         ),
-        10 => 
+        7 => 
         array (
           'code' => '11',
           'name' => 'Cascade',
         ),
-        11 => 
+        8 => 
         array (
           'code' => '16',
           'name' => 'English River',
         ),
-        12 => 
-        array (
-          'code' => '12',
-          'name' => 'Glacis',
-        ),
-        13 => 
+        9 => 
         array (
           'code' => '13',
           'name' => 'Grand Anse Mahe',
         ),
-        14 => 
+        10 => 
         array (
           'code' => '14',
           'name' => 'Grand Anse Praslin',
         ),
-        15 => 
-        array (
-          'code' => '26',
-          'name' => 'Ile Perseverance I',
-        ),
-        16 => 
-        array (
-          'code' => '27',
-          'name' => 'Ile Perseverance II',
-        ),
-        17 => 
+        11 => 
         array (
           'code' => '15',
           'name' => 'La Digue',
         ),
-        18 => 
-        array (
-          'code' => '24',
-          'name' => 'Les Mamelles',
-        ),
-        19 => 
-        array (
-          'code' => '17',
-          'name' => 'Mont Buxton',
-        ),
-        20 => 
-        array (
-          'code' => '18',
-          'name' => 'Mont Fleuri',
-        ),
-        21 => 
-        array (
-          'code' => '19',
-          'name' => 'Plaisance',
-        ),
-        22 => 
+        12 => 
         array (
           'code' => '20',
           'name' => 'Pointe Larue',
         ),
-        23 => 
-        array (
-          'code' => '21',
-          'name' => 'Port Glaud',
-        ),
-        24 => 
-        array (
-          'code' => '25',
-          'name' => 'Roche Caiman',
-        ),
-        25 => 
-        array (
-          'code' => '22',
-          'name' => 'Saint Louis',
-        ),
-        26 => 
+        13 => 
         array (
           'code' => '23',
           'name' => 'Takamaka',
@@ -19473,93 +14343,88 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'RS',
-          'name' => 'Al Baḩr al Aḩmar',
+          'code' => 'NB',
+          'name' => 'Blue Nile',
         ),
         1 => 
         array (
-          'code' => 'GZ',
-          'name' => 'Al Jazīrah',
+          'code' => 'DC',
+          'name' => 'Central Darfur',
         ),
         2 => 
         array (
-          'code' => 'KH',
-          'name' => 'Al Kharţūm',
+          'code' => 'GD',
+          'name' => 'Gedaref',
         ),
         3 => 
         array (
-          'code' => 'GD',
-          'name' => 'Al Qaḑārif',
+          'code' => 'GZ',
+          'name' => 'Gezira',
         ),
         4 => 
         array (
-          'code' => 'NW',
-          'name' => 'An Nīl al Abyaḑ',
+          'code' => 'KA',
+          'name' => 'Kassala',
         ),
         5 => 
         array (
-          'code' => 'NB',
-          'name' => 'An Nīl al Azraq',
+          'code' => 'KH',
+          'name' => 'Khartoum',
         ),
         6 => 
         array (
-          'code' => 'NO',
-          'name' => 'Ash Shamālīyah',
+          'code' => 'DN',
+          'name' => 'North Darfur',
         ),
         7 => 
         array (
-          'code' => 'DW',
-          'name' => 'Gharb Dārfūr',
+          'code' => 'KN',
+          'name' => 'North Kordofan',
         ),
         8 => 
         array (
-          'code' => 'GK',
-          'name' => 'Gharb Kurdufān',
+          'code' => 'NO',
+          'name' => 'Northern',
         ),
         9 => 
         array (
-          'code' => 'DS',
-          'name' => 'Janūb Dārfūr',
+          'code' => 'RS',
+          'name' => 'Red Sea',
         ),
         10 => 
         array (
-          'code' => 'KS',
-          'name' => 'Janūb Kurdufān',
+          'code' => 'NR',
+          'name' => 'River Nile',
         ),
         11 => 
         array (
-          'code' => 'KA',
-          'name' => 'Kassalā',
+          'code' => 'SI',
+          'name' => 'Sennar',
         ),
         12 => 
         array (
-          'code' => 'NR',
-          'name' => 'Nahr an Nīl',
+          'code' => 'DS',
+          'name' => 'South Darfur',
         ),
         13 => 
         array (
-          'code' => 'DN',
-          'name' => 'Shamāl Dārfūr',
+          'code' => 'KS',
+          'name' => 'South Kordofan',
         ),
         14 => 
         array (
-          'code' => 'KN',
-          'name' => 'Shamāl Kurdufān',
+          'code' => 'DW',
+          'name' => 'West Darfur',
         ),
         15 => 
         array (
-          'code' => 'DE',
-          'name' => 'Sharq Dārfūr',
+          'code' => 'GK',
+          'name' => 'West Kordofan',
         ),
         16 => 
         array (
-          'code' => 'SI',
-          'name' => 'Sinnār',
-        ),
-        17 => 
-        array (
-          'code' => 'DC',
-          'name' => 'Wasaţ Dārfūr',
+          'code' => 'NW',
+          'name' => 'White Nile',
         ),
       ),
     ),
@@ -19570,107 +14435,107 @@ return array (
         0 => 
         array (
           'code' => 'K',
-          'name' => 'Blekinge län',
+          'name' => 'Blekinge lan',
         ),
         1 => 
         array (
           'code' => 'W',
-          'name' => 'Dalarnas län',
+          'name' => 'Dalarnas lan',
         ),
         2 => 
         array (
-          'code' => 'I',
-          'name' => 'Gotlands län',
+          'code' => 'X',
+          'name' => 'Gavleborgs lan',
         ),
         3 => 
         array (
-          'code' => 'X',
-          'name' => 'Gävleborgs län',
+          'code' => 'I',
+          'name' => 'Gotlands lan',
         ),
         4 => 
         array (
           'code' => 'N',
-          'name' => 'Hallands län',
+          'name' => 'Hallands lan',
         ),
         5 => 
         array (
           'code' => 'Z',
-          'name' => 'Jämtlands län',
+          'name' => 'Jamtlands lan',
         ),
         6 => 
         array (
           'code' => 'F',
-          'name' => 'Jönköpings län',
+          'name' => 'Jonkopings lan',
         ),
         7 => 
         array (
           'code' => 'H',
-          'name' => 'Kalmar län',
+          'name' => 'Kalmar lan',
         ),
         8 => 
         array (
           'code' => 'G',
-          'name' => 'Kronobergs län',
+          'name' => 'Kronobergs lan',
         ),
         9 => 
         array (
           'code' => 'BD',
-          'name' => 'Norrbottens län',
+          'name' => 'Norrbottens lan',
         ),
         10 => 
         array (
-          'code' => 'M',
-          'name' => 'Skåne län',
+          'code' => 'T',
+          'name' => 'Orebro lan',
         ),
         11 => 
         array (
-          'code' => 'AB',
-          'name' => 'Stockholms län',
+          'code' => 'E',
+          'name' => 'Ostergotlands lan',
         ),
         12 => 
         array (
-          'code' => 'D',
-          'name' => 'Södermanlands län',
+          'code' => 'M',
+          'name' => 'Skane lan',
         ),
         13 => 
         array (
-          'code' => 'C',
-          'name' => 'Uppsala län',
+          'code' => 'D',
+          'name' => 'Sodermanlands lan',
         ),
         14 => 
         array (
-          'code' => 'S',
-          'name' => 'Värmlands län',
+          'code' => 'AB',
+          'name' => 'Stockholms lan',
         ),
         15 => 
         array (
-          'code' => 'AC',
-          'name' => 'Västerbottens län',
+          'code' => 'C',
+          'name' => 'Uppsala lan',
         ),
         16 => 
         array (
-          'code' => 'Y',
-          'name' => 'Västernorrlands län',
+          'code' => 'S',
+          'name' => 'Varmlands lan',
         ),
         17 => 
         array (
-          'code' => 'U',
-          'name' => 'Västmanlands län',
+          'code' => 'AC',
+          'name' => 'Vasterbottens lan',
         ),
         18 => 
         array (
-          'code' => 'O',
-          'name' => 'Västra Götalands län',
+          'code' => 'Y',
+          'name' => 'Vasternorrlands lan',
         ),
         19 => 
         array (
-          'code' => 'T',
-          'name' => 'Örebro län',
+          'code' => 'U',
+          'name' => 'Vastmanlands lan',
         ),
         20 => 
         array (
-          'code' => 'E',
-          'name' => 'Östergötlands län',
+          'code' => 'O',
+          'name' => 'Vastra Gotalands lan',
         ),
       ),
     ),
@@ -19680,28 +14545,8 @@ return array (
       array (
         0 => 
         array (
-          'code' => '01',
-          'name' => 'Central Singapore',
-        ),
-        1 => 
-        array (
-          'code' => '02',
-          'name' => 'North East',
-        ),
-        2 => 
-        array (
-          'code' => '03',
-          'name' => 'North West',
-        ),
-        3 => 
-        array (
-          'code' => '04',
-          'name' => 'South East',
-        ),
-        4 => 
-        array (
-          'code' => '05',
-          'name' => 'South West',
+          'code' => NULL,
+          'name' => 'Singapore',
         ),
       ),
     ),
@@ -19711,18 +14556,8 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'AC',
-          'name' => 'Ascension',
-        ),
-        1 => 
-        array (
           'code' => 'HL',
           'name' => 'Saint Helena',
-        ),
-        2 => 
-        array (
-          'code' => 'TA',
-          'name' => 'Tristan da Cunha',
         ),
       ),
     ),
@@ -19733,7 +14568,7 @@ return array (
         0 => 
         array (
           'code' => '001',
-          'name' => 'Ajdovščina',
+          'name' => 'Ajdovscina',
         ),
         1 => 
         array (
@@ -19743,7 +14578,7 @@ return array (
         2 => 
         array (
           'code' => '195',
-          'name' => 'Apače',
+          'name' => 'Apace',
         ),
         3 => 
         array (
@@ -19788,7 +14623,7 @@ return array (
         11 => 
         array (
           'code' => '151',
-          'name' => 'Braslovče',
+          'name' => 'Braslovce',
         ),
         12 => 
         array (
@@ -19797,13 +14632,13 @@ return array (
         ),
         13 => 
         array (
-          'code' => '008',
-          'name' => 'Brezovica',
+          'code' => '009',
+          'name' => 'Brezice',
         ),
         14 => 
         array (
-          'code' => '009',
-          'name' => 'Brežice',
+          'code' => '008',
+          'name' => 'Brezovica',
         ),
         15 => 
         array (
@@ -19832,963 +14667,874 @@ return array (
         ),
         20 => 
         array (
-          'code' => '153',
-          'name' => 'Cerkvenjak',
-        ),
-        21 => 
-        array (
           'code' => '196',
           'name' => 'Cirkulane',
         ),
-        22 => 
+        21 => 
         array (
           'code' => '015',
-          'name' => 'Črenšovci',
+          'name' => 'Crensovci',
         ),
-        23 => 
-        array (
-          'code' => '016',
-          'name' => 'Črna na Koroškem',
-        ),
-        24 => 
+        22 => 
         array (
           'code' => '017',
-          'name' => 'Črnomelj',
+          'name' => 'Crnomelj',
         ),
-        25 => 
+        23 => 
         array (
           'code' => '018',
           'name' => 'Destrnik',
         ),
-        26 => 
+        24 => 
         array (
           'code' => '019',
-          'name' => 'Divača',
+          'name' => 'Divaca',
         ),
-        27 => 
+        25 => 
         array (
           'code' => '154',
           'name' => 'Dobje',
         ),
-        28 => 
+        26 => 
         array (
           'code' => '020',
           'name' => 'Dobrepolje',
         ),
-        29 => 
+        27 => 
         array (
           'code' => '155',
           'name' => 'Dobrna',
         ),
-        30 => 
+        28 => 
         array (
           'code' => '021',
           'name' => 'Dobrova-Polhov Gradec',
         ),
-        31 => 
+        29 => 
         array (
           'code' => '156',
           'name' => 'Dobrovnik',
         ),
-        32 => 
-        array (
-          'code' => '022',
-          'name' => 'Dol pri Ljubljani',
-        ),
-        33 => 
-        array (
-          'code' => '157',
-          'name' => 'Dolenjske Toplice',
-        ),
-        34 => 
+        30 => 
         array (
           'code' => '023',
-          'name' => 'Domžale',
+          'name' => 'Domzale',
         ),
-        35 => 
+        31 => 
         array (
           'code' => '024',
           'name' => 'Dornava',
         ),
-        36 => 
+        32 => 
         array (
           'code' => '025',
           'name' => 'Dravograd',
         ),
-        37 => 
+        33 => 
         array (
           'code' => '026',
           'name' => 'Duplek',
         ),
-        38 => 
-        array (
-          'code' => '027',
-          'name' => 'Gorenja vas-Poljane',
-        ),
-        39 => 
-        array (
-          'code' => '028',
-          'name' => 'Gorišnica',
-        ),
-        40 => 
+        34 => 
         array (
           'code' => '207',
           'name' => 'Gorje',
         ),
-        41 => 
+        35 => 
         array (
           'code' => '029',
           'name' => 'Gornja Radgona',
         ),
-        42 => 
-        array (
-          'code' => '030',
-          'name' => 'Gornji Grad',
-        ),
-        43 => 
+        36 => 
         array (
           'code' => '031',
           'name' => 'Gornji Petrovci',
         ),
-        44 => 
+        37 => 
         array (
           'code' => '158',
           'name' => 'Grad',
         ),
-        45 => 
+        38 => 
         array (
           'code' => '032',
           'name' => 'Grosuplje',
         ),
-        46 => 
+        39 => 
         array (
           'code' => '159',
           'name' => 'Hajdina',
         ),
-        47 => 
+        40 => 
         array (
           'code' => '160',
-          'name' => 'Hoče-Slivnica',
+          'name' => 'Hoce-Slivnica',
         ),
-        48 => 
+        41 => 
         array (
           'code' => '161',
-          'name' => 'Hodoš',
+          'name' => 'Hodos',
         ),
-        49 => 
+        42 => 
         array (
           'code' => '162',
           'name' => 'Horjul',
         ),
-        50 => 
+        43 => 
         array (
           'code' => '034',
           'name' => 'Hrastnik',
         ),
-        51 => 
+        44 => 
         array (
           'code' => '035',
           'name' => 'Hrpelje-Kozina',
         ),
-        52 => 
+        45 => 
         array (
           'code' => '036',
           'name' => 'Idrija',
         ),
-        53 => 
+        46 => 
         array (
           'code' => '037',
           'name' => 'Ig',
         ),
-        54 => 
+        47 => 
         array (
           'code' => '038',
           'name' => 'Ilirska Bistrica',
         ),
-        55 => 
+        48 => 
         array (
           'code' => '039',
-          'name' => 'Ivančna Gorica',
+          'name' => 'Ivancna Gorica',
         ),
-        56 => 
+        49 => 
         array (
           'code' => '040',
           'name' => 'Izola',
         ),
-        57 => 
+        50 => 
         array (
           'code' => '041',
           'name' => 'Jesenice',
         ),
-        58 => 
-        array (
-          'code' => '163',
-          'name' => 'Jezersko',
-        ),
-        59 => 
+        51 => 
         array (
           'code' => '042',
-          'name' => 'Juršinci',
+          'name' => 'Jursinci',
         ),
-        60 => 
+        52 => 
         array (
           'code' => '043',
           'name' => 'Kamnik',
         ),
-        61 => 
+        53 => 
         array (
           'code' => '044',
-          'name' => 'Kanal ob Soči',
+          'name' => 'Kanal',
         ),
-        62 => 
+        54 => 
         array (
           'code' => '045',
-          'name' => 'Kidričevo',
+          'name' => 'Kidricevo',
         ),
-        63 => 
+        55 => 
         array (
           'code' => '046',
           'name' => 'Kobarid',
         ),
-        64 => 
+        56 => 
         array (
           'code' => '047',
           'name' => 'Kobilje',
         ),
-        65 => 
+        57 => 
         array (
           'code' => '048',
-          'name' => 'Kočevje',
+          'name' => 'Kocevje',
         ),
-        66 => 
+        58 => 
         array (
           'code' => '049',
           'name' => 'Komen',
         ),
-        67 => 
+        59 => 
         array (
           'code' => '164',
           'name' => 'Komenda',
         ),
-        68 => 
+        60 => 
         array (
           'code' => '050',
           'name' => 'Koper',
         ),
-        69 => 
+        61 => 
         array (
           'code' => '197',
-          'name' => 'Kostanjevica na Krki',
+          'name' => 'Kosanjevica na Krki',
         ),
-        70 => 
+        62 => 
         array (
           'code' => '165',
           'name' => 'Kostel',
         ),
-        71 => 
-        array (
-          'code' => '051',
-          'name' => 'Kozje',
-        ),
-        72 => 
+        63 => 
         array (
           'code' => '052',
           'name' => 'Kranj',
         ),
-        73 => 
+        64 => 
         array (
           'code' => '053',
           'name' => 'Kranjska Gora',
         ),
-        74 => 
+        65 => 
         array (
           'code' => '166',
-          'name' => 'Križevci',
+          'name' => 'Krizevci',
         ),
-        75 => 
+        66 => 
         array (
           'code' => '054',
-          'name' => 'Krško',
+          'name' => 'Krsko',
         ),
-        76 => 
+        67 => 
         array (
           'code' => '055',
           'name' => 'Kungota',
         ),
-        77 => 
+        68 => 
         array (
           'code' => '056',
           'name' => 'Kuzma',
         ),
-        78 => 
+        69 => 
         array (
           'code' => '057',
-          'name' => 'Laško',
+          'name' => 'Lasko',
         ),
-        79 => 
+        70 => 
         array (
           'code' => '058',
           'name' => 'Lenart',
         ),
-        80 => 
+        71 => 
         array (
           'code' => '059',
           'name' => 'Lendava',
         ),
-        81 => 
+        72 => 
         array (
           'code' => '060',
           'name' => 'Litija',
         ),
-        82 => 
+        73 => 
         array (
           'code' => '061',
           'name' => 'Ljubljana',
         ),
-        83 => 
-        array (
-          'code' => '062',
-          'name' => 'Ljubno',
-        ),
-        84 => 
+        74 => 
         array (
           'code' => '063',
           'name' => 'Ljutomer',
         ),
-        85 => 
+        75 => 
         array (
           'code' => '208',
           'name' => 'Log-Dragomer',
         ),
-        86 => 
+        76 => 
         array (
           'code' => '064',
           'name' => 'Logatec',
         ),
-        87 => 
+        77 => 
         array (
           'code' => '065',
-          'name' => 'Loška dolina',
+          'name' => 'Loska dolina',
         ),
-        88 => 
+        78 => 
         array (
           'code' => '066',
-          'name' => 'Loški Potok',
+          'name' => 'Loski Potok',
         ),
-        89 => 
+        79 => 
         array (
           'code' => '167',
           'name' => 'Lovrenc na Pohorju',
         ),
-        90 => 
+        80 => 
         array (
           'code' => '067',
-          'name' => 'Luče',
+          'name' => 'Luce',
         ),
-        91 => 
+        81 => 
         array (
           'code' => '068',
           'name' => 'Lukovica',
         ),
-        92 => 
+        82 => 
         array (
           'code' => '069',
-          'name' => 'Majšperk',
+          'name' => 'Majsperk',
         ),
-        93 => 
+        83 => 
         array (
           'code' => '198',
           'name' => 'Makole',
         ),
-        94 => 
+        84 => 
         array (
           'code' => '070',
           'name' => 'Maribor',
         ),
-        95 => 
+        85 => 
         array (
           'code' => '168',
           'name' => 'Markovci',
         ),
-        96 => 
+        86 => 
         array (
           'code' => '071',
           'name' => 'Medvode',
         ),
-        97 => 
+        87 => 
         array (
           'code' => '072',
-          'name' => 'Mengeš',
+          'name' => 'Menges',
         ),
-        98 => 
+        88 => 
         array (
           'code' => '073',
           'name' => 'Metlika',
         ),
-        99 => 
+        89 => 
         array (
           'code' => '074',
-          'name' => 'Mežica',
+          'name' => 'Mezica',
         ),
-        100 => 
+        90 => 
         array (
           'code' => '169',
-          'name' => 'Miklavž na Dravskem polju',
+          'name' => 'Miklavz na Dravskem polju',
         ),
-        101 => 
+        91 => 
         array (
           'code' => '075',
           'name' => 'Miren-Kostanjevica',
         ),
-        102 => 
+        92 => 
         array (
           'code' => '212',
           'name' => 'Mirna',
         ),
-        103 => 
+        93 => 
         array (
           'code' => '170',
-          'name' => 'Mirna Peč',
+          'name' => 'Mirna Pec',
         ),
-        104 => 
+        94 => 
         array (
           'code' => '076',
           'name' => 'Mislinja',
         ),
-        105 => 
+        95 => 
         array (
           'code' => '199',
           'name' => 'Mokronog-Trebelno',
         ),
-        106 => 
+        96 => 
         array (
           'code' => '077',
-          'name' => 'Moravče',
+          'name' => 'Moravce',
         ),
-        107 => 
-        array (
-          'code' => '078',
-          'name' => 'Moravske Toplice',
-        ),
-        108 => 
+        97 => 
         array (
           'code' => '079',
           'name' => 'Mozirje',
         ),
-        109 => 
+        98 => 
         array (
           'code' => '080',
           'name' => 'Murska Sobota',
         ),
-        110 => 
+        99 => 
         array (
           'code' => '081',
           'name' => 'Muta',
         ),
-        111 => 
+        100 => 
         array (
           'code' => '082',
           'name' => 'Naklo',
         ),
-        112 => 
+        101 => 
         array (
           'code' => '083',
           'name' => 'Nazarje',
         ),
-        113 => 
+        102 => 
         array (
           'code' => '084',
           'name' => 'Nova Gorica',
         ),
-        114 => 
+        103 => 
         array (
           'code' => '085',
           'name' => 'Novo Mesto',
         ),
-        115 => 
+        104 => 
         array (
           'code' => '086',
           'name' => 'Odranci',
         ),
-        116 => 
+        105 => 
         array (
           'code' => '171',
           'name' => 'Oplotnica',
         ),
-        117 => 
+        106 => 
         array (
           'code' => '087',
-          'name' => 'Ormož',
+          'name' => 'Ormoz',
         ),
-        118 => 
-        array (
-          'code' => '088',
-          'name' => 'Osilnica',
-        ),
-        119 => 
-        array (
-          'code' => '089',
-          'name' => 'Pesnica',
-        ),
-        120 => 
+        107 => 
         array (
           'code' => '090',
           'name' => 'Piran',
         ),
-        121 => 
+        108 => 
         array (
           'code' => '091',
           'name' => 'Pivka',
         ),
-        122 => 
+        109 => 
         array (
           'code' => '092',
-          'name' => 'Podčetrtek',
+          'name' => 'Podcetrtek',
         ),
-        123 => 
+        110 => 
         array (
           'code' => '172',
           'name' => 'Podlehnik',
         ),
-        124 => 
-        array (
-          'code' => '093',
-          'name' => 'Podvelka',
-        ),
-        125 => 
+        111 => 
         array (
           'code' => '200',
-          'name' => 'Poljčane',
+          'name' => 'Poljcane',
         ),
-        126 => 
+        112 => 
         array (
           'code' => '173',
           'name' => 'Polzela',
         ),
-        127 => 
+        113 => 
         array (
           'code' => '094',
           'name' => 'Postojna',
         ),
-        128 => 
+        114 => 
         array (
           'code' => '174',
           'name' => 'Prebold',
         ),
-        129 => 
+        115 => 
         array (
           'code' => '095',
           'name' => 'Preddvor',
         ),
-        130 => 
+        116 => 
         array (
           'code' => '175',
           'name' => 'Prevalje',
         ),
-        131 => 
+        117 => 
         array (
           'code' => '096',
           'name' => 'Ptuj',
         ),
-        132 => 
+        118 => 
         array (
           'code' => '097',
           'name' => 'Puconci',
         ),
-        133 => 
+        119 => 
         array (
           'code' => '098',
-          'name' => 'Rače-Fram',
+          'name' => 'Race-Fram',
         ),
-        134 => 
+        120 => 
         array (
           'code' => '099',
-          'name' => 'Radeče',
+          'name' => 'Radece',
         ),
-        135 => 
+        121 => 
         array (
           'code' => '100',
           'name' => 'Radenci',
         ),
-        136 => 
+        122 => 
         array (
           'code' => '101',
           'name' => 'Radlje ob Dravi',
         ),
-        137 => 
+        123 => 
         array (
           'code' => '102',
           'name' => 'Radovljica',
         ),
-        138 => 
+        124 => 
         array (
           'code' => '103',
-          'name' => 'Ravne na Koroškem',
+          'name' => 'Ravne na Koroskem',
         ),
-        139 => 
+        125 => 
         array (
           'code' => '176',
-          'name' => 'Razkrižje',
+          'name' => 'Razkrizje',
         ),
-        140 => 
+        126 => 
         array (
           'code' => '209',
-          'name' => 'Rečica ob Savinji',
+          'name' => 'Recica ob Savinji',
         ),
-        141 => 
+        127 => 
         array (
           'code' => '201',
-          'name' => 'Renče-Vogrsko',
+          'name' => 'Rence-Vogrsko',
         ),
-        142 => 
+        128 => 
         array (
           'code' => '104',
           'name' => 'Ribnica',
         ),
-        143 => 
-        array (
-          'code' => '177',
-          'name' => 'Ribnica na Pohorju',
-        ),
-        144 => 
+        129 => 
         array (
           'code' => '106',
-          'name' => 'Rogaška Slatina',
+          'name' => 'Rogaska Slatina',
         ),
-        145 => 
+        130 => 
         array (
           'code' => '105',
-          'name' => 'Rogašovci',
+          'name' => 'Rogasovci',
         ),
-        146 => 
-        array (
-          'code' => '107',
-          'name' => 'Rogatec',
-        ),
-        147 => 
+        131 => 
         array (
           'code' => '108',
-          'name' => 'Ruše',
+          'name' => 'Ruse',
         ),
-        148 => 
+        132 => 
         array (
-          'code' => '178',
-          'name' => 'Selnica ob Dravi',
+          'code' => '033',
+          'name' => 'Salovci',
         ),
-        149 => 
+        133 => 
         array (
           'code' => '109',
-          'name' => 'Semič',
+          'name' => 'Semic',
         ),
-        150 => 
+        134 => 
+        array (
+          'code' => '183',
+          'name' => 'Sempeter-Vrtojba',
+        ),
+        135 => 
+        array (
+          'code' => '117',
+          'name' => 'Sencur',
+        ),
+        136 => 
+        array (
+          'code' => '118',
+          'name' => 'Sentilj',
+        ),
+        137 => 
+        array (
+          'code' => '119',
+          'name' => 'Sentjernej',
+        ),
+        138 => 
+        array (
+          'code' => '120',
+          'name' => 'Sentjur',
+        ),
+        139 => 
+        array (
+          'code' => '211',
+          'name' => 'Sentrupert',
+        ),
+        140 => 
         array (
           'code' => '110',
           'name' => 'Sevnica',
         ),
-        151 => 
+        141 => 
         array (
           'code' => '111',
-          'name' => 'Sežana',
+          'name' => 'Sezana',
         ),
-        152 => 
+        142 => 
+        array (
+          'code' => '121',
+          'name' => 'Skocjan',
+        ),
+        143 => 
+        array (
+          'code' => '122',
+          'name' => 'Skofja Loka',
+        ),
+        144 => 
+        array (
+          'code' => '123',
+          'name' => 'Skofljica',
+        ),
+        145 => 
         array (
           'code' => '112',
           'name' => 'Slovenj Gradec',
         ),
-        153 => 
+        146 => 
         array (
           'code' => '113',
           'name' => 'Slovenska Bistrica',
         ),
-        154 => 
+        147 => 
         array (
           'code' => '114',
           'name' => 'Slovenske Konjice',
         ),
-        155 => 
+        148 => 
+        array (
+          'code' => '124',
+          'name' => 'Smarje pri Jelsah',
+        ),
+        149 => 
+        array (
+          'code' => '206',
+          'name' => 'Smarjeske Toplice',
+        ),
+        150 => 
+        array (
+          'code' => '125',
+          'name' => 'Smartno ob Paki',
+        ),
+        151 => 
+        array (
+          'code' => '194',
+          'name' => 'Smartno pri Litiji',
+        ),
+        152 => 
         array (
           'code' => '179',
-          'name' => 'Sodražica',
+          'name' => 'Sodrazica',
+        ),
+        153 => 
+        array (
+          'code' => '180',
+          'name' => 'Solcava',
+        ),
+        154 => 
+        array (
+          'code' => '126',
+          'name' => 'Sostanj',
+        ),
+        155 => 
+        array (
+          'code' => '115',
+          'name' => 'Starse',
         ),
         156 => 
         array (
-          'code' => '180',
-          'name' => 'Solčava',
+          'code' => '127',
+          'name' => 'Store',
         ),
         157 => 
         array (
-          'code' => '202',
-          'name' => 'Središče ob Dravi',
+          'code' => '203',
+          'name' => 'Straza',
         ),
         158 => 
-        array (
-          'code' => '115',
-          'name' => 'Starše',
-        ),
-        159 => 
-        array (
-          'code' => '203',
-          'name' => 'Straža',
-        ),
-        160 => 
-        array (
-          'code' => '181',
-          'name' => 'Sveta Ana',
-        ),
-        161 => 
         array (
           'code' => '204',
           'name' => 'Sveta Trojica v Slovenskih goricah',
         ),
-        162 => 
+        159 => 
         array (
           'code' => '182',
-          'name' => 'Sveti Andraž v Slovenskih goricah',
+          'name' => 'Sveti Andraz v Slovenskih Goricah',
         ),
-        163 => 
+        160 => 
         array (
           'code' => '116',
-          'name' => 'Sveti Jurij ob Ščavnici',
+          'name' => 'Sveti Jurij ob Scavnici',
         ),
-        164 => 
+        161 => 
         array (
           'code' => '210',
           'name' => 'Sveti Jurij v Slovenskih goricah',
         ),
-        165 => 
+        162 => 
         array (
           'code' => '205',
-          'name' => 'Sveti Tomaž',
+          'name' => 'Sveti Tomaz',
         ),
-        166 => 
-        array (
-          'code' => '033',
-          'name' => 'Šalovci',
-        ),
-        167 => 
-        array (
-          'code' => '183',
-          'name' => 'Šempeter-Vrtojba',
-        ),
-        168 => 
-        array (
-          'code' => '117',
-          'name' => 'Šenčur',
-        ),
-        169 => 
-        array (
-          'code' => '118',
-          'name' => 'Šentilj',
-        ),
-        170 => 
-        array (
-          'code' => '119',
-          'name' => 'Šentjernej',
-        ),
-        171 => 
-        array (
-          'code' => '120',
-          'name' => 'Šentjur',
-        ),
-        172 => 
-        array (
-          'code' => '211',
-          'name' => 'Šentrupert',
-        ),
-        173 => 
-        array (
-          'code' => '121',
-          'name' => 'Škocjan',
-        ),
-        174 => 
-        array (
-          'code' => '122',
-          'name' => 'Škofja Loka',
-        ),
-        175 => 
-        array (
-          'code' => '123',
-          'name' => 'Škofljica',
-        ),
-        176 => 
-        array (
-          'code' => '124',
-          'name' => 'Šmarje pri Jelšah',
-        ),
-        177 => 
-        array (
-          'code' => '206',
-          'name' => 'Šmarješke Toplice',
-        ),
-        178 => 
-        array (
-          'code' => '125',
-          'name' => 'Šmartno ob Paki',
-        ),
-        179 => 
-        array (
-          'code' => '194',
-          'name' => 'Šmartno pri Litiji',
-        ),
-        180 => 
-        array (
-          'code' => '126',
-          'name' => 'Šoštanj',
-        ),
-        181 => 
-        array (
-          'code' => '127',
-          'name' => 'Štore',
-        ),
-        182 => 
+        163 => 
         array (
           'code' => '184',
           'name' => 'Tabor',
         ),
-        183 => 
+        164 => 
         array (
           'code' => '010',
-          'name' => 'Tišina',
+          'name' => 'Tisina',
         ),
-        184 => 
+        165 => 
         array (
           'code' => '128',
           'name' => 'Tolmin',
         ),
-        185 => 
+        166 => 
         array (
           'code' => '129',
           'name' => 'Trbovlje',
         ),
-        186 => 
+        167 => 
         array (
           'code' => '130',
           'name' => 'Trebnje',
         ),
-        187 => 
+        168 => 
         array (
           'code' => '185',
           'name' => 'Trnovska Vas',
         ),
-        188 => 
+        169 => 
+        array (
+          'code' => '131',
+          'name' => 'Trzic',
+        ),
+        170 => 
         array (
           'code' => '186',
           'name' => 'Trzin',
         ),
-        189 => 
-        array (
-          'code' => '131',
-          'name' => 'Tržič',
-        ),
-        190 => 
+        171 => 
         array (
           'code' => '132',
-          'name' => 'Turnišče',
+          'name' => 'Turnisce',
         ),
-        191 => 
+        172 => 
         array (
           'code' => '133',
           'name' => 'Velenje',
         ),
-        192 => 
+        173 => 
         array (
           'code' => '187',
           'name' => 'Velika Polana',
         ),
-        193 => 
+        174 => 
         array (
           'code' => '134',
-          'name' => 'Velike Lašče',
+          'name' => 'Velike Lasce',
         ),
-        194 => 
+        175 => 
         array (
           'code' => '188',
-          'name' => 'Veržej',
+          'name' => 'Verzej',
         ),
-        195 => 
+        176 => 
         array (
           'code' => '135',
           'name' => 'Videm',
         ),
-        196 => 
+        177 => 
         array (
           'code' => '136',
           'name' => 'Vipava',
         ),
-        197 => 
+        178 => 
         array (
           'code' => '137',
           'name' => 'Vitanje',
         ),
-        198 => 
+        179 => 
         array (
           'code' => '138',
           'name' => 'Vodice',
         ),
-        199 => 
+        180 => 
         array (
           'code' => '139',
           'name' => 'Vojnik',
         ),
-        200 => 
+        181 => 
         array (
           'code' => '189',
           'name' => 'Vransko',
         ),
-        201 => 
+        182 => 
         array (
           'code' => '140',
           'name' => 'Vrhnika',
         ),
-        202 => 
+        183 => 
         array (
           'code' => '141',
           'name' => 'Vuzenica',
         ),
-        203 => 
+        184 => 
         array (
           'code' => '142',
           'name' => 'Zagorje ob Savi',
         ),
-        204 => 
-        array (
-          'code' => '143',
-          'name' => 'Zavrč',
-        ),
-        205 => 
-        array (
-          'code' => '144',
-          'name' => 'Zreče',
-        ),
-        206 => 
+        185 => 
         array (
           'code' => '190',
-          'name' => 'Žalec',
+          'name' => 'Zalec',
         ),
-        207 => 
+        186 => 
+        array (
+          'code' => '143',
+          'name' => 'Zavrc',
+        ),
+        187 => 
         array (
           'code' => '146',
-          'name' => 'Železniki',
+          'name' => 'Zelezniki',
         ),
-        208 => 
+        188 => 
         array (
           'code' => '191',
-          'name' => 'Žetale',
+          'name' => 'Zetale',
         ),
-        209 => 
+        189 => 
         array (
           'code' => '147',
-          'name' => 'Žiri',
+          'name' => 'Ziri',
         ),
-        210 => 
+        190 => 
         array (
-          'code' => '192',
-          'name' => 'Žirovnica',
+          'code' => '144',
+          'name' => 'Zrece',
         ),
-        211 => 
+        191 => 
         array (
           'code' => '193',
-          'name' => 'Žužemberk',
+          'name' => 'Zuzemberk',
+        ),
+      ),
+    ),
+    'SJ' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Svalbard and Jan Mayen',
         ),
       ),
     ),
@@ -20799,17 +15545,17 @@ return array (
         0 => 
         array (
           'code' => 'BC',
-          'name' => 'Banskobystrický kraj',
+          'name' => 'Banskobystricky kraj',
         ),
         1 => 
         array (
           'code' => 'BL',
-          'name' => 'Bratislavský kraj',
+          'name' => 'Bratislavsky kraj',
         ),
         2 => 
         array (
           'code' => 'KI',
-          'name' => 'Košický kraj',
+          'name' => 'Kosicky kraj',
         ),
         3 => 
         array (
@@ -20819,22 +15565,22 @@ return array (
         4 => 
         array (
           'code' => 'PV',
-          'name' => 'Prešovský kraj',
+          'name' => 'Presovsky kraj',
         ),
         5 => 
         array (
           'code' => 'TC',
-          'name' => 'Trenčiansky kraj',
+          'name' => 'Trenciansky kraj',
         ),
         6 => 
         array (
           'code' => 'TA',
-          'name' => 'Trnavský kraj',
+          'name' => 'Trnavsky kraj',
         ),
         7 => 
         array (
           'code' => 'ZI',
-          'name' => 'Žilinský kraj',
+          'name' => 'Zilinsky kraj',
         ),
       ),
     ),
@@ -20849,20 +15595,15 @@ return array (
         ),
         1 => 
         array (
-          'code' => 'NW',
-          'name' => 'North Western',
-        ),
-        2 => 
-        array (
           'code' => 'N',
           'name' => 'Northern',
         ),
-        3 => 
+        2 => 
         array (
           'code' => 'S',
           'name' => 'Southern',
         ),
-        4 => 
+        3 => 
         array (
           'code' => 'W',
           'name' => 'Western Area',
@@ -20875,45 +15616,20 @@ return array (
       array (
         0 => 
         array (
-          'code' => '01',
-          'name' => 'Acquaviva',
+          'code' => '07',
+          'name' => 'Citta di San Marino',
         ),
         1 => 
-        array (
-          'code' => '06',
-          'name' => 'Borgo Maggiore',
-        ),
-        2 => 
-        array (
-          'code' => '02',
-          'name' => 'Chiesanuova',
-        ),
-        3 => 
-        array (
-          'code' => '07',
-          'name' => 'Città di San Marino',
-        ),
-        4 => 
         array (
           'code' => '03',
           'name' => 'Domagnano',
         ),
-        5 => 
+        2 => 
         array (
           'code' => '04',
           'name' => 'Faetano',
         ),
-        6 => 
-        array (
-          'code' => '05',
-          'name' => 'Fiorentino',
-        ),
-        7 => 
-        array (
-          'code' => '08',
-          'name' => 'Montegiardino',
-        ),
-        8 => 
+        3 => 
         array (
           'code' => '09',
           'name' => 'Serravalle',
@@ -20952,7 +15668,7 @@ return array (
         5 => 
         array (
           'code' => 'KE',
-          'name' => 'Kédougou',
+          'name' => 'Kedougou',
         ),
         6 => 
         array (
@@ -20977,7 +15693,7 @@ return array (
         10 => 
         array (
           'code' => 'SE',
-          'name' => 'Sédhiou',
+          'name' => 'Sedhiou',
         ),
         11 => 
         array (
@@ -20987,7 +15703,7 @@ return array (
         12 => 
         array (
           'code' => 'TH',
-          'name' => 'Thiès',
+          'name' => 'Thies',
         ),
         13 => 
         array (
@@ -21007,85 +15723,45 @@ return array (
         ),
         1 => 
         array (
-          'code' => 'BK',
-          'name' => 'Bakool',
-        ),
-        2 => 
-        array (
           'code' => 'BN',
           'name' => 'Banaadir',
         ),
-        3 => 
+        2 => 
         array (
           'code' => 'BR',
           'name' => 'Bari',
         ),
-        4 => 
-        array (
-          'code' => 'BY',
-          'name' => 'Bay',
-        ),
-        5 => 
+        3 => 
         array (
           'code' => 'GA',
           'name' => 'Galguduud',
         ),
-        6 => 
-        array (
-          'code' => 'GE',
-          'name' => 'Gedo',
-        ),
-        7 => 
-        array (
-          'code' => 'HI',
-          'name' => 'Hiiraan',
-        ),
-        8 => 
-        array (
-          'code' => 'JD',
-          'name' => 'Jubbada Dhexe',
-        ),
-        9 => 
+        4 => 
         array (
           'code' => 'JH',
           'name' => 'Jubbada Hoose',
         ),
-        10 => 
+        5 => 
         array (
           'code' => 'MU',
           'name' => 'Mudug',
         ),
-        11 => 
+        6 => 
         array (
           'code' => 'NU',
           'name' => 'Nugaal',
         ),
-        12 => 
-        array (
-          'code' => 'SA',
-          'name' => 'Sanaag',
-        ),
-        13 => 
-        array (
-          'code' => 'SD',
-          'name' => 'Shabeellaha Dhexe',
-        ),
-        14 => 
+        7 => 
         array (
           'code' => 'SH',
           'name' => 'Shabeellaha Hoose',
         ),
-        15 => 
-        array (
-          'code' => 'SO',
-          'name' => 'Sool',
-        ),
-        16 => 
+        8 => 
         array (
           'code' => 'TO',
           'name' => 'Togdheer',
         ),
-        17 => 
+        9 => 
         array (
           'code' => 'WO',
           'name' => 'Woqooyi Galbeed',
@@ -21108,40 +15784,25 @@ return array (
         ),
         2 => 
         array (
-          'code' => 'CR',
-          'name' => 'Coronie',
-        ),
-        3 => 
-        array (
-          'code' => 'MA',
-          'name' => 'Marowijne',
-        ),
-        4 => 
-        array (
           'code' => 'NI',
           'name' => 'Nickerie',
         ),
-        5 => 
+        3 => 
         array (
           'code' => 'PR',
           'name' => 'Para',
         ),
-        6 => 
+        4 => 
         array (
           'code' => 'PM',
           'name' => 'Paramaribo',
         ),
-        7 => 
-        array (
-          'code' => 'SA',
-          'name' => 'Saramacca',
-        ),
-        8 => 
+        5 => 
         array (
           'code' => 'SI',
           'name' => 'Sipaliwini',
         ),
-        9 => 
+        6 => 
         array (
           'code' => 'WA',
           'name' => 'Wanica',
@@ -21179,25 +15840,10 @@ return array (
         ),
         5 => 
         array (
-          'code' => 'UY',
-          'name' => 'Unity',
-        ),
-        6 => 
-        array (
           'code' => 'NU',
           'name' => 'Upper Nile',
         ),
-        7 => 
-        array (
-          'code' => 'WR',
-          'name' => 'Warrap',
-        ),
-        8 => 
-        array (
-          'code' => 'BW',
-          'name' => 'Western Bahr el Ghazal',
-        ),
-        9 => 
+        6 => 
         array (
           'code' => 'EW',
           'name' => 'Western Equatoria',
@@ -21211,37 +15857,7 @@ return array (
         0 => 
         array (
           'code' => '01',
-          'name' => 'Água Grande',
-        ),
-        1 => 
-        array (
-          'code' => '02',
-          'name' => 'Cantagalo',
-        ),
-        2 => 
-        array (
-          'code' => '03',
-          'name' => 'Caué',
-        ),
-        3 => 
-        array (
-          'code' => '04',
-          'name' => 'Lembá',
-        ),
-        4 => 
-        array (
-          'code' => '05',
-          'name' => 'Lobata',
-        ),
-        5 => 
-        array (
-          'code' => '06',
-          'name' => 'Mé-Zóchi',
-        ),
-        6 => 
-        array (
-          'code' => 'P',
-          'name' => 'Príncipe',
+          'name' => 'Agua Grande',
         ),
       ),
     ),
@@ -21252,12 +15868,12 @@ return array (
         0 => 
         array (
           'code' => 'AH',
-          'name' => 'Ahuachapán',
+          'name' => 'Ahuachapan',
         ),
         1 => 
         array (
           'code' => 'CA',
-          'name' => 'Cabañas',
+          'name' => 'Cabanas',
         ),
         2 => 
         array (
@@ -21267,7 +15883,7 @@ return array (
         3 => 
         array (
           'code' => 'CU',
-          'name' => 'Cuscatlán',
+          'name' => 'Cuscatlan',
         ),
         4 => 
         array (
@@ -21282,12 +15898,12 @@ return array (
         6 => 
         array (
           'code' => 'UN',
-          'name' => 'La Unión',
+          'name' => 'La Union',
         ),
         7 => 
         array (
           'code' => 'MO',
-          'name' => 'Morazán',
+          'name' => 'Morazan',
         ),
         8 => 
         array (
@@ -21317,7 +15933,18 @@ return array (
         13 => 
         array (
           'code' => 'US',
-          'name' => 'Usulután',
+          'name' => 'Usulutan',
+        ),
+      ),
+    ),
+    'SX' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Sint Maarten (Dutch Part)',
         ),
       ),
     ),
@@ -21328,17 +15955,17 @@ return array (
         0 => 
         array (
           'code' => 'HA',
-          'name' => 'Al Ḩasakah',
+          'name' => 'Al Hasakah',
         ),
         1 => 
         array (
           'code' => 'LA',
-          'name' => 'Al Lādhiqīyah',
+          'name' => 'Al Ladhiqiyah',
         ),
         2 => 
         array (
           'code' => 'QU',
-          'name' => 'Al Qunayţirah',
+          'name' => 'Al Qunaytirah',
         ),
         3 => 
         array (
@@ -21348,12 +15975,12 @@ return array (
         4 => 
         array (
           'code' => 'SU',
-          'name' => 'As Suwaydā\'',
+          'name' => 'As Suwayda\'',
         ),
         5 => 
         array (
           'code' => 'DR',
-          'name' => 'Dar\'ā',
+          'name' => 'Dar\'a',
         ),
         6 => 
         array (
@@ -21368,17 +15995,17 @@ return array (
         8 => 
         array (
           'code' => 'HL',
-          'name' => 'Ḩalab',
+          'name' => 'Halab',
         ),
         9 => 
         array (
           'code' => 'HM',
-          'name' => 'Ḩamāh',
+          'name' => 'Hamah',
         ),
         10 => 
         array (
           'code' => 'HI',
-          'name' => 'Ḩimş',
+          'name' => 'Hims',
         ),
         11 => 
         array (
@@ -21388,12 +16015,12 @@ return array (
         12 => 
         array (
           'code' => 'RD',
-          'name' => 'Rīf Dimashq',
+          'name' => 'Rif Dimashq',
         ),
         13 => 
         array (
           'code' => 'TA',
-          'name' => 'Ţarţūs',
+          'name' => 'Tartus',
         ),
       ),
     ),
@@ -21416,10 +16043,16 @@ return array (
           'code' => 'MA',
           'name' => 'Manzini',
         ),
-        3 => 
+      ),
+    ),
+    'TC' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
         array (
-          'code' => 'SH',
-          'name' => 'Shiselweni',
+          'code' => NULL,
+          'name' => 'Turks and Caicos Islands',
         ),
       ),
     ),
@@ -21430,117 +16063,48 @@ return array (
         0 => 
         array (
           'code' => 'BG',
-          'name' => 'Bahr el Ghazal (local variant: Barh-el-Ghazal)',
+          'name' => 'Bahr el Ghazal',
         ),
         1 => 
-        array (
-          'code' => 'BA',
-          'name' => 'Batha',
-        ),
-        2 => 
-        array (
-          'code' => 'BO',
-          'name' => 'Borkou',
-        ),
-        3 => 
         array (
           'code' => 'CB',
           'name' => 'Chari-Baguirmi',
         ),
-        4 => 
-        array (
-          'code' => 'EE',
-          'name' => 'Ennedi-Est',
-        ),
-        5 => 
-        array (
-          'code' => 'EO',
-          'name' => 'Ennedi-Ouest',
-        ),
-        6 => 
+        2 => 
         array (
           'code' => 'GR',
-          'name' => 'Guéra',
+          'name' => 'Guera',
         ),
-        7 => 
-        array (
-          'code' => 'HL',
-          'name' => 'Hadjer Lamis',
-        ),
-        8 => 
-        array (
-          'code' => 'KA',
-          'name' => 'Kanem',
-        ),
-        9 => 
-        array (
-          'code' => 'LC',
-          'name' => 'Lac',
-        ),
-        10 => 
+        3 => 
         array (
           'code' => 'LO',
           'name' => 'Logone-Occidental',
         ),
-        11 => 
-        array (
-          'code' => 'LR',
-          'name' => 'Logone-Oriental',
-        ),
-        12 => 
-        array (
-          'code' => 'MA',
-          'name' => 'Mandoul',
-        ),
-        13 => 
+        4 => 
         array (
           'code' => 'ME',
           'name' => 'Mayo-Kebbi-Est',
         ),
-        14 => 
-        array (
-          'code' => 'MO',
-          'name' => 'Mayo-Kebbi-Ouest',
-        ),
-        15 => 
-        array (
-          'code' => 'MC',
-          'name' => 'Moyen-Chari',
-        ),
-        16 => 
+        5 => 
         array (
           'code' => 'OD',
-          'name' => 'Ouaddaï',
+          'name' => 'Ouaddai',
         ),
-        17 => 
-        array (
-          'code' => 'SA',
-          'name' => 'Salamat',
-        ),
-        18 => 
-        array (
-          'code' => 'SI',
-          'name' => 'Sila',
-        ),
-        19 => 
-        array (
-          'code' => 'TA',
-          'name' => 'Tandjilé',
-        ),
-        20 => 
-        array (
-          'code' => 'TI',
-          'name' => 'Tibesti',
-        ),
-        21 => 
+        6 => 
         array (
           'code' => 'ND',
           'name' => 'Ville de Ndjamena',
         ),
-        22 => 
+      ),
+    ),
+    'TF' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
         array (
-          'code' => 'WF',
-          'name' => 'Wadi Fira',
+          'code' => NULL,
+          'name' => 'French Southern Territories',
         ),
       ),
     ),
@@ -21567,11 +16131,6 @@ return array (
         array (
           'code' => 'P',
           'name' => 'Plateaux',
-        ),
-        4 => 
-        array (
-          'code' => 'S',
-          'name' => 'Savanes',
         ),
       ),
     ),
@@ -21667,7 +16226,7 @@ return array (
         17 => 
         array (
           'code' => '10',
-          'name' => 'Bangkok',
+          'name' => 'Krung Thep Maha Nakhon',
         ),
         18 => 
         array (
@@ -21781,190 +16340,185 @@ return array (
         ),
         40 => 
         array (
-          'code' => 'S',
-          'name' => 'Phatthaya',
-        ),
-        41 => 
-        array (
           'code' => '56',
           'name' => 'Phayao',
         ),
-        42 => 
+        41 => 
         array (
           'code' => '67',
           'name' => 'Phetchabun',
         ),
-        43 => 
+        42 => 
         array (
           'code' => '76',
           'name' => 'Phetchaburi',
         ),
-        44 => 
+        43 => 
         array (
           'code' => '66',
           'name' => 'Phichit',
         ),
-        45 => 
+        44 => 
         array (
           'code' => '65',
           'name' => 'Phitsanulok',
         ),
-        46 => 
+        45 => 
         array (
           'code' => '14',
           'name' => 'Phra Nakhon Si Ayutthaya',
         ),
-        47 => 
+        46 => 
         array (
           'code' => '54',
           'name' => 'Phrae',
         ),
-        48 => 
+        47 => 
         array (
           'code' => '83',
           'name' => 'Phuket',
         ),
-        49 => 
+        48 => 
         array (
           'code' => '25',
           'name' => 'Prachin Buri',
         ),
-        50 => 
+        49 => 
         array (
           'code' => '77',
           'name' => 'Prachuap Khiri Khan',
         ),
-        51 => 
+        50 => 
         array (
           'code' => '85',
           'name' => 'Ranong',
         ),
-        52 => 
+        51 => 
         array (
           'code' => '70',
           'name' => 'Ratchaburi',
         ),
-        53 => 
+        52 => 
         array (
           'code' => '21',
           'name' => 'Rayong',
         ),
-        54 => 
+        53 => 
         array (
           'code' => '45',
           'name' => 'Roi Et',
         ),
-        55 => 
+        54 => 
         array (
           'code' => '27',
           'name' => 'Sa Kaeo',
         ),
-        56 => 
+        55 => 
         array (
           'code' => '47',
           'name' => 'Sakon Nakhon',
         ),
-        57 => 
+        56 => 
         array (
           'code' => '11',
           'name' => 'Samut Prakan',
         ),
-        58 => 
+        57 => 
         array (
           'code' => '74',
           'name' => 'Samut Sakhon',
         ),
-        59 => 
+        58 => 
         array (
           'code' => '75',
           'name' => 'Samut Songkhram',
         ),
-        60 => 
+        59 => 
         array (
           'code' => '19',
           'name' => 'Saraburi',
         ),
-        61 => 
+        60 => 
         array (
           'code' => '91',
           'name' => 'Satun',
         ),
-        62 => 
+        61 => 
         array (
           'code' => '33',
           'name' => 'Si Sa Ket',
         ),
-        63 => 
+        62 => 
         array (
           'code' => '17',
           'name' => 'Sing Buri',
         ),
-        64 => 
+        63 => 
         array (
           'code' => '90',
           'name' => 'Songkhla',
         ),
-        65 => 
+        64 => 
         array (
           'code' => '64',
           'name' => 'Sukhothai',
         ),
-        66 => 
+        65 => 
         array (
           'code' => '72',
           'name' => 'Suphan Buri',
         ),
-        67 => 
+        66 => 
         array (
           'code' => '84',
           'name' => 'Surat Thani',
         ),
-        68 => 
+        67 => 
         array (
           'code' => '32',
           'name' => 'Surin',
         ),
-        69 => 
+        68 => 
         array (
           'code' => '63',
           'name' => 'Tak',
         ),
-        70 => 
+        69 => 
         array (
           'code' => '92',
           'name' => 'Trang',
         ),
-        71 => 
+        70 => 
         array (
           'code' => '23',
           'name' => 'Trat',
         ),
-        72 => 
+        71 => 
         array (
           'code' => '34',
           'name' => 'Ubon Ratchathani',
         ),
-        73 => 
+        72 => 
         array (
           'code' => '41',
           'name' => 'Udon Thani',
         ),
-        74 => 
+        73 => 
         array (
           'code' => '61',
           'name' => 'Uthai Thani',
         ),
-        75 => 
+        74 => 
         array (
           'code' => '53',
           'name' => 'Uttaradit',
         ),
-        76 => 
+        75 => 
         array (
           'code' => '95',
           'name' => 'Yala',
         ),
-        77 => 
+        76 => 
         array (
           'code' => '35',
           'name' => 'Yasothon',
@@ -21987,18 +16541,24 @@ return array (
         ),
         2 => 
         array (
-          'code' => 'GB',
-          'name' => 'Kŭhistoni Badakhshon',
+          'code' => 'RA',
+          'name' => 'Nohiyahoi Tobei Jumhuri',
         ),
         3 => 
         array (
-          'code' => 'RA',
-          'name' => 'nohiyahoi tobei jumhurí',
-        ),
-        4 => 
-        array (
           'code' => 'SU',
           'name' => 'Sughd',
+        ),
+      ),
+    ),
+    'TK' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Tokelau',
         ),
       ),
     ),
@@ -22008,68 +16568,28 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'AL',
-          'name' => 'Aileu',
-        ),
-        1 => 
-        array (
           'code' => 'AN',
           'name' => 'Ainaro',
         ),
-        2 => 
-        array (
-          'code' => 'BA',
-          'name' => 'Baucau',
-        ),
-        3 => 
+        1 => 
         array (
           'code' => 'BO',
           'name' => 'Bobonaro',
         ),
-        4 => 
+        2 => 
         array (
           'code' => 'CO',
           'name' => 'Cova Lima',
         ),
-        5 => 
+        3 => 
         array (
           'code' => 'DI',
-          'name' => 'Díli',
+          'name' => 'Dili',
         ),
-        6 => 
-        array (
-          'code' => 'ER',
-          'name' => 'Ermera',
-        ),
-        7 => 
-        array (
-          'code' => 'LA',
-          'name' => 'Lautém',
-        ),
-        8 => 
+        4 => 
         array (
           'code' => 'LI',
-          'name' => 'Liquiça',
-        ),
-        9 => 
-        array (
-          'code' => 'MT',
-          'name' => 'Manatuto',
-        ),
-        10 => 
-        array (
-          'code' => 'MF',
-          'name' => 'Manufahi',
-        ),
-        11 => 
-        array (
-          'code' => 'OE',
-          'name' => 'Oé-Cusse Ambeno',
-        ),
-        12 => 
-        array (
-          'code' => 'VI',
-          'name' => 'Viqueque',
+          'name' => 'Liquica',
         ),
       ),
     ),
@@ -22084,25 +16604,20 @@ return array (
         ),
         1 => 
         array (
-          'code' => 'S',
-          'name' => 'Aşgabat',
-        ),
-        2 => 
-        array (
           'code' => 'B',
           'name' => 'Balkan',
         ),
-        3 => 
+        2 => 
         array (
           'code' => 'D',
-          'name' => 'Daşoguz',
+          'name' => 'Dasoguz',
         ),
-        4 => 
+        3 => 
         array (
           'code' => 'L',
           'name' => 'Lebap',
         ),
-        5 => 
+        4 => 
         array (
           'code' => 'M',
           'name' => 'Mary',
@@ -22116,7 +16631,7 @@ return array (
         0 => 
         array (
           'code' => '31',
-          'name' => 'Béja',
+          'name' => 'Beja',
         ),
         1 => 
         array (
@@ -22131,7 +16646,7 @@ return array (
         3 => 
         array (
           'code' => '81',
-          'name' => 'Gabès',
+          'name' => 'Gabes',
         ),
         4 => 
         array (
@@ -22156,7 +16671,7 @@ return array (
         8 => 
         array (
           'code' => '73',
-          'name' => 'Kébili',
+          'name' => 'Kebili',
         ),
         9 => 
         array (
@@ -22181,7 +16696,7 @@ return array (
         13 => 
         array (
           'code' => '82',
-          'name' => 'Médenine',
+          'name' => 'Medenine',
         ),
         14 => 
         array (
@@ -22241,28 +16756,18 @@ return array (
       array (
         0 => 
         array (
-          'code' => '01',
-          'name' => '\'Eua',
-        ),
-        1 => 
-        array (
           'code' => '02',
           'name' => 'Ha\'apai',
         ),
-        2 => 
+        1 => 
         array (
           'code' => '03',
           'name' => 'Niuas',
         ),
-        3 => 
+        2 => 
         array (
           'code' => '04',
           'name' => 'Tongatapu',
-        ),
-        4 => 
-        array (
-          'code' => '05',
-          'name' => 'Vava\'u',
         ),
       ),
     ),
@@ -22278,7 +16783,7 @@ return array (
         1 => 
         array (
           'code' => '02',
-          'name' => 'Adıyaman',
+          'name' => 'Adiyaman',
         ),
         2 => 
         array (
@@ -22288,7 +16793,7 @@ return array (
         3 => 
         array (
           'code' => '04',
-          'name' => 'Ağrı',
+          'name' => 'Agri',
         ),
         4 => 
         array (
@@ -22323,17 +16828,17 @@ return array (
         10 => 
         array (
           'code' => '09',
-          'name' => 'Aydın',
+          'name' => 'Aydin',
         ),
         11 => 
         array (
           'code' => '10',
-          'name' => 'Balıkesir',
+          'name' => 'Balikesir',
         ),
         12 => 
         array (
           'code' => '74',
-          'name' => 'Bartın',
+          'name' => 'Bartin',
         ),
         13 => 
         array (
@@ -22353,7 +16858,7 @@ return array (
         16 => 
         array (
           'code' => '12',
-          'name' => 'Bingöl',
+          'name' => 'Bingol',
         ),
         17 => 
         array (
@@ -22378,17 +16883,17 @@ return array (
         21 => 
         array (
           'code' => '17',
-          'name' => 'Çanakkale',
+          'name' => 'Canakkale',
         ),
         22 => 
         array (
           'code' => '18',
-          'name' => 'Çankırı',
+          'name' => 'Cankiri',
         ),
         23 => 
         array (
           'code' => '19',
-          'name' => 'Çorum',
+          'name' => 'Corum',
         ),
         24 => 
         array (
@@ -22398,12 +16903,12 @@ return array (
         25 => 
         array (
           'code' => '21',
-          'name' => 'Diyarbakır',
+          'name' => 'Diyarbakir',
         ),
         26 => 
         array (
           'code' => '81',
-          'name' => 'Düzce',
+          'name' => 'Duzce',
         ),
         27 => 
         array (
@@ -22413,7 +16918,7 @@ return array (
         28 => 
         array (
           'code' => '23',
-          'name' => 'Elazığ',
+          'name' => 'Elazig',
         ),
         29 => 
         array (
@@ -22428,7 +16933,7 @@ return array (
         31 => 
         array (
           'code' => '26',
-          'name' => 'Eskişehir',
+          'name' => 'Eskisehir',
         ),
         32 => 
         array (
@@ -22443,12 +16948,12 @@ return array (
         34 => 
         array (
           'code' => '29',
-          'name' => 'Gümüşhane',
+          'name' => 'Gumushane',
         ),
         35 => 
         array (
           'code' => '30',
-          'name' => 'Hakkâri',
+          'name' => 'Hakkari',
         ),
         36 => 
         array (
@@ -22458,7 +16963,7 @@ return array (
         37 => 
         array (
           'code' => '76',
-          'name' => 'Iğdır',
+          'name' => 'Igdir',
         ),
         38 => 
         array (
@@ -22468,22 +16973,22 @@ return array (
         39 => 
         array (
           'code' => '34',
-          'name' => 'İstanbul',
+          'name' => 'Istanbul',
         ),
         40 => 
         array (
           'code' => '35',
-          'name' => 'İzmir',
+          'name' => 'Izmir',
         ),
         41 => 
         array (
           'code' => '46',
-          'name' => 'Kahramanmaraş',
+          'name' => 'Kahramanmaras',
         ),
         42 => 
         array (
           'code' => '78',
-          'name' => 'Karabük',
+          'name' => 'Karabuk',
         ),
         43 => 
         array (
@@ -22507,23 +17012,23 @@ return array (
         ),
         47 => 
         array (
-          'code' => '71',
-          'name' => 'Kırıkkale',
+          'code' => '79',
+          'name' => 'Kilis',
         ),
         48 => 
         array (
-          'code' => '39',
-          'name' => 'Kırklareli',
+          'code' => '71',
+          'name' => 'Kirikkale',
         ),
         49 => 
         array (
-          'code' => '40',
-          'name' => 'Kırşehir',
+          'code' => '39',
+          'name' => 'Kirklareli',
         ),
         50 => 
         array (
-          'code' => '79',
-          'name' => 'Kilis',
+          'code' => '40',
+          'name' => 'Kirsehir',
         ),
         51 => 
         array (
@@ -22538,7 +17043,7 @@ return array (
         53 => 
         array (
           'code' => '43',
-          'name' => 'Kütahya',
+          'name' => 'Kutahya',
         ),
         54 => 
         array (
@@ -22563,22 +17068,22 @@ return array (
         58 => 
         array (
           'code' => '48',
-          'name' => 'Muğla',
+          'name' => 'Mugla',
         ),
         59 => 
         array (
           'code' => '49',
-          'name' => 'Muş',
+          'name' => 'Mus',
         ),
         60 => 
         array (
           'code' => '50',
-          'name' => 'Nevşehir',
+          'name' => 'Nevsehir',
         ),
         61 => 
         array (
           'code' => '51',
-          'name' => 'Niğde',
+          'name' => 'Nigde',
         ),
         62 => 
         array (
@@ -22607,33 +17112,33 @@ return array (
         ),
         67 => 
         array (
+          'code' => '63',
+          'name' => 'Sanliurfa',
+        ),
+        68 => 
+        array (
           'code' => '56',
           'name' => 'Siirt',
         ),
-        68 => 
+        69 => 
         array (
           'code' => '57',
           'name' => 'Sinop',
         ),
-        69 => 
+        70 => 
+        array (
+          'code' => '73',
+          'name' => 'Sirnak',
+        ),
+        71 => 
         array (
           'code' => '58',
           'name' => 'Sivas',
         ),
-        70 => 
-        array (
-          'code' => '63',
-          'name' => 'Şanlıurfa',
-        ),
-        71 => 
-        array (
-          'code' => '73',
-          'name' => 'Şırnak',
-        ),
         72 => 
         array (
           'code' => '59',
-          'name' => 'Tekirdağ',
+          'name' => 'Tekirdag',
         ),
         73 => 
         array (
@@ -22653,7 +17158,7 @@ return array (
         76 => 
         array (
           'code' => '64',
-          'name' => 'Uşak',
+          'name' => 'Usak',
         ),
         77 => 
         array (
@@ -22713,18 +17218,18 @@ return array (
         ),
         6 => 
         array (
-          'code' => 'POS',
-          'name' => 'Port of Spain',
+          'code' => 'PTF',
+          'name' => 'Point Fortin',
         ),
         7 => 
         array (
-          'code' => 'PRT',
-          'name' => 'Princes Town',
+          'code' => 'POS',
+          'name' => 'Port of Spain',
         ),
         8 => 
         array (
-          'code' => 'PTF',
-          'name' => 'Point Fortin',
+          'code' => 'PRT',
+          'name' => 'Princes Town',
         ),
         9 => 
         array (
@@ -22733,18 +17238,18 @@ return array (
         ),
         10 => 
         array (
-          'code' => 'SGE',
-          'name' => 'Sangre Grande',
+          'code' => 'SJL',
+          'name' => 'San Juan-Laventille',
         ),
         11 => 
         array (
-          'code' => 'SIP',
-          'name' => 'Siparia',
+          'code' => 'SGE',
+          'name' => 'Sangre Grande',
         ),
         12 => 
         array (
-          'code' => 'SJL',
-          'name' => 'San Juan-Laventille',
+          'code' => 'SIP',
+          'name' => 'Siparia',
         ),
         13 => 
         array (
@@ -22767,41 +17272,6 @@ return array (
           'code' => 'FUN',
           'name' => 'Funafuti',
         ),
-        1 => 
-        array (
-          'code' => 'NMG',
-          'name' => 'Nanumaga',
-        ),
-        2 => 
-        array (
-          'code' => 'NMA',
-          'name' => 'Nanumea',
-        ),
-        3 => 
-        array (
-          'code' => 'NIT',
-          'name' => 'Niutao',
-        ),
-        4 => 
-        array (
-          'code' => 'NUI',
-          'name' => 'Nui',
-        ),
-        5 => 
-        array (
-          'code' => 'NKF',
-          'name' => 'Nukufetau',
-        ),
-        6 => 
-        array (
-          'code' => 'NKL',
-          'name' => 'Nukulaelae',
-        ),
-        7 => 
-        array (
-          'code' => 'VAI',
-          'name' => 'Vaitupu',
-        ),
       ),
     ),
     'TW' => 
@@ -22815,105 +17285,95 @@ return array (
         ),
         1 => 
         array (
-          'code' => 'CYI',
+          'code' => 'CYQ',
           'name' => 'Chiayi',
         ),
         2 => 
         array (
-          'code' => 'CYQ',
-          'name' => 'Chiayi',
-        ),
-        3 => 
-        array (
-          'code' => 'HSZ',
-          'name' => 'Hsinchu',
-        ),
-        4 => 
-        array (
           'code' => 'HSQ',
           'name' => 'Hsinchu',
         ),
-        5 => 
+        3 => 
         array (
           'code' => 'HUA',
           'name' => 'Hualien',
         ),
-        6 => 
+        4 => 
         array (
           'code' => 'KHH',
           'name' => 'Kaohsiung',
         ),
-        7 => 
+        5 => 
         array (
           'code' => 'KEE',
           'name' => 'Keelung',
         ),
-        8 => 
+        6 => 
         array (
           'code' => 'KIN',
           'name' => 'Kinmen',
         ),
-        9 => 
+        7 => 
         array (
           'code' => 'LIE',
           'name' => 'Lienchiang',
         ),
-        10 => 
+        8 => 
         array (
           'code' => 'MIA',
           'name' => 'Miaoli',
         ),
-        11 => 
+        9 => 
         array (
           'code' => 'NAN',
           'name' => 'Nantou',
         ),
-        12 => 
+        10 => 
         array (
           'code' => 'NWT',
           'name' => 'New Taipei',
         ),
-        13 => 
+        11 => 
         array (
           'code' => 'PEN',
           'name' => 'Penghu',
         ),
-        14 => 
+        12 => 
         array (
           'code' => 'PIF',
           'name' => 'Pingtung',
         ),
-        15 => 
+        13 => 
         array (
           'code' => 'TXG',
           'name' => 'Taichung',
         ),
-        16 => 
+        14 => 
         array (
           'code' => 'TNN',
           'name' => 'Tainan',
         ),
-        17 => 
+        15 => 
         array (
           'code' => 'TPE',
           'name' => 'Taipei',
         ),
-        18 => 
+        16 => 
         array (
           'code' => 'TTT',
           'name' => 'Taitung',
         ),
-        19 => 
+        17 => 
         array (
           'code' => 'TAO',
           'name' => 'Taoyuan',
         ),
-        20 => 
+        18 => 
         array (
           'code' => 'ILA',
           'name' => 'Yilan',
         ),
-        21 => 
+        19 => 
         array (
           'code' => 'YUN',
           'name' => 'Yunlin',
@@ -22981,100 +17441,95 @@ return array (
         ),
         11 => 
         array (
-          'code' => '10',
-          'name' => 'Kusini Pemba',
-        ),
-        12 => 
-        array (
           'code' => '11',
           'name' => 'Kusini Unguja',
         ),
-        13 => 
+        12 => 
         array (
           'code' => '12',
           'name' => 'Lindi',
         ),
-        14 => 
+        13 => 
         array (
           'code' => '26',
           'name' => 'Manyara',
         ),
-        15 => 
+        14 => 
         array (
           'code' => '13',
           'name' => 'Mara',
         ),
-        16 => 
+        15 => 
         array (
           'code' => '14',
           'name' => 'Mbeya',
         ),
-        17 => 
+        16 => 
         array (
           'code' => '15',
           'name' => 'Mjini Magharibi',
         ),
-        18 => 
+        17 => 
         array (
           'code' => '16',
           'name' => 'Morogoro',
         ),
-        19 => 
+        18 => 
         array (
           'code' => '17',
           'name' => 'Mtwara',
         ),
-        20 => 
+        19 => 
         array (
           'code' => '18',
           'name' => 'Mwanza',
         ),
-        21 => 
+        20 => 
         array (
           'code' => '29',
           'name' => 'Njombe',
         ),
-        22 => 
+        21 => 
         array (
           'code' => '19',
           'name' => 'Pwani',
         ),
-        23 => 
+        22 => 
         array (
           'code' => '20',
           'name' => 'Rukwa',
         ),
-        24 => 
+        23 => 
         array (
           'code' => '21',
           'name' => 'Ruvuma',
         ),
-        25 => 
+        24 => 
         array (
           'code' => '22',
           'name' => 'Shinyanga',
         ),
-        26 => 
+        25 => 
         array (
           'code' => '30',
           'name' => 'Simiyu',
         ),
-        27 => 
+        26 => 
         array (
           'code' => '23',
           'name' => 'Singida',
         ),
-        28 => 
+        27 => 
         array (
           'code' => '31',
           'name' => 'Songwe',
         ),
-        29 => 
+        28 => 
         array (
           'code' => '24',
           'name' => 'Tabora',
         ),
-        30 => 
+        29 => 
         array (
           'code' => '25',
           'name' => 'Tanga',
@@ -23228,695 +17683,525 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'C',
-          'name' => 'Central',
-        ),
-        1 => 
-        array (
-          'code' => 'E',
-          'name' => 'Eastern',
-        ),
-        2 => 
-        array (
-          'code' => 'N',
-          'name' => 'Northern',
-        ),
-        3 => 
-        array (
-          'code' => 'W',
-          'name' => 'Western',
-        ),
-        4 => 
-        array (
           'code' => '314',
           'name' => 'Abim',
         ),
-        5 => 
+        1 => 
         array (
           'code' => '301',
           'name' => 'Adjumani',
         ),
-        6 => 
+        2 => 
         array (
           'code' => '322',
           'name' => 'Agago',
         ),
-        7 => 
+        3 => 
         array (
           'code' => '323',
           'name' => 'Alebtong',
         ),
-        8 => 
+        4 => 
         array (
           'code' => '315',
           'name' => 'Amolatar',
         ),
-        9 => 
+        5 => 
         array (
           'code' => '324',
           'name' => 'Amudat',
         ),
-        10 => 
+        6 => 
         array (
           'code' => '216',
           'name' => 'Amuria',
         ),
-        11 => 
+        7 => 
         array (
           'code' => '316',
           'name' => 'Amuru',
         ),
-        12 => 
+        8 => 
         array (
           'code' => '302',
           'name' => 'Apac',
         ),
-        13 => 
+        9 => 
         array (
           'code' => '303',
           'name' => 'Arua',
         ),
-        14 => 
+        10 => 
         array (
           'code' => '217',
           'name' => 'Budaka',
         ),
-        15 => 
+        11 => 
         array (
           'code' => '218',
           'name' => 'Bududa',
         ),
-        16 => 
+        12 => 
         array (
           'code' => '201',
           'name' => 'Bugiri',
         ),
-        17 => 
-        array (
-          'code' => '235',
-          'name' => 'Bugweri',
-        ),
-        18 => 
+        13 => 
         array (
           'code' => '420',
           'name' => 'Buhweju',
         ),
-        19 => 
+        14 => 
         array (
           'code' => '117',
           'name' => 'Buikwe',
         ),
-        20 => 
+        15 => 
         array (
           'code' => '219',
           'name' => 'Bukedea',
         ),
-        21 => 
+        16 => 
         array (
           'code' => '118',
           'name' => 'Bukomansibi',
         ),
-        22 => 
+        17 => 
         array (
           'code' => '220',
           'name' => 'Bukwo',
         ),
-        23 => 
+        18 => 
         array (
           'code' => '225',
           'name' => 'Bulambuli',
         ),
-        24 => 
-        array (
-          'code' => '416',
-          'name' => 'Buliisa',
-        ),
-        25 => 
+        19 => 
         array (
           'code' => '401',
           'name' => 'Bundibugyo',
         ),
-        26 => 
-        array (
-          'code' => '430',
-          'name' => 'Bunyangabu',
-        ),
-        27 => 
+        20 => 
         array (
           'code' => '402',
           'name' => 'Bushenyi',
         ),
-        28 => 
+        21 => 
         array (
           'code' => '202',
           'name' => 'Busia',
         ),
-        29 => 
+        22 => 
         array (
           'code' => '221',
           'name' => 'Butaleja',
         ),
-        30 => 
-        array (
-          'code' => '119',
-          'name' => 'Butambala',
-        ),
-        31 => 
-        array (
-          'code' => '233',
-          'name' => 'Butebo',
-        ),
-        32 => 
+        23 => 
         array (
           'code' => '120',
           'name' => 'Buvuma',
         ),
-        33 => 
+        24 => 
         array (
           'code' => '226',
           'name' => 'Buyende',
         ),
-        34 => 
+        25 => 
         array (
           'code' => '317',
           'name' => 'Dokolo',
         ),
-        35 => 
+        26 => 
         array (
           'code' => '121',
           'name' => 'Gomba',
         ),
-        36 => 
+        27 => 
         array (
           'code' => '304',
           'name' => 'Gulu',
         ),
-        37 => 
+        28 => 
         array (
           'code' => '403',
           'name' => 'Hoima',
         ),
-        38 => 
+        29 => 
         array (
           'code' => '417',
           'name' => 'Ibanda',
         ),
-        39 => 
+        30 => 
         array (
           'code' => '203',
           'name' => 'Iganga',
         ),
-        40 => 
+        31 => 
         array (
           'code' => '418',
           'name' => 'Isingiro',
         ),
-        41 => 
+        32 => 
         array (
           'code' => '204',
           'name' => 'Jinja',
         ),
-        42 => 
+        33 => 
         array (
           'code' => '318',
           'name' => 'Kaabong',
         ),
-        43 => 
+        34 => 
         array (
           'code' => '404',
           'name' => 'Kabale',
         ),
-        44 => 
+        35 => 
         array (
           'code' => '405',
           'name' => 'Kabarole',
         ),
-        45 => 
+        36 => 
         array (
           'code' => '213',
           'name' => 'Kaberamaido',
         ),
-        46 => 
-        array (
-          'code' => '427',
-          'name' => 'Kagadi',
-        ),
-        47 => 
-        array (
-          'code' => '428',
-          'name' => 'Kakumiro',
-        ),
-        48 => 
-        array (
-          'code' => '237',
-          'name' => 'Kalaki',
-        ),
-        49 => 
+        37 => 
         array (
           'code' => '101',
           'name' => 'Kalangala',
         ),
-        50 => 
+        38 => 
         array (
           'code' => '222',
           'name' => 'Kaliro',
         ),
-        51 => 
+        39 => 
         array (
           'code' => '122',
           'name' => 'Kalungu',
         ),
-        52 => 
+        40 => 
         array (
           'code' => '102',
           'name' => 'Kampala',
         ),
-        53 => 
+        41 => 
         array (
           'code' => '205',
           'name' => 'Kamuli',
         ),
-        54 => 
+        42 => 
         array (
           'code' => '413',
           'name' => 'Kamwenge',
         ),
-        55 => 
-        array (
-          'code' => '414',
-          'name' => 'Kanungu',
-        ),
-        56 => 
+        43 => 
         array (
           'code' => '206',
           'name' => 'Kapchorwa',
         ),
-        57 => 
-        array (
-          'code' => '236',
-          'name' => 'Kapelebyong',
-        ),
-        58 => 
-        array (
-          'code' => '335',
-          'name' => 'Karenga',
-        ),
-        59 => 
-        array (
-          'code' => '126',
-          'name' => 'Kasanda',
-        ),
-        60 => 
+        44 => 
         array (
           'code' => '406',
           'name' => 'Kasese',
         ),
-        61 => 
+        45 => 
         array (
           'code' => '207',
           'name' => 'Katakwi',
         ),
-        62 => 
+        46 => 
         array (
           'code' => '112',
           'name' => 'Kayunga',
         ),
-        63 => 
-        array (
-          'code' => '433',
-          'name' => 'Kazo',
-        ),
-        64 => 
+        47 => 
         array (
           'code' => '407',
           'name' => 'Kibaale',
         ),
-        65 => 
+        48 => 
         array (
           'code' => '103',
           'name' => 'Kiboga',
         ),
-        66 => 
+        49 => 
         array (
           'code' => '227',
           'name' => 'Kibuku',
         ),
-        67 => 
-        array (
-          'code' => '432',
-          'name' => 'Kikuube',
-        ),
-        68 => 
+        50 => 
         array (
           'code' => '419',
           'name' => 'Kiruhura',
         ),
-        69 => 
+        51 => 
         array (
           'code' => '421',
           'name' => 'Kiryandongo',
         ),
-        70 => 
+        52 => 
         array (
           'code' => '408',
           'name' => 'Kisoro',
         ),
-        71 => 
-        array (
-          'code' => '434',
-          'name' => 'Kitagwenda',
-        ),
-        72 => 
+        53 => 
         array (
           'code' => '305',
           'name' => 'Kitgum',
         ),
-        73 => 
+        54 => 
         array (
           'code' => '319',
           'name' => 'Koboko',
         ),
-        74 => 
-        array (
-          'code' => '325',
-          'name' => 'Kole',
-        ),
-        75 => 
+        55 => 
         array (
           'code' => '306',
           'name' => 'Kotido',
         ),
-        76 => 
+        56 => 
         array (
           'code' => '208',
           'name' => 'Kumi',
         ),
-        77 => 
-        array (
-          'code' => '333',
-          'name' => 'Kwania',
-        ),
-        78 => 
+        57 => 
         array (
           'code' => '228',
           'name' => 'Kween',
         ),
-        79 => 
+        58 => 
         array (
           'code' => '123',
           'name' => 'Kyankwanzi',
         ),
-        80 => 
+        59 => 
         array (
           'code' => '422',
           'name' => 'Kyegegwa',
         ),
-        81 => 
+        60 => 
         array (
           'code' => '415',
           'name' => 'Kyenjojo',
         ),
-        82 => 
-        array (
-          'code' => '125',
-          'name' => 'Kyotera',
-        ),
-        83 => 
+        61 => 
         array (
           'code' => '326',
           'name' => 'Lamwo',
         ),
-        84 => 
+        62 => 
         array (
           'code' => '307',
           'name' => 'Lira',
         ),
-        85 => 
+        63 => 
         array (
           'code' => '229',
           'name' => 'Luuka',
         ),
-        86 => 
+        64 => 
         array (
           'code' => '104',
           'name' => 'Luwero',
         ),
-        87 => 
+        65 => 
         array (
           'code' => '124',
           'name' => 'Lwengo',
         ),
-        88 => 
+        66 => 
         array (
           'code' => '114',
           'name' => 'Lyantonde',
         ),
-        89 => 
-        array (
-          'code' => '336',
-          'name' => 'Madi-Okollo',
-        ),
-        90 => 
+        67 => 
         array (
           'code' => '223',
           'name' => 'Manafwa',
         ),
-        91 => 
-        array (
-          'code' => '320',
-          'name' => 'Maracha',
-        ),
-        92 => 
+        68 => 
         array (
           'code' => '105',
           'name' => 'Masaka',
         ),
-        93 => 
+        69 => 
         array (
           'code' => '409',
           'name' => 'Masindi',
         ),
-        94 => 
+        70 => 
         array (
           'code' => '214',
           'name' => 'Mayuge',
         ),
-        95 => 
+        71 => 
         array (
           'code' => '209',
           'name' => 'Mbale',
         ),
-        96 => 
+        72 => 
         array (
           'code' => '410',
           'name' => 'Mbarara',
         ),
-        97 => 
+        73 => 
         array (
           'code' => '423',
           'name' => 'Mitooma',
         ),
-        98 => 
+        74 => 
         array (
           'code' => '115',
           'name' => 'Mityana',
         ),
-        99 => 
+        75 => 
         array (
           'code' => '308',
           'name' => 'Moroto',
         ),
-        100 => 
+        76 => 
         array (
           'code' => '309',
           'name' => 'Moyo',
         ),
-        101 => 
+        77 => 
         array (
           'code' => '106',
           'name' => 'Mpigi',
         ),
-        102 => 
+        78 => 
         array (
           'code' => '107',
           'name' => 'Mubende',
         ),
-        103 => 
+        79 => 
         array (
           'code' => '108',
           'name' => 'Mukono',
         ),
-        104 => 
-        array (
-          'code' => '334',
-          'name' => 'Nabilatuk',
-        ),
-        105 => 
+        80 => 
         array (
           'code' => '311',
           'name' => 'Nakapiripirit',
         ),
-        106 => 
+        81 => 
         array (
           'code' => '116',
           'name' => 'Nakaseke',
         ),
-        107 => 
+        82 => 
         array (
           'code' => '109',
           'name' => 'Nakasongola',
         ),
-        108 => 
+        83 => 
         array (
           'code' => '230',
           'name' => 'Namayingo',
         ),
-        109 => 
-        array (
-          'code' => '234',
-          'name' => 'Namisindwa',
-        ),
-        110 => 
+        84 => 
         array (
           'code' => '224',
           'name' => 'Namutumba',
         ),
-        111 => 
+        85 => 
         array (
           'code' => '327',
           'name' => 'Napak',
         ),
-        112 => 
+        86 => 
         array (
           'code' => '310',
           'name' => 'Nebbi',
         ),
-        113 => 
+        87 => 
         array (
           'code' => '231',
           'name' => 'Ngora',
         ),
-        114 => 
-        array (
-          'code' => '424',
-          'name' => 'Ntoroko',
-        ),
-        115 => 
+        88 => 
         array (
           'code' => '411',
           'name' => 'Ntungamo',
         ),
-        116 => 
+        89 => 
         array (
           'code' => '328',
           'name' => 'Nwoya',
         ),
-        117 => 
-        array (
-          'code' => '337',
-          'name' => 'Obongi',
-        ),
-        118 => 
-        array (
-          'code' => '331',
-          'name' => 'Omoro',
-        ),
-        119 => 
-        array (
-          'code' => '329',
-          'name' => 'Otuke',
-        ),
-        120 => 
+        90 => 
         array (
           'code' => '321',
           'name' => 'Oyam',
         ),
-        121 => 
+        91 => 
         array (
           'code' => '312',
           'name' => 'Pader',
         ),
-        122 => 
-        array (
-          'code' => '332',
-          'name' => 'Pakwach',
-        ),
-        123 => 
+        92 => 
         array (
           'code' => '210',
           'name' => 'Pallisa',
         ),
-        124 => 
+        93 => 
         array (
           'code' => '110',
           'name' => 'Rakai',
         ),
-        125 => 
-        array (
-          'code' => '429',
-          'name' => 'Rubanda',
-        ),
-        126 => 
+        94 => 
         array (
           'code' => '425',
           'name' => 'Rubirizi',
         ),
-        127 => 
-        array (
-          'code' => '431',
-          'name' => 'Rukiga',
-        ),
-        128 => 
+        95 => 
         array (
           'code' => '412',
           'name' => 'Rukungiri',
         ),
-        129 => 
-        array (
-          'code' => '435',
-          'name' => 'Rwampara',
-        ),
-        130 => 
+        96 => 
         array (
           'code' => '111',
           'name' => 'Sembabule',
         ),
-        131 => 
+        97 => 
         array (
           'code' => '232',
           'name' => 'Serere',
         ),
-        132 => 
+        98 => 
         array (
           'code' => '426',
           'name' => 'Sheema',
         ),
-        133 => 
+        99 => 
         array (
           'code' => '215',
           'name' => 'Sironko',
         ),
-        134 => 
+        100 => 
         array (
           'code' => '211',
           'name' => 'Soroti',
         ),
-        135 => 
+        101 => 
         array (
           'code' => '212',
           'name' => 'Tororo',
         ),
-        136 => 
+        102 => 
         array (
           'code' => '113',
           'name' => 'Wakiso',
         ),
-        137 => 
+        103 => 
         array (
           'code' => '313',
           'name' => 'Yumbe',
         ),
-        138 => 
+        104 => 
         array (
           'code' => '330',
           'name' => 'Zombo',
@@ -23929,48 +18214,8 @@ return array (
       array (
         0 => 
         array (
-          'code' => '81',
-          'name' => 'Baker Island',
-        ),
-        1 => 
-        array (
-          'code' => '84',
-          'name' => 'Howland Island',
-        ),
-        2 => 
-        array (
-          'code' => '86',
-          'name' => 'Jarvis Island',
-        ),
-        3 => 
-        array (
-          'code' => '67',
-          'name' => 'Johnston Atoll',
-        ),
-        4 => 
-        array (
-          'code' => '89',
-          'name' => 'Kingman Reef',
-        ),
-        5 => 
-        array (
-          'code' => '71',
-          'name' => 'Midway Islands',
-        ),
-        6 => 
-        array (
-          'code' => '76',
-          'name' => 'Navassa Island',
-        ),
-        7 => 
-        array (
           'code' => '95',
           'name' => 'Palmyra Atoll',
-        ),
-        8 => 
-        array (
-          'code' => '79',
-          'name' => 'Wake Island',
         ),
       ),
     ),
@@ -24020,248 +18265,218 @@ return array (
         ),
         8 => 
         array (
+          'code' => 'DC',
+          'name' => 'District of Columbia',
+        ),
+        9 => 
+        array (
           'code' => 'FL',
           'name' => 'Florida',
         ),
-        9 => 
+        10 => 
         array (
           'code' => 'GA',
           'name' => 'Georgia',
         ),
-        10 => 
+        11 => 
         array (
           'code' => 'HI',
           'name' => 'Hawaii',
         ),
-        11 => 
+        12 => 
         array (
           'code' => 'ID',
           'name' => 'Idaho',
         ),
-        12 => 
+        13 => 
         array (
           'code' => 'IL',
           'name' => 'Illinois',
         ),
-        13 => 
+        14 => 
         array (
           'code' => 'IN',
           'name' => 'Indiana',
         ),
-        14 => 
+        15 => 
         array (
           'code' => 'IA',
           'name' => 'Iowa',
         ),
-        15 => 
+        16 => 
         array (
           'code' => 'KS',
           'name' => 'Kansas',
         ),
-        16 => 
+        17 => 
         array (
           'code' => 'KY',
           'name' => 'Kentucky',
         ),
-        17 => 
+        18 => 
         array (
           'code' => 'LA',
           'name' => 'Louisiana',
         ),
-        18 => 
+        19 => 
         array (
           'code' => 'ME',
           'name' => 'Maine',
         ),
-        19 => 
+        20 => 
         array (
           'code' => 'MD',
           'name' => 'Maryland',
         ),
-        20 => 
+        21 => 
         array (
           'code' => 'MA',
           'name' => 'Massachusetts',
         ),
-        21 => 
+        22 => 
         array (
           'code' => 'MI',
           'name' => 'Michigan',
         ),
-        22 => 
+        23 => 
         array (
           'code' => 'MN',
           'name' => 'Minnesota',
         ),
-        23 => 
+        24 => 
         array (
           'code' => 'MS',
           'name' => 'Mississippi',
         ),
-        24 => 
+        25 => 
         array (
           'code' => 'MO',
           'name' => 'Missouri',
         ),
-        25 => 
+        26 => 
         array (
           'code' => 'MT',
           'name' => 'Montana',
         ),
-        26 => 
+        27 => 
         array (
           'code' => 'NE',
           'name' => 'Nebraska',
         ),
-        27 => 
+        28 => 
         array (
           'code' => 'NV',
           'name' => 'Nevada',
         ),
-        28 => 
+        29 => 
         array (
           'code' => 'NH',
           'name' => 'New Hampshire',
         ),
-        29 => 
+        30 => 
         array (
           'code' => 'NJ',
           'name' => 'New Jersey',
         ),
-        30 => 
+        31 => 
         array (
           'code' => 'NM',
           'name' => 'New Mexico',
         ),
-        31 => 
+        32 => 
         array (
           'code' => 'NY',
           'name' => 'New York',
         ),
-        32 => 
+        33 => 
         array (
           'code' => 'NC',
           'name' => 'North Carolina',
         ),
-        33 => 
+        34 => 
         array (
           'code' => 'ND',
           'name' => 'North Dakota',
         ),
-        34 => 
+        35 => 
         array (
           'code' => 'OH',
           'name' => 'Ohio',
         ),
-        35 => 
+        36 => 
         array (
           'code' => 'OK',
           'name' => 'Oklahoma',
         ),
-        36 => 
+        37 => 
         array (
           'code' => 'OR',
           'name' => 'Oregon',
         ),
-        37 => 
+        38 => 
         array (
           'code' => 'PA',
           'name' => 'Pennsylvania',
         ),
-        38 => 
+        39 => 
         array (
           'code' => 'RI',
           'name' => 'Rhode Island',
         ),
-        39 => 
+        40 => 
         array (
           'code' => 'SC',
           'name' => 'South Carolina',
         ),
-        40 => 
+        41 => 
         array (
           'code' => 'SD',
           'name' => 'South Dakota',
         ),
-        41 => 
+        42 => 
         array (
           'code' => 'TN',
           'name' => 'Tennessee',
         ),
-        42 => 
+        43 => 
         array (
           'code' => 'TX',
           'name' => 'Texas',
         ),
-        43 => 
+        44 => 
         array (
           'code' => 'UT',
           'name' => 'Utah',
         ),
-        44 => 
+        45 => 
         array (
           'code' => 'VT',
           'name' => 'Vermont',
         ),
-        45 => 
+        46 => 
         array (
           'code' => 'VA',
           'name' => 'Virginia',
         ),
-        46 => 
+        47 => 
         array (
           'code' => 'WA',
           'name' => 'Washington',
         ),
-        47 => 
+        48 => 
         array (
           'code' => 'WV',
           'name' => 'West Virginia',
         ),
-        48 => 
+        49 => 
         array (
           'code' => 'WI',
           'name' => 'Wisconsin',
         ),
-        49 => 
+        50 => 
         array (
           'code' => 'WY',
           'name' => 'Wyoming',
-        ),
-        50 => 
-        array (
-          'code' => 'DC',
-          'name' => 'District of Columbia',
-        ),
-        51 => 
-        array (
-          'code' => 'AS',
-          'name' => 'American Samoa',
-        ),
-        52 => 
-        array (
-          'code' => 'GU',
-          'name' => 'Guam',
-        ),
-        53 => 
-        array (
-          'code' => 'MP',
-          'name' => 'Northern Mariana Islands',
-        ),
-        54 => 
-        array (
-          'code' => 'PR',
-          'name' => 'Puerto Rico',
-        ),
-        55 => 
-        array (
-          'code' => 'UM',
-          'name' => 'United States Minor Outlying Islands',
-        ),
-        56 => 
-        array (
-          'code' => 'VI',
-          'name' => 'Virgin Islands, U.S.',
         ),
       ),
     ),
@@ -24322,12 +18537,12 @@ return array (
         10 => 
         array (
           'code' => 'PA',
-          'name' => 'Paysandú',
+          'name' => 'Paysandu',
         ),
         11 => 
         array (
           'code' => 'RN',
-          'name' => 'Río Negro',
+          'name' => 'Rio Negro',
         ),
         12 => 
         array (
@@ -24347,7 +18562,7 @@ return array (
         15 => 
         array (
           'code' => 'SJ',
-          'name' => 'San José',
+          'name' => 'San Jose',
         ),
         16 => 
         array (
@@ -24357,7 +18572,7 @@ return array (
         17 => 
         array (
           'code' => 'TA',
-          'name' => 'Tacuarembó',
+          'name' => 'Tacuarembo',
         ),
         18 => 
         array (
@@ -24383,7 +18598,7 @@ return array (
         2 => 
         array (
           'code' => 'FA',
-          'name' => 'Farg‘ona',
+          'name' => 'Farg\'ona',
         ),
         3 => 
         array (
@@ -24408,7 +18623,7 @@ return array (
         7 => 
         array (
           'code' => 'QR',
-          'name' => 'Qoraqalpog‘iston Respublikasi',
+          'name' => 'Qoraqalpog\'iston Respublikasi',
         ),
         8 => 
         array (
@@ -24432,13 +18647,19 @@ return array (
         ),
         12 => 
         array (
-          'code' => 'TO',
-          'name' => 'Toshkent',
-        ),
-        13 => 
-        array (
           'code' => 'XO',
           'name' => 'Xorazm',
+        ),
+      ),
+    ),
+    'VA' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Vatican City',
         ),
       ),
     ),
@@ -24458,20 +18679,10 @@ return array (
         ),
         2 => 
         array (
-          'code' => '02',
-          'name' => 'Saint Andrew',
-        ),
-        3 => 
-        array (
-          'code' => '03',
-          'name' => 'Saint David',
-        ),
-        4 => 
-        array (
           'code' => '04',
           'name' => 'Saint George',
         ),
-        5 => 
+        3 => 
         array (
           'code' => '05',
           'name' => 'Saint Patrick',
@@ -24490,7 +18701,7 @@ return array (
         1 => 
         array (
           'code' => 'B',
-          'name' => 'Anzoátegui',
+          'name' => 'Anzoategui',
         ),
         2 => 
         array (
@@ -24510,7 +18721,7 @@ return array (
         5 => 
         array (
           'code' => 'F',
-          'name' => 'Bolívar',
+          'name' => 'Bolivar',
         ),
         6 => 
         array (
@@ -24529,83 +18740,100 @@ return array (
         ),
         9 => 
         array (
-          'code' => 'W',
-          'name' => 'Dependencias Federales',
-        ),
-        10 => 
-        array (
           'code' => 'A',
           'name' => 'Distrito Capital',
         ),
-        11 => 
+        10 => 
         array (
           'code' => 'I',
-          'name' => 'Falcón',
+          'name' => 'Falcon',
         ),
-        12 => 
+        11 => 
         array (
           'code' => 'J',
-          'name' => 'Guárico',
+          'name' => 'Guarico',
         ),
-        13 => 
+        12 => 
         array (
           'code' => 'X',
           'name' => 'La Guaira',
         ),
-        14 => 
+        13 => 
         array (
           'code' => 'K',
           'name' => 'Lara',
         ),
-        15 => 
+        14 => 
         array (
           'code' => 'L',
-          'name' => 'Mérida',
+          'name' => 'Merida',
         ),
-        16 => 
+        15 => 
         array (
           'code' => 'M',
           'name' => 'Miranda',
         ),
-        17 => 
+        16 => 
         array (
           'code' => 'N',
           'name' => 'Monagas',
         ),
-        18 => 
+        17 => 
         array (
           'code' => 'O',
           'name' => 'Nueva Esparta',
         ),
-        19 => 
+        18 => 
         array (
           'code' => 'P',
           'name' => 'Portuguesa',
         ),
-        20 => 
+        19 => 
         array (
           'code' => 'R',
           'name' => 'Sucre',
         ),
-        21 => 
+        20 => 
         array (
           'code' => 'S',
-          'name' => 'Táchira',
+          'name' => 'Tachira',
         ),
-        22 => 
+        21 => 
         array (
           'code' => 'T',
           'name' => 'Trujillo',
         ),
-        23 => 
+        22 => 
         array (
           'code' => 'U',
           'name' => 'Yaracuy',
         ),
-        24 => 
+        23 => 
         array (
           'code' => 'V',
           'name' => 'Zulia',
+        ),
+      ),
+    ),
+    'VG' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Virgin Islands, British',
+        ),
+      ),
+    ),
+    'VI' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Virgin Islands, U.S.',
         ),
       ),
     ),
@@ -24621,97 +18849,97 @@ return array (
         1 => 
         array (
           'code' => '43',
-          'name' => 'Bà Rịa - Vũng Tàu',
+          'name' => 'Ba Ria - Vung Tau',
         ),
         2 => 
         array (
           'code' => '54',
-          'name' => 'Bắc Giang',
+          'name' => 'Bac Giang',
         ),
         3 => 
         array (
           'code' => '53',
-          'name' => 'Bắc Kạn',
+          'name' => 'Bac Kan',
         ),
         4 => 
         array (
           'code' => '55',
-          'name' => 'Bạc Liêu',
+          'name' => 'Bac Lieu',
         ),
         5 => 
         array (
           'code' => '56',
-          'name' => 'Bắc Ninh',
+          'name' => 'Bac Ninh',
         ),
         6 => 
         array (
           'code' => '50',
-          'name' => 'Bến Tre',
+          'name' => 'Ben Tre',
         ),
         7 => 
         array (
           'code' => '31',
-          'name' => 'Bình Định',
+          'name' => 'Binh Dinh',
         ),
         8 => 
         array (
           'code' => '57',
-          'name' => 'Bình Dương',
+          'name' => 'Binh Duong',
         ),
         9 => 
         array (
           'code' => '58',
-          'name' => 'Bình Phước',
+          'name' => 'Binh Phuoc',
         ),
         10 => 
         array (
           'code' => '40',
-          'name' => 'Bình Thuận',
+          'name' => 'Binh Thuan',
         ),
         11 => 
         array (
           'code' => '59',
-          'name' => 'Cà Mau',
+          'name' => 'Ca Mau',
         ),
         12 => 
         array (
           'code' => 'CT',
-          'name' => 'Cần Thơ',
+          'name' => 'Can Tho',
         ),
         13 => 
         array (
           'code' => '04',
-          'name' => 'Cao Bằng',
+          'name' => 'Cao Bang',
         ),
         14 => 
         array (
           'code' => 'DN',
-          'name' => 'Đà Nẵng',
+          'name' => 'Da Nang',
         ),
         15 => 
         array (
           'code' => '33',
-          'name' => 'Đắk Lắk',
+          'name' => 'Dak Lak',
         ),
         16 => 
         array (
           'code' => '72',
-          'name' => 'Đắk Nông',
+          'name' => 'Dak Nong',
         ),
         17 => 
         array (
           'code' => '71',
-          'name' => 'Điện Biên',
+          'name' => 'Dien Bien',
         ),
         18 => 
         array (
           'code' => '39',
-          'name' => 'Đồng Nai',
+          'name' => 'Dong Nai',
         ),
         19 => 
         array (
           'code' => '45',
-          'name' => 'Đồng Tháp',
+          'name' => 'Dong Thap',
         ),
         20 => 
         array (
@@ -24721,62 +18949,62 @@ return array (
         21 => 
         array (
           'code' => '03',
-          'name' => 'Hà Giang',
+          'name' => 'Ha Giang',
         ),
         22 => 
         array (
           'code' => '63',
-          'name' => 'Hà Nam',
+          'name' => 'Ha Nam',
         ),
         23 => 
         array (
           'code' => 'HN',
-          'name' => 'Hà Nội',
+          'name' => 'Ha Noi',
         ),
         24 => 
         array (
           'code' => '23',
-          'name' => 'Hà Tĩnh',
+          'name' => 'Ha Tinh',
         ),
         25 => 
         array (
           'code' => '61',
-          'name' => 'Hải Dương',
+          'name' => 'Hai Duong',
         ),
         26 => 
         array (
           'code' => 'HP',
-          'name' => 'Hải Phòng',
+          'name' => 'Hai Phong',
         ),
         27 => 
         array (
           'code' => '73',
-          'name' => 'Hậu Giang',
+          'name' => 'Hau Giang',
         ),
         28 => 
         array (
           'code' => 'SG',
-          'name' => 'Hồ Chí Minh',
+          'name' => 'Ho Chi Minh',
         ),
         29 => 
         array (
           'code' => '14',
-          'name' => 'Hòa Bình',
+          'name' => 'Hoa Binh',
         ),
         30 => 
         array (
           'code' => '66',
-          'name' => 'Hưng Yên',
+          'name' => 'Hung Yen',
         ),
         31 => 
         array (
           'code' => '34',
-          'name' => 'Khánh Hòa',
+          'name' => 'Khanh Hoa',
         ),
         32 => 
         array (
           'code' => '47',
-          'name' => 'Kiến Giang',
+          'name' => 'Kien Giang',
         ),
         33 => 
         array (
@@ -24786,22 +19014,22 @@ return array (
         34 => 
         array (
           'code' => '01',
-          'name' => 'Lai Châu',
+          'name' => 'Lai Chau',
         ),
         35 => 
         array (
           'code' => '35',
-          'name' => 'Lâm Đồng',
+          'name' => 'Lam Dong',
         ),
         36 => 
         array (
           'code' => '09',
-          'name' => 'Lạng Sơn',
+          'name' => 'Lang Son',
         ),
         37 => 
         array (
           'code' => '02',
-          'name' => 'Lào Cai',
+          'name' => 'Lao Cai',
         ),
         38 => 
         array (
@@ -24811,122 +19039,122 @@ return array (
         39 => 
         array (
           'code' => '67',
-          'name' => 'Nam Định',
+          'name' => 'Nam Dinh',
         ),
         40 => 
         array (
           'code' => '22',
-          'name' => 'Nghệ An',
+          'name' => 'Nghe An',
         ),
         41 => 
         array (
           'code' => '18',
-          'name' => 'Ninh Bình',
+          'name' => 'Ninh Binh',
         ),
         42 => 
         array (
           'code' => '36',
-          'name' => 'Ninh Thuận',
+          'name' => 'Ninh Thuan',
         ),
         43 => 
         array (
           'code' => '68',
-          'name' => 'Phú Thọ',
+          'name' => 'Phu Tho',
         ),
         44 => 
         array (
           'code' => '32',
-          'name' => 'Phú Yên',
+          'name' => 'Phu Yen',
         ),
         45 => 
         array (
           'code' => '24',
-          'name' => 'Quảng Bình',
+          'name' => 'Quang Binh',
         ),
         46 => 
         array (
           'code' => '27',
-          'name' => 'Quảng Nam',
+          'name' => 'Quang Nam',
         ),
         47 => 
         array (
           'code' => '29',
-          'name' => 'Quảng Ngãi',
+          'name' => 'Quang Ngai',
         ),
         48 => 
         array (
           'code' => '13',
-          'name' => 'Quảng Ninh',
+          'name' => 'Quang Ninh',
         ),
         49 => 
         array (
           'code' => '25',
-          'name' => 'Quảng Trị',
+          'name' => 'Quang Tri',
         ),
         50 => 
         array (
           'code' => '52',
-          'name' => 'Sóc Trăng',
+          'name' => 'Soc Trang',
         ),
         51 => 
         array (
           'code' => '05',
-          'name' => 'Sơn La',
+          'name' => 'Son La',
         ),
         52 => 
         array (
           'code' => '37',
-          'name' => 'Tây Ninh',
+          'name' => 'Tay Ninh',
         ),
         53 => 
         array (
           'code' => '20',
-          'name' => 'Thái Bình',
+          'name' => 'Thai Binh',
         ),
         54 => 
         array (
           'code' => '69',
-          'name' => 'Thái Nguyên',
+          'name' => 'Thai Nguyen',
         ),
         55 => 
         array (
           'code' => '21',
-          'name' => 'Thanh Hóa',
+          'name' => 'Thanh Hoa',
         ),
         56 => 
         array (
           'code' => '26',
-          'name' => 'Thừa Thiên-Huế',
+          'name' => 'Thua Thien-Hue',
         ),
         57 => 
         array (
           'code' => '46',
-          'name' => 'Tiền Giang',
+          'name' => 'Tien Giang',
         ),
         58 => 
         array (
           'code' => '51',
-          'name' => 'Trà Vinh',
+          'name' => 'Tra Vinh',
         ),
         59 => 
         array (
           'code' => '07',
-          'name' => 'Tuyên Quang',
+          'name' => 'Tuyen Quang',
         ),
         60 => 
         array (
           'code' => '49',
-          'name' => 'Vĩnh Long',
+          'name' => 'Vinh Long',
         ),
         61 => 
         array (
           'code' => '70',
-          'name' => 'Vĩnh Phúc',
+          'name' => 'Vinh Phuc',
         ),
         62 => 
         array (
           'code' => '06',
-          'name' => 'Yên Bái',
+          'name' => 'Yen Bai',
         ),
       ),
     ),
@@ -24936,30 +19164,15 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'MAP',
-          'name' => 'Malampa',
+          'code' => 'SEE',
+          'name' => 'Shefa',
         ),
         1 => 
         array (
-          'code' => 'PAM',
-          'name' => 'Pénama',
+          'code' => 'TAE',
+          'name' => 'Tafea',
         ),
         2 => 
-        array (
-          'code' => 'SAM',
-          'name' => 'Sanma',
-        ),
-        3 => 
-        array (
-          'code' => 'SEE',
-          'name' => 'Shéfa',
-        ),
-        4 => 
-        array (
-          'code' => 'TAE',
-          'name' => 'Taféa',
-        ),
-        5 => 
         array (
           'code' => 'TOB',
           'name' => 'Torba',
@@ -24972,15 +19185,10 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'AL',
-          'name' => 'Alo',
-        ),
-        1 => 
-        array (
           'code' => 'SG',
           'name' => 'Sigave',
         ),
-        2 => 
+        1 => 
         array (
           'code' => 'UV',
           'name' => 'Uvea',
@@ -24993,58 +19201,18 @@ return array (
       array (
         0 => 
         array (
-          'code' => 'AA',
-          'name' => 'A\'ana',
-        ),
-        1 => 
-        array (
-          'code' => 'AL',
-          'name' => 'Aiga-i-le-Tai',
-        ),
-        2 => 
-        array (
           'code' => 'AT',
           'name' => 'Atua',
         ),
-        3 => 
+        1 => 
         array (
           'code' => 'FA',
           'name' => 'Fa\'asaleleaga',
         ),
-        4 => 
-        array (
-          'code' => 'GE',
-          'name' => 'Gaga\'emauga',
-        ),
-        5 => 
-        array (
-          'code' => 'GI',
-          'name' => 'Gagaifomauga',
-        ),
-        6 => 
-        array (
-          'code' => 'PA',
-          'name' => 'Palauli',
-        ),
-        7 => 
-        array (
-          'code' => 'SA',
-          'name' => 'Satupa\'itea',
-        ),
-        8 => 
+        2 => 
         array (
           'code' => 'TU',
           'name' => 'Tuamasaga',
-        ),
-        9 => 
-        array (
-          'code' => 'VF',
-          'name' => 'Va\'a-o-Fonoti',
-        ),
-        10 => 
-        array (
-          'code' => 'VS',
-          'name' => 'Vaisigano',
         ),
       ),
     ),
@@ -25055,12 +19223,12 @@ return array (
         0 => 
         array (
           'code' => 'AD',
-          'name' => '‘Adan',
+          'name' => '\'Adan',
         ),
         1 => 
         array (
           'code' => 'AM',
-          'name' => '‘Amrān',
+          'name' => '\'Amran',
         ),
         2 => 
         array (
@@ -25070,97 +19238,108 @@ return array (
         3 => 
         array (
           'code' => 'DA',
-          'name' => 'Aḑ Ḑāli‘',
+          'name' => 'Ad Dali\'',
         ),
         4 => 
         array (
           'code' => 'BA',
-          'name' => 'Al Bayḑā’',
+          'name' => 'Al Bayda\'',
         ),
         5 => 
         array (
           'code' => 'HU',
-          'name' => 'Al Ḩudaydah',
+          'name' => 'Al Hudaydah',
         ),
         6 => 
         array (
-          'code' => 'JA',
-          'name' => 'Al Jawf',
+          'code' => 'SA',
+          'name' => 'Amanat al \'Asimah',
         ),
         7 => 
         array (
-          'code' => 'MR',
-          'name' => 'Al Mahrah',
+          'code' => 'DH',
+          'name' => 'Dhamar',
         ),
         8 => 
         array (
-          'code' => 'MW',
-          'name' => 'Al Maḩwīt',
+          'code' => 'HD',
+          'name' => 'Hadramawt',
         ),
         9 => 
         array (
-          'code' => 'SA',
-          'name' => 'Amānat al ‘Āşimah',
+          'code' => 'HJ',
+          'name' => 'Hajjah',
         ),
         10 => 
-        array (
-          'code' => 'SU',
-          'name' => 'Arkhabīl Suquţrá',
-        ),
-        11 => 
-        array (
-          'code' => 'DH',
-          'name' => 'Dhamār',
-        ),
-        12 => 
-        array (
-          'code' => 'HD',
-          'name' => 'Ḩaḑramawt',
-        ),
-        13 => 
-        array (
-          'code' => 'HJ',
-          'name' => 'Ḩajjah',
-        ),
-        14 => 
         array (
           'code' => 'IB',
           'name' => 'Ibb',
         ),
-        15 => 
+        11 => 
         array (
           'code' => 'LA',
-          'name' => 'Laḩij',
+          'name' => 'Lahij',
         ),
-        16 => 
+        12 => 
         array (
           'code' => 'MA',
-          'name' => 'Ma’rib',
+          'name' => 'Ma\'rib',
         ),
-        17 => 
-        array (
-          'code' => 'RA',
-          'name' => 'Raymah',
-        ),
-        18 => 
+        13 => 
         array (
           'code' => 'SD',
-          'name' => 'Şāʻdah',
+          'name' => 'Sa\'dah',
         ),
-        19 => 
+        14 => 
         array (
           'code' => 'SN',
-          'name' => 'Şanʻā’',
+          'name' => 'San\'a\'',
         ),
-        20 => 
+        15 => 
         array (
           'code' => 'SH',
           'name' => 'Shabwah',
         ),
-        21 => 
+        16 => 
         array (
           'code' => 'TA',
-          'name' => 'Tāʻizz',
+          'name' => 'Ta\'izz',
+        ),
+      ),
+    ),
+    'YT' => 
+    array (
+      'zones' => 
+      array (
+        0 => 
+        array (
+          'code' => NULL,
+          'name' => 'Bandraboua',
+        ),
+        1 => 
+        array (
+          'code' => NULL,
+          'name' => 'Bandrele',
+        ),
+        2 => 
+        array (
+          'code' => NULL,
+          'name' => 'Mamoudzou',
+        ),
+        3 => 
+        array (
+          'code' => NULL,
+          'name' => 'Ouangani',
+        ),
+        4 => 
+        array (
+          'code' => NULL,
+          'name' => 'Pamandzi',
+        ),
+        5 => 
+        array (
+          'code' => NULL,
+          'name' => 'Sada',
         ),
       ),
     ),
