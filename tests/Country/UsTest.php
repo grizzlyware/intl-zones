@@ -9,9 +9,15 @@ class UsTest extends AbstractCountryTestCase
         return 'US';
     }
 
-    protected function getExpectedTotalZones(): int
+    protected function getExpectedTotalZones(): ?int
     {
-        return 51;
+        // Sourced from upstream, which moves states and territories in and out.
+        return null;
+    }
+
+    protected function getMinimumTotalZones(): int
+    {
+        return 50;
     }
 
     protected function shouldHaveZoneCodes(): bool

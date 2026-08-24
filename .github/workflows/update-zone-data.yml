@@ -1,0 +1,179 @@
+name: Update zone data
+
+on:
+  schedule:
+    # Mondays, 04:00 UTC
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+    inputs:
+      allow_merge:
+        description: 'Merge and release automatically once the checks pass'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-zone-data
+  cancel-in-progress: false
+
+env:
+  # main requires the run-tests.yml checks, and a branch pushed with GITHUB_TOKEN
+  # does not trigger workflows — the checks would never report and the pull
+  # request would sit unmergeable forever. Everything that has to be seen by CI
+  # is done with a PAT instead.
+  GH_TOKEN: ${{ secrets.AUTO_PR_PAT }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check the token is present
+        run: |
+          if [ -z "${GH_TOKEN}" ]; then
+            echo "::error::secrets.AUTO_PR_PAT is not set. It needs contents:write and pull-requests:write on this repository."
+            exit 1
+          fi
+
+      - name: Checkout code
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.AUTO_PR_PAT }}
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.4'
+          extensions: dom, curl, libxml, mbstring, zip, intl, iconv, fileinfo
+          coverage: none
+
+      - name: Install dependencies
+        run: composer install --prefer-dist --no-interaction --no-progress
+
+      - name: Snapshot the current data
+        run: cp resources/data/zones/en.php "${RUNNER_TEMP}/zones-before.php"
+
+      - name: Regenerate from upstream
+        run: php bin/generate
+
+      - name: Reject an empty or truncated upstream response
+        run: |
+          php -r '
+            $data = require "resources/data/zones/en.php";
+            $countries = $data["countries"] ?? [];
+            if (count($countries) < 100) {
+              fwrite(STDERR, "Refusing to continue: only " . count($countries) . " countries generated.\n");
+              exit(1);
+            }
+          '
+
+      - name: Summarise the changes
+        id: changes
+        run: |
+          php .github/scripts/summarise-zone-changes.php \
+            "${RUNNER_TEMP}/zones-before.php" \
+            resources/data/zones/en.php \
+            >> "${GITHUB_STEP_SUMMARY}"
+
+      - name: Stop early when nothing changed
+        if: steps.changes.outputs.risk == 'none'
+        run: echo "Upstream data is unchanged." >> "${GITHUB_STEP_SUMMARY}"
+
+      - name: Pre-flight the test suite
+        id: tests
+        if: steps.changes.outputs.risk != 'none'
+        continue-on-error: true
+        run: vendor/bin/phpunit
+
+      - name: Open a pull request
+        id: pr
+        if: steps.changes.outputs.risk != 'none'
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.AUTO_PR_PAT }}
+          branch: chore/update-zone-data
+          base: main
+          delete-branch: true
+          commit-message: 'chore(data): regenerate zone definitions from upstream'
+          title: 'chore(data): regenerate zone definitions from upstream'
+          labels: |
+            dependencies
+            data
+          add-paths: resources/data/zones/en.php
+          body: |
+            Regenerated `resources/data/zones/en.php` from
+            [stefangabos/world_countries](https://github.com/stefangabos/world_countries).
+
+            **Risk: `${{ steps.changes.outputs.risk }}`** · **Pre-flight tests: `${{ steps.tests.outcome }}`**
+
+            ${{ steps.changes.outputs.summary }}
+
+            <sub>Opened by the `update-zone-data` workflow. Do not edit the data file by hand —
+            change `resources/overrides/zones/en.php` and rerun `bin/generate`.</sub>
+
+      - name: Wait for the required checks
+        id: checks
+        if: |
+          steps.pr.outputs.pull-request-number != ''
+          && steps.tests.outcome == 'success'
+          && (github.event_name == 'schedule' || inputs.allow_merge)
+        continue-on-error: true
+        env:
+          PR: ${{ steps.pr.outputs.pull-request-number }}
+        run: |
+          set -euo pipefail
+
+          # Checks are not registered the instant the branch is pushed.
+          for _ in $(seq 1 12); do
+            if gh pr checks "$PR" > /dev/null 2>&1; then
+              break
+            fi
+
+            sleep 10
+          done
+
+          gh pr checks "$PR" --watch --fail-fast --interval 10
+
+      - name: Merge and release
+        id: release
+        if: steps.checks.outcome == 'success'
+        env:
+          PR: ${{ steps.pr.outputs.pull-request-number }}
+          RISK: ${{ steps.changes.outputs.risk }}
+        run: |
+          set -euo pipefail
+
+          gh pr merge "$PR" --merge --delete-branch
+
+          latest="$(gh release list --limit 1 --json tagName --jq '.[0].tagName // "v0.0.0"')"
+          IFS='.' read -r major minor patch <<< "${latest#v}"
+          patch="${patch:-0}"
+
+          # The upstream data is taken unattended, so the version number is what
+          # tells consumers whether it is safe to pick up. A caret constraint will
+          # hold them on the old major until they choose to move.
+          case "$RISK" in
+            breaking) major=$(( major + 1 )); minor=0; patch=0 ;;
+            review)   minor=$(( minor + 1 )); patch=0 ;;
+            *)        patch=$(( patch + 1 )) ;;
+          esac
+
+          next="v${major}.${minor}.${patch}"
+
+          echo "Releasing ${next} (previous: ${latest}, risk: ${RISK})" >> "${GITHUB_STEP_SUMMARY}"
+
+          gh release create "$next" \
+            --target main \
+            --title "$next" \
+            --notes "Zone definitions regenerated from upstream (risk: \`${RISK}\`). See #${PR} for the full diff."
+
+      - name: Explain why the pull request was left open
+        if: steps.pr.outputs.pull-request-number != '' && steps.release.outcome != 'success'
+        env:
+          PR: ${{ steps.pr.outputs.pull-request-number }}
+        run: |
+          gh pr comment "$PR" --body "Left open — pre-flight tests \`${{ steps.tests.outcome }}\`, required checks \`${{ steps.checks.outcome }}\`. Regenerated data is merged and released automatically once both pass."

@@ -9,15 +9,38 @@ abstract class AbstractCountryTestCase extends TestCase
 {
     abstract protected function getAlpha2CountryCode(): string;
 
-    abstract protected function getExpectedTotalZones(): int;
+    /**
+     * The exact number of zones expected, for countries whose list is pinned by
+     * resources/overrides. Return null for countries taken straight from
+     * upstream, where the count moves every time the data is regenerated.
+     */
+    abstract protected function getExpectedTotalZones(): ?int;
+
+    /**
+     * The fewest zones a country should ever have. Catches the upstream data
+     * thinning out without pinning a figure that has to be edited each time it
+     * legitimately grows.
+     */
+    abstract protected function getMinimumTotalZones(): int;
 
     abstract protected function shouldHaveZoneCodes(): bool;
 
     public function testTotalZonesIsCorrect(): void
     {
-        $this->assertCount(
-            $this->getExpectedTotalZones(),
-            Zones::forAlpha2Code($this->getAlpha2CountryCode()),
+        $zones = Zones::forAlpha2Code($this->getAlpha2CountryCode());
+
+        if (null !== $expectedTotalZones = $this->getExpectedTotalZones()) {
+            $this->assertCount(
+                $expectedTotalZones,
+                $zones,
+            );
+
+            return;
+        }
+
+        $this->assertGreaterThanOrEqual(
+            $this->getMinimumTotalZones(),
+            count($zones),
         );
     }
 
