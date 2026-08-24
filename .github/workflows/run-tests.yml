@@ -36,6 +36,38 @@ jobs:
       - name: Execute tests
         run: vendor/bin/phpunit
 
+  # PHP 8.6 is at beta and does not reach GA until around November 2026. It runs
+  # for early warning only: it is deliberately kept out of the job that
+  # tests-passed depends on, so a beta regression cannot block merges. Fold it
+  # into the matrix above once it is released.
+  test-preview:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+
+    name: P8.6 - prefer-stable - ubuntu-latest (preview)
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.6'
+          extensions: dom, curl, libxml, mbstring, zip, pcntl, pdo, sqlite, pdo_sqlite, bcmath, soap, intl, gd, exif, iconv, imagick, fileinfo
+          coverage: none
+
+      - name: Setup problem matchers
+        run: |
+          echo "::add-matcher::${{ runner.tool_cache }}/php.json"
+          echo "::add-matcher::${{ runner.tool_cache }}/phpunit.json"
+
+      - name: Install dependencies
+        run: composer update --prefer-stable --prefer-dist --no-interaction --ignore-platform-req=php+
+
+      - name: Execute tests
+        run: vendor/bin/phpunit
+
   # A single check with a fixed name for main's ruleset to require. The matrix
   # job names contain the PHP version, so requiring those directly means every
   # pull request blocks the moment the matrix is edited — the old contexts stop
