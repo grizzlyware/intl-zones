@@ -35,3 +35,25 @@ jobs:
 
       - name: Execute tests
         run: vendor/bin/phpunit
+
+  # A single check with a fixed name for main's ruleset to require. The matrix
+  # job names contain the PHP version, so requiring those directly means every
+  # pull request blocks the moment the matrix is edited — the old contexts stop
+  # reporting and nothing satisfies the rule. This one never changes name.
+  tests-passed:
+    name: tests-passed
+    runs-on: ubuntu-latest
+    needs: test
+    if: always()
+
+    steps:
+      - name: Check the matrix result
+        env:
+          RESULT: ${{ needs.test.result }}
+        run: |
+          if [ "${RESULT}" != "success" ]; then
+            echo "::error::Test matrix did not pass (${RESULT})."
+            exit 1
+          fi
+
+          echo "Test matrix passed."
