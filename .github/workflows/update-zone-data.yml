@@ -24,7 +24,7 @@ env:
   # does not trigger workflows — the checks would never report and the pull
   # request would sit unmergeable forever. Everything that has to be seen by CI
   # is done with a PAT instead.
-  GH_TOKEN: ${{ secrets.ZONE_DATA_TOKEN }}
+  GH_TOKEN: ${{ secrets.AUTO_PR_PAT }}
 
 jobs:
   update:
@@ -34,7 +34,7 @@ jobs:
       - name: Check the token is present
         run: |
           if [ -z "${GH_TOKEN}" ]; then
-            echo "::error::secrets.ZONE_DATA_TOKEN is not set. It needs contents:write and pull-requests:write on this repository."
+            echo "::error::secrets.AUTO_PR_PAT is not set. It needs contents:write and pull-requests:write on this repository."
             exit 1
           fi
 
@@ -42,7 +42,7 @@ jobs:
         uses: actions/checkout@v7
         with:
           fetch-depth: 0
-          token: ${{ secrets.ZONE_DATA_TOKEN }}
+          token: ${{ secrets.AUTO_PR_PAT }}
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -94,7 +94,7 @@ jobs:
         if: steps.changes.outputs.risk != 'none'
         uses: peter-evans/create-pull-request@v8
         with:
-          token: ${{ secrets.ZONE_DATA_TOKEN }}
+          token: ${{ secrets.AUTO_PR_PAT }}
           branch: chore/update-zone-data
           base: main
           delete-branch: true
