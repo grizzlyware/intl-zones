@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   update:
@@ -16,16 +17,48 @@ jobs:
         uses: actions/checkout@v7
         with:
           ref: main
+          token: ${{ secrets.AUTO_PR_PAT }}
+
+      # Releases cut by update-zone-data already carry their entry in the same pull
+      # request as the data. Keyed off the file rather than the actor, because that
+      # workflow releases with a PAT and so runs as a human, not github-actions[bot].
+      - name: Check whether the release is already documented
+        id: existing
+        env:
+          VERSION: ${{ github.event.release.name }}
+        run: |
+          if grep -qiF "## ${VERSION} " CHANGELOG.md; then
+            echo "Already documented: ${VERSION}" >> "${GITHUB_STEP_SUMMARY}"
+            echo "documented=true" >> "${GITHUB_OUTPUT}"
+          else
+            echo "documented=false" >> "${GITHUB_OUTPUT}"
+          fi
 
       - name: Update Changelog
+        if: steps.existing.outputs.documented == 'false'
         uses: stefanzweifel/changelog-updater-action@v1
         with:
           latest-version: ${{ github.event.release.name }}
           release-notes: ${{ github.event.release.body }}
 
-      - name: Commit updated CHANGELOG
-        uses: stefanzweifel/git-auto-commit-action@v7
+      # main requires the tests-passed check, so a direct push is rejected with
+      # GH013 no matter who makes it. The entry goes through a pull request like
+      # everything else.
+      - name: Open a pull request
+        if: steps.existing.outputs.documented == 'false'
+        uses: peter-evans/create-pull-request@v8
         with:
-          branch: main
-          commit_message: Update CHANGELOG
-          file_pattern: CHANGELOG.md
+          token: ${{ secrets.AUTO_PR_PAT }}
+          branch: chore/update-changelog
+          base: main
+          delete-branch: true
+          add-paths: CHANGELOG.md
+          commit-message: 'docs: add ${{ github.event.release.name }} to the changelog'
+          title: 'docs: add ${{ github.event.release.name }} to the changelog'
+          labels: documentation
+          body: |
+            Adds the release notes for
+            [${{ github.event.release.name }}](${{ github.event.release.html_url }}) to `CHANGELOG.md`.
+
+            <sub>Opened by the `update-changelog` workflow, which cannot push to `main` directly —
+            the ruleset requires the `tests-passed` check.</sub>

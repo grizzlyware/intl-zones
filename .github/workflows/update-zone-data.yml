@@ -89,6 +89,43 @@ jobs:
         continue-on-error: true
         run: vendor/bin/phpunit
 
+      - name: Work out the next version
+        id: version
+        if: steps.changes.outputs.risk != 'none'
+        env:
+          RISK: ${{ steps.changes.outputs.risk }}
+        run: |
+          set -euo pipefail
+
+          latest="$(gh release list --limit 1 --json tagName --jq '.[0].tagName // "v0.0.0"')"
+          IFS='.' read -r major minor patch <<< "${latest#v}"
+          patch="${patch:-0}"
+
+          # Never bumps the major. A major would sit unused behind everyone's caret
+          # constraint, and the point of regenerating weekly is that consumers
+          # actually receive the data. Anything beyond a pure addition goes out as
+          # a minor so it is at least visible in a changelog diff.
+          case "$RISK" in
+            breaking|review) minor=$(( minor + 1 )); patch=0 ;;
+            *)               patch=$(( patch + 1 )) ;;
+          esac
+
+          {
+            echo "previous=${latest}"
+            echo "next=v${major}.${minor}.${patch}"
+          } >> "${GITHUB_OUTPUT}"
+
+      - name: Add the changelog entry
+        if: steps.changes.outputs.risk != 'none'
+        env:
+          VERSION: ${{ steps.version.outputs.next }}
+          CHANGELOG: ${{ steps.changes.outputs.changelog }}
+        run: |
+          set -euo pipefail
+
+          printf '%s\n' "${CHANGELOG}" | php .github/scripts/prepend-changelog.php \
+            CHANGELOG.md "${VERSION}" "$(date -u +%F)"
+
       - name: Open a pull request
         id: pr
         if: steps.changes.outputs.risk != 'none'
@@ -99,11 +136,13 @@ jobs:
           base: main
           delete-branch: true
           commit-message: 'chore(data): regenerate zone definitions from upstream'
-          title: 'chore(data): regenerate zone definitions from upstream'
+          title: 'chore(data): release ${{ steps.version.outputs.next }} — regenerated zone definitions'
           labels: |
             dependencies
             data
-          add-paths: resources/data/zones/en.php
+          add-paths: |
+            resources/data/zones/en.php
+            CHANGELOG.md
           body: |
             Regenerated `resources/data/zones/en.php` from
             [stefangabos/world_countries](https://github.com/stefangabos/world_countries).
@@ -144,31 +183,18 @@ jobs:
         env:
           PR: ${{ steps.pr.outputs.pull-request-number }}
           RISK: ${{ steps.changes.outputs.risk }}
+          NEXT: ${{ steps.version.outputs.next }}
+          PREVIOUS: ${{ steps.version.outputs.previous }}
         run: |
           set -euo pipefail
 
           gh pr merge "$PR" --merge --delete-branch
 
-          latest="$(gh release list --limit 1 --json tagName --jq '.[0].tagName // "v0.0.0"')"
-          IFS='.' read -r major minor patch <<< "${latest#v}"
-          patch="${patch:-0}"
+          echo "Releasing ${NEXT} (previous: ${PREVIOUS}, risk: ${RISK})" >> "${GITHUB_STEP_SUMMARY}"
 
-          # Never bumps the major. A major would sit unused behind everyone's caret
-          # constraint, and the point of regenerating weekly is that consumers
-          # actually receive the data. Anything beyond a pure addition goes out as
-          # a minor so it is at least visible in a changelog diff.
-          case "$RISK" in
-            breaking|review) minor=$(( minor + 1 )); patch=0 ;;
-            *)               patch=$(( patch + 1 )) ;;
-          esac
-
-          next="v${major}.${minor}.${patch}"
-
-          echo "Releasing ${next} (previous: ${latest}, risk: ${RISK})" >> "${GITHUB_STEP_SUMMARY}"
-
-          gh release create "$next" \
+          gh release create "$NEXT" \
             --target main \
-            --title "$next" \
+            --title "$NEXT" \
             --notes "Zone definitions regenerated from upstream (risk: \`${RISK}\`). See #${PR} for the full diff."
 
       - name: Explain why the pull request was left open
