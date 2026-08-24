@@ -2,7 +2,7 @@
 
 namespace Grizzlyware\Intl\Zones\Tests\Country;
 
-class UsTest extends AbstractCountryTest
+class UsTest extends AbstractCountryTestCase
 {
     protected function getAlpha2CountryCode(): string
     {

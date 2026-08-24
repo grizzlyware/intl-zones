@@ -2,21 +2,25 @@
 <phpunit
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="vendor/phpunit/phpunit/phpunit.xsd"
-    backupGlobals="false"
-    backupStaticAttributes="false"
     bootstrap="vendor/autoload.php"
+    cacheDirectory=".phpunit.cache"
+    backupGlobals="false"
+    backupStaticProperties="false"
     colors="true"
-    convertErrorsToExceptions="true"
-    convertNoticesToExceptions="true"
-    convertWarningsToExceptions="true"
     processIsolation="false"
     stopOnFailure="false"
     executionOrder="random"
     failOnWarning="true"
     failOnRisky="true"
+    failOnNotice="true"
+    failOnDeprecation="true"
     failOnEmptyTestSuite="true"
     beStrictAboutOutputDuringTests="true"
-    verbose="true"
+    displayDetailsOnTestsThatTriggerErrors="true"
+    displayDetailsOnTestsThatTriggerWarnings="true"
+    displayDetailsOnTestsThatTriggerNotices="true"
+    displayDetailsOnTestsThatTriggerDeprecations="true"
+    displayDetailsOnPhpunitDeprecations="true"
 >
     <testsuites>
         <testsuite name="Feature tests">
@@ -26,16 +30,11 @@
             <directory>tests/Country</directory>
         </testsuite>
     </testsuites>
-    <coverage>
+    <source>
         <include>
             <directory suffix=".php">./src</directory>
         </include>
-        <report>
-            <html outputDirectory="build/coverage"/>
-            <text outputFile="build/coverage.txt"/>
-            <clover outputFile="build/logs/clover.xml"/>
-        </report>
-    </coverage>
+    </source>
     <logging>
         <junit outputFile="build/report.junit.xml"/>
     </logging>
