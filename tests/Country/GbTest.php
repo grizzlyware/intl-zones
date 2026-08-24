@@ -9,7 +9,13 @@ class GbTest extends AbstractCountryTestCase
         return 'GB';
     }
 
-    protected function getExpectedTotalZones(): int
+    protected function getExpectedTotalZones(): ?int
+    {
+        // Pinned by resources/overrides/zones/en.php, so an exact count is safe.
+        return 88;
+    }
+
+    protected function getMinimumTotalZones(): int
     {
         return 88;
     }

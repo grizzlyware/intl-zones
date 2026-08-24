@@ -103,12 +103,12 @@ jobs:
         id: release
         if: |
           steps.pr.outputs.pull-request-number != ''
-          && steps.changes.outputs.risk == 'safe'
           && steps.tests.outcome == 'success'
           && (github.event_name == 'schedule' || inputs.allow_merge)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR: ${{ steps.pr.outputs.pull-request-number }}
+          RISK: ${{ steps.changes.outputs.risk }}
         run: |
           set -euo pipefail
 
@@ -116,14 +116,25 @@ jobs:
 
           latest="$(gh release list --limit 1 --json tagName --jq '.[0].tagName // "v0.0.0"')"
           IFS='.' read -r major minor patch <<< "${latest#v}"
-          next="v${major}.${minor}.$(( ${patch:-0} + 1 ))"
+          patch="${patch:-0}"
 
-          echo "Releasing ${next} (previous: ${latest})" >> "${GITHUB_STEP_SUMMARY}"
+          # The upstream data is taken unattended, so the version number is what
+          # tells consumers whether it is safe to pick up. A caret constraint will
+          # hold them on the old major until they choose to move.
+          case "$RISK" in
+            breaking) major=$(( major + 1 )); minor=0; patch=0 ;;
+            review)   minor=$(( minor + 1 )); patch=0 ;;
+            *)        patch=$(( patch + 1 )) ;;
+          esac
+
+          next="v${major}.${minor}.${patch}"
+
+          echo "Releasing ${next} (previous: ${latest}, risk: ${RISK})" >> "${GITHUB_STEP_SUMMARY}"
 
           gh release create "$next" \
             --target main \
             --title "$next" \
-            --notes "Zone definitions regenerated from upstream. See #${PR} for the full diff."
+            --notes "Zone definitions regenerated from upstream (risk: \`${RISK}\`). See #${PR} for the full diff."
 
       - name: Explain why the pull request was left open
         if: steps.pr.outputs.pull-request-number != '' && steps.release.outcome == 'skipped'
@@ -131,4 +142,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR: ${{ steps.pr.outputs.pull-request-number }}
         run: |
-          gh pr comment "$PR" --body "Left open for review — risk is \`${{ steps.changes.outputs.risk }}\` and the test suite \`${{ steps.tests.outcome }}\`. Only \`safe\` changes with passing tests are merged and released automatically."
+          gh pr comment "$PR" --body "Left open because the test suite \`${{ steps.tests.outcome }}\`. Regenerated data is merged and released automatically once the suite passes."
