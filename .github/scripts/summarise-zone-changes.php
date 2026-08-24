@@ -155,16 +155,67 @@ if ('breaking' === $risk) {
 
 $summary = implode(PHP_EOL, $lines);
 
+/**
+ * A condensed form for CHANGELOG.md. The full summary carries every affected
+ * zone name, which is right for a pull request body and far too much for a
+ * changelog entry.
+ */
+$changelogLines = [
+    'Zone definitions regenerated from upstream.',
+    '',
+    sprintf(
+        'Countries: %s → %s. Zones: %s → %s.',
+        number_format(count($before)),
+        number_format(count($after)),
+        number_format($countZones($before)),
+        number_format($countZones($after)),
+    ),
+];
+
+if ([] !== $removedCountries) {
+    $changelogLines[] = '';
+    $changelogLines[] = sprintf(
+        'Breaking: %d countries no longer resolve, and `Zones::forAlpha2Code()` throws a `MissingResourceException` for them — %s.',
+        count($removedCountries),
+        '`' . implode('`, `', $removedCountries) . '`',
+    );
+}
+
+if ([] !== $addedCountries) {
+    $changelogLines[] = '';
+    $changelogLines[] = sprintf(
+        'Countries added: %s.',
+        '`' . implode('`, `', $addedCountries) . '`',
+    );
+}
+
+if ([] !== $zonesRemoved) {
+    $changelogLines[] = '';
+    $changelogLines[] = sprintf(
+        'Zones removed or renamed: %d across %d countries. Values stored against the old names will no longer match.',
+        array_sum(array_map('count', $zonesRemoved)),
+        count($zonesRemoved),
+    );
+}
+
+$changelog = implode(PHP_EOL, $changelogLines);
+
 echo $summary . PHP_EOL;
 
 if ($outputFile = getenv('GITHUB_OUTPUT')) {
-    $delimiter = 'SUMMARY_' . bin2hex(random_bytes(8));
+    $write = static function (string $name, string $value) use ($outputFile): void {
+        $delimiter = strtoupper($name) . '_' . bin2hex(random_bytes(8));
 
-    file_put_contents($outputFile, implode(PHP_EOL, [
-        'risk=' . $risk,
-        'summary<<' . $delimiter,
-        $summary,
-        $delimiter,
-        '',
-    ]), FILE_APPEND);
+        file_put_contents($outputFile, implode(PHP_EOL, [
+            $name . '<<' . $delimiter,
+            $value,
+            $delimiter,
+            '',
+        ]), FILE_APPEND);
+    };
+
+    file_put_contents($outputFile, 'risk=' . $risk . PHP_EOL, FILE_APPEND);
+
+    $write('summary', $summary);
+    $write('changelog', $changelog);
 }
