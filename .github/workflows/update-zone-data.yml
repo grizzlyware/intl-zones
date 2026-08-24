@@ -153,13 +153,13 @@ jobs:
           IFS='.' read -r major minor patch <<< "${latest#v}"
           patch="${patch:-0}"
 
-          # The upstream data is taken unattended, so the version number is what
-          # tells consumers whether it is safe to pick up. A caret constraint will
-          # hold them on the old major until they choose to move.
+          # Never bumps the major. A major would sit unused behind everyone's caret
+          # constraint, and the point of regenerating weekly is that consumers
+          # actually receive the data. Anything beyond a pure addition goes out as
+          # a minor so it is at least visible in a changelog diff.
           case "$RISK" in
-            breaking) major=$(( major + 1 )); minor=0; patch=0 ;;
-            review)   minor=$(( minor + 1 )); patch=0 ;;
-            *)        patch=$(( patch + 1 )) ;;
+            breaking|review) minor=$(( minor + 1 )); patch=0 ;;
+            *)               patch=$(( patch + 1 )) ;;
           esac
 
           next="v${major}.${minor}.${patch}"
