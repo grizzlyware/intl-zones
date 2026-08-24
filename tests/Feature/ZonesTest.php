@@ -5,6 +5,7 @@ namespace Grizzlyware\Intl\Zones\Tests\Feature;
 use Grizzlyware\Intl\Zones\Entities\Zone;
 use Grizzlyware\Intl\Zones\Tests\TestCase;
 use Grizzlyware\Intl\Zones\Zones;
+use PHPUnit\Framework\Attributes\DoesNotPerformAssertions;
 
 class ZonesTest extends TestCase
 {
@@ -23,9 +24,7 @@ class ZonesTest extends TestCase
         Zones::setLocale('../en');
     }
 
-    /**
-     * @doesNotPerformAssertions
-     */
+    #[DoesNotPerformAssertions]
     public function testCanSetLocaleWithRegion(): void
     {
         Zones::setLocale('en_GB');

@@ -5,7 +5,7 @@ namespace Grizzlyware\Intl\Zones\Tests\Country;
 use Grizzlyware\Intl\Zones\Tests\TestCase;
 use Grizzlyware\Intl\Zones\Zones;
 
-abstract class AbstractCountryTest extends TestCase
+abstract class AbstractCountryTestCase extends TestCase
 {
     abstract protected function getAlpha2CountryCode(): string;
 
