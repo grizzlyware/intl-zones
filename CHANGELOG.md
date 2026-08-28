@@ -2,6 +2,15 @@
 
 All notable changes to `intl-zones` will be documented in this file.
 
+## v1.3.1 - 2026-08-28
+
+### What's Changed
+
+* fix(ci): route changelog updates through a pull request by @mewejo in https://github.com/grizzlyware/intl-zones/pull/16
+* Add the GB counties that were missing, including all of Northern Ireland by @mewejo in https://github.com/grizzlyware/intl-zones/pull/17
+
+**Full Changelog**: https://github.com/grizzlyware/intl-zones/compare/v1.3.0...v1.3.1
+
 ## V1.3.0 - 2026-08-24
 
 Zone definitions regenerated from upstream.
